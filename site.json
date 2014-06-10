@@ -8,7 +8,7 @@
             "description": "Worldbank Open Government Data Toolkit",
             "url": "http://",
             "author": "Bob",
-            "email": "bob@example.com",
+            "email": "bob@example.com"
         },
         "template": "page.html"
     },

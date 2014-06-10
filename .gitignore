@@ -1,4 +1,5 @@
 .*
+!.placeholder
 !.gitignore
 *py[co]
 _site
