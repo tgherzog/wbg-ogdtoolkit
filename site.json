@@ -31,7 +31,7 @@
         "metalsmith-templates": {
             "engine": "swig",
             "cache": false,
-            "default": "default.html",
+            "default": "page.html",
             "directory": "./templates"
         },
         "metalsmith-assets": null,
