@@ -1,0 +1,69 @@
+{
+    "source": "./source",
+    "destination": "./_site",
+    "metadata": {
+        "site": {
+            "title": "Worldbank Open Government Data Toolkit",
+            "name": "Worldbank Open Government Data Toolkit",
+            "description": "Worldbank Open Government Data Toolkit",
+            "url": "http://",
+            "author": "Bob",
+            "email": "bob@example.com",
+        },
+        "template": "page.html"
+    },
+    "metalsmith": {
+        "metalsmith-markdown": {
+            "xhtml": true
+        },
+        "metalsmith-include": {},
+        "metalsmith-drafts": {},
+        "metalsmith-build-date": true,
+        "metalsmith-collections": {
+            "blog": {
+                "sortBy": "date",
+                "reverse": true
+            },
+            "team": {}
+        },
+        "metalsmith-more": true,
+        "metalsmith-permalinks": {},
+        "metalsmith-templates": {
+            "engine": "swig",
+            "cache": false,
+            "default": "default.html",
+            "directory": "./templates"
+        },
+        "metalsmith-assets": null,
+        "metalsmith-static": null
+    },             
+    "assets": {
+        "vendor": {
+            "js": [
+                "vendor/jquery/dist/jquery.js",
+                "vendor/highlightjs/highlight.pack.js",
+                "vendor/swipe/swipe.js"
+            ],
+            "css": [
+                "vendor/normalize-css/normalize.css"
+            ]
+        },
+        "custom": {
+            "js": [
+                "assets/js/*.js"
+            ],
+            "css": [
+                "assets/css/*.css"
+            ],
+            "scss": [
+                "assets/scss/**/*.{scss,sass}"
+            ],
+            "fonts": [
+                "assets/fonts/*"
+            ],
+            "favicons": [
+                "assets/favicons/"
+            ]
+        }
+    }
+}
