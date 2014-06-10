@@ -2,5 +2,4 @@
 !.placeholder
 !.gitignore
 *py[co]
-_site
 node_modules
