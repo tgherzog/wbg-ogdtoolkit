@@ -18,8 +18,9 @@ def convert_links(link):
         # Include text from last cursor position to match.start
         substituted += content[content_cursor:match.start()]
 
-        link = match.groupdict().get('link')
-        name = match.groupdict().get('name').replace('|','').strip() or link.strip().replace(' ', '-')
+        matches = match.groupdict()
+        link = matches.get('link')
+        name = matches.get('name').replace('|','').strip() or link.strip().replace(' ', '-')
 
         # substitute link
         substituted += '[%s](/%s)' % (name, link)
