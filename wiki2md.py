@@ -61,7 +61,7 @@ for wiki_file in os.listdir('source'):
             if wiki_file.startswith('_Sidebar'):
                 links = convert_sidebar(content)
                 # Write new sidebar file
-                with open(os.path.join('source', 'sidebar.yaml', 'w')) as f:
+                with open(os.path.join('source', 'sidebar.yaml'), 'w') as f:
                     f.write(yaml.safe_dump(links, explicit_start=True))
                 # Remove original _Sidebar.md file
                 os.unlink(os.path.join('source', wiki_file))
