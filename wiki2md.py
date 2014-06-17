@@ -44,7 +44,7 @@ def convert_sidebar(content):
         matches = match.groupdict()
         link = matches.get('link').replace(' ', '-')
         name = matches.get('name').replace('|','').strip() or matches.get('link').strip()
-        links.append({'name': name, 'link': link})
+        links.append({'name': name, 'link': '/'+ link})
 
     return links
 
