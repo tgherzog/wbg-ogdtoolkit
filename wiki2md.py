@@ -2,8 +2,9 @@
 
 import os
 import re
+import yaml
 
-def convert_links(link):
+def convert_links(content):
     '''
     Convert an internal wiki link to md link
     Pattern: [[(name|)link]]
@@ -19,8 +20,8 @@ def convert_links(link):
         substituted += content[content_cursor:match.start()]
 
         matches = match.groupdict()
-        link = matches.get('link')
-        name = matches.get('name').replace('|','').strip() or link.strip().replace(' ', '-')
+        link = matches.get('link').replace(' ', '-')
+        name = matches.get('name').replace('|','').strip() or matches.get('link').strip()
 
         # substitute link
         substituted += '[%s](/%s)' % (name, link)
@@ -32,19 +33,49 @@ def convert_links(link):
     substituted += content[content_cursor:]
     return substituted
 
+def convert_sidebar(content):
+    '''
+    Sidebar is converted to a pure yaml file, as an array of links
+    '''
+    links = []
 
+    link_pattern = '\[\[(?P<name>[^\[\]]*[\|]+|)(?P<link>[^\[\]]+)\]\]'
+    for match in re.finditer(link_pattern, content):
+        matches = match.groupdict()
+        link = matches.get('link').replace(' ', '-')
+        name = matches.get('name').replace('|','').strip() or matches.get('link').strip()
+        links.append({'name': name, 'link': link})
+
+    return links
 
 # Loop through all the md files
 for wiki_file in os.listdir('source'):
     if os.path.isfile(os.path.join('source', wiki_file)) and wiki_file.endswith('.md'):
+        # Prepare YAML header for the markdown files
+        header = []
         try:
             with open(os.path.join('source', wiki_file)) as f:
                 content = f.read()
 
-            new_content = convert_links(content)
+            # Handle _Sidebar differently - remove original file and use .yaml file instead
+            if wiki_file.startswith('_Sidebar'):
+                links = convert_sidebar(content)
+                # Write new sidebar file
+                with open(os.path.join('source', 'sidebar.yaml', 'w')) as f:
+                    f.write(yaml.safe_dump(links, explicit_start=True))
+                # Remove original _Sidebar.md file
+                os.unlink(os.path.join('source', wiki_file))
 
-            with open(os.path.join('source', wiki_file), 'w') as f:
-                f.write(new_content)
+            else:
+                new_content = convert_links(content)
+                title = wiki_file.replace('.md', '').replace('-', ' ')
+                header.append('title: %s' % title)
+                # Prepare file for metalsmith - prepend header and use formatted content
+                with open(os.path.join('source', wiki_file), 'w') as f:
+                    f.write('---\n')
+                    f.write('\n'.join(header) +'\n')
+                    f.write('---\n')
+                    f.write(new_content)
 
         except Exception as e:
             print e
