@@ -545,9 +545,9 @@ p {
         display: block; }
     #footer .agencies .links {
       border-left: 1px solid #ddd;
-      display: inline;
+      float: left;
       margin-left: 20px;
-      padding: 20px; }
+      padding: 10px 15px; }
       #footer .agencies .links a {
         margin-right: 10px; }
   #footer .hotline {
