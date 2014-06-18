@@ -11,7 +11,7 @@
             "author": "Bob",
             "email": "bob@example.com"
         },
-        "template": "page.html"
+        "template": "default.html"
     },
     "metalsmith": {
         "metalsmith-metadata": {
@@ -27,7 +27,7 @@
         "metalsmith-templates": {
             "engine": "swig",
             "cache": false,
-            "default": "page.html",
+            "default": "default.html",
             "directory": "./templates"
         },
         "metalsmith-assets": null,

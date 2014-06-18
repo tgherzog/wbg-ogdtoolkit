@@ -1,18 +1,15 @@
-<h2 class="title block-title">
-<a href="http://data.worldbank.org/open-government-data-toolkit" class="book-title">Open Government Data Toolkit</a>
-</h2>
-<div class="content block-content clear-block">
-<ul class='menu'>
-{% for item in sidebar_en %}
-<li class='leaf {% if item.name == title %}active-trail{% endif %} {% if loop.first %}first{% elif loop.last %}last{% endif %}'><a href='{{ item.link }}' {% if item.name == title %}class="active"{% endif %}>{{ item.name }}</a>
-{% if item.name == title %}
-{% for heading in headings %}
-{% if loop.first %}<ul>{% endif %}
-<li><a href="#{{ heading.id }}">{{ heading.text }}</a></li>
-{% if loop.last %}</ul>{% endif %}
-{% endfor %}
-{% endif %}
-</li>
-{% endfor %}
+<h2><a href="http://data.worldbank.org/open-government-data-toolkit">Open Government Data Toolkit</a></h2>
+<ul>
+	{% for item in sidebar_en %}
+	<li{% if item.name == title %} class='active'{% endif %}>
+		<a href='{{ item.link }}'>{{ item.name }}</a>
+		{% if item.name == title %}
+		{% for heading in headings %}
+		{% if loop.first %}<ul>{% endif %}
+		<li><a href="#{{ heading.id }}">{{ heading.text }}</a></li>
+		{% if loop.last %}</ul>{% endif %}
+		{% endfor %}
+		{% endif %}
+	</li>
+	{% endfor %}
 </ul>
-</div>

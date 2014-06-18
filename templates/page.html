@@ -1,9 +1,0 @@
-{% if locale == 'en' %}
-{% extends 'default_en.html' %}
-{% elif locale == 'es' %}
-{% extends 'default_es.html' %}
-{% endif %}
-
-{% block content %}
-{{ contents | safe }}
-{% endblock %}

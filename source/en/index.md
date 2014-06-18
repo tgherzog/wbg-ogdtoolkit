@@ -3,4 +3,4 @@ title: My awesome title
 locale: en
 ---
 
-### Hello world !
+![Pie chart](/images/piechart.png)

@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en' dir='ltr'>
+<head>
+  <title>{{ title }} | Data</title>
+
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+  <meta name='description' content='{{ site.description }}'/>
+  <meta name='dcterms.description' content='{{ site.decription }}'/>
+  <meta name='abstract' content='{{ site.abstract }}'/>
+  <meta name='dcterms.date' content='2013-10-24T00:00:00Z' />
+  <link rel='prev' href='http://data.worldbank.org/open-government-data-toolkit' />
+  <link rel='up' href='http://data.worldbank.org/open-government-data-toolkit' />
+  <link rel='next' href='http://data.worldbank.org/about/open-government-data-toolkit/it-solutions' />
+  <link rel='canonical' href='http://data.worldbank.org/about/open-government-data-toolkit/knowledge-repository' />
+  <link rel='shortcut icon' href='/profiles/datafinder/themes/datum/favicon.ico' type='image/x-icon' />
+  
+  <link rel='canonical' href='http://data.worldbank.org/about/open-government-data-toolkit/knowledge-repository'/>
+  <meta name='revisit-after' content='7 days'/>
+
+  <!-- Favicons -->
+  <link rel='shortcut icon' href='/assets/favicon.ico'>
+  <link rel='apple-touch-icon' sizes='57x57' href='/assets/favicons/apple-touch-icon-57x57.png'>
+  <link rel='apple-touch-icon' sizes='114x114' href='/assets/favicons/apple-touch-icon-114x114.png'>
+  <link rel='apple-touch-icon' sizes='72x72' href='/assets/favicons/apple-touch-icon-72x72.png'>
+  <link rel='apple-touch-icon' sizes='144x144' href='/assets/favicons/apple-touch-icon-144x144.png'>
+  <link rel='apple-touch-icon' sizes='60x60' href='/assets/favicons/apple-touch-icon-60x60.png'>
+  <link rel='apple-touch-icon' sizes='120x120' href='/assets/favicons/apple-touch-icon-120x120.png'>
+  <link rel='apple-touch-icon' sizes='76x76' href='/assets/favicons/apple-touch-icon-76x76.png'>
+  <link rel='apple-touch-icon' sizes='152x152' href='/assets/favicons/apple-touch-icon-152x152.png'>
+  <link rel='icon' type='image/png' href='/assets/favicons/favicon-196x196.png' sizes='196x196'>
+  <link rel='icon' type='image/png' href='/assets/favicons/favicon-160x160.png' sizes='160x160'>
+  <link rel='icon' type='image/png' href='/assets/favicons/favicon-96x96.png' sizes='96x96'>
+  <link rel='icon' type='image/png' href='/assets/favicons/favicon-16x16.png' sizes='16x16'>
+  <link rel='icon' type='image/png' href='/assets/favicons/favicon-32x32.png' sizes='32x32'>
+  <meta name='msapplication-TileColor' content='#da532c'>
+  <meta name='msapplication-TileImage' content='/assets/favicons/mstile-144x144.png'>
+  <meta name='msapplication-config' content='/assets/favicons/browserconfig.xml'>
+
+  <!-- CSS -->
+  <link href='/assets/styles.css' rel='stylesheet' type='text/css'/>
+</head>
+<body  class='not-front not-logged-in page-node node-type-simple-page one-sidebar sidebar-right i18n-en tao rubik admin-static fatright en'>
+  <nav id='navigation'>
+    {% include 'partials/_navigation.html' %}
+  </nav>
+
+  <header id='header'>
+    <div class='content'>
+      <h2>Data</h2>
+
+      <nav class='links'>
+        <ul class='primary'>
+          <li><a href='http://data.worldbank.org/country'>By Country</a></li>
+          <li><a href='http://data.worldbank.org/topic'>By Topic</a></li>
+          <li><a href='http://data.worldbank.org/indicator'>Indicators</a></li>
+          <li><a href='http://data.worldbank.org/data-catalog'>Data Catalog</a></li>
+          <li><a href='http://microdata.worldbank.org'>Microdata</a></li>
+          <li><a href='http://blogs.worldbank.org/opendata/'>Blog</a></li>
+        </ul>
+
+        <ul class='secondary'>
+          <li><a href='http://data.worldbank.org/news'>News</a></li>
+          <li><a href='http://data.worldbank.org/about'>About</a></li>
+          <li><a href='http://datahelpdesk.worldbank.org'>Support</a></li>
+          <li><a href='http://data.worldbank.org/products'>Products</a></li>
+        </ul>
+      </nav>
+
+      <nav class='locale'>This page in: <strong>English</strong> | <a href='/es/{{ path | replace('^\w+\/', '') }}'>Spanish</a></nav>
+    </div>
+  </header>
+  
+  <section id='main'>
+    <div class='content'>
+      <header class='header'>
+        <nav class='links'>
+          <a class='facebook'>Facebook</a>
+        </nav>
+
+        <h1>{{ title }}</h1>
+      </header>
+
+      <section class='main'>
+        <aside class='sidebar'>
+          {% include 'partials/_sidebar.html' %}
+        </aside>
+
+        <section class='body'>
+          {% block content %}
+          {{ contents | safe }}
+          {% endblock %}
+        </section>
+      </section>
+    </div>
+  </section>
+  <footer id='footer'>
+    <div class='content'>
+      {% include 'partials/_footer.html' %}
+    </div>
+  </footer>
+</body>
+</html>
