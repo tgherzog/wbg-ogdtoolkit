@@ -1,3 +1,13 @@
+{% if locale == 'en' %}
+{% set locales = en_locales %}
+{% set sidebar = en_sidebar %}
+{% elif locale == 'es' %}
+{% set locales = es_locales %}
+{% set sidebar = es_sidebar %}
+{% else %}
+{% set locales = en_locales %}
+{% set sidebar = en_sidebar %}
+{% endif %}
 <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
 <html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en' dir='ltr'>
 <head>
@@ -18,7 +28,7 @@
 <body  class='not-front not-logged-in page-node node-type-simple-page one-sidebar sidebar-right i18n-en tao rubik admin-static fatright en'>
   <nav id='navigation'>
     <div class='content'>
-      {% include 'partials/en/_header.html' %}
+      {% include 'partials/_header.html' %}
     </div>
   </nav>
 
@@ -42,7 +52,7 @@
         <li><a href='http://data.worldbank.org/products'>Products</a></li>
       </ul>
       
-      <nav class='locale'>This page in: <strong>English</strong> | <a href='/es/{{ path | replace('^\w+\/', '') }}'>Spanish</a></nav>
+      <nav class='locale'>This page in: {% if locale == 'en' %}<strong>English</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>Spanish</a>{% elif locale == 'es' %}<a href='/en{{ path | replace('^\w+', '') }}'>English</a> | <strong>Spanish</strong>{% else %}<strong>English</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>Spanish</a>{% endif %}</nav>
     </div>
   </header>
   

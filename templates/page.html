@@ -1,8 +1,4 @@
-{% if locale == 'en' %}
-{% extends 'default_en.html' %}
-{% elif locale == 'es' %}
-{% extends 'default_es.html' %}
-{% endif %}
+{% extends 'default.html' %}
 
 {% block content %}
 {{ contents | safe }}
