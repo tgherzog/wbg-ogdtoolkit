@@ -14,20 +14,14 @@
         "template": "page.html"
     },
     "metalsmith": {
+        "metalsmith-metadata": {
+            "sidebar": "sidebar.yaml"
+        },
         "metalsmith-markdown": {
             "xhtml": true
         },
-        "metalsmith-include": {},
-        "metalsmith-drafts": {},
+        "metalsmith-headings": {},
         "metalsmith-build-date": true,
-        "metalsmith-collections": {
-            "blog": {
-                "sortBy": "date",
-                "reverse": true
-            },
-            "team": {}
-        },
-        "metalsmith-more": true,
         "metalsmith-permalinks": {},
         "metalsmith-templates": {
             "engine": "swig",
