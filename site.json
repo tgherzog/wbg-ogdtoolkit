@@ -15,8 +15,10 @@
     },
     "metalsmith": {
         "metalsmith-metadata": {
-            "sidebar_en": "en/sidebar.yaml",
-            "sidebar_es": "es/sidebar.yaml"
+            "en_sidebar": "en/sidebar.yaml",
+            "en_locales": "en/locales.yaml",
+            "es_sidebar": "es/sidebar.yaml",
+            "es_locales": "es/locales.yaml"
         },
         "metalsmith-markdown": {
             "xhtml": true
