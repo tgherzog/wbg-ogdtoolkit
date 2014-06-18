@@ -1,6 +1,4 @@
 ---
-title: My awesome title
-locale: en
+template: redirect.html
+dest: /en/
 ---
-
-### Hello world !

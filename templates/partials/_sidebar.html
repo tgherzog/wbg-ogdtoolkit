@@ -3,7 +3,7 @@
 </h2>
 <div class="content block-content clear-block">
 <ul class='menu'>
-{% for item in sidebar %}
+{% for item in sidebar_en %}
 <li class='leaf {% if item.name == title %}active-trail{% endif %} {% if loop.first %}first{% elif loop.last %}last{% endif %}'><a href='{{ item.link }}' {% if item.name == title %}class="active"{% endif %}>{{ item.name }}</a>
 {% if item.name == title %}
 {% for heading in headings %}

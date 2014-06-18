@@ -18,7 +18,7 @@
 <body  class='not-front not-logged-in page-node node-type-simple-page one-sidebar sidebar-right i18n-en tao rubik admin-static fatright en'>
   <nav id='navigation'>
     <div class='content'>
-      {% include 'partials/_header.html' %}
+      {% include 'partials/en/_header.html' %}
     </div>
   </nav>
 
@@ -42,7 +42,7 @@
         <li><a href='http://data.worldbank.org/products'>Products</a></li>
       </ul>
       
-      <nav class='locale'>This page in: <strong>English</strong> | <a href='#'>Spanish</a></nav>
+      <nav class='locale'>This page in: <strong>English</strong> | <a href='/es/{{ path | replace('^\w+\/', '') }}'>Spanish</a></nav>
     </div>
   </header>
   
