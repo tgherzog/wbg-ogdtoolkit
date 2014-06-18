@@ -87,9 +87,12 @@ p {
 #navigation {
   .header {
   	background: $black;
+  	@include clearfix;
 	  color: #FFF;
 	  display: block;
+	  font-size: $smaller;
 	  height: 42px;
+	  padding: 0 $gutter/2;
 	  text-align: right;
 	  a {
 	  	color: inherit;
@@ -103,6 +106,27 @@ p {
 	  	height: 42px;
 	  	text-indent: -999em;
 	  	width: 390px;
+	  }
+	  ul {
+	  	border-right: 1px solid tint($black, 20%);
+	  	float: right;
+	  	margin-right: $gutter/2;
+	  	margin-top: 12px;
+	  	padding-right: $gutter/2;
+	  }
+	  .search {
+	  	background: tint($black, 10%);
+	  	border: 1px solid tint($black, 20%);
+	  	float: right;
+	  	margin-top: 8px;
+	  	input {
+	  		background: transparent;
+	  		border: 0;
+	  		display: block;
+	  		float: left;
+	  		outline: none;
+	  		padding: $gutter/4 $gutter/2;
+	  	}
 	  }
 	}
 	ul {
@@ -215,6 +239,7 @@ p {
 		font-size: $larger;
 		width: $sidebar;
 		ul {
+			border-top: 1px solid tint($line, 10%);
 			list-style: none;
 			margin: 0;
 			padding: 0;
@@ -231,6 +256,7 @@ p {
 					}
 				}
 				ul {
+					border: 0;
 					margin-left: $gutter/2;
 				}
 				li {

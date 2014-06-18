@@ -364,8 +364,14 @@ p {
   background: #2B292A;
   color: #FFF;
   display: block;
+  font-size: 12px;
   height: 42px;
+  padding: 0 10px;
   text-align: right; }
+  #navigation .header:after {
+    content: "";
+    display: table;
+    clear: both; }
   #navigation .header a {
     color: inherit; }
     #navigation .header a:hover {
@@ -376,6 +382,24 @@ p {
     height: 42px;
     text-indent: -999em;
     width: 390px; }
+  #navigation .header ul {
+    border-right: 1px solid #555354;
+    float: right;
+    margin-right: 10px;
+    margin-top: 12px;
+    padding-right: 10px; }
+  #navigation .header .search {
+    background: #403e3f;
+    border: 1px solid #555354;
+    float: right;
+    margin-top: 8px; }
+    #navigation .header .search input {
+      background: transparent;
+      border: 0;
+      display: block;
+      float: left;
+      outline: none;
+      padding: 5px 10px; }
 #navigation ul {
   display: inline;
   list-style: none;
@@ -463,6 +487,7 @@ p {
   font-size: 14px;
   width: 300px; }
   #main .sidebar ul {
+    border-top: 1px solid #e0e0e0;
     list-style: none;
     margin: 0;
     padding: 0; }
@@ -476,6 +501,7 @@ p {
         #main .sidebar ul li.active li a {
           font-weight: inherit; }
       #main .sidebar ul li ul {
+        border: 0;
         margin-left: 10px; }
       #main .sidebar ul li li {
         border: 0;
