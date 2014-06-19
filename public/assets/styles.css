@@ -386,11 +386,30 @@ p {
     #navigation .header a:hover {
       text-decoration: underline; }
   #navigation .header a.logo {
-    background: url(/images/logo.gif) left center no-repeat;
+    color: #959494;
     float: left;
-    height: 42px;
-    text-indent: -999em;
-    width: 390px; }
+    margin-top: 12px; }
+    #navigation .header a.logo:before {
+      font-family: 'icons';
+      font-variant: normal;
+      font-weight: normal;
+      speak: none;
+      text-transform: none;
+      -webkit-font-smoothing: antialiased;
+      color: #FFF;
+      content: '0';
+      float: left;
+      font-size: 26px;
+      margin-right: 10px; }
+    #navigation .header a.logo:hover {
+      text-decoration: none; }
+    #navigation .header a.logo strong {
+      border-right: 1px solid #555354;
+      color: #FFF;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin-right: 5px;
+      padding-right: 5px; }
   #navigation .header ul {
     border-right: 1px solid #555354;
     float: right;

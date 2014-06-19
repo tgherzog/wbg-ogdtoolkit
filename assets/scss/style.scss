@@ -106,11 +106,28 @@ p {
 			}
 	  }
 	  a.logo {
-	  	background: url(/images/logo.gif) left center no-repeat;
+	  	color: tint($black, 50%);
 	  	float: left;
-	  	height: 42px;
-	  	text-indent: -999em;
-	  	width: 390px;
+	  	margin-top: 12px;
+	  	&:before {
+	  		@include icon();
+	  		color: #FFF;
+	  		content: '0';
+	  		float: left;
+	  		font-size: $huge;
+	  		margin-right: $gutter/2;
+	  	}
+	  	&:hover {
+	  		text-decoration: none;
+	  	}
+	  	strong {
+	  		border-right: 1px solid tint($black, 20%);
+	  		color: #FFF;
+	  		font-weight: bold;
+	  		text-transform: uppercase;
+	  		margin-right: $gutter/4;
+	  		padding-right: $gutter/4;
+	  	}
 	  }
 	  ul {
 	  	border-right: 1px solid tint($black, 20%);
