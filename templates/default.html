@@ -86,7 +86,8 @@
     <div class='content'>
       <header class='header'>
         <nav class='links'>
-          <a class='facebook'>Facebook</a>
+          <a class='facebook'><span>Facebook</span></a>
+          <a class='twitter'><span>Twitter</span></a>
         </nav>
 
         <h1>{{ title }}</h1>
@@ -111,5 +112,25 @@
       {% include 'partials/_footer.html' %}
     </div>
   </footer>
+
+  <!-- JS -->
+  <script src='//code.jquery.com/jquery-1.11.0.min.js'></script>
+  <script>
+    $(function() {
+      var sidebar_top = $('#main .sidebar').offset().top;
+      var sticky_navigation = function(){
+        var scroll_top = $(window).scrollTop();
+        if (scroll_top > sidebar_top) {
+          $('#main .sidebar').addClass('sticky').css({ 'top': (scroll_top - sidebar_top) });
+        }
+        else { $('#main .sidebar').removeClass('sticky').css({}); }
+      };
+      
+      sticky_navigation();
+      $(window).scroll(function() {
+         sticky_navigation();
+      });
+    });
+  </script>
 </body>
 </html>

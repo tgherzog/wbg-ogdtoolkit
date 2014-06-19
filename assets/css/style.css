@@ -321,12 +321,21 @@ td, th {
   padding: 0; }
 
 /* Bourbon */
+/* Icons */
+@font-face {
+  font-family: 'icons';
+  src: url('fonts/icons.eot');
+  src: url('fonts/icons.eot?#iefix') format('embedded-opentype'), url('fonts/icons.woff') format('woff'), url('fonts/icons.ttf') format('truetype'), url('fonts/icons.svg#Icons') format('svg');
+  font-weight: normal;
+  font-style: normal; }
+
 /* Colors */
 /* Sizes */
 /* Layout */
 /* General */
 body {
   background: #FFF;
+  color: #333;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 13px;
   line-height: 140%;
@@ -388,6 +397,16 @@ p {
     margin-right: 10px;
     margin-top: 12px;
     padding-right: 10px; }
+    #navigation .header ul a.more:before {
+      font-family: 'icons';
+      font-variant: normal;
+      font-weight: normal;
+      speak: none;
+      text-transform: none;
+      -webkit-font-smoothing: antialiased;
+      content: 'm'; }
+    #navigation .header ul a.more span {
+      display: none; }
   #navigation .header .search {
     background: #403e3f;
     border: 1px solid #555354;
@@ -400,6 +419,20 @@ p {
       float: left;
       outline: none;
       padding: 5px 10px; }
+    #navigation .header .search .submit {
+      background: transparent;
+      border: 0;
+      outline: none; }
+      #navigation .header .search .submit:before {
+        font-family: 'icons';
+        font-variant: normal;
+        font-weight: normal;
+        speak: none;
+        text-transform: none;
+        -webkit-font-smoothing: antialiased;
+        content: 's'; }
+      #navigation .header .search .submit span {
+        display: none; }
 #navigation ul {
   display: inline;
   list-style: none;
@@ -467,6 +500,26 @@ p {
   padding: 20px 10px; }
   #main .header .links {
     float: right; }
+    #main .header .links a {
+      color: #989a94;
+      font-size: 20px;
+      margin-left: 10px; }
+      #main .header .links a:hover {
+        color: inherit;
+        text-decoration: none; }
+      #main .header .links a:before {
+        font-family: 'icons';
+        font-variant: normal;
+        font-weight: normal;
+        speak: none;
+        text-transform: none;
+        -webkit-font-smoothing: antialiased; }
+      #main .header .links a.facebook:before {
+        content: 'f'; }
+      #main .header .links a.twitter:before {
+        content: 't'; }
+      #main .header .links a span {
+        display: none; }
   #main .header h1 {
     font-size: 26px;
     font-weight: normal;
@@ -475,7 +528,9 @@ p {
   border: 1px solid #ddd;
   border-bottom: 2px solid #8a0000;
   border-top: 2px solid #8a0000;
-  padding: 15px; }
+  overflow: hidden;
+  padding: 15px;
+  position: relative; }
   #main .main:after {
     content: "";
     display: table;
@@ -486,23 +541,57 @@ p {
   float: right;
   font-size: 14px;
   width: 300px; }
+  #main .sidebar.sticky {
+    margin-right: 15px;
+    margin-top: 15px;
+    position: absolute;
+    right: 0;
+    top: 0; }
+  #main .sidebar h2 {
+    border-top: 1px solid #e0e0e0;
+    font-size: inherit;
+    margin: 0;
+    padding: 15px; }
+    #main .sidebar h2:before {
+      font-family: 'icons';
+      font-variant: normal;
+      font-weight: normal;
+      speak: none;
+      text-transform: none;
+      -webkit-font-smoothing: antialiased;
+      content: 'h';
+      margin-right: 10px; }
   #main .sidebar ul {
     border-top: 1px solid #e0e0e0;
     list-style: none;
     margin: 0;
     padding: 0; }
+    #main .sidebar ul h3 {
+      font-size: inherit;
+      margin: 0; }
+      #main .sidebar ul h3:before {
+        font-family: 'icons';
+        font-variant: normal;
+        font-weight: normal;
+        speak: none;
+        text-transform: none;
+        -webkit-font-smoothing: antialiased;
+        content: 'r';
+        margin-right: 10px; }
     #main .sidebar ul li {
       border-bottom: 1px solid #e0e0e0;
       padding: 15px; }
       #main .sidebar ul li.active {
         background: #f5f4f0; }
+        #main .sidebar ul li.active h3:before {
+          content: 'd'; }
         #main .sidebar ul li.active a {
           font-weight: bold; }
         #main .sidebar ul li.active li a {
           font-weight: inherit; }
       #main .sidebar ul li ul {
         border: 0;
-        margin-left: 10px; }
+        margin-left: 25px; }
       #main .sidebar ul li li {
         border: 0;
         color: #474747;
@@ -515,6 +604,8 @@ p {
   padding-right: 20px; }
   #main .body a {
     color: #8a0000; }
+  #main .body img {
+    max-width: 100%; }
 
 /* Footer */
 #footer {
