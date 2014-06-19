@@ -520,11 +520,10 @@ p {
   #main .header .links {
     float: right; }
     #main .header .links a {
-      color: #989a94;
       font-size: 20px;
       margin-left: 10px; }
       #main .header .links a:hover {
-        color: inherit;
+        color: #8a0000;
         text-decoration: none; }
       #main .header .links a:before {
         font-family: 'icons';
@@ -533,10 +532,14 @@ p {
         speak: none;
         text-transform: none;
         -webkit-font-smoothing: antialiased; }
+      #main .header .links a.email:before {
+        content: 'e'; }
       #main .header .links a.facebook:before {
         content: 'f'; }
       #main .header .links a.twitter:before {
         content: 't'; }
+      #main .header .links a.github:before {
+        content: 'g'; }
       #main .header .links a span {
         display: none; }
   #main .header h1 {

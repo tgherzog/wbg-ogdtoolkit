@@ -261,18 +261,19 @@ p {
 		.links {
 			float: right;
 			a {
-				color: $grey;
 				font-size: $large;
 				margin-left: $gutter/2;
 				&:hover {
-					color: inherit;
+					color: $red;
 					text-decoration: none;
 				}
 				&:before {
 					@include icon();
 				}
+				&.email:before { content: 'e'; }
 				&.facebook:before { content: 'f'; }
 				&.twitter:before { content: 't'; }
+				&.github:before { content: 'g'; }
 				span {
 					display: none;
 				}
