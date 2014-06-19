@@ -9,14 +9,14 @@
 {% set sidebar = en_sidebar %}
 {% endif %}
 <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
-<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en' dir='ltr'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='{{ locale | default('en') }}' lang='{{ locale | default('en') }}' dir='ltr'>
 <head>
   <title>{{ title }} | Data</title>
 
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
-  <meta name='description' content='{{ site.description }}'/>
-  <meta name='dcterms.description' content='{{ site.decription }}'/>
-  <meta name='abstract' content='{{ site.abstract }}'/>
+  <meta name='description' content='{{ locales.description }}'/>
+  <meta name='dcterms.description' content='{{ locales.decription }}'/>
+  <meta name='abstract' content='{{ locales.abstract }}'/>
   <meta name='dcterms.date' content='2013-10-24T00:00:00Z' />
   <link rel='prev' href='http://data.worldbank.org/open-government-data-toolkit' />
   <link rel='up' href='http://data.worldbank.org/open-government-data-toolkit' />
@@ -62,23 +62,23 @@
 
       <nav class='links'>
         <ul class='primary'>
-          <li><a href='http://data.worldbank.org/country'>By Country</a></li>
-          <li><a href='http://data.worldbank.org/topic'>By Topic</a></li>
-          <li><a href='http://data.worldbank.org/indicator'>Indicators</a></li>
-          <li><a href='http://data.worldbank.org/data-catalog'>Data Catalog</a></li>
-          <li><a href='http://microdata.worldbank.org'>Microdata</a></li>
-          <li><a href='http://blogs.worldbank.org/opendata/'>Blog</a></li>
+          <li><a href='http://data.worldbank.org/country'>{{ locales.header.links.primary.by_country }}</a></li>
+          <li><a href='http://data.worldbank.org/topic'>{{ locales.header.links.primary.by_topic }}</a></li>
+          <li><a href='http://data.worldbank.org/indicator'>{{ locales.header.links.primary.indicators }}</a></li>
+          <li><a href='http://data.worldbank.org/data-catalog'>{{ locales.header.links.primary.data_catalog }}</a></li>
+          <li><a href='http://microdata.worldbank.org'>{{ locales.header.links.primary.microdata }}</a></li>
+          <li><a href='http://blogs.worldbank.org/opendata/'>{{ locales.header.links.primary.blog }}</a></li>
         </ul>
 
         <ul class='secondary'>
-          <li><a href='http://data.worldbank.org/news'>News</a></li>
-          <li><a href='http://data.worldbank.org/about'>About</a></li>
-          <li><a href='http://datahelpdesk.worldbank.org'>Support</a></li>
-          <li><a href='http://data.worldbank.org/products'>Products</a></li>
+          <li><a href='http://data.worldbank.org/news'>{{ locales.header.links.secondary.news }}</a></li>
+          <li><a href='http://data.worldbank.org/about'>{{ locales.header.links.secondary.about }}</a></li>
+          <li><a href='http://datahelpdesk.worldbank.org'>{{ locales.header.links.secondary.helpdesk }}</a></li>
+          <li><a href='http://data.worldbank.org/products'>{{ locales.header.links.secondary.products }}</a></li>
         </ul>
       </nav>
 
-      <nav class='locale'>This page in: {% if locale == 'en' %}<strong>English</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>Spanish</a>{% elif locale == 'es' %}<a href='/en{{ path | replace('^\w+', '') }}'>English</a> | <strong>Spanish</strong>{% else %}<strong>English</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>Spanish</a>{% endif %}</nav>
+      <nav class='locale'>{{ locales.header.locale.prefix }}: {% if locale == 'en' %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% elif locale == 'es' %}<a href='/en{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.en }}</a> | <strong>{{ locales.header.locale.es }}</strong>{% else %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% endif %}</nav>
     </div>
   </header>
   
