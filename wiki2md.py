@@ -4,6 +4,7 @@ import os
 import re
 import yaml
 
+
 def convert_links(content):
     '''
     Convert an internal wiki link to md link
