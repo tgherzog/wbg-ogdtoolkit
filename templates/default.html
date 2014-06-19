@@ -78,7 +78,7 @@
         </ul>
       </nav>
 
-      <nav class='locale'>This page in: <strong>English</strong> | <a href='/es/{{ path | replace('^\w+\/', '') }}'>Spanish</a></nav>
+      <nav class='locale'>This page in: {% if locale == 'en' %}<strong>English</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>Spanish</a>{% elif locale == 'es' %}<a href='/en{{ path | replace('^\w+', '') }}'>English</a> | <strong>Spanish</strong>{% else %}<strong>English</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>Spanish</a>{% endif %}</nav>
     </div>
   </header>
   
