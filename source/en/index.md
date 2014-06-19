@@ -1,5 +1,5 @@
 ---
-title: My awesome title
+title: Open Government Data Toolkit
 locale: en
 ---
 
