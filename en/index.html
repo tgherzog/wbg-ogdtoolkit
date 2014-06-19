@@ -53,7 +53,7 @@
     <form class='search' method=get action='http://search.worldbank.org/all' accept-charset='UTF-8' class='clear-block'>
       <input type='text' size='15' name='qterm' class='search-text' placeholder='Search'/>
       <input type='hidden' name='language' value='EN'/>
-      <input type='submit' class='search-btn' name='op' value=''/>
+      <button class='submit' type='submit' name='op' value=''><span>Search</span></button>
     </form>
 
     <ul>
@@ -62,8 +62,8 @@
       <li><a href='http://www.banquemondiale.org/'>Français</a></li>
       <li><a href='http://www.albankaldawli.org/'>عربي</a></li>
       <li><a href='http://www.worldbank.org/eca/russian/'>Русский</a></li>
-      <li class='cn'><a href='http://www.worldbank.org.cn/Chinese/'>中文</a></li>
-      <li><a class='more' href='http://www.worldbank.org/languages' title='More Languages'>More</a></li>
+      <li><a href='http://www.worldbank.org.cn/Chinese/'>中文</a></li>
+      <li><a class='more' href='http://www.worldbank.org/languages' title='More Languages'><span>More</span></a></li>
     </ul>
   </div>
 </header>
@@ -116,7 +116,8 @@
     <div class='content'>
       <header class='header'>
         <nav class='links'>
-          <a class='facebook'>Facebook</a>
+          <a class='facebook'><span>Facebook</span></a>
+          <a class='twitter'><span>Twitter</span></a>
         </nav>
 
         <h1>Open Government Data Toolkit</h1>
@@ -127,11 +128,11 @@
           <h2><a href='/en'>Open Government Data Toolkit</a></h2>
 <ul>
 	
-	<li><a href='/en/Open-Data-Essentials'>Open Data Essentials</a>
+	<li><h3><a href='/en/Open-Data-Essentials'>Open Data Essentials</a></h3>
 	
 	</li>
 	
-	<li><a href='/en/Demand-and-Engagement'>Demand and Engagement</a>
+	<li><h3><a href='/en/Demand-and-Engagement'>Demand and Engagement</a></h3>
 	
 	</li>
 	
@@ -284,5 +285,25 @@
 </footer>
     </div>
   </footer>
+
+  <!-- JS -->
+  <script src='//code.jquery.com/jquery-1.11.0.min.js'></script>
+  <script>
+    $(function() {
+      var sidebar_top = $('#main .sidebar').offset().top;
+      var sticky_navigation = function(){
+        var scroll_top = $(window).scrollTop();
+        if (scroll_top > sidebar_top) {
+          $('#main .sidebar').addClass('sticky').css({ 'top': (scroll_top - sidebar_top) });
+        }
+        else { $('#main .sidebar').removeClass('sticky').css({}); }
+      };
+      
+      sticky_navigation();
+      $(window).scroll(function() {
+         sticky_navigation();
+      });
+    });
+  </script>
 </body>
 </html>
