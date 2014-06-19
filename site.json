@@ -60,7 +60,7 @@
                 "assets/fonts/*"
             ],
             "favicons": [
-                "assets/favicons/"
+                "assets/favicons/*"
             ]
         }
     }
