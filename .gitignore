@@ -1,5 +1,11 @@
 .*
-!.placeholder
 !.gitignore
+!.gitmodules
+!.placeholder
+*~
+
 *py[co]
-node_modules
+node_modules/
+bower_components/
+public/assets/
+_site/
