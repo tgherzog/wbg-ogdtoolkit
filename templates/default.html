@@ -122,8 +122,8 @@
       var sidebar_top = $('#main .sidebar').offset().top;
       var sticky_navigation = function(){
         var scroll_top = $(window).scrollTop();
-        if (scroll_top > (sidebar_top - 10)) {
-          $('#main .sidebar').addClass('sticky').css({ 'top': (scroll_top - sidebar_top + 10) });
+        if (scroll_top > (sidebar_top - 20)) {
+          $('#main .sidebar').addClass('sticky').css({ 'top': (scroll_top - sidebar_top + 20) });
         }
         else { $('#main .sidebar').removeClass('sticky').css({}); }
       };
