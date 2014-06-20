@@ -5,7 +5,7 @@
 <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
 <html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en' dir='ltr'>
 <head>
-  <title>Open Government Data Toolkit | Data</title>
+  <title>Technology Options | Data</title>
 
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
   <meta name='description' content='This section of the toolkit provides a summary of the essential elements of open government data, starting with its definition and covering issues from open data portals, applications that use open data, the benefits of open data, open data policy declarations, learning resources and technical assistance resources for open data.'/>
@@ -108,7 +108,7 @@
         </ul>
       </nav>
 
-      <nav class='locale'>This page in: <strong>English</strong> | <a href='/es'>Spanish</a></nav>
+      <nav class='locale'>This page in: <strong>English</strong> | <a href='/es/it-solutions'>Spanish</a></nav>
     </div>
   </header>
   
@@ -122,7 +122,7 @@
           <a class='github'><span>GitHub</span></a>
         </nav>
 
-        <h1>Open Government Data Toolkit</h1>
+        <h1>Technology Options</h1>
       </header>
 
       <section class='main'>
@@ -134,7 +134,33 @@
 	
 	</li>
 	
-	<li><h3><a href='/en/it-solutions'>Technology Options</a></h3>
+	<li class='active'><h3><a href='/en/it-solutions'>Technology Options</a></h3>
+	
+	
+	<ul>
+	<li><a href="#open-data-scenarios">Open Data Scenarios</a></li>
+	
+	
+	
+	<li><a href="#solutions">Solutions</a></li>
+	
+	
+	
+	<li><a href="#level-1-less-than-100-datasets-with-less-than-10-datasets-changing-weekly">Level 1: less than 100 datasets with less than 10 datasets changing weekly</a></li>
+	
+	
+	
+	<li><a href="#level-2-100-to-1000-datasets-with-10-100-datasets-changing-weekly">Level 2: 100 to 1000 datasets with 10-100 datasets changing weekly</a></li>
+	
+	
+	
+	<li><a href="#level-3-over-1000-datasets-with-100-changes-weekly">Level 3: Over 1000 datasets with 100+ changes weekly</a></li>
+	
+	
+	
+	<li><a href="#information-security-best-practices">Information security best practices</a></li>
+	</ul>
+	
 	
 	</li>
 	
@@ -155,7 +181,76 @@
 
         <section class='body'>
           
-          <p><img src="/images/piechart.png" alt="Pie chart"/></p>
+          <h2 id="open-data-scenarios">Open Data Scenarios</h2>
+<p>Three different levels of complexity based on the number of datasets available and the frequency of their update frequency:</p>
+<ul>
+<li>Level 1 –less than 100 datasets with less than 10 datasets changing weekly</li>
+<li>Level 2 –100 to 1,000 datasets with 10-100 datasets changing weekly</li>
+<li>Level 3 –Over 1,000 datasets with 100+ changes weekly</li>
+</ul>
+<h2 id="solutions">Solutions</h2>
+<ul>
+<li>Based on the scenarios there are various possible technical architectures</li>
+<li>In some cases we have provided more than one option</li>
+<li>We have also given some examples of software systems that can be used. Click on each graph to view the software for each component of the arquitecture.</li>
+<li>Some of these software are open source and others are proprietary.</li>
+</ul>
+<p><strong>Note</strong>: The software systems indicated in this presentation are just examples and not in any way endorsed by the World Bank.</p>
+<h2 id="level-1-less-than-100-datasets-with-less-than-10-datasets-changing-weekly">Level 1: less than 100 datasets with less than 10 datasets changing weekly</h2>
+<ul>
+<li>Build a conventional website using a standard web server</li>
+<li>Data as raw data files within web server space (or on public cloud storage)</li>
+<li>Metadata as micro formats on HMTL page</li>
+<li>Site search using existing tools like Google site search</li>
+<li>Manual update of data, metadata and content by central IT team</li>
+<li>Recommended<ul>
+<li>Introduce commenting feature for feedback</li>
+</ul>
+</li>
+</ul>
+<p><img src="/images/ogdt-archi-1.png" alt="Level 1"/></p>
+<h2 id="level-2-100-to-1000-datasets-with-10-100-datasets-changing-weekly">Level 2: 100 to 1000 datasets with 10-100 datasets changing weekly</h2>
+<ul>
+<li>Front end as conventional CMS-based website</li>
+<li>Data as raw, manually managed, data files within web server space, public cloud storage , or individual ministry websites</li>
+<li>Metadata in SQL database, served through dynamically generated query pages</li>
+<li>Automated checking of broken links –Community facilities essential</li>
+<li>Site search by text search on database, CMS search or Google site search (GSS)</li>
+<li>Maintained by central team</li>
+<li>Recommended<ul>
+<li>Consider caching to take care of load</li>
+<li>Do not store metadata in the CMS itself</li>
+</ul>
+</li>
+</ul>
+<p><img src="/images/ogdt-archi-2.png" alt="Level 2"/></p>
+<h2 id="level-3-over-1000-datasets-with-100-changes-weekly">Level 3: Over 1000 datasets with 100+ changes weekly</h2>
+<ul>
+<li>Front end needs to integrate different web services (API)</li>
+<li>Automated management of raw data files (possibly being stored on public cloud storage) (Level 3a)</li>
+<li>Management of data using a combination of raw data files and data stored in an Open Data System’s database (Level 3 b)</li>
+<li>Metadata in optimized metadata repository</li>
+<li>Delegate submission/maintenance of datasets to individual Ministries with custom dialogues, automatic validation, and role-based access control</li>
+<li>Automated checking of broken links</li>
+<li>Community facilities essential, including ability to raise issue with the “owner” of each dataset (e.g contact person, web form)</li>
+<li>Search by structured search on metadata repository, CMS or Google site search on main site</li>
+</ul>
+<h3 id="level-3a">Level 3a</h3>
+<p><img src="/images/ogdt-archi-3a.png" alt="Level 3a"/></p>
+<h3 id="level-3b">Level 3b</h3>
+<p><img src="/images/ogdt-archi-3b.png" alt="Level 3b"/></p>
+<h2 id="information-security-best-practices">Information security best practices</h2>
+<ul>
+<li>Data Governance to ensure</li>
+<li>Authoritative Source</li>
+<li>Rules of Engagement</li>
+<li>Sustainability</li>
+<li>Data Classification Public v/s Restricted to ensure</li>
+<li>Private/restricted data not released externally</li>
+<li>InfoSec Controls to ensure</li>
+<li>Confidentiality and integrity of data</li>
+<li>Denial of Service (DoS) attacks</li>
+</ul>
 
           
         </section>
@@ -166,7 +261,7 @@
   <footer id='footer'>
     <div class='content'>
       <header class='breadcrumb'>
-  You are here › <a href='/en'>Open Government Data Toolkit</a> › <a href='/en'>Open Government Data Toolkit</a>
+  You are here › <a href='/en'>Open Government Data Toolkit</a> › <a href='/en/it-solutions'>Technology Options</a>
 </header>
 
 <section class='links'>
