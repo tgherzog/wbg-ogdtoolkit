@@ -44,10 +44,10 @@ body {
 }
 
 a {
-	text-decoration: none;
-	&:hover {
-	  text-decoration: underline;
-	}
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 h1,
@@ -56,409 +56,408 @@ h3,
 h4,
 h5,
 h6 {
-	font-weight: normal;
+  font-weight: normal;
   margin: 0 0 $gutter;
 }
 
 h1 {
-	font-size: $huge;
+  font-size: $huge;
 }
 
 h2 {
-	font-size: $large;
+  font-size: $large;
 }
 
 h3,
 h4,
 h5,
 h6 {
-	font-size: $normal;
+  font-size: $normal;
 }
 
 p {
-	margin: 0 0 $gutter;
+  margin: 0 0 $gutter;
 }
 
 /* Layout */
 
 .content {
-	margin: 0 auto;
-	max-width: 960px;
-	text-align: left;
+  margin: 0 auto;
+  max-width: 960px;
+  text-align: left;
 }
 
 /* Navigation */
 
 #navigation {
   .header {
-  	background: $black;
-  	@include clearfix;
-	  color: #FFF;
-	  display: block;
-	  font-size: $smaller;
-	  height: 42px;
-	  padding: 0 $gutter/2;
-	  text-align: right;
-	  a {
-	  	color: inherit;
-	  	&:hover {
-				text-decoration: underline;
-			}
-	  }
-	  a.logo {
-	  	color: tint($black, 50%);
-	  	float: left;
-	  	margin-top: 12px;
-	  	&:before {
-	  		@include icon();
-	  		color: #FFF;
-	  		content: '0';
-	  		float: left;
-	  		font-size: $huge;
-	  		margin-right: $gutter/2;
-	  	}
-	  	&:hover {
-	  		text-decoration: none;
-	  	}
-	  	strong {
-	  		border-right: 1px solid tint($black, 20%);
-	  		color: #FFF;
-	  		font-weight: bold;
-	  		text-transform: uppercase;
-	  		margin-right: $gutter/4;
-	  		padding-right: $gutter/4;
-	  	}
-	  }
-	  ul {
-	  	border-right: 1px solid tint($black, 20%);
-	  	float: right;
-	  	margin-right: $gutter/2;
-	  	margin-top: 12px;
-	  	padding-right: $gutter/2;
-	  	a.more {
-	  		&:before {
-	  			@include icon();
-	  			content: 'm';
-	  		}
-	  		span {
-	  			display: none;
-	  		}
-	  	}
-	  }
-	  .search {
-	  	background: tint($black, 10%);
-	  	border: 1px solid tint($black, 20%);
-	  	float: right;
-	  	margin-top: 8px;
-	  	input {
-	  		background: transparent;
-	  		border: 0;
-	  		display: block;
-	  		float: left;
-	  		outline: none;
-	  		padding: $gutter/4 $gutter/2;
-	  	}
-	  	.submit {
-	  		background: transparent;
-	  		border: 0;
-	  		outline: none;
-	  		&:before {
-	  			@include icon();
-	  			content: 's';
-	  		}
-	  		span {
-	  			display: none;
-	  		}
-	  	}
-	  }
-	}
-	ul {
-		display: inline;
-		list-style: none;
-		margin: 0;
-		padding: 0;
-		li {
-			display: inline;
-			margin-left: $gutter/2;
-		}
-	}
-	.links {
-		color: #333;
-		display: block;
-		padding: $gutter/2 0;
-		a {
-			color: inherit;
-		  font-weight: bold;
-		}
-		.active {
-			border-bottom: 2px solid $red;
-		}
-	}
+    background: $black;
+    @include clearfix;
+    color: #FFF;
+    display: block;
+    font-size: $smaller;
+    height: 42px;
+    padding: 0 $gutter/2;
+    text-align: right;
+    a {
+      color: inherit;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+    a.logo {
+      color: tint($black, 50%);
+      float: left;
+      margin-top: 12px;
+      &:before {
+        @include icon();
+        color: #FFF;
+        content: '0';
+        float: left;
+        font-size: $huge;
+        margin-right: $gutter/2;
+      }
+      &:hover {
+        text-decoration: none;
+      }
+      strong {
+        border-right: 1px solid tint($black, 20%);
+        color: #FFF;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-right: $gutter/4;
+        padding-right: $gutter/4;
+      }
+    }
+    ul {
+      border-right: 1px solid tint($black, 20%);
+      float: right;
+      margin-right: $gutter/2;
+      margin-top: 12px;
+      padding-right: $gutter/2;
+      a.more {
+        &:before {
+          @include icon();
+          content: 'm';
+        }
+        span {
+          display: none;
+        }
+      }
+    }
+    .search {
+      background: tint($black, 10%);
+      border: 1px solid tint($black, 20%);
+      float: right;
+      margin-top: 8px;
+      input {
+        background: transparent;
+        border: 0;
+        display: block;
+        float: left;
+        outline: none;
+        padding: $gutter/4 $gutter/2;
+      }
+      .submit {
+        background: transparent;
+        border: 0;
+        outline: none;
+        &:before {
+          @include icon();
+          content: 's';
+        }
+        span {
+          display: none;
+        }
+      }
+    }
+  }
+  ul {
+    display: inline;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      display: inline;
+      margin-left: $gutter/2;
+    }
+  }
+  .links {
+    color: #333;
+    display: block;
+    padding: $gutter/2 0;
+    a {
+      color: inherit;
+      font-weight: bold;
+    }
+    .active {
+      border-bottom: 2px solid $red;
+    }
+  }
 }
 
 /* Header */
 
 #header {
-	h2 {
-		background: $red;
-		color: #FFF;
-		font-size: $huge;
-		font-weight: normal;
-		margin: 0;
-		padding: 1.5*$gutter/2 $gutter/2;
-	}
-	.links {
-		border-bottom: 1px solid $line;
-		@include clearfix;
-		ul {
-			list-style: none;
-			margin: 0;
-			padding: 0;
-		}
-		li {
-			float: left;
-			padding: 0;
-		}
-		a {
-			border-left: 1px solid $line;
-			color: $grey;
-			display: block;
-			font-weight: bold;
-			padding: $gutter/2;
-			&:hover {
-				color: $base;
-				text-decoration: none;
-			}
-		}
-	}
-	.primary li:last-child a {
-		border-right: 1px solid $line;
-	}
-	.secondary {
-		li {
-			float: right;
-		}
-	}
-	.locale {
-		border-bottom: 1px solid $line;
-		color: $grey;
-		padding: $gutter/2;
-		a {
-			color: inherit;
-		}
-		strong {
-			color: $base;
-			font-weight: normal;
-		}
-	}
+  h2 {
+    background: $red;
+    color: #FFF;
+    font-size: $huge;
+    font-weight: normal;
+    margin: 0;
+    padding: 1.5*$gutter/2 $gutter/2;
+  }
+  .links {
+    border-bottom: 1px solid $line;
+    @include clearfix;
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    li {
+      float: left;
+      padding: 0;
+    }
+    a {
+      border-left: 1px solid $line;
+      color: $grey;
+      display: block;
+      font-weight: bold;
+      padding: $gutter/2;
+      &:hover {
+        color: $base;
+        text-decoration: none;
+      }
+    }
+  }
+  .primary li:last-child a {
+    border-right: 1px solid $line;
+  }
+  .secondary {
+    li {
+      float: right;
+    }
+  }
+  .locale {
+    border-bottom: 1px solid $line;
+    color: $grey;
+    padding: $gutter/2;
+    a {
+      color: inherit;
+    }
+    strong {
+      color: $base;
+      font-weight: normal;
+    }
+  }
 }
 
 /* Main */
 
 #main {
-	.header {
-		padding: $gutter $gutter/2;
-		.links {
-			float: right;
-			a {
-				font-size: $large;
-				margin-left: $gutter/2;
-				&:hover {
-					color: $red;
-					text-decoration: none;
-				}
-				&:before {
-					@include icon();
-				}
-				&.email:before { content: 'e'; }
-				&.facebook:before { content: 'f'; }
-				&.twitter:before { content: 't'; }
-				&.github:before { content: 'g'; }
-				span {
-					display: none;
-				}
-			}
-		}
-		h1 {
-			font-size: $huge;
-			font-weight: normal;
-			margin: 0;
-		}
-	}
-	.main {
-		@include clearfix();
-		border: 1px solid $line;
-		border-bottom: 2px solid $red;
-		border-top: 2px solid $red;
-		overflow: hidden;
-		padding: $gutter;
-		position: relative;
-	}
-	.sidebar + .body {
-		margin-right: $sidebar + $gutter;
-	}
-	.sidebar {
-		float: right;
-		font-size: $larger;
-		width: $sidebar;
-		&.sticky {
-			margin-right: $gutter;
-			margin-top: $gutter;
-			position: absolute;
-			right: 0;
-			top: 0;
-		}
-		h2 {
+  .header {
+    padding: $gutter $gutter/2;
+    .links {
+      float: right;
+      a {
+        font-size: $large;
+        margin-left: $gutter/2;
+        &:hover {
+          color: $red;
+          text-decoration: none;
+        }
+        &:before {
+          @include icon();
+        }
+        &.email:before { content: 'e'; }
+        &.facebook:before { content: 'f'; }
+        &.twitter:before { content: 't'; }
+        &.github:before { content: 'g'; }
+        span {
+          display: none;
+        }
+      }
+    }
+    h1 {
+      font-size: $huge;
+      font-weight: normal;
+      margin: 0;
+    }
+  }
+  .main {
+    @include clearfix();
+    border: 1px solid $line;
+    border-bottom: 2px solid $red;
+    border-top: 2px solid $red;
+    overflow: hidden;
+    padding: $gutter;
+    position: relative;
+  }
+  .sidebar + .body {
+    margin-right: $sidebar + $gutter;
+  }
+  .sidebar {
+    float: right;
+    font-size: $larger;
+    width: $sidebar;
+    &.sticky {
+      margin-right: $gutter;
+      margin-top: $gutter;
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    h2 {
       border: 1px solid tint($line, 10%);
-			font-size: inherit;
-			margin: 0;
-			padding: 1.5*$gutter/2;
-			&:before {
-				@include icon();
-				content: 'h';
-				margin-right: $gutter/2;
-			}
-		}
-		ul {
-			border: 1px solid tint($line, 10%);
-      border-top: 0;
-			list-style: none;
-			margin: 0;
-			padding: 0;
-			h3 {
-				font-size: inherit;
-				margin: 0;
-				&:before {
-					@include icon();
-					content: 'r';
-					margin-right: $gutter/2;
-				}
-			}
-			li {
-				border-bottom: 1px solid tint($line, 10%);
-				padding: 1.5*$gutter/2;
-				&.active {
-					background: tint($light, 10%);
-					h3:before {
+      font-size: inherit;
+      margin: 0;
+      padding: 1.5*$gutter/2;
+      &:before {
+        @include icon();
+        content: 'h';
+        margin-right: $gutter/2;
+      }
+    }
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      h3 {
+        font-size: inherit;
+        margin: 0;
+        &:before {
+          @include icon();
+          content: 'r';
+          margin-right: $gutter/2;
+        }
+      }
+      li {
+        border: 1px solid tint($line, 10%);
+        border-top: 0;
+        padding: 1.5*$gutter/2;
+        &.active {
+          background: tint($light, 10%);
+          h3:before {
             content: 'd';
-					}
-					a {
-						font-weight: bold;
-					}
-					li a {
-						font-weight: inherit;
-					}
-				}
-				ul {
-					border: 0;
-					margin-left: $gutter + $gutter/4;
-				}
-				li {
-					border: 0;
-					color: tint($base, 10%);
-					margin-top: $gutter/2;
-					padding: 0;
-				}
-			}
-		}
-		a {
-			color: inherit;
-		}
-	}
-	.body {
-		border-right: 1px solid tint($line, 10%);
-		padding-right: $gutter;
-		a {
-			color: $red;
-		}
-		img {
-			max-width: 100%;
-		}
-	}
+          }
+          a {
+            font-weight: bold;
+          }
+          li a {
+            font-weight: inherit;
+          }
+        }
+        ul {
+          border: 0;
+          margin-left: $gutter + $gutter/4;
+        }
+        li {
+          border: 0;
+          color: tint($base, 10%);
+          margin-top: $gutter/2;
+          padding: 0;
+        }
+      }
+    }
+    a {
+      color: inherit;
+    }
+  }
+  .body {
+    border-right: 1px solid tint($line, 10%);
+    padding-right: $gutter;
+    a {
+      color: $red;
+    }
+    img {
+      max-width: 100%;
+    }
+  }
 }
 
 /* Footer */
 
 #footer {
-	font-size: $smaller;
-	.content {
-		background: $light;
-	}
-	h2,
-	h3 {
-		font-size: inherit;
-		font-weight: bold;
-		margin: 0;
-	}
-	h2 {
-		margin-top: 1.5*$gutter/2;
-		margin-bottom: $gutter/4;
-		text-transform: uppercase;
-	}
-	a {
-		color: inherit;
-	}
-	ul {
-		list-style: none;
-		margin: 0;
-		padding: 0;
-		li {
-			margin-bottom: $gutter/4;
-			ul {
-				margin-top: $gutter/4;
-				margin-left: $gutter/2;
-			}
-		}
-	}
-	.breadcrumb,
-	.links,
-	.agencies,
+  font-size: $smaller;
+  .content {
+    background: $light;
+  }
+  h2,
+  h3 {
+    font-size: inherit;
+    font-weight: bold;
+    margin: 0;
+  }
+  h2 {
+    margin-top: 1.5*$gutter/2;
+    margin-bottom: $gutter/4;
+    text-transform: uppercase;
+  }
+  a {
+    color: inherit;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      margin-bottom: $gutter/4;
+      ul {
+        margin-top: $gutter/4;
+        margin-left: $gutter/2;
+      }
+    }
+  }
+  .breadcrumb,
+  .links,
+  .agencies,
   .footer {
-  	@include clearfix;
+    @include clearfix;
     padding: 1.5*$gutter/2;
-	}
-	.links {
-		padding-top: 0;
-	}
-	.breadcrumb {
-		background: shade($light, 3%);
-		font-weight: bold;
-	}
-	.section {
-		@include box-sizing(border-box);
-		float: left;
-		padding-right: $gutter/2;
-		width: 20%;
-	}
-	.footer {
-		border-top: 1px solid $line;
-	}
-	.agencies {
-		font-size: $normal;
-		a {
-			font-weight: bold;
-			text-transform: uppercase;
-		}
-		.home {
-			float: left;
-			img {
-				display: block;
-			}
-		}
-		.links {
-			border-left: 1px solid $line;
-			float: left;
-			margin-left: $gutter;
-			padding: $gutter/2 1.5*$gutter/2;
-			a {
-				margin-right: $gutter/2;
-			}
-		}
-	}
-	.hotline {
-		float: right;
-		strong {
-			display: block;
-		}
-	}
+  }
+  .links {
+    padding-top: 0;
+  }
+  .breadcrumb {
+    background: shade($light, 3%);
+    font-weight: bold;
+  }
+  .section {
+    @include box-sizing(border-box);
+    float: left;
+    padding-right: $gutter/2;
+    width: 20%;
+  }
+  .footer {
+    border-top: 1px solid $line;
+  }
+  .agencies {
+    font-size: $normal;
+    a {
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    .home {
+      float: left;
+      img {
+        display: block;
+      }
+    }
+    .links {
+      border-left: 1px solid $line;
+      float: left;
+      margin-left: $gutter;
+      padding: $gutter/2 1.5*$gutter/2;
+      a {
+        margin-right: $gutter/2;
+      }
+    }
+  }
+  .hotline {
+    float: right;
+    strong {
+      display: block;
+    }
+  }
 }

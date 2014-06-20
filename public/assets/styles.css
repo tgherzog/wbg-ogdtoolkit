@@ -551,7 +551,7 @@ p {
   border-bottom: 2px solid #8a0000;
   border-top: 2px solid #8a0000;
   overflow: hidden;
-  padding: 15px;
+  padding: 20px;
   position: relative; }
   #main .main:after {
     content: "";
@@ -564,12 +564,13 @@ p {
   font-size: 14px;
   width: 300px; }
   #main .sidebar.sticky {
-    margin-right: 15px;
-    margin-top: 15px;
+    margin-right: 20px;
+    margin-top: 20px;
     position: absolute;
     right: 0;
     top: 0; }
   #main .sidebar h2 {
+    border: 1px solid #e0e0e0;
     font-size: inherit;
     margin: 0;
     padding: 15px; }
@@ -583,7 +584,6 @@ p {
       content: 'h';
       margin-right: 10px; }
   #main .sidebar ul {
-    border-top: 1px solid #e0e0e0;
     list-style: none;
     margin: 0;
     padding: 0; }
@@ -600,7 +600,8 @@ p {
         content: 'r';
         margin-right: 10px; }
     #main .sidebar ul li {
-      border-bottom: 1px solid #e0e0e0;
+      border: 1px solid #e0e0e0;
+      border-top: 0;
       padding: 15px; }
       #main .sidebar ul li.active {
         background: #f5f4f0; }
