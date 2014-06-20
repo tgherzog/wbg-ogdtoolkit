@@ -291,7 +291,7 @@ p {
 		border-bottom: 2px solid $red;
 		border-top: 2px solid $red;
 		overflow: hidden;
-		padding: 1.5*$gutter/2;
+		padding: $gutter;
 		position: relative;
 	}
 	.sidebar + .body {
@@ -302,13 +302,14 @@ p {
 		font-size: $larger;
 		width: $sidebar;
 		&.sticky {
-			margin-right: 1.5*$gutter/2;
-			margin-top: 1.5*$gutter/2;
+			margin-right: $gutter;
+			margin-top: $gutter;
 			position: absolute;
 			right: 0;
 			top: 0;
 		}
 		h2 {
+      border: 1px solid tint($line, 10%);
 			font-size: inherit;
 			margin: 0;
 			padding: 1.5*$gutter/2;
@@ -319,7 +320,8 @@ p {
 			}
 		}
 		ul {
-			border-top: 1px solid tint($line, 10%);
+			border: 1px solid tint($line, 10%);
+      border-top: 0;
 			list-style: none;
 			margin: 0;
 			padding: 0;
