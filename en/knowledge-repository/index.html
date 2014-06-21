@@ -727,22 +727,15 @@ Spreadsheet</a></li>
   <script>
     $(function() {
       var sidebar_top = $('#main .sidebar').offset().top;
-      var content_bottom = $('#main .main').offset().top + $('#main .main').height();
-
       var sticky_navigation = function(){
         var scroll_top = $(window).scrollTop();
         if (scroll_top > (sidebar_top - 20)) {
-          var sidebar_bottom = scroll_top - sidebar_top + $('#main .sidebar').height();
-          if (sidebar_bottom > (content_bottom - 20)) {
-            $('#main .sidebar').addClass('sticky').css({ 'bottom': 20 });
-          }
-          else {
-            $('#main .sidebar').addClass('sticky').css({ 'top': (scroll_top - sidebar_top + 20) });
-          }
+          $('#main .sidebar').addClass('sticky').css({ 'top': (scroll_top - sidebar_top + 20) });
         }
-        else { $('#main .sidebar').removeClass('sticky').css({}); }
+        else {
+          $('#main .sidebar').removeClass('sticky').css({});
+        }
       };
-      
       sticky_navigation();
       $(window).scroll(function() {
          sticky_navigation();
