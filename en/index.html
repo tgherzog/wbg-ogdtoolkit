@@ -301,8 +301,8 @@
   <script>
     $(function() {
       var sidebar_top = $('#main .sidebar').offset().top;
-      var sidebar_bottom = $('#main .sidebar').offset().bottom;
-      var content_bottom = $('#main .main').offset().bottom;
+      var sidebar_bottom = sidebar_top + $('#main .sidebar').height();
+      var content_bottom = $('#main .main').offset().top + $('#main .main').height();
       var sticky_navigation = function(){
         var scroll_top = $(window).scrollTop();
         if (scroll_top > (sidebar_top - 20)) {
