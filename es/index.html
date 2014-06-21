@@ -291,9 +291,11 @@
       var sidebar_top = $('#main .sidebar').offset().top;
       var sidebar_bottom = sidebar_top + $('#main .sidebar').height();
       var content_bottom = $('#main .main').offset().top + $('#main .main').height();
+      console.log(sidebar_bottom + ' over ' + content_bottom);
       var sticky_navigation = function(){
         var scroll_top = $(window).scrollTop();
         if (scroll_top > (sidebar_top - 20)) {
+
           if (sidebar_bottom > (content_bottom - 20)) {
             $('#main .sidebar').addClass('sticky').css({ 'bottom': 20 });
           }
