@@ -28,23 +28,7 @@
   <meta name='revisit-after' content='7 days'/>
 
   <!-- Favicons -->
-  <link rel='shortcut icon' href='/assets/favicons/favicon.ico'>
-  <link rel='apple-touch-icon' sizes='57x57' href='/assets/favicons/apple-touch-icon-57x57.png'>
-  <link rel='apple-touch-icon' sizes='114x114' href='/assets/favicons/apple-touch-icon-114x114.png'>
-  <link rel='apple-touch-icon' sizes='72x72' href='/assets/favicons/apple-touch-icon-72x72.png'>
-  <link rel='apple-touch-icon' sizes='144x144' href='/assets/favicons/apple-touch-icon-144x144.png'>
-  <link rel='apple-touch-icon' sizes='60x60' href='/assets/favicons/apple-touch-icon-60x60.png'>
-  <link rel='apple-touch-icon' sizes='120x120' href='/assets/favicons/apple-touch-icon-120x120.png'>
-  <link rel='apple-touch-icon' sizes='76x76' href='/assets/favicons/apple-touch-icon-76x76.png'>
-  <link rel='apple-touch-icon' sizes='152x152' href='/assets/favicons/apple-touch-icon-152x152.png'>
-  <link rel='icon' type='image/png' href='/assets/favicons/favicon-196x196.png' sizes='196x196'>
-  <link rel='icon' type='image/png' href='/assets/favicons/favicon-160x160.png' sizes='160x160'>
-  <link rel='icon' type='image/png' href='/assets/favicons/favicon-96x96.png' sizes='96x96'>
-  <link rel='icon' type='image/png' href='/assets/favicons/favicon-16x16.png' sizes='16x16'>
-  <link rel='icon' type='image/png' href='/assets/favicons/favicon-32x32.png' sizes='32x32'>
-  <meta name='msapplication-TileColor' content='#da532c'>
-  <meta name='msapplication-TileImage' content='/assets/favicons/mstile-144x144.png'>
-  <meta name='msapplication-config' content='/assets/favicons/browserconfig.xml'>
+  {% include 'partials/_favicons.html' %}
 
   <!-- CSS -->
   <link href='/assets/styles.css' rel='stylesheet' type='text/css'/>
@@ -58,38 +42,23 @@
 
   <header id='header'>
     <div class='content'>
-      <h2>Data</h2>
-
-      <nav class='links'>
-        <ul class='primary'>
-          <li><a href='http://data.worldbank.org/country'>{{ locales.header.links.primary.by_country }}</a></li>
-          <li><a href='http://data.worldbank.org/topic'>{{ locales.header.links.primary.by_topic }}</a></li>
-          <li><a href='http://data.worldbank.org/indicator'>{{ locales.header.links.primary.indicators }}</a></li>
-          <li><a href='http://data.worldbank.org/data-catalog'>{{ locales.header.links.primary.data_catalog }}</a></li>
-          <li><a href='http://microdata.worldbank.org'>{{ locales.header.links.primary.microdata }}</a></li>
-          <li><a href='http://blogs.worldbank.org/opendata/'>{{ locales.header.links.primary.blog }}</a></li>
-        </ul>
-
-        <ul class='secondary'>
-          <li><a href='http://data.worldbank.org/news'>{{ locales.header.links.secondary.news }}</a></li>
-          <li><a href='http://data.worldbank.org/about'>{{ locales.header.links.secondary.about }}</a></li>
-          <li><a href='http://datahelpdesk.worldbank.org'>{{ locales.header.links.secondary.helpdesk }}</a></li>
-          <li><a href='http://data.worldbank.org/products'>{{ locales.header.links.secondary.products }}</a></li>
-        </ul>
-      </nav>
-
-      <nav class='locale'>{{ locales.header.locale.prefix }}: {% if locale == 'en' %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% elif locale == 'es' %}<a href='/en{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.en }}</a> | <strong>{{ locales.header.locale.es }}</strong>{% else %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% endif %}</nav>
+      {% include 'partials/_header.html' %}
     </div>
   </header>
   
   <section id='main'>
     <div class='content'>
-      <header class='header'>
-        <nav class='links'>
-          <a class='email'><span>Email</span></a>
-          <a class='facebook'><span>Facebook</span></a>
-          <a class='twitter'><span>Twitter</span></a>
-          <a class='github'><span>GitHub</span></a>
+      <nav class='locale'>{{ locales.header.locale.prefix }}: {% if locale == 'en' %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% elif locale == 'es' %}<a href='/en{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.en }}</a> | <strong>{{ locales.header.locale.es }}</strong>{% else %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% endif %}</nav>
+
+      <header class='header' name='content-header' id='content-header'>
+        <nav class='links options'>
+          <a href='#content-header' class='menu'><span>Share</span></a>
+          <div class='options'>
+            <a class='email'><span>Email</span></a>
+            <a class='facebook'><span>Facebook</span></a>
+            <a class='twitter'><span>Twitter</span></a>
+            <a class='github'><span>GitHub</span></a>
+          </div>
         </nav>
 
         <h1>{{ title }}</h1>
@@ -132,6 +101,21 @@
       sticky_navigation();
       $(window).scroll(function() {
          sticky_navigation();
+      });
+    });
+  </script>
+  <script>
+    $(function() {
+      $('.menu').click(function () {
+        var options = $(this).next('.options');
+        if (options.hasClass('show')) {
+          $('body').removeClass('menu');
+          options.removeClass('show');
+        }
+        else {
+          $('body').addClass('menu');
+          options.addClass('show');
+        }
       });
     });
   </script>

@@ -1,0 +1,191 @@
+#navigation {
+  .content {
+    background: $black;
+    @include clearfix;
+    color: #FFF;
+    font-size: $smaller;
+    text-align: right;
+  }
+  a {
+    color: inherit;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  a.logo {
+    color: tint($black, 50%);
+    display: block;
+    float: left;
+    padding: 12px 0 12px $gutter/2;
+    &:before {
+      @include icon();
+      color: #FFF;
+      content: '0';
+      float: left;
+      font-size: $huge;
+      margin-right: $gutter/2;
+    }
+    &:hover {
+      color: tint($black, 55%);
+      text-decoration: none;
+    }
+    strong {
+      color: #FFF;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    span {
+      border-left: 1px solid tint($black, 20%);
+      margin-left: $gutter/2;
+      padding-left: $gutter/2;
+    }
+  }
+  .search {
+    form {
+      background: tint($black, 10%);
+      border: 1px solid tint($black, 20%);
+      input {
+        background: transparent;
+        border: 0;
+        display: block;
+        float: left;
+        outline: none;
+        padding: $gutter/4 $gutter/2;
+      }
+      .submit {
+        background: transparent;
+        border: 0;
+        outline: none;
+        &:before {
+          @include icon();
+          content: 's';
+        }
+        span {
+          display: none;
+        }
+      }
+    }
+  }
+  .menu {
+    background: transparent;
+    border: 0;
+    float: right;
+    font-size: $huge;
+    outline: none;
+    padding: 12px $gutter/2;
+    &:before {
+      @include icon();
+      content: 'b';
+    }
+    span {
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 960px) {
+  #navigation {
+    .logo {
+      span {
+        display: none;
+      }
+    }
+    .menu {
+      display: block;
+    }
+    .options {
+      background: $black;
+      border-top: 1px solid tint($black, 20%);
+      bottom: 0;
+      clear: both;
+      display: none;
+      font-size: $normal;
+      left: 0;
+      overflow-y: auto;
+      position: fixed;
+      right: 0;
+      text-align: left;
+      top: 42px;
+      z-index: 999;
+      &.show {
+        display: block;
+      }
+      .search {
+        padding: $gutter/2;
+      }
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        li {
+          border-top: 1px solid tint($black, 20%);
+          padding: $gutter/2;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 961px) {
+  #navigation {
+    .menu {
+      display: none;
+    }
+    .options {
+      display: block;
+    }
+    ul {
+      display: inline;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      li {
+        display: inline;
+        margin-left: $gutter/2;
+      }
+    }
+    .logo,
+    .languages,
+    .menu {
+      @include box-sizing(border-box);
+      height: 42px;
+    }
+    .languages {
+      display: block;
+      float: right;
+      padding: 12px 0;
+      a.more {
+        border-right: 1px solid tint($black, 20%);
+        margin-right: $gutter/2;
+        padding-right: $gutter/2;
+        &:before {
+          @include icon();
+          content: 'm';
+        }
+        span {
+          display: none;
+        }
+      }
+    }
+    .search {
+      float: right;
+      margin-top: 8px;
+      padding:  0 $gutter/2 0 0;
+    }
+    .links {
+      background: #FFF;
+      clear: both;
+      color: #333;
+      display: block;
+      padding: $gutter/2 0;
+      text-align: left;
+      a {
+        color: inherit;
+        font-weight: bold;
+      }
+      .active {
+        border-bottom: 2px solid $red;
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+#header {
+  @include clearfix;
+  position: relative;
+  h2 {
+    background: $red;
+    color: #FFF;
+    font-size: $huge;
+    font-weight: normal;
+    line-height: 1;
+    margin: 0;
+    padding: $gutter/2;
+  }
+  .menu {
+    background: transparent;
+    border: 0;
+    color: #FFF;
+    font-size: $huge;
+    outline: none;
+    position: absolute;
+    right: $gutter/2;
+    top: 1.5*$gutter/2;
+    &:before {
+      @include icon();
+      content: 'b';
+    }
+    &:hover {
+      text-decoration: none;
+    }
+    span {
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 960px) {
+  #header {
+    .menu {
+      display: block;
+    }
+    .options {
+      background: $red;
+      border-top: 1px solid tint($red, 20%);
+      bottom: 0;
+      display: none;
+      left: 0;
+      overflow-y: auto;
+      position: fixed;
+      right: 0;
+      top: 46px;
+      z-index: 999;
+      &.show {
+        display: block;
+      }
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        li {
+          border-bottom: 1px solid tint($red, 20%);
+          padding: $gutter/2;
+          a {
+            color: #FFF;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 961px) {
+  #header {
+    .menu {
+      display: none;
+    }
+    .links {
+      border-bottom: 1px solid $line;
+      @include clearfix;
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      li {
+        float: left;
+        padding: 0;
+      }
+      a {
+        border-left: 1px solid $line;
+        color: $grey;
+        display: block;
+        font-weight: bold;
+        padding: $gutter/2;
+        &:hover {
+          color: $base;
+          text-decoration: none;
+        }
+      }
+    }
+    .primary li:last-child a {
+      border-right: 1px solid $line;
+    }
+    .secondary {
+      li {
+        float: right;
+      }
+    }
+  }
+}
