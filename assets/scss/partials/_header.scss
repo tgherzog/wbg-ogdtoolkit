@@ -11,24 +11,10 @@
     padding: $gutter/2;
   }
   .menu {
-    background: transparent;
-    border: 0;
     color: #FFF;
-    font-size: $huge;
-    outline: none;
     position: absolute;
     right: $gutter/2;
     top: 1.5*$gutter/2;
-    &:before {
-      @include icon();
-      content: 'b';
-    }
-    &:hover {
-      text-decoration: none;
-    }
-    span {
-      display: none;
-    }
   }
 }
 

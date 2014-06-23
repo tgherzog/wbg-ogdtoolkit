@@ -8,9 +8,6 @@
   }
   a {
     color: inherit;
-    &:hover {
-      text-decoration: underline;
-    }
   }
   a.logo {
     color: tint($black, 50%);
@@ -67,19 +64,8 @@
     }
   }
   .menu {
-    background: transparent;
-    border: 0;
     float: right;
-    font-size: $huge;
-    outline: none;
     padding: 12px $gutter/2;
-    &:before {
-      @include icon();
-      content: 'b';
-    }
-    span {
-      display: none;
-    }
   }
 }
 

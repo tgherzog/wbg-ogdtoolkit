@@ -83,6 +83,23 @@ p {
   margin: 0 0 $gutter;
 }
 
+a.menu {
+  background: transparent;
+  border: 0;
+  font-size: $huge;
+  outline: none;
+  &:hover {
+    text-decoration: none;
+  }
+  &:before {
+    @include icon();
+    content: 'b';
+  }
+  span {
+    display: none;
+  }
+}
+
 /* Layout */
 
 .content {

@@ -51,13 +51,6 @@
   }
   .sidebar {
     font-size: $larger;
-    &.sticky {
-      margin-right: $gutter;
-      margin-top: $gutter;
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
     h2 {
       border: 1px solid tint($line, 10%);
       font-size: inherit;
@@ -137,8 +130,18 @@
         }
       }
     }
+    .main {
+      border-left: 0;
+      border-right: 0;
+      padding: $gutter/2;
+    }
     .sidebar {
-      display: none;
+      .navigation {
+        display: block;
+      }
+      .links {
+        display: none;
+      }
     }
   }
 }
@@ -160,6 +163,16 @@
     .sidebar {
       float: right;
       width: $sidebar;
+      .select {
+        display: none;
+      }
+      &.sticky {
+        margin-right: $gutter;
+        margin-top: $gutter;
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
     }
   }
 }
