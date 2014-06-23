@@ -44,11 +44,11 @@
   <link href='/assets/styles.css' rel='stylesheet' type='text/css'/>
 </head>
 <body>
-  <nav id='navigation'>
+  <nav id='navigation' name='navigation'>
     <div class='content'>
       <a class='logo' href='http://www.worldbank.org'><strong>The World Bank</strong><span>Working for a World Free of Poverty</span></a>
 
-<button class='menu'><span>Menu</span></button>
+<a href='#navigation' class='menu'><span>Menu</span></a>
 
 <div class='options'>
   <section class='search'>
@@ -132,40 +132,53 @@
 
       <section class='main'>
         <aside class='sidebar'>
-          <h2><a href='/es'>Open Government Data Toolkit</a></h2>
-<ul>
-	
-	<li><h3><a href='/es/Open-Data-Essentials'>Open Data Essentials</a></h3>
-	
-	</li>
-	
-	<li class='active'><h3><a href='/es/Demand-and-Engagement'>Demand and Engagement</a></h3>
-	
-	
+          <nav class='links'>
+	<h2><a href='/es'>Open Government Data Toolkit</a></h2>
 	<ul>
-	<li><a href="#step-1-early-engagement">STEP 1: Early Engagement</a></li>
-	
-	
-	
-	<li><a href="#step-2-capacity-development">STEP 2: Capacity Development</a></li>
-	
-	
-	
-	<li><a href="#step-3-use-ownership-reuse">STEP 3: Use + Ownership + Reuse</a></li>
-	
-	
-	
-	<li><a href="#step-4-further-development">STEP 4: Further Development</a></li>
-	
-	
-	
-	<li><a href="#additional-resources">Additional Resources</a></li>
+		
+		<li><h3><a href='/es/Open-Data-Essentials'>Open Data Essentials</a></h3>
+		
+		</li>
+		
+		<li class='active'><h3><a href='/es/Demand-and-Engagement'>Demand and Engagement</a></h3>
+		
+		
+		<ul>
+		<li><a href="#step-1-early-engagement">STEP 1: Early Engagement</a></li>
+		
+		
+		
+		<li><a href="#step-2-capacity-development">STEP 2: Capacity Development</a></li>
+		
+		
+		
+		<li><a href="#step-3-use-ownership-reuse">STEP 3: Use + Ownership + Reuse</a></li>
+		
+		
+		
+		<li><a href="#step-4-further-development">STEP 4: Further Development</a></li>
+		
+		
+		
+		<li><a href="#additional-resources">Additional Resources</a></li>
+		</ul>
+		
+		
+		</li>
+		
 	</ul>
-	
-	
-	</li>
-	
-</ul>
+</nav>
+
+<div class='select'>
+  <select name='sidebar'>
+		<option value='/'>Open Government Data Toolkit</option>
+		
+		<option value='/es/Open-Data-Essentials'>Open Data Essentials</option>
+		
+		<option checked value='/es/Demand-and-Engagement'>Demand and Engagement</option>
+		
+  </select>
+</div>
         </aside>
 
         <section class='body'>

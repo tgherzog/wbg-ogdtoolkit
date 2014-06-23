@@ -365,6 +365,24 @@ h3, h4, h5, h6 {
 p {
   margin: 0 0 20px; }
 
+a.menu {
+  background: transparent;
+  border: 0;
+  font-size: 26px;
+  outline: none; }
+  a.menu:hover {
+    text-decoration: none; }
+  a.menu:before {
+    font-family: 'icons';
+    font-variant: normal;
+    font-weight: normal;
+    speak: none;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    content: 'b'; }
+  a.menu span {
+    display: none; }
+
 /* Layout */
 .content {
   margin: 0 auto;
@@ -383,8 +401,6 @@ p {
     clear: both; }
 #navigation a {
   color: inherit; }
-  #navigation a:hover {
-    text-decoration: underline; }
 #navigation a.logo {
   color: #959494;
   display: block;
@@ -438,22 +454,8 @@ p {
     #navigation .search form .submit span {
       display: none; }
 #navigation .menu {
-  background: transparent;
-  border: 0;
   float: right;
-  font-size: 26px;
-  outline: none;
   padding: 12px 10px; }
-  #navigation .menu:before {
-    font-family: 'icons';
-    font-variant: normal;
-    font-weight: normal;
-    speak: none;
-    text-transform: none;
-    -webkit-font-smoothing: antialiased;
-    content: 'b'; }
-  #navigation .menu span {
-    display: none; }
 
 @media (max-width: 960px) {
   #navigation .logo span {
@@ -554,26 +556,10 @@ p {
     margin: 0;
     padding: 10px; }
   #header .menu {
-    background: transparent;
-    border: 0;
     color: #FFF;
-    font-size: 26px;
-    outline: none;
     position: absolute;
     right: 10px;
     top: 15px; }
-    #header .menu:before {
-      font-family: 'icons';
-      font-variant: normal;
-      font-weight: normal;
-      speak: none;
-      text-transform: none;
-      -webkit-font-smoothing: antialiased;
-      content: 'b'; }
-    #header .menu:hover {
-      text-decoration: none; }
-    #header .menu span {
-      display: none; }
 
 @media (max-width: 960px) {
   #header .menu {
@@ -684,12 +670,6 @@ p {
     clear: both; }
 #main .sidebar {
   font-size: 14px; }
-  #main .sidebar.sticky {
-    margin-right: 20px;
-    margin-top: 20px;
-    position: absolute;
-    right: 0;
-    top: 0; }
   #main .sidebar h2 {
     border: 1px solid #e0e0e0;
     font-size: inherit;
@@ -754,7 +734,13 @@ p {
     display: none; }
     #main .header .options.show {
       display: block; }
-  #main .sidebar {
+  #main .main {
+    border-left: 0;
+    border-right: 0;
+    padding: 10px; }
+  #main .sidebar .navigation {
+    display: block; }
+  #main .sidebar .links {
     display: none; } }
 
 @media (min-width: 961px) {
@@ -767,7 +753,15 @@ p {
     padding-right: 20px; }
   #main .sidebar {
     float: right;
-    width: 300px; } }
+    width: 300px; }
+    #main .sidebar .select {
+      display: none; }
+    #main .sidebar.sticky {
+      margin-right: 20px;
+      margin-top: 20px;
+      position: absolute;
+      right: 0;
+      top: 0; } }
 
 #footer {
   font-size: 12px; }

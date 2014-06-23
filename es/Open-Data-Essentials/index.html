@@ -44,11 +44,11 @@
   <link href='/assets/styles.css' rel='stylesheet' type='text/css'/>
 </head>
 <body>
-  <nav id='navigation'>
+  <nav id='navigation' name='navigation'>
     <div class='content'>
       <a class='logo' href='http://www.worldbank.org'><strong>The World Bank</strong><span>Working for a World Free of Poverty</span></a>
 
-<button class='menu'><span>Menu</span></button>
+<a href='#navigation' class='menu'><span>Menu</span></a>
 
 <div class='options'>
   <section class='search'>
@@ -132,18 +132,31 @@
 
       <section class='main'>
         <aside class='sidebar'>
-          <h2><a href='/es'>Open Government Data Toolkit</a></h2>
-<ul>
-	
-	<li><h3><a href='/es/Open-Data-Essentials'>Open Data Essentials</a></h3>
-	
-	</li>
-	
-	<li><h3><a href='/es/Demand-and-Engagement'>Demand and Engagement</a></h3>
-	
-	</li>
-	
-</ul>
+          <nav class='links'>
+	<h2><a href='/es'>Open Government Data Toolkit</a></h2>
+	<ul>
+		
+		<li><h3><a href='/es/Open-Data-Essentials'>Open Data Essentials</a></h3>
+		
+		</li>
+		
+		<li><h3><a href='/es/Demand-and-Engagement'>Demand and Engagement</a></h3>
+		
+		</li>
+		
+	</ul>
+</nav>
+
+<div class='select'>
+  <select name='sidebar'>
+		<option value='/'>Open Government Data Toolkit</option>
+		
+		<option value='/es/Open-Data-Essentials'>Open Data Essentials</option>
+		
+		<option value='/es/Demand-and-Engagement'>Demand and Engagement</option>
+		
+  </select>
+</div>
         </aside>
 
         <section class='body'>
