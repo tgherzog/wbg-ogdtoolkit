@@ -44,9 +44,9 @@
   <link href='/assets/styles.css' rel='stylesheet' type='text/css'/>
 </head>
 <body>
-  <nav id='navigation' name='navigation'>
+  <header id='header' name='header'>
     <div class='content'>
-      <a class='logo' href='http://www.worldbank.org'><strong>The World Bank</strong><span>Working for a World Free of Poverty</span></a>
+      <a class='logo' href='http://www.worldbank.org'><strong>The World Bank</strong> Working for a World Free of Poverty</a>
 
 <a href='#navigation' class='menu'><span>Menu</span></a>
 
@@ -83,48 +83,21 @@
     <li><a href='http://www.worldbank.org/en/topic'>Topics</a></li>
   </ul>
 </div>
-    </div>
-  </nav>
 
-  <header id='header'>
-    <div class='content'>
-      <h2 id='title' name='title'>Data</h2>
-
-<a href='#title' class='menu'><span>Menu</span></a>
-
-<nav class='links options'>
-  <ul class='primary'>
-    <li><a href='http://data.worldbank.org/country'>By Country</a></li>
-    <li><a href='http://data.worldbank.org/topic'>By Topic</a></li>
-    <li><a href='http://data.worldbank.org/indicator'>Indicators</a></li>
-    <li><a href='http://data.worldbank.org/data-catalog'>Data Catalog</a></li>
-    <li><a href='http://microdata.worldbank.org'>Microdata</a></li>
-    <li><a href='http://blogs.worldbank.org/opendata/'>Blog</a></li>
-  </ul>
-
-  <ul class='secondary'>
-    <li><a href='http://data.worldbank.org/news'>News</a></li>
-    <li><a href='http://data.worldbank.org/about'>About</a></li>
-    <li><a href='http://datahelpdesk.worldbank.org'>Support</a></li>
-    <li><a href='http://data.worldbank.org/products'>Products</a></li>
-  </ul>
-</nav>
+<h2>Data</h2>
     </div>
   </header>
-  
+
   <section id='main'>
     <div class='content'>
-      <nav class='locale'>This page in: <strong>English</strong> | <a href='/es/knowledge-repository'>Spanish</a></nav>
+      <!-- <nav class='locale'>This page in: <strong>English</strong> | <a href='/es/knowledge-repository'>Spanish</a></nav> -->
 
       <header class='header' name='content-header' id='content-header'>
-        <nav class='links options'>
-          <a href='#content-header' class='menu'><span>Share</span></a>
-          <div class='options'>
-            <a class='email'><span>Email</span></a>
-            <a class='facebook'><span>Facebook</span></a>
-            <a class='twitter'><span>Twitter</span></a>
-            <a class='github'><span>GitHub</span></a>
-          </div>
+        <nav class='links'>
+          <a class='email' href='http://www.facebook.com/sharer.php?u=en/knowledge-repository'><span>Email</span></a>
+          <a class='facebook' href=''><span>Facebook</span></a>
+          <a class='twitter' href='https://twitter.com/share?url=en/knowledge-repository'><span>Twitter</span></a>
+          <a class='linkedin' href='http://www.linkedin.com/shareArticle?mini=true&url=en/knowledge-repository&title=Open Data Essentials&source=World%20Bank'><span>LinkedIn</span></a>
         </nav>
 
         <h1>Open Data Essentials</h1>
@@ -188,23 +161,6 @@
 		
 	</ul>
 </nav>
-
-<div class='select'>
-  <select name='sidebar'>
-		<option value='/'>Open Government Data Toolkit</option>
-		
-		<option checked value='/en/knowledge-repository'>Open Data Essentials</option>
-		
-		<option value='/en/it-solutions'>Technology Options</option>
-		
-		<option value='/en/demand-for-od-engagement-tools'>Demand and Engagement</option>
-		
-		<option value='/en/supply-of-data'>Supply and Quality of Data</option>
-		
-		<option value='/en/readiness-assessment-tool'>Readiness Assessment Tool</option>
-		
-  </select>
-</div>
         </aside>
 
         <section class='body'>
@@ -763,6 +719,7 @@ Spreadsheet</a></li>
       });
     });
   </script>
+
   <script>
     $(function() {
       $('.menu').click(function () {
@@ -776,6 +733,47 @@ Spreadsheet</a></li>
           options.addClass('show');
         }
       });
+    });
+  </script>
+
+  <!-- Select sidebar for mobile -->
+  <script>
+    $(function() {
+      var links = [{'title': 'Jump to another section'}];
+      $('#footer .content > .links a').each(function () {
+        links.push({
+          'title': $(this).html(),
+          'url': $(this).attr('href'),
+          'type': $(this).parent().prop('tagName')
+        });
+      });
+      
+      var select = $('<select></select>');
+
+      for (i = 0; i < links.length; i++) {
+        var label = links[i].title;
+
+        if (links[i].type == 'H2') {
+          label = label.toUpperCase();
+        }
+        else if (links[i].type == 'LI') {
+          label = '&nbsp;&nbsp;'+ label;
+        }
+
+        var option = $('<option value="'+ links[i].url +'">'+ label +'</option>');
+        
+        $(select).append(option);
+      }
+
+      select.on('change', function (e) {
+        if (this.value.length > 0) {
+          window.location = this.value;
+        }
+      });
+
+      var element = $('<span class="select"></span>').append(select);
+
+      $('#footer .content > .links').before(element);
     });
   </script>
 </body>
