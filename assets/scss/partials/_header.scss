@@ -1,6 +1,77 @@
 #header {
-  @include clearfix;
-  position: relative;
+  .content {
+    background: $black;
+    @include clearfix;
+    color: #FFF;
+    font-size: $smaller;
+    text-align: right;
+  }
+  a {
+    color: inherit;
+  }
+  a.menu {
+    background: transparent;
+    border: 0;
+    font-size: $huge;
+    outline: none;
+    &:hover {
+      text-decoration: none;
+    }
+    &:before {
+      @include icon();
+      content: 'b';
+    }
+    span {
+      display: none;
+    }
+  }
+  a.logo {
+    background: url(/images/logo-en.gif) no-repeat left center;
+    display: block;
+    float: left;
+    height: 42px;
+    text-align: left;
+    text-indent: -999em;
+    width: 390px;
+  }
+  .search {
+    form {
+      background: tint($black, 10%);
+      border: 1px solid tint($black, 20%);
+      position: relative;
+      input {
+        background: transparent;
+        border: 0;
+        @include box-sizing(border-box);
+        display: block;
+        outline: none;
+        padding: $gutter/4 $gutter/2;
+        width: 100%;
+      }
+      .submit {
+        background: transparent;
+        border: 0;
+        font-size: $normal;
+        line-height: 1;
+        outline: none;
+        padding: $gutter/4;
+        position: absolute;
+        right: 0;
+        top: 0;
+        &:before {
+          @include icon();
+          content: 's';
+        }
+        span {
+          display: none;
+        }
+      }
+    }
+  }
+  .menu {
+    float: right;
+    padding: 12px $gutter/2;
+  }
   h2 {
     background: $red;
     color: #FFF;
@@ -9,46 +80,76 @@
     line-height: 1;
     margin: 0;
     padding: $gutter/2;
+    text-align: left;
   }
-  .menu {
-    color: #FFF;
-    position: absolute;
-    right: $gutter/2;
-    top: 1.5*$gutter/2;
+}
+
+@media (max-width: 767px) {
+  #header {
+    a.logo {
+      width: 170px;
+    }
   }
 }
 
 @media (max-width: 960px) {
   #header {
+    .logo {
+      span {
+        display: none;
+      }
+    }
     .menu {
       display: block;
     }
     .options {
-      background: $red;
-      border-top: 1px solid tint($red, 20%);
+      background: $black;
+      border-top: 1px solid tint($black, 20%);
       bottom: 0;
+      clear: both;
       display: none;
+      font-size: $normal;
       left: 0;
       overflow-y: auto;
       position: fixed;
       right: 0;
-      top: 46px;
+      text-align: left;
+      top: 42px;
       z-index: 999;
       &.show {
         display: block;
+      }
+      .search {
+        padding: $gutter/2;
       }
       ul {
         list-style: none;
         margin: 0;
         padding: 0;
         li {
-          border-bottom: 1px solid tint($red, 20%);
-          padding: $gutter/2;
+          border-top: 1px solid tint($black, 20%);
           a {
-            color: #FFF;
+            display: block;
+            padding: $gutter/2;
+          }
+        }
+        &.links {
+          background: #FFF;
+          color: $base;
+          li {
+            border-top: 1px solid $line;
+          }
+          li.active {
+            a {
+              border-left: 3px solid $red;
+              padding-left: $gutter/2 - 3;
+            }
           }
         }
       }
+    }
+    h2 {
+      display: none;
     }
   }
 }
@@ -58,37 +159,64 @@
     .menu {
       display: none;
     }
-    .links {
-      border-bottom: 1px solid $line;
-      @include clearfix;
-      ul {
-        list-style: none;
-        margin: 0;
-        padding: 0;
-      }
+    .options {
+      display: block;
+    }
+    ul {
+      display: inline;
+      list-style: none;
+      margin: 0;
+      padding: 0;
       li {
-        float: left;
-        padding: 0;
+        display: inline;
+        margin-left: $gutter/2;
       }
-      a {
-        border-left: 1px solid $line;
-        color: $grey;
-        display: block;
-        font-weight: bold;
-        padding: $gutter/2;
-        &:hover {
-          color: $base;
-          text-decoration: none;
+    }
+    .logo,
+    .languages,
+    .menu {
+      @include box-sizing(border-box);
+      height: 42px;
+    }
+    .languages {
+      display: block;
+      float: right;
+      padding: 12px 0;
+      a.more {
+        border-right: 1px solid tint($black, 20%);
+        margin-right: $gutter/2;
+        padding-right: $gutter/2;
+        &:before {
+          @include icon();
+          content: 'm';
+        }
+        span {
+          display: none;
         }
       }
     }
-    .primary li:last-child a {
-      border-right: 1px solid $line;
+    .search {
+      float: right;
+      margin-top: 8px;
+      padding:  0 $gutter/2 0 0;
     }
-    .secondary {
-      li {
-        float: right;
+    .links {
+      background: #FFF;
+      clear: both;
+      color: #333;
+      display: block;
+      padding: $gutter/2 0;
+      text-align: left;
+      a {
+        color: inherit;
+        font-weight: bold;
       }
+      .active {
+        border-bottom: 2px solid $red;
+      }
+    }
+    h2 {
+      display: block;
     }
   }
 }

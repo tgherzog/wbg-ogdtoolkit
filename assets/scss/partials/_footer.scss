@@ -80,6 +80,47 @@
     ul {
       display: none;
     }
+    .select {
+      border-top: 1px solid $line;
+      cursor: pointer;
+      @include box-sizing(border-box);
+      display: inline-block;
+      font-size: inherit;
+      line-height: 140%;
+      position: relative;
+      width: 100%;
+      select {
+        @include appearance(none);
+        background: transparent;
+        border: 0;
+        border-radius: 0;
+        cursor: pointer;
+        outline: none;
+        @include box-sizing(border-box);
+        padding: 1.5*$gutter/2;
+        width: 100%;
+      }
+      &:after {
+        @include icon();
+        content: 'd';
+        cursor: pointer;
+        pointer-events: none;
+        position: absolute;
+        right: 1.5*$gutter/2;
+        top: 1.5*$gutter/2;
+        &:hover {
+          color: inherit;
+        }
+      }
+      &:hover {
+        &:after {
+          color: inherit;
+        }
+      }
+      & + .links {
+        display: none;
+      }
+    }
     .agencies {
       border-top: 1px solid $line;
       .home {

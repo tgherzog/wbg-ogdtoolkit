@@ -14,12 +14,3 @@
 		{% endfor %}
 	</ul>
 </nav>
-
-<div class='select'>
-  <select name='sidebar'>
-		<option value='/'>Open Government Data Toolkit</option>
-		{% for item in sidebar %}
-		<option{% if item.name == title %} checked{% endif %} value='{{ item.link }}'>{{ item.name }}</option>
-		{% endfor %}
-  </select>
-</div>

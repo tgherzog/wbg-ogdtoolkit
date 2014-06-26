@@ -16,6 +16,7 @@
       float: right;
       padding: $gutter/2 0;
       a {
+        color: inherit;
         font-size: $large;
         margin-left: $gutter/2;
         &:hover {
@@ -29,6 +30,7 @@
         &.facebook:before { content: 'f'; }
         &.twitter:before { content: 't'; }
         &.github:before { content: 'g'; }
+        &.linkedin:before { content: 'l'; }
         span {
           display: none;
         }
@@ -120,14 +122,8 @@
 @media (max-width: 960px) {
   #main {
     .header {
-      .menu {
-        display: block;
-      }
-      .options {
+      .links {
         display: none;
-        &.show {
-          display: block;
-        }
       }
     }
     .main {
@@ -149,7 +145,7 @@
 @media (min-width: 961px) {
   #main {
     .header {
-      .menu {
+      .select {
         display: none;
       }
     }

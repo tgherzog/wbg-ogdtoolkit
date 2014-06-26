@@ -83,23 +83,6 @@ p {
   margin: 0 0 $gutter;
 }
 
-a.menu {
-  background: transparent;
-  border: 0;
-  font-size: $huge;
-  outline: none;
-  &:hover {
-    text-decoration: none;
-  }
-  &:before {
-    @include icon();
-    content: 'b';
-  }
-  span {
-    display: none;
-  }
-}
-
 /* Layout */
 
 .content {
@@ -110,11 +93,6 @@ a.menu {
 
 /* Partials */
 
-@import 'partials/_navigation.scss';
 @import 'partials/_header.scss';
 @import 'partials/_main.scss';
 @import 'partials/_footer.scss';
-
-/* Responsive */
-
-@import 'partials/_responsive.scss';

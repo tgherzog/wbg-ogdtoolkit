@@ -34,31 +34,22 @@
   <link href='/assets/styles.css' rel='stylesheet' type='text/css'/>
 </head>
 <body>
-  <nav id='navigation' name='navigation'>
-    <div class='content'>
-      {% include 'partials/_navigation.html' %}
-    </div>
-  </nav>
-
-  <header id='header'>
+  <header id='header' name='header'>
     <div class='content'>
       {% include 'partials/_header.html' %}
     </div>
   </header>
-  
+
   <section id='main'>
     <div class='content'>
-      <nav class='locale'>{{ locales.header.locale.prefix }}: {% if locale == 'en' %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% elif locale == 'es' %}<a href='/en{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.en }}</a> | <strong>{{ locales.header.locale.es }}</strong>{% else %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% endif %}</nav>
+      <!-- <nav class='locale'>{{ locales.header.locale.prefix }}: {% if locale == 'en' %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% elif locale == 'es' %}<a href='/en{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.en }}</a> | <strong>{{ locales.header.locale.es }}</strong>{% else %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% endif %}</nav> -->
 
       <header class='header' name='content-header' id='content-header'>
-        <nav class='links options'>
-          <a href='#content-header' class='menu'><span>Share</span></a>
-          <div class='options'>
-            <a class='email'><span>Email</span></a>
-            <a class='facebook'><span>Facebook</span></a>
-            <a class='twitter'><span>Twitter</span></a>
-            <a class='github'><span>GitHub</span></a>
-          </div>
+        <nav class='links'>
+          <a class='email' href='http://www.facebook.com/sharer.php?u={{ path }}'><span>Email</span></a>
+          <a class='facebook' href=''><span>Facebook</span></a>
+          <a class='twitter' href='https://twitter.com/share?url={{ path }}'><span>Twitter</span></a>
+          <a class='linkedin' href='http://www.linkedin.com/shareArticle?mini=true&url={{ path }}&title={{ title }}&source=World%20Bank'><span>LinkedIn</span></a>
         </nav>
 
         <h1>{{ title }}</h1>
@@ -104,6 +95,7 @@
       });
     });
   </script>
+
   <script>
     $(function() {
       $('.menu').click(function () {
@@ -117,6 +109,47 @@
           options.addClass('show');
         }
       });
+    });
+  </script>
+
+  <!-- Select sidebar for mobile -->
+  <script>
+    $(function() {
+      var links = [{'title': 'Jump to another section'}];
+      $('#footer .content > .links a').each(function () {
+        links.push({
+          'title': $(this).html(),
+          'url': $(this).attr('href'),
+          'type': $(this).parent().prop('tagName')
+        });
+      });
+      
+      var select = $('<select></select>');
+
+      for (i = 0; i < links.length; i++) {
+        var label = links[i].title;
+
+        if (links[i].type == 'H2') {
+          label = label.toUpperCase();
+        }
+        else if (links[i].type == 'LI') {
+          label = '&nbsp;&nbsp;'+ label;
+        }
+
+        var option = $('<option value="'+ links[i].url +'">'+ label +'</option>');
+        
+        $(select).append(option);
+      }
+
+      select.on('change', function (e) {
+        if (this.value.length > 0) {
+          window.location = this.value;
+        }
+      });
+
+      var element = $('<span class="select"></span>').append(select);
+
+      $('#footer .content > .links').before(element);
     });
   </script>
 </body>
