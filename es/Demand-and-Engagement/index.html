@@ -88,11 +88,13 @@
     </div>
   </header>
 
-  <section id='main'>
+  <section id='main' name='main'>
     <div class='content'>
       <!-- <nav class='locale'>This page in (ES): <a href='/en/Demand-and-Engagement'>English (ES)</a> | <strong>Spanish (ES)</strong></nav> -->
 
-      <header class='header' name='content-header' id='content-header'>
+      <header class='header'>
+        <a href='#main' class='menu'><span>Menu</span></a>
+
         <nav class='links'>
           <a class='email' href='http://www.facebook.com/sharer.php?u=es/Demand-and-Engagement'><span>Email</span></a>
           <a class='facebook' href=''><span>Facebook</span></a>
@@ -105,42 +107,40 @@
 
       <section class='main'>
         <aside class='sidebar'>
-          <nav class='links'>
-	<h2><a href='/es'>Open Government Data Toolkit</a></h2>
+          <h2><a href='/es'>Open Government Data Toolkit</a></h2>
+<ul>
+	
+	<li><h3><a href='/es/Open-Data-Essentials'>Open Data Essentials</a></h3>
+	
+	</li>
+	
+	<li class='active'><h3><a href='/es/Demand-and-Engagement'>Demand and Engagement</a></h3>
+	
+	
 	<ul>
-		
-		<li><h3><a href='/es/Open-Data-Essentials'>Open Data Essentials</a></h3>
-		
-		</li>
-		
-		<li class='active'><h3><a href='/es/Demand-and-Engagement'>Demand and Engagement</a></h3>
-		
-		
-		<ul>
-		<li><a href="#step-1-early-engagement">STEP 1: Early Engagement</a></li>
-		
-		
-		
-		<li><a href="#step-2-capacity-development">STEP 2: Capacity Development</a></li>
-		
-		
-		
-		<li><a href="#step-3-use-ownership-reuse">STEP 3: Use + Ownership + Reuse</a></li>
-		
-		
-		
-		<li><a href="#step-4-further-development">STEP 4: Further Development</a></li>
-		
-		
-		
-		<li><a href="#additional-resources">Additional Resources</a></li>
-		</ul>
-		
-		
-		</li>
-		
+	<li><a href="#step-1-early-engagement">STEP 1: Early Engagement</a></li>
+	
+	
+	
+	<li><a href="#step-2-capacity-development">STEP 2: Capacity Development</a></li>
+	
+	
+	
+	<li><a href="#step-3-use-ownership-reuse">STEP 3: Use + Ownership + Reuse</a></li>
+	
+	
+	
+	<li><a href="#step-4-further-development">STEP 4: Further Development</a></li>
+	
+	
+	
+	<li><a href="#additional-resources">Additional Resources</a></li>
 	</ul>
-</nav>
+	
+	
+	</li>
+	
+</ul>
         </aside>
 
         <section class='body'>
@@ -455,7 +455,7 @@ Assistance</a></strong></p>
 
   <!-- JS -->
   <script src='//code.jquery.com/jquery-1.11.0.min.js'></script>
-  
+
   <!-- Sticky sidebar -->
   <script>
     $(function() {
@@ -492,16 +492,32 @@ Assistance</a></strong></p>
         if (options.hasClass('show')) {
           $('body').removeClass('menu');
           options.removeClass('show');
+          $(this).removeClass('active');
         }
         else {
-          $('body').addClass('menu');
+          if ($(this).parent().parent().attr('id') == 'header') $('body').addClass('menu');
           options.addClass('show');
+          $(this).addClass('active');
         }
       });
     });
   </script>
 
-  <!-- Links as select box for mobile -->
+  <!-- Main links as dropdown for mobile -->
+  <script>
+    $(function() {
+      var options = $('<div class="options"></div>');
+
+      $('#main .header .links a, #main .sidebar h2 a, #main .sidebar h3 a').each(function () {
+        options.append($(this));
+      });
+      
+      $('#main .header .menu').after(options);
+    });
+  </script>
+
+
+  <!-- Footer links as select box for mobile -->
   <script>
     $(function() {
       var links = [{'title': 'Jump to another section'}];

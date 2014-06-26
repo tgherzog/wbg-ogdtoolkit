@@ -88,11 +88,13 @@
     </div>
   </header>
 
-  <section id='main'>
+  <section id='main' name='main'>
     <div class='content'>
       <!-- <nav class='locale'>This page in: <strong>English</strong> | <a href='/es/knowledge-repository'>Spanish</a></nav> -->
 
-      <header class='header' name='content-header' id='content-header'>
+      <header class='header'>
+        <a href='#main' class='menu'><span>Menu</span></a>
+
         <nav class='links'>
           <a class='email' href='http://www.facebook.com/sharer.php?u=en/knowledge-repository'><span>Email</span></a>
           <a class='facebook' href=''><span>Facebook</span></a>
@@ -105,62 +107,60 @@
 
       <section class='main'>
         <aside class='sidebar'>
-          <nav class='links'>
-	<h2><a href='/en'>Open Government Data Toolkit</a></h2>
+          <h2><a href='/en'>Open Government Data Toolkit</a></h2>
+<ul>
+	
+	<li class='active'><h3><a href='/en/knowledge-repository'>Open Data Essentials</a></h3>
+	
+	
 	<ul>
-		
-		<li class='active'><h3><a href='/en/knowledge-repository'>Open Data Essentials</a></h3>
-		
-		
-		<ul>
-		<li><a href="#what-is-open-data-">What is Open Data?</a></li>
-		
-		
-		
-		<li><a href="#examples-of-open-data-portals">Examples of Open Data Portals</a></li>
-		
-		
-		
-		<li><a href="#open-data-benefits">Open Data Benefits</a></li>
-		
-		
-		
-		<li><a href="#open-data-applications">Open Data Applications</a></li>
-		
-		
-		
-		<li><a href="#open-data-policies">Open Data Policies</a></li>
-		
-		
-		
-		<li><a href="#open-data-learning-resources">Open Data Learning Resources</a></li>
-		
-		
-		
-		<li><a href="#technical-assistance-for-open-data">Technical Assistance for Open Data</a></li>
-		</ul>
-		
-		
-		</li>
-		
-		<li><h3><a href='/en/it-solutions'>Technology Options</a></h3>
-		
-		</li>
-		
-		<li><h3><a href='/en/demand-for-od-engagement-tools'>Demand and Engagement</a></h3>
-		
-		</li>
-		
-		<li><h3><a href='/en/supply-of-data'>Supply and Quality of Data</a></h3>
-		
-		</li>
-		
-		<li><h3><a href='/en/readiness-assessment-tool'>Readiness Assessment Tool</a></h3>
-		
-		</li>
-		
+	<li><a href="#what-is-open-data-">What is Open Data?</a></li>
+	
+	
+	
+	<li><a href="#examples-of-open-data-portals">Examples of Open Data Portals</a></li>
+	
+	
+	
+	<li><a href="#open-data-benefits">Open Data Benefits</a></li>
+	
+	
+	
+	<li><a href="#open-data-applications">Open Data Applications</a></li>
+	
+	
+	
+	<li><a href="#open-data-policies">Open Data Policies</a></li>
+	
+	
+	
+	<li><a href="#open-data-learning-resources">Open Data Learning Resources</a></li>
+	
+	
+	
+	<li><a href="#technical-assistance-for-open-data">Technical Assistance for Open Data</a></li>
 	</ul>
-</nav>
+	
+	
+	</li>
+	
+	<li><h3><a href='/en/it-solutions'>Technology Options</a></h3>
+	
+	</li>
+	
+	<li><h3><a href='/en/demand-for-od-engagement-tools'>Demand and Engagement</a></h3>
+	
+	</li>
+	
+	<li><h3><a href='/en/supply-of-data'>Supply and Quality of Data</a></h3>
+	
+	</li>
+	
+	<li><h3><a href='/en/readiness-assessment-tool'>Readiness Assessment Tool</a></h3>
+	
+	</li>
+	
+</ul>
         </aside>
 
         <section class='body'>
@@ -701,7 +701,7 @@ Spreadsheet</a></li>
 
   <!-- JS -->
   <script src='//code.jquery.com/jquery-1.11.0.min.js'></script>
-  
+
   <!-- Sticky sidebar -->
   <script>
     $(function() {
@@ -738,16 +738,32 @@ Spreadsheet</a></li>
         if (options.hasClass('show')) {
           $('body').removeClass('menu');
           options.removeClass('show');
+          $(this).removeClass('active');
         }
         else {
-          $('body').addClass('menu');
+          if ($(this).parent().parent().attr('id') == 'header') $('body').addClass('menu');
           options.addClass('show');
+          $(this).addClass('active');
         }
       });
     });
   </script>
 
-  <!-- Links as select box for mobile -->
+  <!-- Main links as dropdown for mobile -->
+  <script>
+    $(function() {
+      var options = $('<div class="options"></div>');
+
+      $('#main .header .links a, #main .sidebar h2 a, #main .sidebar h3 a').each(function () {
+        options.append($(this));
+      });
+      
+      $('#main .header .menu').after(options);
+    });
+  </script>
+
+
+  <!-- Footer links as select box for mobile -->
   <script>
     $(function() {
       var links = [{'title': 'Jump to another section'}];

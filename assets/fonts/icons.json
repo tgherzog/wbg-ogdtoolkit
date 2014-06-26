@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "OGD Toolkit",
-		"lastOpened": 1403812592661,
+		"lastOpened": 1403821820978,
 		"created": 1381083457739
 	},
 	"iconSets": [
@@ -3919,7 +3919,12 @@
 				},
 				{
 					"id": 120,
-					"order": 0
+					"order": 12,
+					"prevSize": 20,
+					"code": 120,
+					"name": "cross",
+					"tempChar": "",
+					"ligatures": ""
 				},
 				{
 					"id": 121,
@@ -4043,7 +4048,7 @@
 					"prevSize": 20,
 					"code": 98,
 					"name": "list",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4132,7 +4137,7 @@
 					"prevSize": 20,
 					"code": 109,
 					"name": "play",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4277,7 +4282,7 @@
 					"prevSize": 20,
 					"code": 100,
 					"name": "arrow-down",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4290,7 +4295,7 @@
 					"prevSize": 20,
 					"code": 114,
 					"name": "arrow-right",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4415,7 +4420,7 @@
 					"prevSize": 20,
 					"code": 103,
 					"name": "github",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4444,7 +4449,7 @@
 					"prevSize": 20,
 					"code": 116,
 					"name": "twitter",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4457,7 +4462,7 @@
 					"prevSize": 20,
 					"code": 102,
 					"name": "facebook",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4498,7 +4503,7 @@
 					"prevSize": 20,
 					"code": 108,
 					"name": "linkedin",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
