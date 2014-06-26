@@ -701,18 +701,17 @@ Spreadsheet</a></li>
 
   <!-- JS -->
   <script src='//code.jquery.com/jquery-1.11.0.min.js'></script>
+  
   <!-- Sticky sidebar -->
   <script>
     $(function() {
       var top = $('#main .sidebar').offset().top;
-      var height = $('#main .sidebar').height();
       var footer = $('#footer').offset().top;
-      console.log(top);
-      console.log(footer);
+      var height = $('#main .sidebar').height();
       var sticky = function(){
         var scroll = $(window).scrollTop();
         if ((scroll + 20) > top) {
-          if ((scroll - top + 20 + height) > (footer - 20)) {
+          if ((scroll + 20 + height) > (footer - 20)) {
             $('#main .sidebar').addClass('sticky').css({ 'top': 'auto', 'bottom': 20 });
           }
           else {
