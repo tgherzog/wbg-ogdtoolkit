@@ -604,7 +604,6 @@ p {
   border: 1px solid #ddd;
   border-bottom: 2px solid #8a0000;
   border-top: 2px solid #8a0000;
-  overflow: hidden;
   padding: 20px;
   position: relative; }
   #main .main:after {
@@ -816,6 +815,8 @@ p {
     margin-bottom: 10px; } }
 
 @media (min-width: 961px) {
+  #footer .select {
+    display: none; }
   #footer .section {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;

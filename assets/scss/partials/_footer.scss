@@ -138,6 +138,9 @@
 
 @media (min-width: 961px) {
   #footer {
+    .select {
+      display: none;
+    }
     .section {
       @include box-sizing(border-box);
       float: left;
