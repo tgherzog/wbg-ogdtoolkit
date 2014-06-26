@@ -295,25 +295,37 @@
 
   <!-- JS -->
   <script src='//code.jquery.com/jquery-1.11.0.min.js'></script>
+  <!-- Sticky sidebar -->
   <script>
     $(function() {
-      var sidebar_top = $('#main .sidebar').offset().top;
-      var sticky_navigation = function(){
-        var scroll_top = $(window).scrollTop();
-        if (scroll_top > (sidebar_top - 20)) {
-          $('#main .sidebar').addClass('sticky').css({ 'top': (scroll_top - sidebar_top + 20) });
+      var top = $('#main .sidebar').offset().top;
+      var height = $('#main .sidebar').height();
+      var footer = $('#footer').offset().top;
+      console.log(top);
+      console.log(footer);
+      var sticky = function(){
+        var scroll = $(window).scrollTop();
+        if ((scroll + 20) > top) {
+          if ((scroll - top + 20 + height) > (footer - 20)) {
+            $('#main .sidebar').addClass('sticky').css({ 'top': 'auto', 'bottom': 20 });
+          }
+          else {
+            $('#main .sidebar').addClass('sticky').css({ 'top': (scroll - top + 20), 'bottom': 'auto' });
+          }
+          
         }
         else {
-          $('#main .sidebar').removeClass('sticky').css({});
+          $('#main .sidebar').removeClass('sticky').css({ 'top': 'auto', 'bottom': 'auto'});
         }
       };
-      sticky_navigation();
+      sticky();
       $(window).scroll(function() {
-         sticky_navigation();
+         sticky();
       });
     });
   </script>
 
+  <!-- Dropdown menu for mobile -->
   <script>
     $(function() {
       $('.menu').click(function () {
@@ -330,7 +342,7 @@
     });
   </script>
 
-  <!-- Select sidebar for mobile -->
+  <!-- Links as select box for mobile -->
   <script>
     $(function() {
       var links = [{'title': 'Jump to another section'}];
