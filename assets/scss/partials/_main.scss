@@ -12,6 +12,22 @@
   }
   .header {
     padding: $gutter/2;
+    position: relative;
+    .menu {
+      bottom: 1.5*$gutter/4;
+      color: $grey;
+      padding: $gutter/2 0;
+      position: absolute;
+      right: $gutter/2;
+      &:before {
+        content: 'r';
+      }
+      &.active {
+        &:before {
+          content: 'd';
+        }
+      }
+    }
     .links {
       float: right;
       padding: $gutter/2 0;
@@ -121,8 +137,29 @@
 @media (max-width: 960px) {
   #main {
     .header {
+      .menu {
+        display: block;
+      }
+      .options {
+        clear: both;
+        display: none;
+        margin: -$gutter/2;
+        margin-bottom: $gutter/2;
+        a {
+          border-bottom: 1px solid $line;
+          color: inherit;
+          display: block;
+          padding: $gutter/2;
+        }
+        &.show {
+          display: block;
+        }
+      }
       .links {
         display: none;
+      }
+      h1 {
+        padding-right: 2*$gutter;
       }
     }
     .main {
@@ -131,12 +168,7 @@
       padding: $gutter/2;
     }
     .sidebar {
-      .navigation {
-        display: block;
-      }
-      .links {
-        display: none;
-      }
+      display: none;
     }
   }
 }
@@ -144,7 +176,7 @@
 @media (min-width: 961px) {
   #main {
     .header {
-      .select {
+      .menu {
         display: none;
       }
     }
@@ -158,9 +190,6 @@
     .sidebar {
       float: right;
       width: $sidebar;
-      .select {
-        display: none;
-      }
       &.sticky {
         margin-right: $gutter;
         margin-top: $gutter;

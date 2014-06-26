@@ -365,6 +365,26 @@ h3, h4, h5, h6 {
 p {
   margin: 0 0 20px; }
 
+a.menu {
+  background: transparent;
+  border: 0;
+  font-size: 26px;
+  outline: none; }
+  a.menu:hover {
+    text-decoration: none; }
+  a.menu:before {
+    font-family: 'icons';
+    font-variant: normal;
+    font-weight: normal;
+    speak: none;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    content: 'b'; }
+  a.menu.active:before {
+    content: 'x'; }
+  a.menu span {
+    display: none; }
+
 /* Layout */
 .content {
   margin: 0 auto;
@@ -383,23 +403,6 @@ p {
     clear: both; }
 #header a {
   color: inherit; }
-#header a.menu {
-  background: transparent;
-  border: 0;
-  font-size: 26px;
-  outline: none; }
-  #header a.menu:hover {
-    text-decoration: none; }
-  #header a.menu:before {
-    font-family: 'icons';
-    font-variant: normal;
-    font-weight: normal;
-    speak: none;
-    text-transform: none;
-    -webkit-font-smoothing: antialiased;
-    content: 'b'; }
-  #header a.menu span {
-    display: none; }
 #header a.logo {
   background: url(/images/logo-en.gif) no-repeat left center;
   display: block;
@@ -566,7 +569,18 @@ p {
     color: #333;
     font-weight: normal; }
 #main .header {
-  padding: 10px; }
+  padding: 10px;
+  position: relative; }
+  #main .header .menu {
+    bottom: 7.5px;
+    color: #989a94;
+    padding: 10px 0;
+    position: absolute;
+    right: 10px; }
+    #main .header .menu:before {
+      content: 'r'; }
+    #main .header .menu.active:before {
+      content: 'd'; }
   #main .header .links {
     float: right;
     padding: 10px 0; }
@@ -670,19 +684,33 @@ p {
   max-width: 100%; }
 
 @media (max-width: 960px) {
+  #main .header .menu {
+    display: block; }
+  #main .header .options {
+    clear: both;
+    display: none;
+    margin: -10px;
+    margin-bottom: 10px; }
+    #main .header .options a {
+      border-bottom: 1px solid #ddd;
+      color: inherit;
+      display: block;
+      padding: 10px; }
+    #main .header .options.show {
+      display: block; }
   #main .header .links {
     display: none; }
+  #main .header h1 {
+    padding-right: 40px; }
   #main .main {
     border-left: 0;
     border-right: 0;
     padding: 10px; }
-  #main .sidebar .navigation {
-    display: block; }
-  #main .sidebar .links {
+  #main .sidebar {
     display: none; } }
 
 @media (min-width: 961px) {
-  #main .header .select {
+  #main .header .menu {
     display: none; }
   #main .sidebar + .body {
     margin-right: 320px; }
@@ -692,8 +720,6 @@ p {
   #main .sidebar {
     float: right;
     width: 300px; }
-    #main .sidebar .select {
-      display: none; }
     #main .sidebar.sticky {
       margin-right: 20px;
       margin-top: 20px;

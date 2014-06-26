@@ -9,22 +9,6 @@
   a {
     color: inherit;
   }
-  a.menu {
-    background: transparent;
-    border: 0;
-    font-size: $huge;
-    outline: none;
-    &:hover {
-      text-decoration: none;
-    }
-    &:before {
-      @include icon();
-      content: 'b';
-    }
-    span {
-      display: none;
-    }
-  }
   a.logo {
     background: url(/images/logo-en.gif) no-repeat left center;
     display: block;

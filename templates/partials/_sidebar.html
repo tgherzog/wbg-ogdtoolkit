@@ -1,16 +1,14 @@
-<nav class='links'>
-	<h2><a href='/{{ locale }}'>Open Government Data Toolkit</a></h2>
-	<ul>
-		{% for item in sidebar %}
-		<li{% if item.name == title %} class='active'{% endif %}><h3><a href='{{ item.link }}'>{{ item.name }}</a></h3>
-		{% if item.name == title %}
-		{% for heading in headings %}
-		{% if loop.first %}<ul>{% endif %}
-		<li><a href="#{{ heading.id }}">{{ heading.text }}</a></li>
-		{% if loop.last %}</ul>{% endif %}
-		{% endfor %}
-		{% endif %}
-		</li>
-		{% endfor %}
-	</ul>
-</nav>
+<h2><a href='/{{ locale }}'>Open Government Data Toolkit</a></h2>
+<ul>
+	{% for item in sidebar %}
+	<li{% if item.name == title %} class='active'{% endif %}><h3><a href='{{ item.link }}'>{{ item.name }}</a></h3>
+	{% if item.name == title %}
+	{% for heading in headings %}
+	{% if loop.first %}<ul>{% endif %}
+	<li><a href="#{{ heading.id }}">{{ heading.text }}</a></li>
+	{% if loop.last %}</ul>{% endif %}
+	{% endfor %}
+	{% endif %}
+	</li>
+	{% endfor %}
+</ul>
