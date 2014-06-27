@@ -110,6 +110,27 @@ a.menu {
   }
 }
 
+#help {
+  bottom: 0;
+  position: fixed;
+  right: $gutter/2;
+  z-index: 999;
+  h2 {
+    background: $base;
+    border-radius: 3px 3px 0 0;
+    color: #FFF;
+    cursor: pointer;
+    font-size: $normal;
+    margin: 0;
+    opacity: 0.9;
+    padding: $gutter/4 1.5*$gutter/2;
+    white-space: nowrap;
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
 /* Layout */
 
 .content {
