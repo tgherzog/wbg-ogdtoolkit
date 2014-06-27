@@ -424,7 +424,8 @@
       var options = $('<div class="options"></div>');
 
       $('#main .header .links a, #main .sidebar h2 a, #main .sidebar h3 a').each(function () {
-        options.append($(this));
+        var that = $(this).clone();
+        options.append(that);
       });
       
       $('#main .header .menu').after(options);
