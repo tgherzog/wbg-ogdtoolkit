@@ -368,6 +368,10 @@
     </div>
   </footer>
 
+  <div id='help'>
+    <h2 onclick='javascript:uvClick()'>Data/Feedback</h2>
+  </div>
+
   <!-- JS -->
   <script src='//code.jquery.com/jquery-1.11.0.min.js'></script>
 
@@ -473,5 +477,41 @@
       $('#footer .content > .links').before(element);
     });
   </script>
+
+
+  <script type='text/javascript'>
+    (function() {
+      var uv=document.createElement('script');
+      uv.type='text/javascript';
+      uv.async=true;
+      uv.src='//widget.uservoice.com/XzQsWhTqmnE8dYDOJ0HjJQ.js';
+      
+      var s=document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(uv,s)
+    })()
+
+    </script>
+
+    <script type='text/javascript'>
+
+    function uvClick() {
+      // set following parameter to site identifier: Data, Databank, Finances or DataCatalog
+      var siteIdentifier = 'Data';
+
+      var uvOptions = {
+        mode: 'support',
+        primary_color: '#54584c',
+        link_color: '#a92123'
+      };
+
+      // uncomment next line to restrict sidebar articles to a particular topic and set topic_id accordingly. Do not set to null
+      // uvOptions.topic_id = 19371;
+
+      UserVoice = window.UserVoice || [];
+      UserVoice.push(['setCustomFields', { 'Origin': siteIdentifier }]);
+      UserVoice.push(['showLightbox', 'classic_widget', uvOptions]);
+    }
+  </script>
+
 </body>
 </html>
