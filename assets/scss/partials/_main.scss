@@ -179,6 +179,9 @@
       .menu {
         display: none;
       }
+      .options {
+        display: none;
+      }
     }
     .sidebar + .body {
       margin-right: $sidebar + $gutter;

@@ -712,6 +712,8 @@ a.menu {
 @media (min-width: 961px) {
   #main .header .menu {
     display: none; }
+  #main .header .options {
+    display: none; }
   #main .sidebar + .body {
     margin-right: 320px; }
   #main .body {
