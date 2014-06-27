@@ -340,8 +340,10 @@ body {
   font-size: 13px;
   line-height: 140%;
   text-align: center; }
+
+@media (max-width: 960px) {
   body.menu {
-    overflow: hidden; }
+    overflow: hidden; } }
 
 a {
   text-decoration: none; }

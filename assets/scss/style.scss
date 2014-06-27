@@ -41,8 +41,13 @@ body {
   font-size: $normal;
   line-height: 140%;
   text-align: center;
-  &.menu {
-    overflow: hidden;
+}
+
+@media (max-width: 960px) {
+  body {
+    &.menu {
+      overflow: hidden;
+    }
   }
 }
 
