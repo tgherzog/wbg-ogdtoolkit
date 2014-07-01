@@ -46,16 +46,14 @@
       <!-- <nav class='locale'>{{ locales.header.locale.prefix }}: {% if locale == 'en' %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% elif locale == 'es' %}<a href='/en{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.en }}</a> | <strong>{{ locales.header.locale.es }}</strong>{% else %}<strong>{{ locales.header.locale.en }}</strong> | <a href='/es{{ path | replace('^\w+', '') }}'>{{ locales.header.locale.es }}</a>{% endif %}</nav> -->
 
       <header class='header'>
-        <a href='#main' class='menu'><span>Menu</span></a>
-
         <nav class='links'>
-          <a class='email' target='_blank' href='mailto:?body={{ site.url + path | url_encode }}'><span>Email</span></a>
-          <a class='facebook' target='_blank' href='http://www.facebook.com/sharer/sharer.php?u={{ site.url + path | url_encode }}'><span>Facebook</span></a>
-          <a class='twitter' target='_blank' href='https://twitter.com/intent/tweet?url={{ site.url + path | url_encode }}'><span>Twitter</span></a>
-          <a class='linkedin' target='_blank' href='http://www.linkedin.com/shareArticle?mini=true&url={{ site.url + path | url_encode }}&title={{ title | url_encode }}&source={{ "World Bank" | url_encode }}'><span>LinkedIn</span></a>
+          {% include 'partials/_social.html' %}
         </nav>
 
-        <h1>{{ title }}</h1>
+        <h1>
+          <a href='#main' class='menu'><span>Menu</span></a>
+          {{ title }}
+        </h1>
       </header>
 
       <section class='main'>
@@ -137,9 +135,11 @@
     $(function() {
       var options = $('<div class="options"></div>');
 
-      $('#main .header .links a, #main .sidebar h2 a, #main .sidebar h3 a').each(function () {
-        var that = $(this).clone();
-        options.append(that);
+      $('#main .sidebar h2 a, #main .sidebar h3 a').each(function () {
+        if (!$(this).parent().parent().hasClass('active')) {
+          var that = $(this).clone();
+          options.append(that);
+        }
       });
       
       $('#main .header .menu').after(options);

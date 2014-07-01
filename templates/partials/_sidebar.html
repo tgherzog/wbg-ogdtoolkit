@@ -1,7 +1,8 @@
-<h2><a href='/{{ locale }}'>Open Government Data Toolkit</a></h2>
+
 <ul>
+	<li{% if locale == path %} class='active'{% endif %}><h2><a href='/{{ locale }}'>Open Government Data Toolkit</a></h2></li>
 	{% for item in sidebar %}
-	<li{% if item.name == title %} class='active'{% endif %}><h3><a href='{{ item.link }}'>{{ item.name }}</a></h3>
+	<li{% if item.link == '/'+ path %} class='active'{% endif %}><h3><a href='{{ item.link }}'>{{ item.name }}</a></h3>
 	{% if item.name == title %}
 	{% for heading in headings %}
 	{% if loop.first %}<ul>{% endif %}

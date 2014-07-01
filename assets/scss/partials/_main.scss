@@ -13,28 +13,10 @@
   .header {
     padding: $gutter/2;
     position: relative;
-    .menu {
-      bottom: 1.5*$gutter/4;
-      color: $grey;
-      padding: $gutter/2 0;
-      position: absolute;
-      right: $gutter/2;
-      &:before {
-        content: 'r';
-      }
-      &.active {
-        &:before {
-          content: 'd';
-        }
-      }
-    }
     .links {
-      float: right;
-      padding: $gutter/2 0;
       a {
         color: inherit;
         font-size: $large;
-        margin-left: $gutter/2;
         &:hover {
           color: $red;
           text-decoration: none;
@@ -68,21 +50,12 @@
   }
   .sidebar {
     font-size: $larger;
-    h2 {
-      border: 1px solid tint($line, 10%);
-      font-size: inherit;
-      margin: 0;
-      padding: 1.5*$gutter/2;
-      &:before {
-        @include icon();
-        content: 'h';
-        margin-right: $gutter/2;
-      }
-    }
     ul {
+      border-top: 1px solid $line;
       list-style: none;
       margin: 0;
       padding: 0;
+      h2,
       h3 {
         font-size: inherit;
         margin: 0;
@@ -91,6 +64,9 @@
           content: 'r';
           margin-right: $gutter/2;
         }
+      }
+      h2:before {
+        content: 'h';
       }
       li {
         border: 1px solid tint($line, 10%);
@@ -137,14 +113,43 @@
 @media (max-width: 960px) {
   #main {
     .header {
+      .links {
+        border-bottom: 1px solid $line;
+        @include clearfix;
+        margin: (-$gutter/2) (-$gutter/2) $gutter/2;
+        a {
+          border-left: 1px solid $line;
+          @include box-sizing(border-box);
+          display: block;
+          float: left;
+          margin: 0;
+          padding: $gutter/2 0;
+          text-align: center;
+          width: 25%;
+          &:first-child {
+            border: 0;
+          }
+        }
+      }
       .menu {
-        display: block;
+        color: $grey;
+        float: left;
+        margin-right: $gutter/2;
+        &:before {
+          content: 'r';
+        }
+        &.active {
+          &:before {
+            content: 'd';
+          }
+        }
       }
       .options {
+        border-top: 1px solid $line;
+        @include clearfix;
         clear: both;
         display: none;
-        margin: -$gutter/2;
-        margin-bottom: $gutter/2;
+        margin: 0 (-$gutter/2) $gutter/2;
         a {
           border-bottom: 1px solid $line;
           color: inherit;
@@ -154,12 +159,6 @@
         &.show {
           display: block;
         }
-      }
-      .links {
-        display: none;
-      }
-      h1 {
-        padding-right: 2*$gutter;
       }
     }
     .main {
@@ -176,6 +175,13 @@
 @media (min-width: 961px) {
   #main {
     .header {
+      .links {
+        float: right;
+        padding: $gutter/2 0;
+        a {
+          margin-left: $gutter/2;
+        }
+      }
       .menu {
         display: none;
       }
