@@ -208,4 +208,28 @@
       }
     }
   }
+  /* TEST FOR LEFT SIDEBAR */
+  body.demand-and-engagement {
+    #main {
+      .sidebar {
+        float: left;
+        &.sticky {
+          right: auto;
+          left: 0;
+          margin-right: 0;
+          margin-left: $gutter;
+        }
+      }
+      .sidebar + .body {
+        margin-right: 0;
+        margin-left: $sidebar + $gutter;
+      }
+      .body {
+        border-right: 0;
+        padding-right: 0;
+        border-left: 1px solid tint($line, 10%);
+        padding-left: $gutter;
+      }
+    }
+  }
 }
