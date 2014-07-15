@@ -94,22 +94,24 @@
       <!-- <nav class='locale'>This page in: <strong>English</strong> | <a href='/es/it-solutions'>Spanish</a></nav> -->
 
       <header class='header'>
-        <a href='#main' class='menu'><span>Menu</span></a>
-
         <nav class='links'>
           <a class='email' target='_blank' href='mailto:?body=http://wbogdtoolkit.dev.wiredcraft.com/en%2Fit-solutions'><span>Email</span></a>
-          <a class='facebook' target='_blank' href='http://www.facebook.com/sharer/sharer.php?u=http://wbogdtoolkit.dev.wiredcraft.com/en%2Fit-solutions'><span>Facebook</span></a>
-          <a class='twitter' target='_blank' href='https://twitter.com/intent/tweet?url=http://wbogdtoolkit.dev.wiredcraft.com/en%2Fit-solutions'><span>Twitter</span></a>
-          <a class='linkedin' target='_blank' href='http://www.linkedin.com/shareArticle?mini=true&url=http://wbogdtoolkit.dev.wiredcraft.com/en%2Fit-solutions&title=Technology%20Options&source=World%20Bank'><span>LinkedIn</span></a>
+<a class='facebook' target='_blank' href='http://www.facebook.com/sharer/sharer.php?u=http://wbogdtoolkit.dev.wiredcraft.com/en%2Fit-solutions'><span>Facebook</span></a>
+<a class='twitter' target='_blank' href='https://twitter.com/intent/tweet?url=http://wbogdtoolkit.dev.wiredcraft.com/en%2Fit-solutions'><span>Twitter</span></a>
+<a class='linkedin' target='_blank' href='http://www.linkedin.com/shareArticle?mini=true&url=http://wbogdtoolkit.dev.wiredcraft.com/en%2Fit-solutions&title=Technology%20Options&source=World%20Bank'><span>LinkedIn</span></a>
         </nav>
 
-        <h1>Technology Options</h1>
+        <h1>
+          <a href='#main' class='menu'><span>Menu</span></a>
+          Technology Options
+        </h1>
       </header>
 
       <section class='main'>
         <aside class='sidebar'>
-          <h2><a href='/en'>Open Government Data Toolkit</a></h2>
+          
 <ul>
+	<li><h2><a href='/en'>Open Government Data Toolkit</a></h2></li>
 	
 	<li><h3><a href='/en/knowledge-repository'>Open Data Essentials</a></h3>
 	
@@ -428,9 +430,11 @@
     $(function() {
       var options = $('<div class="options"></div>');
 
-      $('#main .header .links a, #main .sidebar h2 a, #main .sidebar h3 a').each(function () {
-        var that = $(this).clone();
-        options.append(that);
+      $('#main .sidebar h2 a, #main .sidebar h3 a').each(function () {
+        if (!$(this).parent().parent().hasClass('active')) {
+          var that = $(this).clone();
+          options.append(that);
+        }
       });
       
       $('#main .header .menu').after(options);
@@ -478,41 +482,39 @@
       $('#footer .content > .links').before(element);
     });
   </script>
-
-
+  
+  <!-- User voice -->
   <script type='text/javascript'>
-    (function() {
-      var uv=document.createElement('script');
-      uv.type='text/javascript';
-      uv.async=true;
-      uv.src='//widget.uservoice.com/XzQsWhTqmnE8dYDOJ0HjJQ.js';
-      
-      var s=document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(uv,s)
-    })()
+(function() {
+  var uv=document.createElement('script');
+  uv.type='text/javascript';
+  uv.async=true;
+  uv.src='//widget.uservoice.com/XzQsWhTqmnE8dYDOJ0HjJQ.js';
+  
+  var s=document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(uv,s)
+})()
 
-    </script>
+</script>
 
-    <script type='text/javascript'>
+<script type='text/javascript'>
+function uvClick() {
+  // set following parameter to site identifier: Data, Databank, Finances or DataCatalog
+  var siteIdentifier = 'Data';
 
-    function uvClick() {
-      // set following parameter to site identifier: Data, Databank, Finances or DataCatalog
-      var siteIdentifier = 'Data';
+  var uvOptions = {
+    mode: 'support',
+    primary_color: '#54584c',
+    link_color: '#a92123'
+  };
 
-      var uvOptions = {
-        mode: 'support',
-        primary_color: '#54584c',
-        link_color: '#a92123'
-      };
+  // uncomment next line to restrict sidebar articles to a particular topic and set topic_id accordingly. Do not set to null
+  // uvOptions.topic_id = 19371;
 
-      // uncomment next line to restrict sidebar articles to a particular topic and set topic_id accordingly. Do not set to null
-      // uvOptions.topic_id = 19371;
-
-      UserVoice = window.UserVoice || [];
-      UserVoice.push(['setCustomFields', { 'Origin': siteIdentifier }]);
-      UserVoice.push(['showLightbox', 'classic_widget', uvOptions]);
-    }
-  </script>
-
+  UserVoice = window.UserVoice || [];
+  UserVoice.push(['setCustomFields', { 'Origin': siteIdentifier }]);
+  UserVoice.push(['showLightbox', 'classic_widget', uvOptions]);
+}
+</script>
 </body>
 </html>
