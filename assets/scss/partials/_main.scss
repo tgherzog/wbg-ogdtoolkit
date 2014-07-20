@@ -27,6 +27,7 @@
         &.email:before { content: 'e'; }
         &.facebook:before { content: 'f'; }
         &.twitter:before { content: 't'; }
+        &.gplus:before { content: 'p'; }
         &.github:before { content: 'g'; }
         &.linkedin:before { content: 'l'; }
         span {
@@ -125,7 +126,7 @@
           margin: 0;
           padding: $gutter/2 0;
           text-align: center;
-          width: 25%;
+          width: 20%;
           &:first-child {
             border: 0;
           }

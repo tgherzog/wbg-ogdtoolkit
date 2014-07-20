@@ -610,6 +610,8 @@ a.menu {
       content: 'f'; }
     #main .header .links a.twitter:before {
       content: 't'; }
+    #main .header .links a.gplus:before {
+      content: 'p'; }
     #main .header .links a.github:before {
       content: 'g'; }
     #main .header .links a.linkedin:before {
@@ -696,7 +698,7 @@ a.menu {
       margin: 0;
       padding: 10px 0;
       text-align: center;
-      width: 25%; }
+      width: 20%; }
       #main .header .links a:first-child {
         border: 0; }
   #main .header .menu {
