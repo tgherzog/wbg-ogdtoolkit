@@ -111,7 +111,7 @@
   }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 641px) {
   #main {
     .header {
       .links {
@@ -173,7 +173,7 @@
   }
 }
 
-@media (min-width: 961px) {
+@media (min-width: 641px) {
   #main {
     .header {
       .links {
@@ -191,7 +191,7 @@
       }
     }
     .sidebar + .body {
-      margin-right: $sidebar + $gutter;
+      margin-right: $sidebar - 2*$gutter;
     }
     .body {
       border-right: 1px solid tint($line, 10%);
@@ -199,7 +199,7 @@
     }
     .sidebar {
       float: right;
-      width: $sidebar;
+      width: $sidebar - 3*$gutter;
       &.sticky {
         margin-right: $gutter;
         margin-top: $gutter;
@@ -207,30 +207,34 @@
         right: 0;
         top: 0;
       }
+      h2,
+      h3 {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
     }
   }
-  /* TEST FOR LEFT SIDEBAR */
-  body.demand-and-engagement {
-    #main {
-      .sidebar {
-        float: left;
-        &.sticky {
-          right: auto;
-          left: 0;
-          margin-right: 0;
-          margin-left: $gutter;
-        }
-      }
-      .sidebar + .body {
-        margin-right: 0;
-        margin-left: $sidebar + $gutter;
-      }
-      .body {
-        border-right: 0;
-        padding-right: 0;
-        border-left: 1px solid tint($line, 10%);
-        padding-left: $gutter;
-      }
+}
+
+@media (min-width: 760px) {
+  #main {
+    .sidebar + .body {
+      margin-right: $sidebar;
+    }
+    .sidebar {
+      width: $sidebar - $gutter;
+    }
+  }
+}
+
+@media (min-width: 870px) {
+  #main {
+    .sidebar + .body {
+      margin-right: $sidebar + $gutter;
+    }
+    .sidebar {
+      width: $sidebar;
     }
   }
 }
