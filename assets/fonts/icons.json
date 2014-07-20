@@ -1,7 +1,7 @@
 {
 	"metadata": {
 		"name": "OGD Toolkit",
-		"lastOpened": 1403821820978,
+		"lastOpened": 1405858649000,
 		"created": 1381083457739
 	},
 	"iconSets": [
@@ -4287,7 +4287,12 @@
 				},
 				{
 					"id": 207,
-					"order": 0
+					"order": 13,
+					"prevSize": 20,
+					"code": 117,
+					"name": "arrow-up",
+					"tempChar": "",
+					"ligatures": ""
 				},
 				{
 					"id": 208,
@@ -4295,7 +4300,7 @@
 					"prevSize": 20,
 					"code": 114,
 					"name": "arrow-right",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4420,7 +4425,7 @@
 					"prevSize": 20,
 					"code": 103,
 					"name": "github",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4449,7 +4454,7 @@
 					"prevSize": 20,
 					"code": 116,
 					"name": "twitter",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4462,7 +4467,7 @@
 					"prevSize": 20,
 					"code": 102,
 					"name": "facebook",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
@@ -4475,7 +4480,12 @@
 				},
 				{
 					"id": 249,
-					"order": 0
+					"order": 14,
+					"prevSize": 20,
+					"code": 112,
+					"name": "googleplus",
+					"tempChar": "",
+					"ligatures": ""
 				},
 				{
 					"id": 250,
@@ -4503,7 +4513,7 @@
 					"prevSize": 20,
 					"code": 108,
 					"name": "linkedin",
-					"tempChar": "",
+					"tempChar": "",
 					"ligatures": ""
 				},
 				{
