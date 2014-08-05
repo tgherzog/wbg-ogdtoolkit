@@ -3,7 +3,6 @@ dev: install
 
 install:
 	@npm install
-	@./node_modules/.bin/bower install
 
 build: install
 	@./node_modules/.bin/gulp
