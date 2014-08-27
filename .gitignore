@@ -4,6 +4,8 @@
 !.placeholder
 *~
 
+.sass-cache
+_local.yml
 *py[co]
 node_modules/
 bower_components/
