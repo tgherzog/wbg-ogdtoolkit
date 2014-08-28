@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Open Government Data Toolkit
 locale: en
 ---

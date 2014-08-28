@@ -1,0 +1,31 @@
+sass:
+  sass_dir: assets/_scss
+  style: compressed
+
+markdown: kramdown
+
+kramdown:
+  parse_block_html: false
+
+exclude:
+- README.md
+
+# site configuration
+base: http://ogdtoolkit.zognet.net
+lang:
+  locales:
+    - [ en, English ]
+    - [ es, Espa&ntilde;ol ]
+    - [ fr, Fran&ccedil;ais ]
+  en:
+    title: "Worldbank Open Government Data Toolkit"
+    description: "This section of the toolkit provides a summary of the essential elements of open government data, starting with its definition and covering issues from open data portals, applications that use open data, the benefits of open data, open data policy declarations, learning resources and technical assistance resources for open data."
+    abstract: "Free and open access to the world’s most comprehensive collection of economic and development data. Browse, map, graph, or download data by country, topic on over 4,000 indicators.  Available in English, Spanish, French, Chinese and Arabic."
+    localeprefix: "This page in"
+    sidebar:
+      - {hdr: h2, link: /en/index.html, title: Open Government Data Toolkit }
+      - {hdr: h3, link: /en/knowledge-repository.html, title: 1. Open Data Essentials }
+      - {hdr: h3, link: /en/it-solutions.html, title: 2. Technology Options }
+      - {hdr: h3, link: /en/demand-for-od-engagement-tools.html, title: 3. Demand and Engagement }
+      - {hdr: h3, link: /en/supply-of-data.html, title: 4. Supply and Quality of Data }
+      - {hdr: h3, link: /en/readiness-assessment-tool.html, title: 5. Readiness Assessment Tool }
