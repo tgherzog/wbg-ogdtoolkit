@@ -9,9 +9,35 @@ kramdown:
 
 exclude:
 - README.md
+- Makefile
 
 # site configuration
-base: http://ogdtoolkit.zognet.net
+base: http://opendatatoolkit.zognet.net
+
+# default values
+defaults:
+-
+  scope:
+    path: ""
+  values:
+    layout: default
+-
+  scope:
+    path: "en"
+  values:
+    locale: en
+-
+  scope:
+    path: "es"
+  values:
+    locale: es
+-
+  scope:
+    path: "fr"
+  values:
+    locale: fr
+
+# language localization
 lang:
   locales:
     - [ en, English ]
@@ -24,8 +50,8 @@ lang:
     localeprefix: "This page in"
     sidebar:
       - {hdr: h2, link: /en/index.html, title: Open Government Data Toolkit }
-      - {hdr: h3, link: /en/knowledge-repository.html, title: 1. Open Data Essentials }
-      - {hdr: h3, link: /en/it-solutions.html, title: 2. Technology Options }
-      - {hdr: h3, link: /en/demand-for-od-engagement-tools.html, title: 3. Demand and Engagement }
-      - {hdr: h3, link: /en/supply-of-data.html, title: 4. Supply and Quality of Data }
-      - {hdr: h3, link: /en/readiness-assessment-tool.html, title: 5. Readiness Assessment Tool }
+      - {hdr: h3, link: /en/knowledge-repository.html, title: Open Data Essentials }
+      - {hdr: h3, link: /en/it-solutions.html, title: Technology Options }
+      - {hdr: h3, link: /en/demand-for-od-engagement-tools.html, title: Demand and Engagement }
+      - {hdr: h3, link: /en/supply-of-data.html, title: Supply and Quality of Data }
+      - {hdr: h3, link: /en/readiness-assessment-tool.html, title: Readiness Assessment Tool }

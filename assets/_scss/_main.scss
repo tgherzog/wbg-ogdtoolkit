@@ -1,13 +1,24 @@
 #main {
   .locale {
     color: $grey;
+	font-size: 11px;
     padding: $gutter 0 0 $gutter/2;
+
+	> * {
+	  padding: 0 8px;
+	  border-right: 1px solid $grey;
+	}
+
+	> *:last-child {
+	  border-right: none;
+	}
+
     a {
       color: inherit;
     }
-    strong {
+    span {
       color: $base;
-      font-weight: normal;
+      font-weight: bold;
     }
   }
   .header {

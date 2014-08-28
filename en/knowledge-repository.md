@@ -1,6 +1,5 @@
 ---
 title: Open Data Essentials
-locale: en
 ---
 This section of the toolkit provides a summary of the essential elements
 of open government data, starting with its definition and covering

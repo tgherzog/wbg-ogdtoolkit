@@ -1,6 +1,5 @@
 ---
 title: Demand and Engagement
-locale: en
 ---
 
 Central and local governments around the world are increasingly

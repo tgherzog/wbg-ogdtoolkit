@@ -1,6 +1,5 @@
 ---
 title: Technology Options
-locale: en
 ---
 
 ## Open Data Scenarios

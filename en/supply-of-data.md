@@ -1,6 +1,5 @@
 ---
 title: Supply and Quality of Data
-local: en
 ---
 
 *   **Data Quality Standards**

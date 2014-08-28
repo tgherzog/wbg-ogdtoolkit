@@ -1,6 +1,5 @@
 ---
 title: Readiness Assessment Tool
-locale: en
 ---
 
 The World Bank's Open Government Data Working Group has developed an 'Open Data Readiness Assessment' (ODRA) methodological tool for conducting an action-oriented assessment of the readiness of a government - or even an individual agency - to evaluate, design and implement an open data initiative. The tool is added to the Open Government Data Toolkit and is made freely available for others to adapt and use.

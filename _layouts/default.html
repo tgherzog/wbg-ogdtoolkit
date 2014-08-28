@@ -1,10 +1,7 @@
 {% if page.locale == 'es' %}
 {% assign locale = site.lang.es %}
-{% assign sidebar = es_sidebar %}
 {% else %}
 {% assign locale = site.lang.en %}
-{% assign page.locale = 'en' %}
-{% assign sidebar = en_sidebar %}
 {% endif %}
 <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
 <html xmlns='http://www.w3.org/1999/xhtml' xml:lang='{{ page.locale }}' lang='{{ page.locale }}' dir='ltr'>
@@ -22,7 +19,7 @@
   <meta name='revisit-after' content='7 days'/>
 
   <!-- Favicons -->
-  {% include _favicons.html %}
+  {% include parts/favicons.html %}
 
   <!-- CSS -->
   <link href='/assets/styles.css' rel='stylesheet' type='text/css'/>
@@ -30,7 +27,7 @@
 <body>
   <header id='header' name='header'>
     <div class='content'>
-      {% include _header.html %}
+      {% include parts/header.html %}
     </div>
   </header>
 
@@ -49,7 +46,7 @@
 {% endif %}
       <header class='header'>
         <nav class='links'>
-          {% include _social.html %}
+          {% include parts/social.html %}
         </nav>
 
         <h1>
@@ -60,7 +57,7 @@
 
       <section class='main'>
         <aside class='sidebar'>
-          {% include _sidebar.html %}
+          {% include parts/sidebar.html %}
         </aside>
 
         <section class='body'>
@@ -72,7 +69,7 @@
 
   <footer id='footer'>
     <div class='content'>
-      {% include _footer.html %}
+      {% include parts/footer.html %}
     </div>
   </footer>
 
@@ -189,6 +186,6 @@
   </script>
   
   <!-- User voice -->
-  {% include _uservoice.html %}
+  {% include parts/uservoice.html %}
 </body>
 </html>
