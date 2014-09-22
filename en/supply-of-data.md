@@ -2,15 +2,18 @@
 title: Supply and Quality of Data
 ---
 
-*   **Data Quality Standards**
+## Data Quality Standards
 
-    Basic Examples:
+### Examples
 
-        *   [World Bank  Microdata Practices &amp;amp; Tools](http://microdata.worldbank.org/index.php/practices-and-tools)
-    *   [United Nations List of Statistical Standards](http://unstats.un.org/unsd/iiss/List-of-Statistical-Standards.ashx)
-    *   [IHSN Microdata Management Toolkit](http://ihsn.org/home/index.php?q=tools/toolkit)
-    *   [NADA](http://ihsn.org/nada)
-    *   [Data Documentation Initiative](http://www.ddialliance.org)
+*   [World Bank  Microdata Practices &amp;amp; Tools](http://microdata.worldbank.org/index.php/practices-and-tools)
+*   [United Nations List of Statistical Standards](http://unstats.un.org/unsd/iiss/List-of-Statistical-Standards.ashx)
+*   [IHSN Microdata Management Toolkit](http://ihsn.org/home/index.php?q=tools/toolkit)
+*   [NADA](http://ihsn.org/nada)
+*   [Data Documentation Initiative](http://www.ddialliance.org)
+
+### Other Resources
+
 *   [Useful  tools to review, refine, clean, analyze, visualize and publish data](http://www.healthdatainnovation.com/content/useful-tools-review-refine-clean-analyze-visualize-and-publish-data)
 *   [Data Portal Quick-Setup Guides by data.gov.uk](http://data.gov.uk/category/tags/open-data-portal)
 *   [Manual for statistical disclosure control (data anonymization) for microdata](http://neon.vb.cbs.nl/casc/Handbook.htm)
