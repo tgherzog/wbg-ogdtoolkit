@@ -1,3 +1,6 @@
+// Stop cross-frame script
+if(top.frames.length > 0) top.location.href=self.location;
+
 // sticky sidebar
 $(function() {
   var top = $('#main .sidebar').offset().top;
