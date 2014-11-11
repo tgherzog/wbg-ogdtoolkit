@@ -10,6 +10,7 @@ kramdown:
 exclude:
 - README.md
 - Makefile
+- wiki
 
 # site configuration
 base: http://opendatatoolkit.zognet.net
@@ -50,8 +51,10 @@ lang:
     localeprefix: "This page in"
     sidebar:
       - {hdr: h2, link: /en/index.html, title: Open Government Data Toolkit }
-      - {hdr: h3, link: /en/knowledge-repository.html, title: Open Data Essentials }
-      - {hdr: h3, link: /en/it-solutions.html, title: Technology Options }
-      - {hdr: h3, link: /en/demand-for-od-engagement-tools.html, title: Demand and Engagement }
-      - {hdr: h3, link: /en/supply-of-data.html, title: Supply and Quality of Data }
-      - {hdr: h3, link: /en/readiness-assessment-tool.html, title: Readiness Assessment Tool }
+      - {hdr: h3, link: /en/open-data-nutshell.html, title: Open Data in a Nutshell }
+      - {hdr: h3, link: /en/essentials.html, title: Open Data Essentials }
+      - {hdr: h3, link: /en/technology.html, title: Technology Options }
+      - {hdr: h3, link: /en/demand.html, title: Demand and Engagement }
+      - {hdr: h3, link: /en/supply.html, title: Supply and Quality of Data }
+      - {hdr: h3, link: /en/odra.html, title: Readiness Assessment Tool }
+      - {hdr: h3, link: /en/technical-assistance.html, title: Technical Assistance }
