@@ -2,25 +2,31 @@
 title: Readiness Assessment Tool
 ---
 
-The World Bank's Open Government Data Working Group has developed an 'Open Data Readiness Assessment' (ODRA) methodological tool for conducting an action-oriented assessment of the readiness of a government - or even an individual agency - to evaluate, design and implement an open data initiative. The tool is added to the Open Government Data Toolkit and is made freely available for others to adapt and use.
 
-You can download the [PDF](http://data.worldbank.org/sites/default/files/1/od_readiness_-_revised_v2.pdf) / [Word](http://data.worldbank.org/sites/default/files/1/od_readiness_-_revised_v2.doc) document. You are also invited to contribute comments on the ODRA tool online at the following link [http://personal.crocodoc.com/7yQvCzX](http://personal.crocodoc.com/7yQvCzX).
+The World Bank's Open Government Data Working Group developed an Open Data Readiness Assessment (ODRA) methodological tool that can be used to conduct an action-oriented assessment of the readiness of a government or individual agency to evaluate, design and implement an Open Data initiative. As part of the Open Government Data Toolkit, this tool is freely available for others to adapt and use.
 
-## Recent Assessments
+The ODRA tool can be downloaded using the links below. You may also [contribute comments online](http://personal.crocodoc.com/7yQvCzX).
 
-A joint team of experts representing the regional government and the World Bank has performed an open data readiness assessment for the Government of Ulyanovsk Oblast in the Russian Federation. Download the full report [here](http://data.worldbank.org/sites/default/files/1/odra_ulyanovsk_web_final.doc).
+## Download the ODRA ##
 
-Officials from the World Bank and the Caribbean Open Institute have carried out an [Open Data Readiness Assessment in Antigua and Barbuda](http://www.ab.gov.ag/article_details.php?id=4223&amp;amp;category=38). Overall the assessment found that Antigua and Barbuda is in a position to move forward quickly with an Open Data initiative. Read the full report [here](http://www.ab.gov.ag/article_details.php?id=4222&amp;amp;category=114).
+* **English:** [PDF](docs/odra/odra_v2-en.pdf) \| [MS Word](docs/odra/odra_v2-en.doc)
+* **French:** [PDF](docs/odra/odra_v1-fr.pdf) \| [MS Word](docs/odra/odra_v1-en.docx) (unofficial translations)
+* **Russian:** [PDF](docs/odra/odra_v2-ru.pdf) \| [MS Word](docs/odra/odra_v2-ru.docx) (unofficial translations)
 
-Also, most recently an ODRA has been carried out in Peru. The Spanish version of the report can be accessed [here](http://data.worldbank.org/sites/default/files/1/odra-peru-final-.pdf).
 
-## Other Resources
+## Available Assessments ##
 
-Unofficial translations of the ODRA methodology can be found here:
+* **Ulyanovsk, Russian Federation** (January, 2013): [Full Report](docs/odra/odra_ulyanovsk_web_final.doc)
+* **Antigua & Barbuda** (June, 2013): [Full Report](http://www.ab.gov.ag/article_details.php?id=4222&category=114) \| [Press Release](http://www.ab.gov.ag/article_details.php?id=4223&category=38)
+* **Peru** (June/July, 2013): [Full Report](docs/odra/odra-peru-final.pdf) - Spanish only
 
-*   French [PDF](http://data.worldbank.org/sites/default/files/1/evaluation_de_letat_de_preparation_des_administrations_a_un_programme_dopen_data_revised_-_review_translation_v1_final_0.pdf) / [Word](http://data.worldbank.org/sites/default/files/1/evaluation_de_letat_de_preparation_des_administrations_a_un_programme_dopen_data_revised_-_review_translation_v1_final.docx)
-*   Russian [PDF](http://data.worldbank.org/sites/default/files/1/od_readiness_assessment_methodology_russian.pdf) / [Word](http://data.worldbank.org/sites/default/files/1/od_readiness_assessment_methodology_russian.doc)
 
-You can also watch a briefing on the methodology delivered on March 1, 2013 by Andrew Stott and Jeff Kaplan, who are the main authors of the tool. The recorded session can be watched at the following link [mms://wbmswebcast1.worldbank.org/DEC/2013-03-01/OD_RA_Briefing.wmv](mms://wbmswebcast1.worldbank.org/DEC/2013-03-01/OD_RA_Briefing.wmv). A copy of the presentation is available [here](http://data.worldbank.org/sites/default/files/1/2013-03-01_0900_open_data-odra_briefing.pdf).
+## Other Resources ##
+
+You can [watch a briefing](mms://wbmswebcast1.worldbank.org/DEC/2013-03-01/OD_RA_Briefing.wmv) (requires [Windows Media
+Player](http://windows.microsoft.com/en-us/windows/windows-media-player)) delivered on March 1, 2013 by Andrew Stott and
+Jeff Kaplan, the primary authors of the ODRA methodology. Their [presentation is available
+here](docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
 
 **[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
+{: .center :}
