@@ -19,6 +19,7 @@ The ODRA tool can be downloaded using the links below. You may also [contribute 
 * **Ulyanovsk, Russian Federation** (January, 2013): [Full Report](../docs/odra/odra_ulyanovsk_web_final.doc)
 * **Antigua & Barbuda** (June, 2013): [Full Report](http://www.ab.gov.ag/article_details.php?id=4222&category=114) \| [Press Release](http://www.ab.gov.ag/article_details.php?id=4223&category=38)
 * **Peru** (June/July, 2013): [Full Report](../docs/odra/odra-peru-final.pdf) - Spanish only
+* **Dominican Republic** (April/May, 2014): [Full Report](../docs/odra/odra_republica_dominicana.pdf) - Spanish only
 
 
 ## Other Resources ##
