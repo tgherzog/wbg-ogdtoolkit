@@ -81,7 +81,7 @@ a government data ecosystem where Open Data is the default. Setting a data defau
 is proactive about making public information available online and without barriers for reuse, and about making decisions
 in the public interest. 
 
-* [Briefing on Open Data Declarations](docs/briefing-on-open-data-declarations-generic.doc). A "declaration" is intended
+* [Briefing on Open Data Declarations](../docs/briefing-on-open-data-declarations-generic.doc). A "declaration" is intended
 to provide a clear signal of political intent on the part of a government in relation to an Open Data initiative. This
 briefing provides background and considerations for the formulation of Open Data declarations.
 
