@@ -129,6 +129,7 @@
 
     a {
       color: $red;
+	  text-decoration: underline;
     }
     img {
       max-width: 100%;
@@ -145,6 +146,10 @@
 	  margin-bottom: 1em;
 	  font-size: 100%;
 	  
+	  .ui-tabs-nav a {
+	    text-decoration: none;
+	  }
+
 	  div p {
 	    font-size: 0.9em;
 		margin: 0 0 1em;
