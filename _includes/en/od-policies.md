@@ -1,13 +1,13 @@
 
-Open Data policies serve two groups of users: Governments and other "supply-side" organizations on one side, and
-citizens and other data consumers on another. Each group gains distinct benefits and assistance from Open Data policies.
-For governments, ministries and supply-side organizations, they provide guidance, instructions, requirements and tools
+Open Data policies serve two groups of users: Governments and other "supply-side" organizations, and
+citizens and other data consumers. Each group gains distinct benefits and assistance from Open Data policies.
+For governments, ministries and supply-side organizations, these policies provide guidance, instructions, requirements and tools
 for implementing Open Data. Policies often spell out which types of data may **not** be considered open and why, and how
 to safeguard sensitive information. They may also establish governance of the Open Data initiative, describe
-inter-agency working groups, and provide points of contact.
+inter-agency working groups and provide points of contact.
 
-For citizens, civil society organizations, businesses and data consumers, Open Data policies clearly define which data
-are (or will be) made public, how and where to acquire data, standards for providing data and metadata (which also
+For the user group comprised of citizens, civil society organizations, businesses and data consumers, Open Data policies clearly define which data
+are or will be made public, how and where to acquire data, standards for providing data and metadata (which also
 foster accountability), and how to engage with the government or producing agency. 
 
 An additional benefit of Open Data policies is the insight they provide into a government's internal procedures for
@@ -18,13 +18,13 @@ both the consumer and producer.
 ## Discussion and Guidance
 
 * [8 Principles of Open Government Data](http://www.opengovdata.org/home/8principles). These principles were first
-established by open government advocates in 2007. In short, the principles state that government data can be considered
+established by open government advocates in 2007. In short, they state that government data can be considered
 open if they are made available in a form that is complete; primary; timely; accessible; machine processable;
-non-discriminatory; non-propietary; and license free.
+non-discriminatory; non-proprietary; and license free.
 
 * [UK Open Data White Paper: Unleashing the
 Potential](http://www.cabinetoffice.gov.uk/sites/default/files/resources/CM8353_acc.pdf). Published in 2012, this paper
-presents a detailed approach to the UK's plan to unlock the potential of Open Data. The plan consists of three general
+presents a detailed approach to the U.K.'s plan to unlock the potential of Open Data. The plan consists of three general
 steps: enhancing access to and strengthening data usability; building trust in public data; and providing smarter, more
 effective capabilities to use and share data. Objectives and potential outcomes of the plan include getting more data
 into the public domain, and ensuring that data are accurate, shared responsibly and easy to use and obtain.  
@@ -39,7 +39,7 @@ economic value of this information as a national resource managed for public pur
 
 * [Open Government Guide](http://www.rcfp.org/open-government-guide) (Reporters Committee for Freedom of the Press).
 This is a compendium of information on U.S. state laws that address the disclosure of open records and attendance at
-open meetings. Organized into two parts (i.e., access to records and access to meetings), it details the rights of
+open meetings. Organized into two parts (e.g., access to records and access to meetings), it details the rights of
 reporters and other citizens to see information such as police records and voting results, and to attend official
 meetings, including those of state and local governments. The Open Government Guide makes it easy to compare laws across
 U.S. states and the District of Columbia. 

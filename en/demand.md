@@ -56,7 +56,7 @@ during the January 2014 announcement of Nigeria's Open Data Initiative.
 * **Data Liberation Scrape-a-thon.** A two-day
   program that convenes international coders and sources local civic
   coders to collect existing, unstructured government data from
-  current websites, re-structure them in machine-readable formats (CSV) and use them to populate a
+  current websites, re-structure them in machine-readable formats (e.g., CSV) and use them to populate a
   nascent or temporary Open Data platform. The program provides an opportunity to gain
   traction on the early Open Data process by capitalizing on what's already
   available, and leveraging it to build momentum toward further opening
@@ -70,7 +70,7 @@ during the January 2014 announcement of Nigeria's Open Data Initiative.
 
 ## Stage 2: Capacity Development
 
-For any data to be useful, consumers must have "data literacy:" They must know how to acquire and understand data, and
+For any data to be useful, consumers must develop "data literacy:" They must know how to acquire and understand data, and
 have the ability to apply them to specific challenges and needs. At this stage, engagement strategies should increase
 data literacy and technical capacity among potential users, including journalists, non-profit organizations, academics
 and software developers. The degree and style of technical training depends on the audience. Ideally, consumers would
@@ -117,7 +117,7 @@ beginnings of those solutions. In other cases, the private sector may have its o
 encourage innovation towards any public purpose imaginable. The following events and engagements target specific
 challenges and attempt to identify appropriate solutions:
 
-* **'Utility' Hackathons.** Utility hackathons are organized
+* **Utility Hackathons.** Utility hackathons are organized
   around particular development challenges where data has already been
   surfaced, such as through data liberation scrape-a-thons. Technologists typically
   use existing data to develop and build utility apps that solve

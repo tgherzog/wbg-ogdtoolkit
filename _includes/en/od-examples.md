@@ -44,13 +44,13 @@ Barometer](http://www.opendataresearch.org/project/2013/odb).
 ## City & Subnational Catalogs
 
 * [Buenos Aires](http://data.buenosaires.gob.ar/), Argentina
-* [Chicago](https://data.cityofchicago.org/), USA
+* [Chicago](https://data.cityofchicago.org/), U.S.A.
 * [Edmonton](http://data.edmonton.ca/), Canada
 * [Edo State](http://www.data.edostate.gov.ng/), Nigeria
-* [London](http://data.london.gov.uk/), UK
+* [London](http://data.london.gov.uk/), U.K.
 * [Nantes](http://data.nantes.fr/donnees/statistiques-des-donnees/), France
 * [Rennes](http://www.data.rennes-metropole.fr/), France
-* [San Francisco](https://data.sfgov.org/), USA
+* [San Francisco](https://data.sfgov.org/), U.S.A.
 * [Vienna](http://data.wien.gv.at/), Austria
 * [Vancouver](http://data.vancouver.ca/), Canada
 
@@ -59,7 +59,7 @@ Barometer](http://www.opendataresearch.org/project/2013/odb).
 #### Agriculture
 
 * [The USDA National Farmers Market Directory](http://search.ams.usda.gov/farmersmarkets/)
-* [UK Department of Agriculture and Rural Development](http://www.dardni.gov.uk/index/statistics.htm)
+* [U.K. Department of Agriculture and Rural Development](http://www.dardni.gov.uk/index/statistics.htm)
 
 #### Budgets & Public Finance
 
@@ -67,7 +67,7 @@ Barometer](http://www.opendataresearch.org/project/2013/odb).
 * [OpenSpending](http://www.openspending.org/)
 * [International Budget Partnership](http://www.internationalbudget.org/)
 * [The International Aid Transparency Initiative (IATI)](http://www.aidtransparency.net/)
-* [US IRS Tax Statistics](http://www.irs.gov/uac/Tax-Stats-2)
+* [U.S. IRS Tax Statistics](http://www.irs.gov/uac/Tax-Stats-2)
 
 #### Education
 
@@ -75,18 +75,17 @@ Barometer](http://www.opendataresearch.org/project/2013/odb).
 * [MyData Office of Educational Technology](http://www.ed.gov/edblogs/technology/mydata/)
 * [CheckMySchool](http://www.checkmyschool.org/main-page)
 
+#### Energy & Extractive Industries
+
+* [Extractive Industries Transparency Initiative](http://eiti.org/countries)
+* [U.S. Department of Energy](http://energy.gov/data/downloads/open-data-catalogue)
+* [Enel Open Data](http://data.enel.com/) - Largest power company in Italy
+
 #### Environment
 
 * [Open Climate Data](http://data.worldbank.org/data-catalog/climate-change)
 * [Fuel Economy Data](http://www.fueleconomy.gov/feg/download.shtml), US Environmental Protection Agency
 * [New York City Environment Open Data](https://data.cityofnewyork.us/data?cat=environment)
-
-
-#### Energy & Extractive Industries
-
-* [Extractive Industries Transparency Initiative](http://eiti.org/countries)
-* [US Department of Energy](http://energy.gov/data/downloads/open-data-catalogue)
-* [Enel Open Data](http://data.enel.com/) - Largest power company in Italy
 
 #### Geospatial
 
@@ -102,7 +101,6 @@ Barometer](http://www.opendataresearch.org/project/2013/odb).
 #### Information and Communication Technologies (ICT)
 
 * [Australian ICT Open Datasets](http://data.gov.au/data/?category=Information-communications-technologies)
-
 
 #### Transport
 

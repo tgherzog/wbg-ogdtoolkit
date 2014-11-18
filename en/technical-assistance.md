@@ -4,19 +4,19 @@ title: "Technical Assistance: How the World Bank Helps Open Government Data"
 
 The World Bank provides technical assistance to client country governments in the following areas:
 
-+ **Engagement, outreach and training:** Conducts information sessions for clients and country offices on open government
++ **Engagement, outreach and training.** Conducts information sessions for clients and country offices on open government
 data and how to make the case for opening them 
 
-+ **Readiness assessments:** Conducts short reviews with a country's key government representatives and data users to [assess
-its current capabilities and develop a plan for action](odra.html).
++ **Readiness assessments.** Conducts short reviews with a country's key government representatives and data users to [assess
+its current capabilities and develop a plan for action](odra.html)
 
-+ **Advice, technical assistance and financing:** Offers advice and training on Open Data strategies, technology and policy
++ **Advice, technical assistance and financing.** Offers advice and training on Open Data strategies, technology and policy
 best practices to support client country's open agendas
 
-+ **Platforms for innovation:** Brings international experts and local talent together to collaborate, motivate and help
++ **Platforms for innovation.** Brings international experts and local talent together to collaborate, motivate and help
 each other learn new and valuable ways to use data
 
-+ **Capabilities development for civil society:** Organizes data journalism boot camps, provides training in the treatment
++ **Capabilities development for civil society.** Organizes data journalism boot camps, provides training in the treatment
 and use of budget data and helps to produce foreign aid maps to promote effective, responsible use of Open Data
 
 The World Bank also has several initiatives and programs that use Open Data to address specific challenges:
@@ -129,4 +129,6 @@ Open Data by growing "pipelines" for capacity development between data sources a
 integrates media practitioners into communities of practice with government and non-government stakeholders, who are
 working to improve the environment for free and open information, which will enhance government transparency and
 accountability as well as data-driven decision-making at all levels.  
+
+* **Open Data for Social Accountability and Citizen Engagement.** This program supports opportunities to use Open Data initiatives to move beyond a focus on transparency, and towards the use of such initiatives by citizens in social accountability and citizen engagement approaches. Open Data for Social Accountability and Citizen Engagement collaborates with other Bank units to provide comprehensive support to Open Data initiatives at the country and project levels. Noteworthy examples include India, where Open Data-enabled citizen engagement solutions for rural development are being considered, and Nepal, where the gender-based violence hackathon was delivered. The program has also supported initiatives in Jamaica, Kyrgyz Republic, Nigeria, Russia and Rwanda. For more information, contact [skumagai@worldbank.org, or opengovdata@worldbank.org<mailto:opengovdata@worldbank.org>].
 

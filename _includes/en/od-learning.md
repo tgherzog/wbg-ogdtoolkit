@@ -1,6 +1,6 @@
 ## Knowledge Resources ##
 
-Books, handbooks, manuals, presentations and other training materials on the topic of Open Data
+Books, handbooks, manuals, presentations and other training materials on the topic of Open Data:
 
 * [Open Data Learning Modules](http://data.worldbank.org/about/learning-modules/training-resources)** (World Bank). Tutorials, exercises
   and other materials that explore Open Data initiatives,
@@ -8,7 +8,7 @@ Books, handbooks, manuals, presentations and other training materials on the top
   resources for training, outreach, seminars, multimedia and data tools
 
 * [Open Data at the World Bank](http://data.worldbank.org/sites/default/files/1/opendatatechnicaltrainingeap.pdf). PowerPoint presentation
-  summarizing the World Bank's Open Data Initiative; typically used as
+  summarizing the World Bank's Open Data initiative; typically used as
   part of in-country training sessions
 
 * [Guidelines on Open Data for Citizen Engagement](http://www.unpan.org/DPADM/EGovernment/OpenGovernmentDataandServices/tabid/1536/language/en-US/Default.aspx)** (United
@@ -21,7 +21,7 @@ Books, handbooks, manuals, presentations and other training materials on the top
   government data
 
 * [Data Wrangling Handbook](http://schoolofdata.org/handbook/)** (School of Data). Provides a glossary
-  and explains the basic stages of data processing (i.e., acquisition,
+  and explains the basic stages of data processing (e.g., acquisition,
   extraction, cleaning, transformation, integration, analysis,
   presentation); for all experience levels
 
@@ -34,16 +34,16 @@ Books, handbooks, manuals, presentations and other training materials on the top
 
 * [Open Data Field Guide](http://www.socrata.com/open-data-field-guide-chapter/about/)** (Socrata). Collection of lessons
   learned by pioneers of the Open Data movement; for public servants in
-  government, nonprofits and NGOs
+  government, non-profits and NGOs
 
-* [Open Data Research Network](http://opendataresearch.org/)**. The Open Data Research network
-  connects researchers from across the world working to explore the
-  implementation and impact of open data initiatives.
+* [Open Data Research Network](http://opendataresearch.org/)**. Network that
+  connects researchers from across the world who are exploring the
+  implementation and impact of Open Data initiatives
 
 * [Beyond Transparency: Open Data and the Future of Civic Innovation](http://beyondtransparency.org/)**. Book that surveys Open Data, with a focus on its
   civic applications; practitioners discuss their accomplishments with open civic data
 
-* [Open Data for Resilience Initiative (DRI) Field Guide](https://www.gfdrr.org/sites/gfdrr.org/files/publication/OPENDRI_fieldGuide_WEB_0.pdf)** (World Bank). How to craft a strategic
+* [Open Data for Resilience Initiative (DRI) Field Guide](https://www.gfdrr.org/sites/gfdrr.org/files/publication/OPENDRI_fieldGuide_WEB_0.pdf)** (World Bank). Discusses how to craft a strategic
   vision, budget, hire personnel and evaluate impacts of Open Data and
   implement the Open DRI vision to build resilient societies; intended
   to improve access to disaster risk management data from public data
@@ -56,15 +56,14 @@ Books, handbooks, manuals, presentations and other training materials on the top
 ## Open Data Communities ##
 
 Organizations, user groups, blogs and other forums that advocate and
-support Open Data
+support Open Data:
 
-* [Open Knowledge Foundation (OKFN)](http://okfn.org/)**. Nonprofit network that
+* [Open Knowledge Foundation (OKFN)](http://okfn.org/)**. Non-profit network that
   uses advocacy, technology and training to support the concept of open
-  knowledge---i.e., universal access to key information and the ability
-  for anyone to use information to their benefit---as a mainstream
-  concept
+  knowledge -- i.e., universal access to key information and the ability
+  for anyone to use information to their benefit -- as mainstream
 
-* [Sunlight Foundation](http://www.sunlightfoundation.com/). Nonpartisan nonprofit that advocates
+* [Sunlight Foundation](http://www.sunlightfoundation.com/). Nonpartisan non-profit that advocates
   for open government and uses Open Data technology tools, policy
   recommendations, journalism and grants to make government more
   accountable
@@ -92,33 +91,32 @@ support Open Data
   initiative of the European commission to promote a PSI and Open Data
   re-use market across the EU
 
-* [Global Spatial Data Infrastructure Association](http://www.gsdi.org/). The GSDI
-  Association promotes international cooperation and collaboration on
-  spatial data to better address social, economic, and environmental
-  issues.
+* [Global Spatial Data Infrastructure (GSDI) Association](http://www.gsdi.org/). An
+  association that promotes international cooperation and collaboration on
+  spatial data to better address social, economic and environmental
+  issues
 
-* [Open Data for Development in Latin America and the Caribbean](http://www.od4d.org/en/). Project to produce and expand knowledge on Open
+* [Open Data for Development in Latin America and the Caribbean](http://www.od4d.org/en/). A project to produce and expand knowledge on Open
   Data and its potential to improve public policies in this region;
   offers an interactive open government data platform for dialogue
   between governments, citizens, developers and academics
 
-* [Open Development Technology Alliance](http://wbi.worldbank.org/wbi/content/open-development-technology-alliance). ODTA aims to enhance
+* [Open Development Technology (ODTA) Alliance](http://wbi.worldbank.org/wbi/content/open-development-technology-alliance). An organization that aims to enhance
   accountability and improve the delivery and quality of public services
   through technology-enabled citizen engagement
 
-* [Open Government Partnership](http://www.opengovpartnership.org/).  The Open Government
-  Partnership is a multilateral initiative that aims to secure concrete
+* [Open Government Partnership](http://www.opengovpartnership.org/). A multilateral initiative that aims to secure concrete
   commitments from governments to promote transparency, empower
-  citizens, fight corruption, and harness new technologies to strengthen
+  citizens, fight corruption and harness new technologies to strengthen
   governance
 
-* [Partnership for Open Data (POD)](https://www.facebook.com/p4opendata/info).  Global
+* [Partnership for Open Data (POD)](https://www.facebook.com/p4opendata/info). Global
   partnership to help policymakers and citizens in developing countries
   understand and exploit the benefits of Open Data
 
-* [School of Data](http://schoolofdata.org/). The School of Data works to empower civil
+* [School of Data](http://schoolofdata.org/). Organization that works to empower civil
   society organizations, journalists and citizens with the skills they
-  need to use data effectively.
+  need to use data effectively
 
 * **Social media channels.** Follow [#opendata](https://twitter.com/search?q=%23opendata), [#opengov](https://twitter.com/search?q=%23opengov) and
   [#gov20](https://twitter.com/search?q=%23gov20) on Twitter

@@ -31,7 +31,7 @@ for specific purposes.
 ### Budget and Spending
 
 * [OpenSpending](http://www.openspending.org/). This app tracks government financial
-  transactions world-wide and presents them in useful, engaging formats that appeal to a variety of users, from schoolchildren to data geeks. It features an open database of financial information; a
+  transactions world wide and presents them in useful, engaging formats that appeal to a variety of users, from schoolchildren to data geeks. It features an open database of financial information; a
   community of users and contributors; and a set of open resources with technical, fiscal and political data.
 
 * [Moldova BOOST](http://moldova.wb-boost.org/). This app collects and compiles from national treasury systems detailed
