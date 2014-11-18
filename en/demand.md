@@ -28,7 +28,7 @@ is comprised of four stages: Early Engagement, Capacity Development, Use & Reuse
 
 
 
-## Stage 1: Early Engagement
+## Stage 1: Early Engagement {#stage-1}
 
 During the early stage, engagement strategies typically focus on identifying the audience _??stakeholders??_ of either
 data providers or consumers, and encouraging them to take the first critical steps towards an Open Data initiative. On
@@ -68,14 +68,14 @@ during the January 2014 announcement of Nigeria's Open Data Initiative.
 
  
 
-## Stage 2: Capacity Development
+## Stage 2: Capacity Development {#stage-2}
 
 For any data to be useful, consumers must develop "data literacy:" They must know how to acquire and understand data, and
 have the ability to apply them to specific challenges and needs. At this stage, engagement strategies should increase
 data literacy and technical capacity among potential users, including journalists, non-profit organizations, academics
 and software developers. The degree and style of technical training depends on the audience. Ideally, consumers would
 take part in multiple training opportunities as their needs require, and connect to [local interest groups and
-communities of practice](#LINK-further-development). The following courses and workshops typically address these
+communities of practice](#stage-4). The following courses and workshops typically address these
 objectives:
 
 * **Open Data Literacy Bootcamps.** These intensive three-day "learn-by-doing" workshops focus on core skills
@@ -108,7 +108,7 @@ and [Tunisia](https://sites.google.com/site/databootcamptunisia/).
   source and made available on multiple e-learning platforms.
  
 
-## Stage 3: Use & Reuse
+## Stage 3: Use & Reuse {#stage-3}
 
 At this stage, the objective is to harness Open Data in specific ways to address particular challenges and
 opportunities, and use Open Data to generate tangible value and results. Governments may already have policy priorities
@@ -140,7 +140,7 @@ challenges and attempt to identify appropriate solutions:
   the [Africa News Innovation Challenge](http://africannewschallenge.org/).
 
 
-## Stage 4: Further Development
+## Stage 4: Further Development {#stage-4}
 
 Once the Open Data initiative is firmly established, engagement strategies focus on ensuring that the initiative remains
 sustainable. This can mean reinforcing the efforts of earlier stages, propagating the initiative to other levels of
