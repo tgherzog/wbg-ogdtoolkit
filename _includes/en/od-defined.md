@@ -11,11 +11,11 @@ so that anyone can access and use the data using common, freely available softwa
 
 Organizations and governments use Open Data licenses to clearly explain the conditions under which their data may be used. Examples include:
 
-* Standard, reusable licenses designed to provide consistent and broadly recognized terms of use; for instance, [Creative Commons](http://creativecommons.org), particularly
+* <span></span>Standard, reusable licenses designed to provide consistent and broadly recognized terms of use; for instance, [Creative Commons](http://creativecommons.org), particularly
 [CC-By](http://creativecommons.org/licenses/by/4.0) and [CC0](http://creativecommons.org/publicdomain/zero/1.0/),
 as well as the [Open Database License](http://opendatacommons.org/licenses/odbl/). Associating data with CC0 is essentially the same as placing it in the public domain.
 
-* Governments and international organizations that have developed their own licenses, such as the
+* <span></span>Governments and international organizations that have developed their own licenses, such as the
 [UK Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/), [The World Bank Terms of Use](http://data.worldbank.org/summary-terms-of-use), and the
 [French Government License Ouverte](http://www.scribd.com/doc/69411439/French-PSI-Re-Use-Licence-Licence-Ouverte-Open-Licence-ENG).
 

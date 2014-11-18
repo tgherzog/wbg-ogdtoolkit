@@ -17,4 +17,19 @@ form](essentials.html#definition), a [publicly accessible online place](technolo
 then you’re well on your way.
 
 We update the OGD Toolkit frequently with new information. If you have suggestions or corrections, please [send us
-feedback](http://datahelpdesk.worldbank.org#givefeedback) or [fork this project on Github](https://github.com/worldbank/wbg-ogdtoolkit) .
+feedback](http://datahelpdesk.worldbank.org#givefeedback).
+
+---
+
+## Review documents in Google Docs ##
+
+* [Welcome](https://docs.google.com/document/d/1CG8RyXwOs-XxAGFVJ7r44Vh6kpUpKiCobIdf8XoK7vg/edit)
+* [Open Data in a Nutshell](https://docs.google.com/document/d/1KkoafMSoT3KSBhOgQsOXxSQ3gm39gsWI540IxIo7HRU/edit)
+* [Open Data Essentials](https://docs.google.com/document/d/17MKCPsT5z8Jl9jYI6Olbw49NZ4ZtKPWfa6NhijlrKfk/edit)
+* [Technology Options](https://docs.google.com/document/d/1B-1xNfvmE0cozp6Z8Tm2iOWrNf80Qcwp7X3Y3K87Dqk/edit)
+* [Demand & Engagement](https://docs.google.com/document/d/1ZlfpZq_k_gFItEGv_wegCa-SleVs0fXolSz-3UhnHIo/edit)
+* [Supply & Quality](https://docs.google.com/document/d/1-9Bn3e4tjQKF98oEDDt0hihWzaZyQ6ZW4In7Jpe_loA/edit)
+* [Readiness Assessment Tool](https://docs.google.com/document/d/1INh0P339Jnqoyiqku6ugPBsvk6q0ePLQxmuAjOMZtyw/edit)
+* [Technical Assistance](https://docs.google.com/document/d/1nSYV3EWrWjdGVB97Mor5NuNCJ68U4kqicqYFbvZuFro/edit)
+
+[All draft documents](https://drive.google.com/#folders/0B6nDfCEIsHsTSkVxc0dtTkRENk0)

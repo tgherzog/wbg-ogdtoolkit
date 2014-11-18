@@ -28,7 +28,7 @@ partners, tailored to meet stakeholder needs. Its complementary programs include
 open-source platform that provides technical solutions and assistance; community mapping, which utilizes collaborative
 crowd-sourcing mapping tools such as OpenStreetMap to engage communities to create accurate, timely data about urban and
 rural environments; and risk communication, which utilizes InaSAFE software to assess the likely effects of future
-disasters by combining data from scientists, governments and communities​ and to communicate risk more effectively
+disasters by combining data from scientists, governments and communities and to communicate risk more effectively
 to decision-makers in planning, preparedness and response. 
 
 * **[World Bank Group Finances](https://finances.worldbank.org)** (WBGF). The WBGF program uses open financial data [via
@@ -36,7 +36,7 @@ the web](https://finances.worldbank.org) and [mobile devices](http://financesapp
 transparency,
 expand the use of data analytics, support innovation and new businesses and address development challenges. The program
 provides three key services: Guidance in opening financial data and engaging communities and stakeholders in the use of
-data for policymaking, including [demand analysis] (https://www.scribd.com/book/232433281/Open-Financial-Data);
+data for policymaking, including [demand analysis](https://www.scribd.com/book/232433281/Open-Financial-Data);
 development of data-driven tools to help agencies use Open Data to deliver services more effectively; and support for
 the private sector to promote economic growth and social impact. WBGF also provides mobile strategy consulting to help
 clients connect with users via point-to-mobile apps. For more information, please contact <finances@worldbank.org> or
@@ -56,14 +56,14 @@ budgets and improve decision-making processes, transparency and accountability. 
 and a 26-digit template to make highly granular fiscal data easier to understand and accessible to key users such as
 legislatures and civil society. Expenditure data are distributed on core fiscal dimensions (i.e., admin, function,
 economic, fund sources, economic type) and can be linked with additional datasets to support broader efficiency and
-equity analyses. For more information, contact Leif Jensen at ljensen2@worldbank.org.
+equity analyses. For more information, contact Leif Jensen at <ljensen2@worldbank.org>.
 
 * [The Open Aid Partnership (OAP)](http://www.openaidmap.org). The OAP is a multi-stakeholder initiative housed in the
 World Bank Group’s Innovation Labs. The OAP brings together governments, development partners, civil society and media
 groups to collectively improve aid transparency and effectiveness. Key objectives of the OAP are to build the capacity
 of in-country partners to collect, curate and publish data on development resources in an open and accessible format,
 and to use the data to engage citizens and other stakeholders in evidence-based conversations on development. You can
-find out more about this initiative by visiting http://openaidmap.org, or contact openaid@worldbank.org.
+find out more about this initiative by visiting <http://openaidmap.org>, or contact <openaid@worldbank.org>.
 
 * [Data on Company Registries](http://www.ocr.gov.np/index.php/en/) (OCR). As part of a long-term partnership, the
 World Bank Group's International Finance Corporation (IFC) and the Office of the Company Registrar (OCR) in Nepal
@@ -105,7 +105,7 @@ counterparts. For more information, contact <opengovdata@worldbank.org>.
 * [The Open Landscape Partnership Platform](http://openlandscape.info) (OLPP). The OLPP is a high-resolution
 crowd-mapping platform that supports globally consistent and locally relevant cross-sectoral collaborations for design,
 monitoring, and evaluation of projects that impact sensitive landscapes, critical habitats and hotspots. Initially
-developed in partnership with the [World Bank Global Tiger Initiative] (http://globaltigeriniative.org), it is a joint
+developed in partnership with the [World Bank Global Tiger Initiative](http://globaltigerinitiative.org), it is a joint
 initiative of satellite data providers, distributors, value-added processors and end users who are creating a community
 of practice to expand demand for open access to very high spatial and temporal resolution satellite data. This data is
 suitable for wide-ranging nonprofit use in the interest of public accountability, transparency and sustainability of
@@ -115,10 +115,11 @@ land and natural resource management and conservation practices.
 information, tools and solutions to support the stewardship of natural and cultural assets of protected areas. It unites
 managers, researchers, policymakers and citizens through development of cyber-infrastructure that _freely?_ distributes
 data to facilitate more informed, science-based management decisions. Clemson University, a public Land-Grant
-University, owns OPN and also created a digital repository of the [World Bank Global Tiger Initiative's (GTI)]
-(http://globaltigeriniative.org) document library, comprised of more than 300,000 photos, maps, manuscripts and other
-items held at archives and museums of U.S. parks, protected areas and historic sites. GTI and Clemson are building a
-Open Data platform to support the efforts of Tiger Range Nations to double the world's tiger population.
+University, owns OPN and also created a digital repository of the World Bank Global Tiger Initiative's
+[document library](https://openparksnetwork.org/index.php/component/search/?searchword=***&ordering=newest&searchphrase=any&limit=20&areas[0]=GTIDocs),
+comprised of more than 300,000 photos, maps, manuscripts and other items held at archives and museums of U.S. parks,
+protected areas and historic sites. GTI and Clemson are building an Open Data platform to support the efforts of Tiger
+Range Nations to double the world's tiger population.
 
 * **World Bank Global Media Development Program.** This partnership-driven program provides a range of services to support
 Data Literacy, including sustained training for media practitioners on the potential and value of government data. The
@@ -130,5 +131,12 @@ integrates media practitioners into communities of practice with government and 
 working to improve the environment for free and open information, which will enhance government transparency and
 accountability as well as data-driven decision-making at all levels.  
 
-* **Open Data for Social Accountability and Citizen Engagement.** This program supports opportunities to use Open Data initiatives to move beyond a focus on transparency, and towards the use of such initiatives by citizens in social accountability and citizen engagement approaches. Open Data for Social Accountability and Citizen Engagement collaborates with other Bank units to provide comprehensive support to Open Data initiatives at the country and project levels. Noteworthy examples include India, where Open Data-enabled citizen engagement solutions for rural development are being considered, and Nepal, where the gender-based violence hackathon was delivered. The program has also supported initiatives in Jamaica, Kyrgyz Republic, Nigeria, Russia and Rwanda. For more information, contact [skumagai@worldbank.org, or opengovdata@worldbank.org<mailto:opengovdata@worldbank.org>].
+* **Open Data for Social Accountability and Citizen Engagement.** This program supports opportunities to use Open Data
+initiatives to move beyond a focus on transparency, and towards the use of such initiatives by citizens in social
+accountability and citizen engagement approaches. Open Data for Social Accountability and Citizen Engagement
+collaborates with other Bank units to provide comprehensive support to Open Data initiatives at the country and project
+levels. Noteworthy examples include India, where Open Data-enabled citizen engagement solutions for rural development
+are being considered, and Nepal, where the gender-based violence hackathon was delivered. The program has also supported
+initiatives in Jamaica, Kyrgyz Republic, Nigeria, Russia and Rwanda. For more information, contact
+<skumagai@worldbank.org>, or <opengovdata@worldbank.org>.
 

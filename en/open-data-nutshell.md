@@ -42,7 +42,7 @@ understand the complexity and broad potential of Open Data, which is derived fro
 and copyright protection common to the Open Source concept. Open Data is still in its early stages, however, and best
 practices and communities are just beginning to emerge.
 
-### About This Toolkit ###
+## About This Toolkit
 
 Countries such as the U.S. and U.K., as well as the World Bank, introduced the first Open Data platforms in 2009. Since
 that time, the World Bank has leveraged its experience with some of the world's pioneering Open Data initiatives to

@@ -181,8 +181,7 @@ Metadata standard | Application
 -----
 
 
-# Parking Lot #
+## Parking Lot
 
 * How to select data (which fruits are low-hanging)? *--perhaps put this in the ODRA section?*
   * Link to country pages from WDI, UN, etc
-* Checklist for open data <https://checklists.opquast.com/en/opendata> - applies primarily to portals, not data standards & quality
