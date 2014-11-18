@@ -140,6 +140,17 @@
 
 	td { vertical-align: top }
 	th { vertical-align: bottom }
+
+	#models-container {
+	  margin-bottom: 1em;
+	  
+	  div p {
+	    font-size: 0.8em;
+		margin: 0 0 1em;
+	  }
+	}
+
+	.ui-corner-all { border-radius: 0 };
 	
 	blockquote {
 	  font-style: italic;

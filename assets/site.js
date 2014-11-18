@@ -1,6 +1,16 @@
 // Stop cross-frame script
 if(top.frames.length > 0) top.location.href=self.location;
 
+// install tabs
+$(function() {
+  $(".content-tabs").tabs({ heightStyle: "auto" });
+
+  $('a.model-link').click(function() {
+    $( $(this).attr('href') + '-click').click();
+	return false;
+  });
+});
+
 // sticky sidebar
 $(function() {
   var top = $('#main .sidebar').offset().top;
