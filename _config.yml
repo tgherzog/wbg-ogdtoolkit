@@ -51,7 +51,7 @@ lang:
     localeprefix: "This page in"
     sidebar:
       - {hdr: h2, link: /en/index.html, title: Open Government Data Toolkit }
-      - {hdr: h3, link: /en/open-data-nutshell.html, title: Open Data in a Nutshell }
+      - {hdr: h3, link: /en/open-data-in-60-seconds.html, title: Open Data in 60 Seconds }
       - {hdr: h3, link: /en/essentials.html, title: Open Data Essentials }
       - {hdr: h3, link: /en/technology.html, title: Technology Options }
       - {hdr: h3, link: /en/demand.html, title: Demand and Engagement }

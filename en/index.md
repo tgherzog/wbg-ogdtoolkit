@@ -7,7 +7,7 @@ title: Open Government Data Toolkit
 
 The **Open Government Data Toolkit** is designed to help governments, Bank staff and ordinary users understand the basic
 precepts of Open Data, then get “up to speed” in planning and implementing an open government data program, while
-avoiding common pitfalls.  We suggest that you [start here](open-data-nutshell.html).
+avoiding common pitfalls.  We suggest that you [start here](open-data-in-60-seconds.html).
 
 <!-- <p align='center'> -->
 <!-- ![Pie chart](/images/piechart.png) -->
