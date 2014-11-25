@@ -1,4 +1,6 @@
 
+*Revise this intro to emphasize that govt officials must often justify investments in OD on a cost/benefit basis.*
+
 Data has significant potential to provide benefits. In fact, data has been [referred to as the new oil](http://www.forbes.com/sites/perryrotella/2012/04/02/is-data-the-new-oil), because while both data and oil have intrinsic value, they both must be "refined" or otherwise transformed to realize their full potential. When government data are made accessible and reusable, they enable individuals, organizations and even governments themselves to innovate and collaborate in new ways.
 
 Broadly speaking, the benefits of Open Data include:

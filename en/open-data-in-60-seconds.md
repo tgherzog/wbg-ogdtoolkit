@@ -1,5 +1,5 @@
 ---
-title: Open Data in a Nutshell
+title: Open Data in 60 Seconds
 ---
 
 If you've ever gone online to check the weather, research a safety recall on your vehicle or calculate how much your
