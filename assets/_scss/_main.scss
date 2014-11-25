@@ -179,6 +179,17 @@
 	  text-align: center;
 	}
 
+	/* We repurpose the <cite> tag to indicate text that should be initially hidden and shown with a "more" link,
+	   which is inserted by Javascript
+	*/
+	cite {
+	  font-style: inherit;
+	  display: none;
+	}
+
+	a.more {
+	}
+
 	/* for diagnostics */
 	em {
 	  color: green;

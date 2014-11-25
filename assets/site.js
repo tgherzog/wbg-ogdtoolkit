@@ -79,6 +79,17 @@ $(function() {
   $(window).scroll(function() {
 	 sticky();
   });
+
+  // Install "more" links
+  $('.body cite').each(function() {
+  	$('<a/>').addClass('more').html(_config.more).attr('href', '#').insertBefore(this);
+  });
+
+  $('.body a.more').click(function() {
+    $(this).next().fadeIn();
+	$(this).hide();
+	return false;
+  });
 });
 
 // mobile menu dropdown implementation
