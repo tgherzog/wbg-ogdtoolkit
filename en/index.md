@@ -2,7 +2,8 @@
 title: Open Government Data Toolkit
 ---
 
-## Welcome to the Open Government Data Toolkit ##
+## Welcome to the Open Government Data Toolkit
+{: .notoc :}
 
 The **Open Government Data Toolkit** is designed to help governments, Bank staff and ordinary users understand the basic
 precepts of Open Data, then get “up to speed” in planning and implementing an open government data program, while
@@ -21,7 +22,8 @@ feedback](http://datahelpdesk.worldbank.org#givefeedback).
 
 ---
 
-## Review documents in Google Docs ##
+## Review documents in Google Docs
+{: .notoc :}
 
 * [Welcome](https://docs.google.com/document/d/1CG8RyXwOs-XxAGFVJ7r44Vh6kpUpKiCobIdf8XoK7vg/edit)
 * [Open Data in a Nutshell](https://docs.google.com/document/d/1KkoafMSoT3KSBhOgQsOXxSQ3gm39gsWI540IxIo7HRU/edit)

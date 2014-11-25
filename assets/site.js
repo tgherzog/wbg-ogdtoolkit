@@ -11,8 +11,52 @@ $(function() {
   });
 });
 
-// sticky sidebar
 $(function() {
+  // generate automatic table of contents
+  var $li = $('aside.sidebar li.active');
+  if( $li.length ) {
+	var $ul = $('<ul/>');
+	// scan for h1-level headers. If none, scan for h2 instead
+	var $hdrs = $('section.body h1');
+	if( ! $hdrs.length ) $hdrs = $('section.body h2');
+
+	var spyTargets = new Array();
+	$hdrs.each(function() {
+	  if( $(this).attr('id') && ! $(this).hasClass('notoc') ) {
+	    var title = $(this).text();
+		var a = $('<a/>').text(title).attr('href', '#' + $(this).attr('id')).attr('id', 'spy-' + $(this).attr('id'));
+		var li = $('<li/>').append(a);
+		$ul.append(li);
+		spyTargets.push($(this).attr('id'));
+	  }
+	});
+
+	if( $ul.children().length ) {
+	  $li.addClass('autotoc').append($ul);
+	  var topElem = null;
+	  $(window).scroll(function() {
+	    var $w = $(this);
+		for(var i=spyTargets.length-1;i>=0;i--) {
+		  var id  = '#spy-' + spyTargets[i];
+		  var top = $('#' + spyTargets[i]).offset().top - $w.scrollTop() - 5;
+		  if( top < 0 ) {
+			if( topElem != id ) {
+			  $(topElem).parent().removeClass('here');
+			  topElem = id;
+			  $(id).parent().addClass('here');
+			}
+		    return;
+		  }
+		}
+
+		// must be before first elem
+		if( topElem ) $(topElem).parent().removeClass('here');
+		topElem = null;
+	  });
+    }
+  }
+
+  // sticky sidebar
   var top = $('#main .sidebar').offset().top;
   var footer = $('#footer').offset().top;
   var height = $('#main .sidebar').height();
