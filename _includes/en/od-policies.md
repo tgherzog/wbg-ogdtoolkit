@@ -18,16 +18,16 @@ both the consumer and producer.
 ## Discussion and Guidance
 
 * [8 Principles of Open Government Data](http://www.opengovdata.org/home/8principles). These principles were first
-established by open government advocates in 2007. In short, they state that government data can be considered
+established by open government advocates in 2007. <cite>In short, they state that government data can be considered
 open if they are made available in a form that is complete; primary; timely; accessible; machine processable;
-non-discriminatory; non-proprietary; and license free.
+non-discriminatory; non-proprietary; and license free.</cite>
 
 * [UK Open Data White Paper: Unleashing the
 Potential](http://www.cabinetoffice.gov.uk/sites/default/files/resources/CM8353_acc.pdf). Published in 2012, this paper
-presents a detailed approach to the U.K.'s plan to unlock the potential of Open Data. The plan consists of three general
+presents a detailed approach to the U.K.'s plan to unlock the potential of Open Data. <cite>The plan consists of three general
 steps: enhancing access to and strengthening data usability; building trust in public data; and providing smarter, more
 effective capabilities to use and share data. Objectives and potential outcomes of the plan include getting more data
-into the public domain, and ensuring that data are accurate, shared responsibly and easy to use and obtain.  
+into the public domain, and ensuring that data are accurate, shared responsibly and easy to use and obtain.</cite>
 
 * [Australian Gov 2.0 Taskforce
 Report](http://www.finance.gov.au/publications/gov20taskforcereport/doc/Government20TaskforceReport.pdf). This report,

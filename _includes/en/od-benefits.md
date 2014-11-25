@@ -91,8 +91,8 @@ Broadly speaking, the benefits of Open Data include:
   This study, authored by a firm specializing in analysis, strategic consulting and legal services, is available only in Spanish.
 
 * [The value of Danish address data: Social benefits from the 2002
-  agreement on procuring address data etc. free of charge](http://data.worldbank.org/sites/default/files/1/value-assessment-danish-address-data-uk-2010-07-07b.pdf)
-  ([Presentation](http://data.worldbank.org/sites/default/files/1/denmark-address-epsiplatform2012-mortenlindmbbl-dkepsi2012effectofloweringpsichargesv02a1-120330052641-phpapp01.pptx)) (Danish Enterprise and Construction Authority).
+  agreement on procuring address data etc. free of charge](../docs/value-assessment-danish-address-data-uk-2010-07-07b.pdf)
+  ([Presentation](../docs/denmark-address-epsiplatform2012-mortenlindmbbl-dkepsi2012effectofloweringpsichargesv02a1-120330052641-phpapp01.pptx)) (Danish Enterprise and Construction Authority).
   This 2010 study analyzes the value of and benefits associated with the release of Danish address data, including
   geographic coordinates, which were made available to the public in 2002. The study concludes that there are direct
   financial benefits from the Danish agreement, and the most recent data showed that the private sector reaped the

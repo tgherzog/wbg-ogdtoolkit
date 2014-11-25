@@ -6,7 +6,7 @@ Books, handbooks, manuals, presentations and other training materials on the top
   data.worldbank.org and microdata.worldbank.org; module topics include
   resources for training, outreach, seminars, multimedia and data tools
 
-* [Open Data at the World Bank](http://data.worldbank.org/sites/default/files/1/opendatatechnicaltrainingeap.pdf). PowerPoint presentation
+* [Open Data at the World Bank](../docs/opendatatechnicaltrainingeap.pdf). PowerPoint presentation
   summarizing the World Bank's Open Data initiative; typically used as
   part of in-country training sessions
 
