@@ -32,58 +32,58 @@ into the public domain, and ensuring that data are accurate, shared responsibly 
 * [Australian Gov 2.0 Taskforce
 Report](http://www.finance.gov.au/publications/gov20taskforcereport/doc/Government20TaskforceReport.pdf). This report,
 published in 2009, presents Australia's plan to integrate Web 2.0 collaborative technologies, communities and tools into
-government policy, service delivery and regulation issues. Called Government 2.0, this approach to governing helps
+government policy, service delivery and regulation issues. <cite> Called Government 2.0, this approach to governing helps
 public agencies become more responsive, innovative and citizen-centric, as well as open and accountable. One of its
 three central objectives is allowing open access to public sector information, and exploiting the full social and
-economic value of this information as a national resource managed for public purposes.
+economic value of this information as a national resource managed for public purposes.</cite>
 
 * [Open Government Guide](http://www.rcfp.org/open-government-guide) (Reporters Committee for Freedom of the Press).
 This is a compendium of information on U.S. state laws that address the disclosure of open records and attendance at
-open meetings. Organized into two parts (e.g., access to records and access to meetings), it details the rights of
+open meetings. <cite>Organized into two parts (e.g., access to records and access to meetings), it details the rights of
 reporters and other citizens to see information such as police records and voting results, and to attend official
 meetings, including those of state and local governments. The Open Government Guide makes it easy to compare laws across
-U.S. states and the District of Columbia. 
+U.S. states and the District of Columbia.</cite> 
 
 * [New Zealand's Journey to Open Data](http://www.slideshare.net/enotsluap/i2012-paul-stone-slides-not-seen). This
 presentation, produced in 2012, provides guidance to New Zealand government agencies about releasing copyrighted and
-non-copyrighted materials for re-use by third parties. In 2011, public service departments were directed by a
+non-copyrighted materials for re-use by third parties. <cite>In 2011, public service departments were directed by a
 declaration to release high-value public data for re-use, in accordance with Open Data principles. High-value data are
-those with economic and social, transparency and democratic, and/or efficiency outcomes. 
+those with economic and social, transparency and democratic, and/or efficiency outcomes.</cite> 
 
 * [6 Steps to Open Data Success](http://www.socrata.com/blog/6-steps-to-open-data-success/) (Socrata). A summary of key
-steps to building an effective Open Data program, including: 1. Start with small, easy datasets; 2. Focus on promoting
+steps to building an effective Open Data program. <cite>These include: 1. Start with small, easy datasets; 2. Focus on promoting
 transparency; 3. Ask the development community for insights on data usefulness and accessibility; 4. Increase internal
 participation and get colleagues on board; 5. Optimize for efficiency and save time and money; and 6. Share and pool
-data with neighboring cities, states and countries for additional benefits. 
+data with neighboring cities, states and countries for additional benefits.</cite>
 
 * [The Closed World of Company
 Data](http://blog.opencorporates.com/2012/04/16/how-open-is-company-data-in-open-government-partnership-countries/).
 This report published in April, 2012 by [OpenCorporates](https://opencorporates.com)  examines the openness of companies
-in [Open Government Partnership](http://www.opengovpartnership.org/) countries. OpenCorporates asserts that the world is
+in [Open Government Partnership](http://www.opengovpartnership.org/) countries. <cite>OpenCorporates asserts that the world is
 increasingly dominated by interconnected global companies, and that open access to key information, including core
 datasets that affect our lives, is a fundamental principle of free markets and democracy. Many companies restrict access
 to information, however, which impacts the ability of stakeholders, employees and society at large to understand and
-influence companies and hold them accountable, and enables the potential for corporate corruption. 
+influence companies and hold them accountable, and enables the potential for corporate corruption.</cite>
 
 * [OECD: Open Government Data - Towards Empirical Analysis of Open
   Government Data Initiatives](http://www.oecd-ilibrary.org/governance/open-government-data_5k46bj4f03s7-en). This paper
   explores the principles, concepts and criteria of open government data (OGD) initiatives and the challenges to their
-  implementation at central and local levels of government. Authored by the Organisation for Economic Cooperation and
+  implementation at central and local levels of government. <cite>Authored by the Organisation for Economic Cooperation and
   Development, the paper outlines a methodology to analyze the value of OGD initiatives, provides an analytical
   framework for the initiatives and recommends data to be collected across OECD countries. Applying the framework and
   collecting data could lead to the development of a common set of metrics with which to assess OGD impacts and value
-  creation within and across countries.
+  creation within and across countries.</cite>
 
 * [Sunlight Foundation: Guidelines for Open Data Policies](http://sunlightfoundation.com/policy/opendata/). These policy
 guidelines include recommendations on what data should be made public, how to make it public and how to implement
-policy. Topics addressed include guidance on what an Open Data policy can and should do when the objective is to create
+policy. <cite>Topics addressed include guidance on what an Open Data policy can and should do when the objective is to create
 a government data ecosystem where Open Data is the default. Setting a data default to "open" indicates that a government
 is proactive about making public information available online and without barriers for reuse, and about making decisions
-in the public interest. 
+in the public interest.</cite> 
 
 * [Briefing on Open Data Declarations](../docs/briefing-on-open-data-declarations-generic.doc). A "declaration" is intended
-to provide a clear signal of political intent on the part of a government in relation to an Open Data initiative. This
-briefing provides background and considerations for the formulation of Open Data declarations.
+to provide a clear signal of political intent on the part of a government in relation to an Open Data initiative. <cite>This
+briefing provides background and considerations for the formulation of Open Data declarations.</cite>
 
 ### Examples of Open Data Policies
 
