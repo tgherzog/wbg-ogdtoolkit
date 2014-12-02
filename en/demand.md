@@ -162,16 +162,16 @@ participation to help sustain initiatives:
 
 * **International and Regional Open Data Conferences.** These conferences are sponsored by different organizations and held around the world. They offer learning opportunities for both data providers and consumers and connect affiliated communities of practice. Examples include sessions at the first and second [International
   Open Government Data Conferences](http://www.data.gov/communities/conference), [Open Government Conference
-  in Moscow](http://xn--e1aajfpcds8ay4h.xn--80abeamcuufxbhgound0h9cl.xn--p1ai/en/) and the [Regional Conference on Open Data for
+  in Moscow](http://xn--e1aajfpcds8ay4h.xn--80abeamcuufxbhgound0h9cl.xn--p1ai/en/) and the first and second [Regional Conferences on Open Data for
   Latin America and the Caribbean](http://confdatosabiertos.uy/home).
 
 * **Open Data Communities.** Organized user communities can provide sustained support and engagement over the long term.
-They can be locally based or part of international consortia. Examples include [Hacks/Hackers](http://hackshackers.com),
-the [Open Knowledge Network](https://okfn.org/network) and [Code for Africa](http://www.codeforafrica.org).
+  They can be locally based or part of international consortia. Examples include [Hacks/Hackers](http://hackshackers.com),
+  the [Open Knowledge Network](https://okfn.org/network) and [Code for Africa](http://www.codeforafrica.org).
 
  
 
-## Open Data Communities ##
+## Open Data Communities {#communities}
 
 Organizations, user groups, blogs and other forums that advocate and
 support Open Data:
@@ -241,7 +241,9 @@ support Open Data:
 
 
 
-## Additional Resources
+## Additional Reading
+
+These links provide more information on Open Data demand and engagement.
 
 * [Harvard Business Review: 'Open Data Has Little Value If People Can't
   Use It'](http://blogs.hbr.org/cs/2013/03/open_data_has_little_value_if.html)

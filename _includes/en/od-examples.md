@@ -1,28 +1,16 @@
 
-The data catalog is the centerpiece of any Open Data initiative. At a minimum, catalogs allow users to easily search for
-and download available datasets in Open Data formats; display terms of use (i.e., licensing) clearly; and provide
-attribution, metadata and other documentation. Catalogs typically have many other features, as discussed in [Technology
-Options](technology.html).
+Open Data initiatives can be organized at different levels, and often overlap jurisdictions.
+Country-level initiatives feature data at the national level and below, and are often federated. City and subnational
+initiatives are similar in design but with a smaller scope. Individual agencies or sectors may have their own data
+with a specific thematic focus. Other sources may contain specific kinds of data, such as statistical indicators,
+geospatial data or microdata, such as business and household surveys.
 
-Governments and entities with more than one data catalog for different types or sources of data can link their catalogs.
-A data catalog may cover a single city or agency, or it may span an entire government and include multiple agencies.
-Catalogs can incorporate separate, smaller catalogs through a process called federation, in which a catalog can
-automatically read and update its metadata from external sources. For instance, a government-wide data catalog may
-incorporate individually managed catalogs from several different ministries or agencies.
-
-Country-level data catalogs contain data at the national level and below, and are often federated. City and subnational
-catalogs are similar in design but with a smaller scope. Individual agencies or sectors may operate their own data
-catalogs with a specific thematic focus. Other catalogs contain specific kinds of data, such as statistical indicators,
-geospatial data or microdata, such as business and household surveys. Federated catalogs facilitate this kind of
-segmentation while ensuring that users can find all available data in a single place.
-
-Following are some examples of Open Data catalogs grouped by size (national, state, agency, etc.) or subject. These
+Following are some examples of Open Data at national, state, or individual agency levels, and those for specific subjects. These
 lists are not intended to be complete, as the total number of official Open Data catalogs runs well into the hundreds.
-More examples can be found at [data.gov](https://www.data.gov/open-gov/), the [Open Data
-Census](http://national.census.okfn.org/) and the [Open Data
-Barometer](http://www.opendataresearch.org/project/2013/odb).
+More examples can be found at [data.gov](https://www.data.gov/open-gov/) and the [Open Data
+Census](http://national.census.okfn.org/).
 
-## Country Catalogs
+## Country-Level Open Data
 
 * [Australia](http://data.gov.au/)
 * [Brazil](http://dados.gov.br/)
@@ -41,7 +29,7 @@ Barometer](http://www.opendataresearch.org/project/2013/odb).
 * [United Kingdom](http://data.gov.uk/data)
 * [United States of America](http://catalog.data.gov/dataset)
 
-## City & Subnational Catalogs
+## City & Subnational-Level Open Data
 
 * [Buenos Aires](http://data.buenosaires.gob.ar/), Argentina
 * [Chicago](https://data.cityofchicago.org/), U.S.A.
@@ -54,7 +42,7 @@ Barometer](http://www.opendataresearch.org/project/2013/odb).
 * [Vienna](http://data.wien.gv.at/), Austria
 * [Vancouver](http://data.vancouver.ca/), Canada
 
-## Sector & Thematic Examples
+## Open Data by Sector/Theme
 
 #### Agriculture
 

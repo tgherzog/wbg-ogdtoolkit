@@ -9,6 +9,9 @@ so that anyone can access and use the data using common, freely available softwa
 
 ## Open Data Licenses ## {#licenses}
 
+[Issue: add more examples from developing countries](https://github.com/tgherzog/wbg-ogdtoolkit/issues/18)
+{: .issue :}
+
 Organizations and governments use Open Data licenses to clearly explain the conditions under which their data may be used. Examples include:
 
 * <span></span>Standard, reusable licenses designed to provide consistent and broadly recognized terms of use; for instance, [Creative Commons](http://creativecommons.org), particularly
@@ -19,7 +22,9 @@ as well as the [Open Database License](http://opendatacommons.org/licenses/odbl/
 [UK Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/), [The World Bank Terms of Use](http://data.worldbank.org/summary-terms-of-use), and the
 [French Government License Ouverte](http://www.scribd.com/doc/69411439/French-PSI-Re-Use-Licence-Licence-Ouverte-Open-Licence-ENG).
 
-## Further Reading ##
+## Additional Reading
+
+These links provide more information on the definition and licensing of Open Data.
 
 * [Licensing Open Data: A Practical Guide](http://discovery.ac.uk/files/pdf/Licensing_Open_Data_A_Practical_Guide.pdf)
 * [A Primer on Machine Readability for Online Documents and Data](https://www.data.gov/developers/blog/primer-machine-readability-online-documents-and-data)

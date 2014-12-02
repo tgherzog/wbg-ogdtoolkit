@@ -6,7 +6,7 @@ for implementing Open Data. Policies often spell out which types of data may **n
 to safeguard sensitive information. They may also establish governance of the Open Data initiative, describe
 inter-agency working groups and provide points of contact.
 
-For the user group comprised of citizens, civil society organizations, businesses and data consumers, Open Data policies clearly define which data
+For the user group comprised of citizens, civil society organizations, businesses, researchers, and data consumers, Open Data policies clearly define which data
 are or will be made public, how and where to acquire data, standards for providing data and metadata (which also
 foster accountability), and how to engage with the government or producing agency. 
 
@@ -15,7 +15,7 @@ managing the Open Data initiative, which helps consumers better understand the d
 often important consumers of their own data, Open Data policies can be helpful to governments from the standpoint of
 both the consumer and producer.
 
-## Discussion and Guidance
+## Guidance on Open Data Policies
 
 * [8 Principles of Open Government Data](http://www.opengovdata.org/home/8principles). These principles were first
 established by open government advocates in 2007. <cite>In short, they state that government data can be considered
@@ -81,11 +81,14 @@ a government data ecosystem where Open Data is the default. Setting a data defau
 is proactive about making public information available online and without barriers for reuse, and about making decisions
 in the public interest.</cite> 
 
-* [Briefing on Open Data Declarations](../docs/briefing-on-open-data-declarations-generic.doc). A "declaration" is intended
+* [Briefing on Open Data Policy Declarations](../docs/briefing-on-open-data-declarations-generic.doc). A "policy declaration" is intended
 to provide a clear signal of political intent on the part of a government in relation to an Open Data initiative. <cite>This
-briefing provides background and considerations for the formulation of Open Data declarations.</cite>
+briefing provides background and considerations for the formulation of Open Data policy declarations.</cite>
 
 ### Examples of Open Data Policies
+
+[Issue: add more examples from developing countries](https://github.com/tgherzog/wbg-ogdtoolkit/issues/19)
+{: .issue :}
 
 
 * [US Open Government Directive](http://www.whitehouse.gov/open/documents/open-government-directive) (2009)

@@ -164,11 +164,25 @@ Proper anonymization is highly specific to the type of data and the individual d
 
 ### Metadata
 
-Metadata is often simply defined as "data about data." Metadata provides the information necessary to use a particular source of data effectively, and may include information about its source, structure, underlying methodology, topical, geographic and/or temporal coverage, license, when it was last updated and how it is maintained. Specific types of data often include additional metadata as appropriate; for instance, digital photographs may include a time stamp, information about the equipment used, aperture settings and possibly the GPS location.
+Metadata is often simply defined as "data about data." Metadata provides the information necessary to use a particular
+source of data effectively, and may include information about its source, structure, underlying methodology, topical,
+geographic and/or temporal coverage, license, when it was last updated and how it is maintained. Specific types of data
+often include additional metadata as appropriate; for instance, digital photographs may include a time stamp,
+information about the equipment used, aperture settings and possibly the GPS location.
 
-The [Dublin Core Metadata Initiative] (http://dublincore.org) (DCMI) provides a framework and core vocabulary of metadata terms that can be applied to most electronic resources. Dublin Core is used heavily in [DCAT](http://www.w3.org/TR/vocab-dcat/), a standard designed to facilitate interoperability between web-based data catalogs. Governments may develop their own metadata models (preferably based on established standards such as DCAT) to provide further uniformity to government-wide Open Data initiatives. One example is the [metadata schema](https://project-open-data.cio.gov/v1.1/schema/) propagated by data.gov.
+The [Dublin Core Metadata Initiative] (http://dublincore.org) (DCMI) provides a framework and core vocabulary of
+metadata terms that can be applied to most electronic resources. Dublin Core is used heavily in
+[DCAT](http://www.w3.org/TR/vocab-dcat/), a standard designed to facilitate interoperability between web-based data
+catalogs. Governments may develop their own metadata models (preferably based on established standards such as DCAT) to
+provide further uniformity to government-wide Open Data initiatives. One example is the [metadata
+schema](https://project-open-data.cio.gov/v1.1/schema/) propagated by data.gov.
 
-Other metadata standards are in use for a [wide variety of data types](http://en.wikipedia.org/wiki/Metadata_standards#Available_metadata_standards). For government data, some of the most relevant include:
+Other metadata standards are in use for a [wide variety of data
+types](http://en.wikipedia.org/wiki/Metadata_standards#Available_metadata_standards). For government data, some of the
+most relevant include:
+
+[Issue: include SDMX here?](https://github.com/tgherzog/wbg-ogdtoolkit/issues/17)
+{: .issue :}
 
 Metadata standard | Application
 ----------------- | -----------
@@ -177,11 +191,3 @@ Metadata standard | Application
 [Text Encoding Initiative](http://www.tei-c.org/index.xml) | Texts in digital form, chiefly in the humanities, social sciences and linguistics
 [Directory Interchange Format](http://gcmd.gsfc.nasa.gov/add/difguide/index.html) (DIF) | Scientific datasets
 
-
------
-
-
-## Parking Lot
-
-* How to select data (which fruits are low-hanging)? *--perhaps put this in the ODRA section?*
-  * Link to country pages from WDI, UN, etc

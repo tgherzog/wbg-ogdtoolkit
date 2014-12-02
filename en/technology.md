@@ -7,16 +7,23 @@ platforms, with a particular focus on Open Data catalogs, which are the web-base
 end users. It is intended to support IT specialists who play a lead or coordinating role in managing the technical
 infrastructure of an Open Data initiative.
 
-## What does an Open Data Platform Look Like?
+The terms "catalog," "platform," and "portal" are often somewhat ambiguous and sometimes confusing. In this toolkit, we
+define theses terms as follows:
 
-An Open Data platform provides an online "front door" for end users to access the data and resources available under an
-Open Data initiative. Typically, an Open Data platform is a synthesis of different products and services, such as a data
-catalog, which provides easy access to available datasets; an online forum for questions, technical support and
-feedback; a knowledge base of background and training materials; a blog for communications and outreach; and an events
-calendar. These services are often delivered via different products designed for specific purposes and interoperability,
-as opposed to a single product that does everything.
+* A **data catalog** is a list of datasets available in an Open Data initiative. Essential elements of a data catalog include
+searching, metadata, clear license information, and access to the datasets themselves. Typically, a data catalog is the
+online centerpiece  of an Open Data initative.
+* A **platform** provides an online "front door" for end users to access the data and resources available
+under an Open Data initaitive. A platform includes the data catalog along with other information and services
+that are part of the Open Data ecosystem.
+These typically include: an online forum for questions, technical support and feedback; a knowledge base of background and
+training materials; and a blog for communications and outreach. The services within a platform are typically implemented
+with a suite of technologies, not a single one.
+* A **portal** can mean many different things; for that reason, this toolkit avoids use of this term.
 
-The centerpiece of an Open Data platform is typically a data catalog. As described in the following paragraphs, data
+## What does an Open Data Catalog Look Like?
+
+As described in the following paragraphs, data
 catalogs can be relatively simple and "stand alone," or they can be very sophisticated and integrated with other
 systems. Most Open Data catalogs, however, share a few common characteristics (more extensive lists are [also
 available](https://checklists.opquast.com/en/opendata)):
@@ -57,13 +64,13 @@ host of applications.
 * **Security**. Open Data catalogs implement security measures to protect data and metadata from being changed by
 unauthorized users.
 
-Open Data catalogs generally follow one of two service delivery models. **Open Source** platforms are nominally "free,"
+Open Data catalogs generally follow one of two service delivery models. **Open Source** catalogs are nominally "free,"
 in that they may be acquired via download for no cost, and may be modified or customized without restriction or
-licensing fees. These products can be hosted on dedicated servers or on cloud-based infrastructure, but both approaches
+licensing fees. These products can be hosted on the owners' own dedicated servers or on cloud-based infrastructure, but both approaches
 require the catalog operator to manage IT logistics; some vendors provide cloud-hosting of open source products as a
 service.  In contrast, **Software as a Service** (SaaS) products are available from various vendors for a monthly or
 annual fee, and vendors assume responsibility for IT management, security and software updates. SaaS vendors may also
-provide training and some measure of customization.
+provide some measure of customization.
 
 ## Four Models of an Open Data Catalog {#models}
 
@@ -179,7 +186,9 @@ available via more conventional structures such as CSV.
 
 
 
-## Additional Resources
+## Additional Reading
+
+These links provide more information and background on technology options.
 
 * [Technology Options for Open Government Data Platforms](../docs/OGDPlatforms-White-Paper.docx) (World Bank, January,
 2014). This white paper discusses characteristics of several products and services provided by different organizations.

@@ -1,7 +1,12 @@
 
-*Revise this intro to emphasize that govt officials must often justify investments in OD on a cost/benefit basis.*
+As with any public initiative, Open Data involves some expenditure of public resources and effort. As such, public
+officials are often interested in the benefits of Open Data compared to the levels of required effort.
 
-Data has significant potential to provide benefits. In fact, data has been [referred to as the new oil](http://www.forbes.com/sites/perryrotella/2012/04/02/is-data-the-new-oil), because while both data and oil have intrinsic value, they both must be "refined" or otherwise transformed to realize their full potential. When government data are made accessible and reusable, they enable individuals, organizations and even governments themselves to innovate and collaborate in new ways.
+Data has significant potential to provide benefits. In fact, data has been [referred to as the new
+oil](http://www.forbes.com/sites/perryrotella/2012/04/02/is-data-the-new-oil), because while both data and oil have
+intrinsic value, they both must be "refined" or otherwise transformed to realize their full potential. When government
+data are made accessible and reusable, they enable individuals, organizations and even governments themselves to
+innovate and collaborate in new ways.
 
 Broadly speaking, the benefits of Open Data include:
 
@@ -24,7 +29,7 @@ Broadly speaking, the benefits of Open Data include:
   other ministries, which reduces acquisition costs, redundancy and overhead. Open Data can also empower citizens with the
   ability to alert governments to gaps in public datasets and to provide more accurate information.
 
-## Key Research Reports and Projects ##
+## Key Research on Open Data Benefits ##
 
 * [Open data: Unlocking innovation and performance with liquid
   information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information?cid=other-eml-alt-mgi-mck-oth-2910/)
@@ -35,7 +40,9 @@ Broadly speaking, the benefits of Open Data include:
   This is a multi-country, multi-year study led by the World Wide Web Foundation to understand how Open Data is being put
   to use in different countries and contexts across the developing world.
 
-## Other Research and Resources ##
+## Additional Reading
+
+These links provide more information on the benefits of Open Data.
 
 * [Open Data and Economic Growth](http://www.opengovpartnership.org/blog/blog-editor/2012/07/20/open-data-and-economic-growth-which-link-if-any)
   (Open Government Partnership). This blog discusses how Open Data can be a robust driver of economic growth, and cites
@@ -48,10 +55,10 @@ Broadly speaking, the benefits of Open Data include:
 
 * [The Benefits of Open Data -- Evidence from Economic Research](http://openeconomics.net/2012/10/03/the-benefits-of-open-data-evidence-from-economic-research/)
   (Open Economics Working Group, OKF). This group advocates for economics to be built on transparent foundations and for
-  economic data and analysis to be made available to all of society, not just economists. It interprets economic research
+  economic data and analysis to be made available to all of society, not just economists. <cite>It interprets economic research
   on Open Data and identifies best practices and legal, regulatory and technical standards for open economic data. Its
   blog features positive effects that opening data has had in economics and shows how economists can mainstream the
-  openness concept. 
+  openness concept.</cite> 
 
 * [OKF Live Document on Evidence & Anecdotes for Open Gov Data](https://docs.google.com/presentation/d/1_uF9HSJnrS9eFgHi4gMYg1UZ_-8lfGpeutfSBd2ppKs/edit?pli=1#slide=id.p)
   (Open Knowledge Foundation). This presentation provides examples to support opening government data, and cites key benefits
@@ -61,10 +68,10 @@ Broadly speaking, the benefits of Open Data include:
 * [A National Information Framework for Public Sector Information and Open Data](http://www.nationalarchives.gov.uk/documents/nif-and-open-data.pdf)
   (Advisory Panel on Public Sector Information). In addition to embracing government initiatives on opening public
   datasets, this paper argues for implementing a strategic infrastructure, called the National Information Framework
-  (NIF), to leverage the value of Open Data, generate social and economic benefits and help transform data use to
+  (NIF). <cite>The framework would leverage the value of Open Data, generate social and economic benefits and help transform data use to
   improve personal, government and corporate decision-making and support growth. The NIF approach includes Open Data
   policies, standards, metadata and more, and would potentially include information derived from the private sector and
-  entire public sector.   
+  entire public sector.</cite>
 
 * [Shakespeare Review: An Independent Review of Public Sector Information](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/198752/13-744-shakespeare-review-of-public-sector-information.pdf)
   (Stephan Shakespeare). Based on a commissioned market assessment of public sector information (PSI) and public
@@ -75,9 +82,9 @@ Broadly speaking, the benefits of Open Data include:
 * [Market Assessment of Public Sector Information by Deloitte](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/198905/bis-13-743-market-assessment-of-public-sector-information.pdf)
   (UK Department for Business Innovation & Skills). This market assessment, written by Deloitte and commissioned by the
   Department for Business Innovation & Skills, is the first UK-wide market assessment of PSI. It establishes an evidence
-  base regarding the value of PSI and highlights policy implications from a study of how it could be better utilized. It
+  base regarding the value of PSI and highlights policy implications from a study of how it could be better utilized. <cite>It
   discusses how PSI is used inside and outside of government and identifies barriers, such as competitiveness, funding and
-  regulation, to fully exploiting its value.
+  regulation, to fully exploiting its value.</cite>
 
 * [Open Government Promotional Video by OGP](http://vimeo.com/29259763) (Open Government Partnership).
   A short video that highlights examples of how Open Data has made federal, state and local governments in regions such
@@ -94,23 +101,23 @@ Broadly speaking, the benefits of Open Data include:
   agreement on procuring address data etc. free of charge](../docs/value-assessment-danish-address-data-uk-2010-07-07b.pdf)
   ([Presentation](../docs/denmark-address-epsiplatform2012-mortenlindmbbl-dkepsi2012effectofloweringpsichargesv02a1-120330052641-phpapp01.pptx)) (Danish Enterprise and Construction Authority).
   This 2010 study analyzes the value of and benefits associated with the release of Danish address data, including
-  geographic coordinates, which were made available to the public in 2002. The study concludes that there are direct
+  geographic coordinates, which were made available to the public in 2002. <cite>The study concludes that there are direct
   financial benefits from the Danish agreement, and the most recent data showed that the private sector reaped the
   greatest benefits. Not all expected benefits of the agreement, however, had been realized when the study was
-  published.
+  published.</cite>
 
 * [Sunlight Foundation: Why Open Data?](http://sunlightfoundation.com/blog/tag/why-open-data/).
   To understand the barriers that governments, organizations and institutions face when opening data, the Sunlight
   Foundation used crowdsourcing to collect 50+ commonly cited reasons for not releasing data, from sources both inside
-  and outside of government. The responses illuminated a variety of concerns, including the potential for other people
+  and outside of government. <cite>The responses illuminated a variety of concerns, including the potential for other people
   altering the released data and the bad PR that could result from the data. Crowdsourcing was used again to learn how
-  others responded to those concerns, and the answers were published in a 10-part blog series, #WhyOpenData.   
+  others responded to those concerns, and the answers were published in a 10-part blog series, #WhyOpenData.</cite>   
 
 * [Statistics and Open Data: Harvesting unused knowledge, empowering citizens and improving public services](http://www.publications.parliament.uk/pa/cm201314/cmselect/cmpubadm/564/564.pdf) (House of Commons Public Administration Select Committee).
   This study posits that many opportunities to harvest unused knowledge, in the form of data, are currently wasted, when
-  that knowledge could be used to benefit the economy and society as a whole. Concerns with the clarification of Open
+  that knowledge could be used to benefit the economy and society as a whole. <cite>Concerns with the clarification of Open
   Data policies, the right to privacy and the fact that some civil and public servants lack the skills to interpret data
-  properly are also discussed, as well as areas that have shown improvement.
+  properly are also discussed, as well as areas that have shown improvement.</cite>
 
 * [Open Financial Data](http://issuu.com/world.bank.publications/docs/open_financial_data).
   This report, from the World Bank, evaluates the potential for using open financial data to increase citizen engagement in the delivery of public goods and services.
