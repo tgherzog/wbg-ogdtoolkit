@@ -72,7 +72,7 @@ service.  In contrast, **Software as a Service** (SaaS) products are available f
 annual fee, and vendors assume responsibility for IT management, security and software updates. SaaS vendors may also
 provide some measure of customization.
 
-## Four Models of an Open Data Catalog {#models}
+## Three Models of an Open Data Catalog {#models}
 
 {% include en/tech-models.md %}
 
