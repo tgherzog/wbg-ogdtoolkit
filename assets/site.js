@@ -81,15 +81,18 @@ $(function() {
   });
 
   // Install "more" links
-  $('.body cite').each(function() {
-  	$('<a/>').addClass('more').html(_config.more).attr('href', '#').insertBefore(this);
-  });
+  qs = new QueryString();
+  if( ! qs.bool('full', false) ) {
+	$('.body cite').each(function() {
+	  $('<a/>').addClass('more').html(_config.more).attr('href', '#').insertBefore(this);
+	});
 
-  $('.body a.more').click(function() {
-    $(this).next().fadeIn();
-	$(this).hide();
-	return false;
-  });
+	$('.body a.more').click(function() {
+	  $(this).next().fadeIn();
+	  $(this).hide();
+	  return false;
+	});
+  }
 });
 
 // mobile menu dropdown implementation
@@ -162,6 +165,50 @@ $(function() {
   $('#footer .content > .links').before(element);
 });
 
+// utility class for parsing the query string
+function QueryString(qs) {
+  this.params = new Object();
+
+  this.get = function(key, default_) {
+	// This silly looking line changes UNDEFINED to NULL
+	if (default_ == null) default_ = null;
+	
+	var value=this.params[key];
+	if (value==null) value=default_;
+	
+	return value
+  }
+
+  this.exists = function(key) { return this.params[key] != undefined; }
+
+  this.bool = function(key, default_) {
+    var v = this.get(key, default_);
+	return v == 1 || v == true || v == 'yes' || v == 'true';
+  }
+
+  if( qs == null ) qs = location.search.substring(1, location.search.length);
+  if( qs.length == 0 ) return;
+
+  // Turn <plus> back to <space>
+  // See: http://www.w3.org/TR/REC-html40/interact/forms.html#h-17.13.4.1
+  qs = qs.replace(/\+/g, ' ')
+  var args = qs.split('&') // parse out name/value pairs separated via &
+	  
+  // split out each name=value pair
+  for (var i=0;i<args.length;i++) {
+	var value;
+	var pair = args[i].split('=')
+	var name = unescape(pair[0])
+
+	if (pair.length == 2)
+		value = unescape(pair[1])
+	else
+		value = name
+  
+	this.params[name] = value
+  }
+}
+
 
 // UserVoice implementation
 (function() {
@@ -191,3 +238,4 @@ function uvClick() {
   UserVoice.push(['setCustomFields', { 'Origin': siteIdentifier }]);
   UserVoice.push(['showLightbox', 'classic_widget', uvOptions]);
 }
+
