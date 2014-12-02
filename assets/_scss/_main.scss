@@ -139,12 +139,24 @@
       max-width: 100%;
     }
 
-	td, th {
-	  padding: 0.25em 0.75em;
+	table {
+	  border-collapse: collapse;
 	}
 
-	td { vertical-align: top }
-	th { vertical-align: bottom }
+	td, th {
+	  padding: 0.25em 0.75em;
+	  border: 1px solid tint($line, 10%);
+	}
+
+	tr:nth-child(even) { background: $light; }
+	th {
+	 vertical-align: bottom;
+	 background: shade($light, 3%);
+	}
+
+	td {
+	  vertical-align: top;
+	}
 
 	#models-container {
 	  margin-bottom: 1em;
