@@ -37,11 +37,9 @@ One way to understand Open Data initiatives is to view them as types of economie
 
 The Toolkit is comprised of this introduction and seven sections:
 
-1. [Open Data Essentials](essentials.html). Brief orientation, including what Open Data is, how it's used, examples of applications and FAQs; useful for all, especially inexperienced users or those new to Open Data
+1. [Open Data Essentials](essentials.html). Brief orientation, including what Open Data is, how it's used, and examples of Open Data initiatives at different levels; useful for all, especially inexperienced users or those new to Open Data
 
-*Revise* How to get started; overview of applications, policies, benefits and challenges; technical assistance; FAQs; useful for all
-
-2. [Starting an Open Data Initiative](starting.html). *Revise*
+2. [Starting an Open Data Initiative](starting.html). Provides some of the tools that governments will need to take the first steps in an Open Data initiative; of particular interest to Open Data managers, coordinators and staff within government
 
 3. [Technology Options](technology.html). Summarizes key technical issues in Open Data catalog development; especially helpful to IT specialists
 
@@ -55,4 +53,4 @@ particular interest to government agencies, civil society organizations, technol
 government needs to take to launch an Open Data initiative. This section is of particular interest to governments that
 are committed to Open Data but don't know where to start.
 
-7. [Technical Assistance and Funding](technical-assistance.html). *Revise*
+7. [Technical Assistance and Funding](technical-assistance.html). A list of technical assistance and funding resources from the World Bank and other organizations; most relevant to governments in developing countries

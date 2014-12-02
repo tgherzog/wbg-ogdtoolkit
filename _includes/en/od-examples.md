@@ -1,13 +1,13 @@
 
 Open Data initiatives can be organized at different levels, and often overlap jurisdictions.
-Country-level initiatives feature data at the national level and below, and are often federated, meaning
+Country-level initiatives feature data at the national level and below, and are often federated, which means
 that they aggregate various sources of data at a single location. City and subnational
 initiatives are similar in design but with a smaller scope. Individual agencies or sectors may have their own data
 with a specific thematic focus. Other sources may contain specific kinds of data, such as statistical indicators,
 geospatial data or microdata, such as business and household surveys.
 
-Following are some examples of Open Data at national, state, or individual agency levels, and those for specific subjects. These
-lists are not intended to be complete, as the total number of official Open Data catalogs runs well into the hundreds.
+Following are some examples of Open Data at national, state or individual agency levels and for specific subjects. These
+lists are not intended to be complete, as the total number of official Open Data initiatives runs well into the hundreds.
 More examples can be found at [data.gov](https://www.data.gov/open-gov/) and the [Open Data
 Census](http://national.census.okfn.org/).
 
@@ -30,7 +30,7 @@ Census](http://national.census.okfn.org/).
 * [United Kingdom](http://data.gov.uk/data)
 * [United States of America](http://catalog.data.gov/dataset)
 
-## City & Subnational-Level Open Data
+## City- & Subnational-Level Open Data
 
 * [Buenos Aires](http://data.buenosaires.gob.ar/), Argentina
 * [Chicago](https://data.cityofchicago.org/), U.S.A.

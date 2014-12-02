@@ -7,19 +7,19 @@ platforms, with a particular focus on Open Data catalogs, which are the web-base
 end users. It is intended to support IT specialists who play a lead or coordinating role in managing the technical
 infrastructure of an Open Data initiative.
 
-The terms "catalog," "platform," and "portal" are often somewhat ambiguous and sometimes confusing. This toolkit 
+The terms "catalog," "platform" and "portal" are often somewhat ambiguous and sometimes confusing. This Toolkit 
 defines theses terms as follows:
 
 * A **data catalog** is a list of datasets available in an Open Data initiative. Essential elements of a data catalog include
 searching, metadata, clear license information, and access to the datasets themselves. Typically, a data catalog is the
 online centerpiece  of an Open Data initiative.
-* A **platform** provides an online "front door" for end users to access the data and resources available
+* A **platform** provides an online "front door" for users to access all resources available
 under an Open Data initiative. A platform includes the data catalog along with other information and services
 that are part of the Open Data ecosystem.
-These typically include: an online forum for questions, technical support and feedback; a knowledge base of background and
+These typically include an online forum for questions, technical support and feedback; a knowledge base of background and
 training materials; and a blog for communications and outreach. The services within a platform are often implemented
 with a suite of technologies, not a single one.
-* A **portal** can mean many different things; for that reason, this toolkit avoids use of this term.
+* A **portal** can mean many different things; for that reason, this Toolkit avoids use of this term.
 
 ## What does an Open Data Catalog Look Like?
 

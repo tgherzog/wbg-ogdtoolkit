@@ -1,3 +1,4 @@
+### Note: this section has been discontinued
 
 #### Q. What is the difference between “Open Data” and “open source”?
 

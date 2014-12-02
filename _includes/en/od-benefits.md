@@ -2,9 +2,8 @@
 As with any public initiative, Open Data involves some expenditure of public resources and effort. As such, public
 officials are often interested in the benefits of Open Data compared to the levels of required effort.
 
-Data has significant potential to provide benefits. In fact, data has been [referred to as the new
-oil](http://www.forbes.com/sites/perryrotella/2012/04/02/is-data-the-new-oil), because while both data and oil have
-intrinsic value, they both must be "refined" or otherwise transformed to realize their full potential. When government
+Similar to other global commodities, data has significant potential to provide benefits. In fact, data has been [referred to as the new
+oil](http://www.forbes.com/sites/perryrotella/2012/04/02/is-data-the-new-oil), because while both data and oil have intrinsic value, they both must be "refined" or otherwise transformed to realize their full potential. When government
 data are made accessible and reusable, they enable individuals, organizations and even governments themselves to
 innovate and collaborate in new ways.
 
