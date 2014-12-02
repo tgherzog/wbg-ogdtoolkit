@@ -27,17 +27,19 @@ As Open Data is still in its early stages, best practices and communities are ju
 
 ## About This Toolkit
 
-This Open Government Data Toolkit is a collection of online tools and knowledge, to support
+A collection of online tools and knowledge, this Open Government Data Toolkit supports
 the Open Data development efforts in client countries and in the growing number of other entities and organizations that
-are joining this technical revolution. The Toolkit provides guidance they need to create their own Open Data strategies
-and platforms. Open Data initiatives can be thought of as economies, in which data are the commodity, data users
-(or consumers) provide demand for data, and government agencies and other sources provide the supply of data. This
-toolkit incorporates this approach into thinking about how to structure an Open Data initiative.
+are joining this technical revolution. The Toolkit provides the guidance they need to create their own Open Data strategies
+and platforms. 
+
+One way to understand Open Data initiatives is to view them as types of economies, where the data represent commodities, data users -- or consumers -- provide demand for the data and government agencies and other sources provide the supply of data. This philosophy is incorporated into the Toolkit and its approach to structuring an Open Data initiative.
 
 
 The Toolkit is comprised of this introduction and seven sections:
 
-1. [Open Data Essentials](essentials.html). *Revise* How to get started; overview of applications, policies, benefits and challenges; technical assistance; FAQs; useful for all
+1. [Open Data Essentials](essentials.html). Brief orientation, including what Open Data is, how it's used, examples of applications and FAQs; useful for all, especially inexperienced users or those new to Open Data
+
+*Revise* How to get started; overview of applications, policies, benefits and challenges; technical assistance; FAQs; useful for all
 
 2. [Starting an Open Data Initiative](starting.html). *Revise*
 

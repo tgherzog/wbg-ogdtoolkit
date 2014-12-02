@@ -7,17 +7,17 @@ platforms, with a particular focus on Open Data catalogs, which are the web-base
 end users. It is intended to support IT specialists who play a lead or coordinating role in managing the technical
 infrastructure of an Open Data initiative.
 
-The terms "catalog," "platform," and "portal" are often somewhat ambiguous and sometimes confusing. In this toolkit, we
-define theses terms as follows:
+The terms "catalog," "platform," and "portal" are often somewhat ambiguous and sometimes confusing. This toolkit 
+defines theses terms as follows:
 
 * A **data catalog** is a list of datasets available in an Open Data initiative. Essential elements of a data catalog include
 searching, metadata, clear license information, and access to the datasets themselves. Typically, a data catalog is the
-online centerpiece  of an Open Data initative.
+online centerpiece  of an Open Data initiative.
 * A **platform** provides an online "front door" for end users to access the data and resources available
-under an Open Data initaitive. A platform includes the data catalog along with other information and services
+under an Open Data initiative. A platform includes the data catalog along with other information and services
 that are part of the Open Data ecosystem.
 These typically include: an online forum for questions, technical support and feedback; a knowledge base of background and
-training materials; and a blog for communications and outreach. The services within a platform are typically implemented
+training materials; and a blog for communications and outreach. The services within a platform are often implemented
 with a suite of technologies, not a single one.
 * A **portal** can mean many different things; for that reason, this toolkit avoids use of this term.
 
@@ -67,7 +67,7 @@ unauthorized users.
 Open Data catalogs generally follow one of two service delivery models. **Open Source** catalogs are nominally "free,"
 in that they may be acquired via download for no cost, and may be modified or customized without restriction or
 licensing fees. These products can be hosted on the owners' own dedicated servers or on cloud-based infrastructure, but both approaches
-require the catalog operator to manage IT logistics; some vendors provide cloud-hosting of open source products as a
+require the catalog operator to manage IT logistics. Some vendors provide cloud-hosting of open source products as a
 service.  In contrast, **Software as a Service** (SaaS) products are available from various vendors for a monthly or
 annual fee, and vendors assume responsibility for IT management, security and software updates. SaaS vendors may also
 provide some measure of customization.

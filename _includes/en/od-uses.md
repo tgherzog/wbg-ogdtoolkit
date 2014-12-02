@@ -1,10 +1,9 @@
 
-For Open Data to have impact and value, it must be put to use. Hence, making data usable is a vital component of a
-successful Open Data initiative. Usable data frequently share several important features, including [machine
-readability](essentials.html#defined), [clear licensing](essentials.html#licenses) and [complete
-metadata](supply.html).
+For Open Data to have impact and value, it must be put to use. Hence, making data usable is the core component of a
+successful Open Data initiative. Usable data frequently have
+[complete metadata](supply.html).
 
-Two indicators of a successful Open Data initiative is when developers harness Open Data to produce new and valuable
+Two indicators of a successful Open Data initiative are when developers harness Open Data to produce new and valuable
 products and services, or when they integrate Open Data into existing products and services. In an ideal scenario, this
 leads to a "virtuous cycle," where new products increase [demand for Open Data](demand.html), which
 catalyzes the release of more datasets, the development of new applications and so forth. A similarly patterned cycle

@@ -82,8 +82,8 @@ is proactive about making public information available online and without barrie
 in the public interest.</cite> 
 
 * [Briefing on Open Data Policy Declarations](../docs/briefing-on-open-data-declarations-generic.doc). A "policy declaration" is intended
-to provide a clear signal of political intent on the part of a government in relation to an Open Data initiative. <cite>This
-briefing provides background and considerations for the formulation of Open Data policy declarations.</cite>
+to provide a clear signal of political intent on the part of a government in relation to an Open Data initiative. This
+briefing provides background and considerations for the formulation of Open Data policy declarations.
 
 ### Examples of Open Data Policies
 

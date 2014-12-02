@@ -110,7 +110,7 @@ These links provide more information on the benefits of Open Data.
   To understand the barriers that governments, organizations and institutions face when opening data, the Sunlight
   Foundation used crowdsourcing to collect 50+ commonly cited reasons for not releasing data, from sources both inside
   and outside of government. <cite>The responses illuminated a variety of concerns, including the potential for other people
-  altering the released data and the bad PR that could result from the data. Crowdsourcing was used again to learn how
+  altering the released data and the negative PR that could result from the data. Crowdsourcing was used again to learn how
   others responded to those concerns, and the answers were published in a 10-part blog series, #WhyOpenData.</cite>   
 
 * [Statistics and Open Data: Harvesting unused knowledge, empowering citizens and improving public services](http://www.publications.parliament.uk/pa/cm201314/cmselect/cmpubadm/564/564.pdf) (House of Commons Public Administration Select Committee).
