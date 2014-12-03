@@ -48,4 +48,6 @@ Books, handbooks, manuals, presentations and other training materials on the top
   to improve access to disaster risk management data from public data
   catalogs; especially helpful for planners and program officers
 
+* [Open Data: Challenges and Opportunties for National Statistical Offices](http://documents.worldbank.org/curated/en/2014/07/19791395/open-data-challenges-opportunities-national-statistical-offices-open-data-challenges-opportunities-national-statistical-offices) (World Bank).
+  This working paper provides an analysis of opportunities and challenges that Open Data presents to NSOs and to identify what steps and solutions are needed to enable NSOs to play a valuable role in national or sub-national Open Data initiatives.
 
