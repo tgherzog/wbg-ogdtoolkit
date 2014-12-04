@@ -7,7 +7,7 @@ and the established standards of professional data communities. It is intended f
 involved in the production of data, such as government ministries and statistical agencies, but data consumers who want
 to understand how public data are produced may also find this section useful.
 
-## General Standards of Quality
+## General Standards of Quality {#general}
 
 While "quality" can be an ambiguous concept, what quality means in the context of data has been well defined for some
 time. EuroStat's [definition of quality in
@@ -38,7 +38,7 @@ A similar set of dimensions, published in the [Project Open Data document](http:
 
 
 
-## Data Standards
+## Data Standards {#standards}
 
 While the principles of quality described in the previous sections generally apply to all data types, the standards and details by which data are produced and evaluated vary according to the type of data. The following sections summarize the standards relevant to each data type.
 
@@ -127,7 +127,7 @@ These references provide guidance to organizations who manage microdata:
 
 
 
-## Aid Data ##
+### Aid Data
 
 
 Aid data refer to the resources and activities through which institutions finance international development. The
@@ -138,7 +138,7 @@ Registry](http://www.iatiregistry.org/publisher).
 
 
 
-## More Guidance on Quality and Techniques
+## More Guidance on Quality and Techniques {#guidance}
 
 ### Data Governance
 

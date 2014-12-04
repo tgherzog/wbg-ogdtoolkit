@@ -10,6 +10,9 @@ For the user group comprised of citizens, civil society organizations, businesse
 are or will be made public, how and where to acquire data, standards for providing data and metadata (which also
 foster accountability), and how to engage with the government or producing agency. 
 
+Policies aid both data consumers and data producers by clearly outlining the standards, processes and requirements for offering and acquiring public information.
+{: .pullquote :}
+
 An additional benefit of Open Data policies is the insight they provide into a government's internal procedures for
 managing the Open Data initiative, which helps consumers better understand the data ecosystem. Since governments are
 often important consumers of their own data, Open Data policies can be helpful to governments from the standpoint of

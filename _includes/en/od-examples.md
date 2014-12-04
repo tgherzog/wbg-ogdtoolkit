@@ -6,6 +6,9 @@ initiatives are similar in design but with a smaller scope. Individual agencies 
 with a specific thematic focus. Other sources may contain specific kinds of data, such as statistical indicators,
 geospatial data or microdata, such as business and household surveys.
 
+Country initiatives are usually organized at the national level or below; city initiatives have a smaller scope; and agency data is often focused on a theme.
+{: .pullquote :}
+
 Following are some examples of Open Data at national, state or individual agency levels and for specific subjects. These
 lists are not intended to be complete, as the total number of official Open Data initiatives runs well into the hundreds.
 More examples can be found at [data.gov](https://www.data.gov/open-gov/) and the [Open Data
@@ -75,5 +78,4 @@ Information & Communication Technologies (ICT) | [Australian ICT Open Datasets](
 Transport | [OpenPlans](http://www.openplans.org/)
 Transport | [European Public Sector Information Platform: Transport](http://epsiplatform.eu/transport)
 Water | [Global water database](http://map.mwater.co/)
-
 

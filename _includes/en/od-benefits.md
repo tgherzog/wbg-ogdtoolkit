@@ -7,6 +7,9 @@ oil](http://www.forbes.com/sites/perryrotella/2012/04/02/is-data-the-new-oil), b
 data are made accessible and reusable, they enable individuals, organizations and even governments themselves to
 innovate and collaborate in new ways.
 
+From accelerating economic growth to ensuring government accountability, Open Data can benefit citizens, organizations -- and the governments themselves. 
+{: .pullquote :}
+
 Broadly speaking, the benefits of Open Data include:
 
 

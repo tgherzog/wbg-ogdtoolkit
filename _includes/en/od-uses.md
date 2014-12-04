@@ -3,6 +3,9 @@ For Open Data to have impact and value, it must be put to use. Hence, making dat
 successful Open Data initiative. Usable data frequently have
 [complete metadata](supply.html).
 
+When Open Data is used for new products or services, it can increase data demand -- and drive the release of more datasets and improvements in data quality.
+{: .pullquote :}
+
 Two indicators of a successful Open Data initiative are when developers harness Open Data to produce new and valuable
 products and services, or when they integrate Open Data into existing products and services. In an ideal scenario, this
 leads to a "virtuous cycle," where new products increase [demand for Open Data](demand.html), which

@@ -21,7 +21,7 @@ training materials; and a blog for communications and outreach. The services wit
 with a suite of technologies, not a single one.
 * A **portal** can mean many different things; for that reason, this Toolkit avoids use of this term.
 
-## What does an Open Data Catalog Look Like?
+## What does an Open Data Catalog Look Like? {#characteristics}
 
 As described in the following paragraphs, data
 catalogs can be relatively simple and "stand alone," or they can be very sophisticated and integrated with other
@@ -76,7 +76,7 @@ provide some measure of customization.
 
 {% include en/tech-models.md %}
 
-## Commonly Used Open Data Platforms
+## Commonly Used Open Data Platforms {#platforms}
 
 ### CKAN
 
@@ -192,9 +192,9 @@ These links provide more information and background on technology options.
 
 * [Technology Options for Open Government Data Platforms](../docs/OGDPlatforms-White-Paper.docx) (World Bank, January,
 2014). This white paper discusses characteristics of several products and services provided by different organizations.
-* [Technical Assessment of Open Data Platforms for National Statistical Organizations](http://documents.worldbank.org/curated/en/2014/10/20451797/technical-assessment-open-data-platforms-national-statistical-organisations) (World Bank, October,
+* [Technical Assessment of Open Data Platforms for National Statistical Organisations](#LINK) (World Bank, October,
 2014). This research report is intended to provide a better understanding and assessment of the technical issues related
-to data dissemination tools that National Statistical Organizations (NSOs) use to distribute data to the public under an Open Data initiative.
+to data dissemination tools that NSOs use to distribute data to the public under an Open Data initiative.
 * [Open Data Checklist](https://checklists.opquast.com/en/opendata). This checklist of Open Data best practices provides a good
 reference for the typical requirements of an Open Data platform.
 * [ODI Presentation: How to choose the right Open Data platform for you](http://www.scribd.com/doc/246134303/How-to-choose-the-right-open-data-platform-for-you)

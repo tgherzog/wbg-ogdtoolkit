@@ -2,7 +2,7 @@
 title: Technical Assistance and Funding
 ---
 
-## Technical Assistance from the World Bank
+## Technical Assistance from the World Bank {#world-bank}
 
 The World Bank provides technical assistance to client country governments in the following areas:
 
@@ -136,7 +136,7 @@ initiatives in Jamaica, Kyrgyz Republic, Nigeria, Russia and Rwanda. For more in
 <skumagai@worldbank.org>, or <opengovdata@worldbank.org>.</cite>
 
 
-## Technical Assistance from Other Organizations
+## Technical Assistance from Other Organizations {#other}
 
 
 * [UN Department of Economic and Social Affairs (UNDESA)](http://www.unpan.org/DPADM). Supports the United Nations
@@ -169,7 +169,7 @@ Bank or any other organizations.
 
 
 
-## Sources of Funding
+## Sources of Funding {#funding}
 
 * **The World Bank**. Provides a range of programs that support Open Data
 implementation and use Open Data to address specific challenges.
