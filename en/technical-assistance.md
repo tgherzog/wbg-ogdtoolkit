@@ -6,22 +6,15 @@ title: Technical Assistance and Funding
 
 The World Bank provides technical assistance to client country governments in the following areas:
 
-+ **Engagement, outreach and training.** Conducts information sessions for clients and country offices on open government
-data and how to make the case for opening them 
-
-+ **Readiness assessments.** Conducts short reviews with a country's key government representatives and data users to [assess
-its current capabilities and develop a plan for action](odra.html)
-
-+ **Advice, technical assistance and financing.** Offers advice and training on Open Data strategies, technology and policy
-best practices to support client country's open agendas
-
-+ **Platforms for innovation.** Brings international experts and local talent together to collaborate, motivate and help
-each other learn new and valuable ways to use data
-
-+ **Capabilities development for civil society.** Organizes data journalism boot camps, provides training in the treatment
-and use of budget data and helps to produce foreign aid maps to promote effective, responsible use of Open Data
+**Engagement, outreach and training** | Conducts information sessions for clients and country offices on open government data and how to make the case for opening them 
+**Readiness assessments** | Conducts short reviews with a country's key government representatives and data users to [assess its current capabilities and develop a plan for action](odra.html)
+**Advice, technical assistance and financing** | Offers advice and training on Open Data strategies, technology and policy best practices to support client country's open agendas
+**Platforms for innovation** | Brings international experts and local talent together to collaborate, motivate and help each other learn new and valuable ways to use data
+**Capabilities development for civil society** | Organizes data journalism boot camps, provides training in the treatment and use of budget data and helps to produce foreign aid maps to promote effective, responsible use of Open Data
+{: .w30 :}
 
 The World Bank also has several initiatives and programs that use Open Data to address specific challenges:
+
 
 * **[Open Data for Resilience Initiative](https://www.gfdrr.org/opendri)** (OpenDRI). OpenDRI applies Open Data concepts
 to reduce vulnerability to natural hazards and the impacts of climate change. OpenDRI supports World Bank Regional

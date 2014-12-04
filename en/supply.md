@@ -2,28 +2,38 @@
 title: Supply and Quality of Data
 ---
 
-This section provides guidance on the management and curation of data to ensure that they meet Open Data best practices and the established standards of professional data communities. It is intended for individuals and organizations involved in the production of data, such as government ministries and statistical agencies, but data consumers who want to understand how public data are produced may also find this section useful.
+This section provides guidance on the management and curation of data to ensure that they meet Open Data best practices
+and the established standards of professional data communities. It is intended for individuals and organizations
+involved in the production of data, such as government ministries and statistical agencies, but data consumers who want
+to understand how public data are produced may also find this section useful.
 
 ## General Standards of Quality
 
-While "quality" can be an ambiguous concept, what quality means in the context of data has been well defined for some time. EuroStat's [definition of quality in statistics](http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/ess%20quality%20definition.pdf) provides a set of six quality dimensions that originally defined statistical data, but can also be applied to many other types of data:
+While "quality" can be an ambiguous concept, what quality means in the context of data has been well defined for some
+time. EuroStat's [definition of quality in
+statistics](http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/ess%20quality%20definition.pdf)
+provides a set of six quality dimensions that originally defined statistical data, but can also be applied to many other
+types of data:
 
-* **Relevance.**  The degree to which statistics meet current and potential users’ needs
-* **Accuracy and Reliability.** The degree to which data are free of errors arising from various factors; in the context of statistics, accuracy means the closeness of the estimated value to that of the true (unknown) value in the population
-* **Timeliness and Punctuality.** How soon the data are published relative to what they measure, and how closely data updates adhere to the intended publication schedule
-* **Accessibility and Clarity.** The ease with which users can access the data and the degree to which they are explained through metadata
-* **Comparability.** The degree to which data can be compared across time, regions or other domains
-* **Coherence.** The degree to which data comport to recognized definitions and methodologies
+**Relevance** |  The degree to which statistics meet current and potential users’ needs
+**Accuracy and Reliability** | The degree to which data are free of errors arising from various factors; in the context of statistics, accuracy means the closeness of the estimated value to that of the true (unknown) value in the population
+**Timeliness and Punctuality** | How soon the data are published relative to what they measure, and how closely data updates adhere to the intended publication schedule
+**Accessibility and Clarity** | The ease with which users can access the data and the degree to which they are explained through metadata
+**Comparability** | The degree to which data can be compared across time, regions or other domains
+**Coherence** | The degree to which data comport to recognized definitions and methodologies
+{: .w30 :}
+
 
 A similar set of dimensions, published in the [Project Open Data document](http://project-open-data.github.io/principles), can be used to understand quality, specifically in the context of Open Data:
 
-* **Public.** The degree to which government data are treated with a presumption that favors openness to the extent permitted by law and subject to privacy, confidentiality, security or other valid restrictions
-* **Accessible.** The degree to which Open Data are made available in convenient, modifiable and open formats that can be retrieved, downloaded, indexed and searched
-* **Described.** How fully Open Data are described so that consumers of the data have sufficient information to understand their strengths, weaknesses, analytical limitations and security requirements and how to process them
-* **Reusable.** Whether Open Data are made available under an open license that places no restrictions on their use
-* **Complete.** Whether Open Data are published in primary forms (i.e., as collected at the source), with the finest possible level of granularity that is practicable and permitted by law and other requirements
-* **Timely.** how soon Open Data are made available so as to preserve their value.
-* **Managed Post-Release:** Whether a point of contact is designated to assist with data use and respond to complaints about adherence to these Open Data requirements
+**Public** | The degree to which government data are treated with a presumption that favors openness to the extent permitted by law and subject to privacy, confidentiality, security or other valid restrictions
+**Accessible** | The degree to which Open Data are made available in convenient, modifiable and open formats that can be retrieved, downloaded, indexed and searched
+**Described** | How fully Open Data are described so that consumers of the data have sufficient information to understand their strengths, weaknesses, analytical limitations and security requirements and how to process them
+**Reusable** | Whether Open Data are made available under an open license that places no restrictions on their use
+**Complete** | Whether Open Data are published in primary forms (i.e., as collected at the source), with the finest possible level of granularity that is practicable and permitted by law and other requirements
+**Timely** | how soon Open Data are made available so as to preserve their value.
+**Managed Post-Release** | Whether a point of contact is designated to assist with data use and respond to complaints about adherence to these Open Data requirements
+{: .w30 :}
 
 
 

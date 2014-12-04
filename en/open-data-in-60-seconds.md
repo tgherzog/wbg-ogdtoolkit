@@ -6,6 +6,10 @@ If you've ever used the GPS system in your smartphone, checked an online weather
 your vehicle or calculated how much your city paid for road repairs, you’ve used Open Data. For a long time, however,
 accessing these government data were very difficult, if they were available at all.
 
+Data are considered to be "open" if anyone can freely use, reuse and redistribute them, for any purpose, without
+restrictions.
+{: .pullquote :}
+
 The concept of Open Data is very new. It originated with the belief that the enormous amount of information routinely collected by
 government entities should be available to all citizens. In the late 2000s, governments and entities
 began to allow a greater number of users access to these resources. Today, more than 250 governments at national,
@@ -54,3 +58,5 @@ government needs to take to launch an Open Data initiative. This section is of p
 are committed to Open Data but don't know where to start.
 
 7. [Technical Assistance and Funding](technical-assistance.html). A list of technical assistance and funding resources from the World Bank and other organizations; most relevant to governments in developing countries
+
+
