@@ -93,6 +93,14 @@ $(function() {
 	  return false;
 	});
   }
+
+  // Process images
+  $('p.aside').each(function() {
+	var text = $('img', this).attr('alt');
+	$(this).wrap('<div/>').parent().addClass('aside');
+	if( text )
+	  $(this).parent().append( $('<p/>').addClass('caption').text(text) );
+  });
 });
 
 // mobile menu dropdown implementation

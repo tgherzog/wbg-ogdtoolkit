@@ -40,7 +40,12 @@ A similar set of dimensions, published in the [Project Open Data document](http:
 
 ## Data Standards {#standards}
 
-While the principles of quality described in the previous sections generally apply to all data types, the standards and details by which data are produced and evaluated vary according to the type of data. The following sections summarize the standards relevant to each data type.
+
+While the principles of quality previously described generally apply to all data types, the standards and details by which data are produced and evaluated vary according to each data type. 
+{: .pullquote :}
+
+
+The following sections summarize the standards relevant to each data type.
 
 
 
@@ -140,9 +145,14 @@ Registry](http://www.iatiregistry.org/publisher).
 
 ## More Guidance on Quality and Techniques {#guidance}
 
+Standards for governance and anonymization help clarify data management and security processes, and metadata offers valuable details about data composition and sources.
+{: .pullquote :}
+
 ### Data Governance
 
 Data governance addresses how Open Data assets are managed both during their initial launch and on an ongoing basis. Governance policies clarify lines of authority within the government and ministries for managing data, describe the process and requirements for releasing or updating data, and provide a means for users to engage providers over any issues or requests that arise.
+
+
 
 Data governance is often addressed within the context of [Open Data policies](essentials.html#policies). Other resources include:
 
@@ -200,4 +210,3 @@ Metadata standard | Application
 [ISO 19115-1:2014](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53798) | Geospatial data
 [Text Encoding Initiative](http://www.tei-c.org/index.xml) | Texts in digital form, chiefly in the humanities, social sciences and linguistics
 [Directory Interchange Format](http://gcmd.gsfc.nasa.gov/add/difguide/index.html) (DIF) | Scientific datasets
-

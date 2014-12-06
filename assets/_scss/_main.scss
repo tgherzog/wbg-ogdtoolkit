@@ -194,6 +194,19 @@
 	  color: $red;
 	}
 
+	div.aside {
+	  float: right;
+	  display: block;
+	  margin: 0 0 1em 1em;
+	  max-width: 275px;
+	  
+	  p { margin: 0 }
+	  .caption {
+	    font-size: 0.9em;
+		font-style: italic;
+	  }
+	}
+
 	blockquote {
 	  font-style: italic;
 	  background: #eee;
@@ -368,6 +381,6 @@
 
 @media (max-width: 440px) {
   #main .body {
-	.pullquote { display: none }
+	.pullquote, div.aside { display: none }
   }
 }
