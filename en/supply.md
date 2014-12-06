@@ -41,11 +41,7 @@ A similar set of dimensions, published in the [Project Open Data document](http:
 ## Data Standards {#standards}
 
 
-While the principles of quality previously described generally apply to all data types, the standards and details by which data are produced and evaluated vary according to each data type. 
-{: .pullquote :}
-
-
-The following sections summarize the standards relevant to each data type.
+While the principles of quality previously described generally apply to all data types, the standards and details by which data are produced and evaluated vary according to each data type. The following sections summarize the standards relevant to each data type.
 
 
 

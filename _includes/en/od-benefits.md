@@ -33,14 +33,22 @@ Broadly speaking, the benefits of Open Data include:
 
 ## Key Research on Open Data Benefits ##
 
-* [Open data: Unlocking innovation and performance with liquid
-  information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information?cid=other-eml-alt-mgi-mck-oth-2910/)
-  (McKinsey Global Institute). This seminal report estimates that Open Data can help unlock $3-5 trillion in economic
-  value annually across seven sectors in the United States alone.
+<div class="no-clear-block" markdown="1">
 
-* [Exploring the emerging impacts of open data in developing countries](http://opendataresearch.org/emergingimpacts).
-  This is a multi-country, multi-year study led by the World Wide Web Foundation to understand how Open Data is being put
-  to use in different countries and contexts across the developing world.
+[ ![Source: McKinsey Global Institute Analysis](../docs/images/mckinsey.svg) ][mck]
+{: .aside :}
+
+**[Open data: Unlocking innovation and performance with liquid
+information][mck]**
+(McKinsey Global Institute). This seminal report estimates that Open Data can help unlock $3-5 trillion in economic
+value annually across seven sectors in the United States alone.
+
+[mck]: http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information?cid=other-eml-alt-mgi-mck-oth-2910
+</div>
+
+**[Exploring the emerging impacts of open data in developing countries](http://opendataresearch.org/emergingimpacts)**.
+This is a multi-country, multi-year study led by the World Wide Web Foundation to understand how Open Data is being put
+to use in different countries and contexts across the developing world.
 
 ## Additional Reading
 

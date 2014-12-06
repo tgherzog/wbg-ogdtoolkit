@@ -182,6 +182,10 @@
 
 	.ui-corner-all { border-radius: 0 };
 	
+	.clear-block {
+	  @include clearfix();
+	}
+
 	.pullquote {
 	  margin: 0 0 1em 1em;
 	  float: right;
