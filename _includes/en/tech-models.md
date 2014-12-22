@@ -1,4 +1,8 @@
 
+The three models below present one way of thinking about an Open Data catalog system. The intent
+here is to show how various elements and services relate to each other, and how the system changes
+at different scales.
+
 Click a graphic below to view it at full size.
 
 <div id="models-container" class="content-tabs">
@@ -39,7 +43,8 @@ infrastructure.
 
 This model demonstrates how the data catalog and file server might be managed separately using either internally hosted
 or cloud-hosted infrastructure. This approach is only slightly more sophisticated than <a class="model-link" href="#model1">Model 1</a>, and is more appropriate
-for larger datasets and catalogs.
+for larger datasets and catalogs. Cloud-hosted infrastructure is often a cost effective approach, but may not
+be practical in regions where bandwidth is very limited.
 
 </div>
 

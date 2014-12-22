@@ -220,7 +220,7 @@
 	}
 
 	/* bold first link in lists with paragraph styling, for emphasis */
-	li > p a:first-child {
+	li > p > a:first-child {
 	  font-weight: bold;
 	}
 
