@@ -11,8 +11,8 @@ The terms "catalog," "platform" and "portal" are often somewhat ambiguous and so
 defines theses terms as follows:
 
 * A **data catalog** is a list of datasets available in an Open Data initiative. Essential elements of a data catalog include
-searching, metadata, clear license information, and access to the datasets themselves. Typically, a data catalog is the
-online centerpiece  of an Open Data initiative.
+searching, metadata, clear license information and access to the datasets themselves. Typically, a data catalog is the
+online centerpiece of an Open Data initiative.
 * A **platform** provides an online "front door" for users to access all resources available
 under an Open Data initiative. A platform includes the data catalog along with other information and services
 that are part of the Open Data ecosystem.
@@ -24,7 +24,7 @@ with a suite of technologies, not a single one.
 ## What does an Open Data Catalog Look Like? {#characteristics}
 
 As described in the following paragraphs, data
-catalogs can be relatively simple and "stand alone," or they can be very sophisticated and integrated with other
+catalogs can be relatively simple and "stand alone," or very sophisticated and integrated with other
 systems. Most Open Data catalogs, however, share a few common characteristics (more extensive lists are [also
 available](https://checklists.opquast.com/en/opendata)):
 
@@ -48,8 +48,8 @@ in machine-readable formats.
 dataset. If data are licensed under Creative Commons, the Open Data License or other standards, transparent links to
 these licenses are included.
 
-* **Data preview/visualization**. Many Open Data catalogs include some facility to preview the data prior to download,
-or to visualize the data using built-in graphing or mapping tools.
+* **Data preview/visualization**. Many Open Data catalogs include some facility to preview the data prior to download
+or visualize the data using built-in graphing or mapping tools.
 
 * **Standards compliance**. Most Open Data catalogs have built-in support for various standards, such as [data
 formats](http://opendatahandbook.org/en/appendices/file-formats.html) (e.g., CSV, XML, JSON) and

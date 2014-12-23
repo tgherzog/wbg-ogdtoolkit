@@ -8,7 +8,7 @@ The World Bank provides technical assistance to client country governments in th
 
 **Engagement, outreach and training** | Conducts information sessions for clients and country offices on open government data and how to make the case for opening them 
 **Readiness assessments** | Conducts short reviews with a country's key government representatives and data users to [assess its current capabilities and develop a plan for action](odra.html)
-**Advice, technical assistance and financing** | Offers advice and training on Open Data strategies, technology and policy best practices to support client country's open agendas
+**Advice, technical assistance and financing** | Offers advice and training on Open Data strategies, technology and policy best practices to support client countries' open agendas
 **Platforms for innovation** | Brings international experts and local talent together to collaborate, motivate and help each other learn new and valuable ways to use data
 **Capabilities development for civil society** | Organizes data journalism boot camps, provides training in the treatment and use of budget data and helps to produce foreign aid maps to promote effective, responsible use of Open Data
 {: .w30 :}
@@ -38,10 +38,8 @@ clients connect with users via point-to-mobile apps. For more information, pleas
 <ogdtoolkit@worldbank.org>.</cite>
 
 * **Open Transport.** The next generation of tools for managing and planning transport systems in resource-constrained
-environments, Open Transport addresses three principles: Open Data standards; open source software; and the benefits of
-releasing some public transit service data [to achieve economies of scale to support the generation of third-party
-applications] *phrase doesn't make sense - original text reads: "Open Data (benefits to releasing some data: e.g.
-public transit service information, to achieve economies of scale in generation of third-party applications to support.*
+environments, Open Transport addresses three principles: Open Data standards; open source software; and
+support for the development of transit application to achieve significantly greater use of available data.
 <cite>It provides three critical services for evidence-based transport planning and management: Data collection; data
 storage, management and sharing; and data analysis and visualization.</cite>
 
@@ -49,7 +47,7 @@ storage, management and sharing; and data analysis and visualization.</cite>
 countries, the BOOST initiative is a Bank-wide collaborative effort to facilitate access to budget data, help build open
 budgets and improve decision-making processes, transparency and accountability. <cite>The BOOST platform uses government data
 and a 26-digit template to make highly granular fiscal data easier to understand and accessible to key users such as
-legislatures and civil society. Expenditure data are distributed on core fiscal dimensions (i.e., admin, function,
+legislatures and civil society. Expenditure data are distributed on core fiscal dimensions (i.e., administrative, function,
 economic, fund sources, economic type) and can be linked with additional datasets to support broader efficiency and
 equity analyses. For more information, contact Leif Jensen at <ljensen2@worldbank.org>.</cite>
 
@@ -57,8 +55,7 @@ equity analyses. For more information, contact Leif Jensen at <ljensen2@worldban
 World Bank Group’s Innovation Labs. The OAP brings together governments, development partners, civil society and media
 groups to collectively improve aid transparency and effectiveness. <cite>Key objectives of the OAP are to build the capacity
 of in-country partners to collect, curate and publish data on development resources in an open and accessible format,
-and to use the data to engage citizens and other stakeholders in evidence-based conversations on development. You can
-find out more about this initiative by visiting <http://openaidmap.org>, or contact <openaid@worldbank.org>.</cite>
+and to use the data to engage citizens and other stakeholders in evidence-based conversations on development. For more information, visit <http://openaidmap.org>, or contact <openaid@worldbank.org>.</cite>
 
 * [Data on Company Registries](http://www.ocr.gov.np/index.php/en/) (OCR). As part of a long-term partnership, the
 World Bank Group's International Finance Corporation (IFC) and the Office of the Company Registrar (OCR) in Nepal
@@ -70,7 +67,7 @@ Departments of Industry and Commerce and Supply Management -- to implement simil
 contact <opengovdata@worldbank.org>.</cite>
 
 * **Open Data in Health.** In many countries, public health is one of the easiest sectors of data to open and use to
-improve policy and decision making. Open Data in Health provides readiness assessments to mobilize stakeholders and
+improve policy and decision-making. Open Data in Health provides readiness assessments to mobilize stakeholders and
 policymakers to understand the value of government health data, improve access to it and use it to improve health
 services policy. <cite>Because journalists and the media play a key role in explaining Open Data to citizens and motivating
 governments and data owners to open it, Open Data in Health offers data literacy programs to explain relevant issues in
@@ -87,7 +84,7 @@ funding by country or region. Country maps pinpoint areas selected for intervent
 such as poverty or malnutrition, and project-specific indicators, such as irrigated areas. The initiative also provides
 geography-based case studies about projects and their local impacts.</cite>
 
-* [Extractive Industries Transparency Initiative](https://eiti.org) (EITI). A coalition of governments, companies,
+* [Extractive Industries Transparency Initiative](https://eiti.org) (EITI). A coalition of governments, companies
 and civil society, the EITI advocates openness into the way countries manage natural resources, such as oil, gas and
 metals. Countries implementing the EITI Standard commit to full disclosure of revenue from natural resources. <cite>The World
 Bank EITI team helps EITI member countries translate data disclosure into greater effectiveness and accountability
@@ -99,18 +96,18 @@ counterparts. For more information, contact <opengovdata@worldbank.org>.</cite>
 
 * [The Open Landscape Partnership Platform](http://openlandscape.info) (OLPP). The OLPP is a high-resolution
 crowd-mapping platform that supports globally consistent and locally relevant cross-sectoral collaborations for design,
-monitoring, and evaluation of projects that impact sensitive landscapes, critical habitats and hotspots. <cite>Initially
+monitoring and evaluation of projects that impact sensitive landscapes, critical habitats and hotspots. <cite>Initially
 developed in partnership with the [World Bank Global Tiger Initiative](http://globaltigerinitiative.org), it is a joint
 initiative of satellite data providers, distributors, value-added processors and end users who are creating a community
 of practice to expand demand for open access to very high spatial and temporal resolution satellite data. This data is
-suitable for wide-ranging nonprofit use in the interest of public accountability, transparency and sustainability of
+suitable for wide-ranging non-profit use in the interest of public accountability, transparency and sustainability of
 land and natural resource management and conservation practices.</cite>
 
 * [Open Parks Network](https://openparksnetwork.org) (OPN). OPN serves the global parks community by providing
 information, tools and solutions to support the stewardship of natural and cultural assets of protected areas. It unites
-managers, researchers, policymakers and citizens through development of cyber-infrastructure that _freely?_ distributes
+managers, researchers, policymakers and citizens through development of cyber-infrastructure that freely distributes
 data to facilitate more informed, science-based management decisions. <cite>Clemson University, a public Land-Grant
-University, owns OPN and also created a digital repository of the World Bank Global Tiger Initiative's
+University, owns OPN and created a digital repository of the World Bank Global Tiger Initiative's
 [document library](https://openparksnetwork.org/index.php/component/search/?searchword=***&ordering=newest&searchphrase=any&limit=20&areas[0]=GTIDocs),
 comprised of more than 300,000 photos, maps, manuscripts and other items held at archives and museums of U.S. parks,
 protected areas and historic sites. GTI and Clemson are building an Open Data platform to support the efforts of Tiger
@@ -150,7 +147,7 @@ intergovernmental processes; comparative policy research and analysis; informati
 and enable people to share knowledge. OKFN coordinates an international network of individuals engaged in [promoting
 openness](https://okfn.org/about/) and helping it reach its full potential. <cite>The foundation monitors levels of openness
 worldwide and provides commercial technical services and training in data skills. It also enhances the culture of
-openness with products and services including [CKAN](http://ckan.org/), an open source data portal platform, and the
+openness with products and services including [CKAN](http://ckan.org/), an open source data platform, and the
 [Open Data Handbook](http://opendatahandbook.org/).</cite>
 
 * [Open Data Institute (ODI)](http://theodi.org/). Promotes a culture of Open Data to create economic, environmental and
@@ -182,8 +179,7 @@ initiatives include the [World Wide Web Foundation](http://www.fordfoundation.or
 and the [Global Partnership for Social
 Accountability](http://www.fordfoundation.org/grants/grantdetails?grantid=119996).</cite>
 
-* [Gates Foundation](http://www.gatesfoundation.org/Pages/home.aspx). Develops tools for the philanthropic sector that
-helps increase its ability to help people worldwide -- especially in areas of greatest need -- live healthier, more
+* [Gates Foundation](http://www.gatesfoundation.org/Pages/home.aspx). Develops tools for the philanthropic sector that increase its ability to help people worldwide -- especially in areas of greatest need -- live healthier, more
 productive lives. <cite>The Gates Foundation [shares high-quality
 data](http://www.gatesfoundation.org/How-We-Work/General-Information/Information-Sharing-Approach) to foster effective
 collaboration with its partners, so they can better understand the problems they're trying to solve and learn from each
@@ -202,7 +198,7 @@ knowledge](http://www.opensocietyfoundations.org/topics/access-knowledge), parti
 journalism, advance media innovation, engage communities and foster the arts, primarily within the 26 U.S. communities
 in which the Knight brothers owned newspapers. <cite>The Knight Foundation encourages open information systems that empower
 communities; establish standards for free flow of information; and turn Open Data into useful products. It also supports
-efforts such as The [Sunlight Foundation](http://www.sunlightfoundation.com) and [Wikipedia
+efforts such as the [Sunlight Foundation](http://www.sunlightfoundation.com) and [Wikipedia
 Zero](http://wikimediafoundation.org/wiki/Wikipedia_Zero), and provides early-stage venture funding for [media
 innovation](http://www.knightfoundation.org/what-we-fund/innovating-media).</cite>  
 

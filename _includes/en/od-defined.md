@@ -1,27 +1,25 @@
-The term "Open Data" has a [very precise meaning](http://opendefinition.org). Data or content is open if anyone is free to use, reuse or redistribute it, subject, at most, to measures that preserve provenance and openness.
+The term "Open Data" has a [very precise meaning](http://opendefinition.org). Data or content is open if anyone is free to use, re-use or redistribute it, subject at most to measures that preserve provenance and openness.
 
 There are two dimensions of data openness: 
 
-1. The data must be **legally open,** which means they must be placed in the public domain or under liberal terms of use with minimal restrictions. They must also be publicly available and accessible on a public server, without password or firewall restrictions. To make Open Data easier to find, most organizations create and manage [Open Data catalogs](essentials.html#examples).
+1. The data must be **legally open**, which means they must be placed in the public domain or under liberal terms of use with minimal restrictions.
 
-2. The data must be **technically open,** which means they must be published in electronic formats that are [machine readable and preferably non-proprietary](http://opendatahandbook.org/en/appendices/file-formats.html),
-so that anyone can access and use the data using common, freely available software tools.  
+2. The data must be **technically open**, which means they must be published in electronic formats that are [machine readable and preferably non-proprietary](http://opendatahandbook.org/en/appendices/file-formats.html),
+so that anyone can access and use the data using common, freely available software tools. Data must also be publicly available and accessible on a public server, without password or firewall restrictions. To make Open Data easier to find, most organizations create and manage [Open Data catalogs](essentials.html#examples).
 
 ## Open Data Licenses ## {#licenses}
 
-[Issue: add more examples from developing countries](https://github.com/tgherzog/wbg-ogdtoolkit/issues/18)
-{: .issue :}
+Organizations and governments use Open Data licenses to clearly explain the conditions under which their data may be used. Many licenses include both a summary version, intended to convey the most important concepts to all users, and a detailed version that provides the complete legal foundation. Examples include:
 
-Organizations and governments use Open Data licenses to clearly explain the conditions under which their data may be used. Examples include:
-
-* <span></span>Standard, reusable licenses designed to provide consistent and broadly recognized terms of use; for instance, [Creative Commons](http://creativecommons.org), particularly
+* <span></span>Standard, re-usable licenses designed to provide consistent and broadly recognized terms of use; for instance, [Creative Commons](http://creativecommons.org), particularly
 [CC-By](http://creativecommons.org/licenses/by/4.0) and [CC0](http://creativecommons.org/publicdomain/zero/1.0/),
 as well as the [Open Database License](http://opendatacommons.org/licenses/odbl/). Associating data with CC0 is essentially the same as placing it in the public domain.
 
-* <span></span>Governments and international organizations that have developed their own licenses, such as the
-[UK Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/), [The World Bank Terms of Use](http://data.worldbank.org/summary-terms-of-use), and the
+* <span></span>Governments and international organizations that have developed bespoke licenses, such as the
+[UK Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/), [The World Bank Terms of Use](http://data.worldbank.org/summary-terms-of-use) and the
 [French Government License Ouverte](http://www.scribd.com/doc/69411439/French-PSI-Re-Use-Licence-Licence-Ouverte-Open-Licence-ENG).
 
+Standard licenses can offer several advantages over bespoke licenses, including greater recognition among users, increased interoperability, and greater ease of compliance.
 ## Additional Reading
 
 These links provide more information on the definition and licensing of Open Data.

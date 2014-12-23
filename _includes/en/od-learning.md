@@ -11,8 +11,8 @@ Books, handbooks, manuals, presentations and other training materials on the top
   part of in-country training sessions
 
 * [Guidelines on Open Data for Citizen Engagement](http://www.unpan.org/DPADM/EGovernment/OpenGovernmentDataandServices/tabid/1536/language/en-US/Default.aspx) (United
-  Nations). Guidance to help policymakers and technologists---especially
-  those in developing countries---understand, design, implement and
+  Nations). Guidance to help policymakers and technologists -- especially
+  those in developing countries -- understand, design, implement and
   maintain open government initiatives
 
 * [Open Data Handbook](http://opendatahandbook.org/) (OKFN). Details the "why, what and how" of
@@ -43,8 +43,8 @@ Books, handbooks, manuals, presentations and other training materials on the top
   civic applications; practitioners discuss their accomplishments with open civic data
 
 * [Open Data for Resilience Initiative (DRI) Field Guide](https://www.gfdrr.org/sites/gfdrr.org/files/publication/OPENDRI_fieldGuide_WEB_0.pdf) (World Bank). Discusses how to craft a strategic
-  vision, budget, hire personnel and evaluate impacts of Open Data and implement the Open DRI vision to build resilient societies; intended
+  vision, budget and hire personnel for and evaluate impacts of Open Data and implement the Open DRI vision to build resilient societies; intended
   to improve access to disaster risk management data from public data catalogs; especially helpful for planners and program officers
 
 * [Open Data: Challenges and Opportunities for National Statistical Offices](http://documents.worldbank.org/curated/en/2014/07/20467305/open-data-challenges-opportunities-national-statistical-offices)
-  (World Bank). This paper provides an analysis of the opportunities and challenges that Open Data presents to NSOs and what steps and solutions are needed to enable NSOs to play a valuable role in national or sub-national Open Data initiatives
+  (World Bank). Provides an analysis of the opportunities and challenges that Open Data presents to NSOs and the steps and solutions needed to enable NSOs to play a valuable role in national or subnational Open Data initiatives

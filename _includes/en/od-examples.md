@@ -1,5 +1,5 @@
 
-Open Data initiatives can be organized at different levels, and often overlap jurisdictions.
+Open Data initiatives can be organized at different levels and often overlap jurisdictions.
 Country-level initiatives feature data at the national level and below, and are often federated, which means
 that they aggregate various sources of data at a single location. City and subnational
 initiatives are similar in design but with a smaller scope. Individual agencies or sectors may have their own data
@@ -26,10 +26,8 @@ Census](http://national.census.okfn.org/).
 * [Kenya](https://opendata.go.ke/)
 * [Moldova](http://data.gov.md/en/)
 * [Morocco](http://data.gov.ma/fr)
-* [Oman](http://www.oman.om/opendata/)
 * [Philippines](http://data.gov.ph/)
 * [Russian Federation](http://opengovdata.ru/)
-* [Saudi Arabia](http://www.saudi.gov.sa/wps/portal/yesserRoot/aboutKingdom/openGovernmentData/)
 * [United Kingdom](http://data.gov.uk/data)
 * [United States of America](http://catalog.data.gov/dataset)
 
@@ -67,7 +65,7 @@ Energy & Extractive Industries | [Extractive Industries Transparency Initiative]
 Energy & Extractive Industries | [U.S. Department of Energy](http://energy.gov/data/downloads/open-data-catalogue)
 Energy & Extractive Industries | [Enel Open Data](http://data.enel.com/) - Largest power company in Italy
 Environment | [Open Climate Data](http://data.worldbank.org/data-catalog/climate-change)
-Environment | [Fuel Economy Data](http://www.fueleconomy.gov/feg/download.shtml), US Environmental Protection Agency
+Environment | [Fuel Economy Data](http://www.fueleconomy.gov/feg/download.shtml), U.S. Environmental Protection Agency
 Environment | [New York City Environment Open Data](https://data.cityofnewyork.us/data?cat=environment)
 Geospatial | [OpenStreetMap](http://www.openstreetmap.org/)
 Geospatial | [Haiti Data geospatial information](http://haitidata.org/)

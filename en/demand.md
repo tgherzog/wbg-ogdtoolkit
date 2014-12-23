@@ -10,7 +10,7 @@ widely engaged in the effort. As a result, the level of informed public debate o
 service delivery, to the practical effectiveness of donor aid –- is low, even in many of the "opened" sectors.
 
 Increasing the level of awareness of Open Data and its potential value is of particular interest to government agencies,
-civil society organizations, technologists and journalists. As data is opened, however, capturing the attention and
+civil society organizations, technologists and journalists. As data are opened, however, capturing the attention and
 imagination of the full spectrum of data users and consumers remains a challenge. How do we engage the other side -- the
 demand side -- of the Open Data phenomenon? How can we grow communities of data users and encourage data "ownership" by
 the media, community groups, NGOs, labor unions, professional associations, universities and others?
@@ -70,7 +70,7 @@ during the January 2014 announcement of Nigeria's Open Data Initiative.
 
 ## Stage 2: Capacity Development {#stage-2}
 
-For any data to be useful, consumers must develop "data literacy:" They must know how to acquire and understand data, and
+For any data to be useful, consumers must develop "data literacy": They must know how to acquire and understand data, and
 have the ability to apply them to specific challenges and needs. At this stage, engagement strategies should increase
 data literacy and technical capacity among potential users, including journalists, non-profit organizations, academics
 and software developers. The degree and style of technical training depends on the audience. Ideally, consumers would
@@ -85,13 +85,13 @@ Excel/spreadsheets and creating pivot tables; scraping local county and national
 WOULD YOU NEED TO SCRAPE AN OPEN DATA PORTAL?_; cleaning this data _WHY?_; creating visualizations; an introduction
 to GIS mapping; and ultimately crafting narratives around data, including an introduction to building apps and action
 plans using these skills and the data. Example engagements include Data Literacy Bootcamps
-in [Bolivia](http://bolivia.databootcamp.org/), Ghana (National Budget Data),
-[Ghana (Extractive Industries
-Data)](http://ghana.databootcamp.org/), [Jordan](http://jordan.databootcamp.org/),
+in [Bolivia](http://bolivia.databootcamp.org/), Ghana (National Budget Data and
+[Extractive Industries
+Data](http://ghana.databootcamp.org/)), [Jordan](http://jordan.databootcamp.org/),
 [Nepal](http://nepal.databootcamp.org/),
 [Malawi](http://malawi.databootcamp.org/),
 [Moldova](http://www.opendta.org/Pages/Events/Moldova-Innovation-Week-2012--Open-Development-Technology-Alliance.aspx),
-[South Africa](https://sites.google.com/site/databootcampsa/),[Tanzania](https://sites.google.com/site/databootcamptz/)
+[South Africa](https://sites.google.com/site/databootcampsa/), [Tanzania](https://sites.google.com/site/databootcamptz/)
 and [Tunisia](https://sites.google.com/site/databootcamptunisia/).
 
 * **Open Data Master Classes.** Five-day bootcamp-style
@@ -144,7 +144,7 @@ challenges and attempt to identify appropriate solutions:
 
 Once the Open Data initiative is firmly established, engagement strategies focus on ensuring that the initiative remains
 sustainable. This can mean reinforcing the efforts of earlier stages, propagating the initiative to other levels of
-government (from national to sub-national or vice versa) and supporting data user communities both locally and
+government (from national to subnational or vice versa) and supporting data user communities both locally and
 nationally. The following are examples of programs and other activities that advocate user sponsorship, fostering or
 participation to help sustain initiatives:
 

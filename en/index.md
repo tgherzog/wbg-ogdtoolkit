@@ -10,7 +10,7 @@ precepts of Open Data, then get “up to speed” in planning and implementing a
 avoiding common pitfalls.  We suggest that you [begin reading here](open-data-in-60-seconds.html).
 
 Getting started with Open Data can be easier than many people think. If you have data in a [re-usable electronic
-form](essentials.html#definition), a [publicly accessible online place](technology.html) to put it, and an [open license](essentials.html#licenses),
+form](essentials.html#definition), a [publicly accessible online place](technology.html) to put it and an [open license](essentials.html#licenses),
 then you’re well on your way.
 
 We update the OGD Toolkit frequently with new information. If you have suggestions or corrections, please [send us

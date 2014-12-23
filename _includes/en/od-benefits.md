@@ -4,7 +4,7 @@ officials are often interested in the benefits of Open Data compared to the leve
 
 Similar to other global commodities, data has significant potential to provide benefits. In fact, data has been [referred to as the new
 oil](http://www.forbes.com/sites/perryrotella/2012/04/02/is-data-the-new-oil), because while both data and oil have intrinsic value, they both must be "refined" or otherwise transformed to realize their full potential. When government
-data are made accessible and reusable, they enable individuals, organizations and even governments themselves to
+data are made accessible and re-usable, they enable individuals, organizations and even governments themselves to
 innovate and collaborate in new ways.
 
 From accelerating economic growth to ensuring government accountability, Open Data can benefit citizens, organizations -- and the governments themselves. 
@@ -22,12 +22,12 @@ Broadly speaking, the benefits of Open Data include:
   contribute to the improvement of public services. For instance, citizens can use Open Data to contribute to public
   planning, or provide feedback to government ministries on service quality.
 
-* **Innovation.** Public data, and their re-use, are key resources for social innovation and economic growth. Open Data
-  provides ways for governments to collaborate with citizens and evaluate public services by giving citizens access to
+* **Innovation and Economic Value.** Public data, and their re-use, are key resources for social innovation and economic growth. Open Data
+  provides new opportunities for governments to collaborate with citizens and evaluate public services by giving citizens access to
   data about those services. Businesses and entrepreneurs are using Open Data to better understand potential markets and
   build new data-driven products.
 
-* **Efficiency.** Open Data makes it easier for government ministries to discover and access their own data or data from
+* **Efficiency.** Open Data makes it easier and less costly for government ministries to discover and access their own data or data from
   other ministries, which reduces acquisition costs, redundancy and overhead. Open Data can also empower citizens with the
   ability to alert governments to gaps in public datasets and to provide more accurate information.
 
@@ -77,8 +77,8 @@ These links provide more information on the benefits of Open Data.
 
 * [A National Information Framework for Public Sector Information and Open Data](http://www.nationalarchives.gov.uk/documents/nif-and-open-data.pdf)
   (Advisory Panel on Public Sector Information). In addition to embracing government initiatives on opening public
-  datasets, this paper argues for implementing a strategic infrastructure, called the National Information Framework
-  (NIF). <cite>The framework would leverage the value of Open Data, generate social and economic benefits and help transform data use to
+  datasets, this paper argues for implementing the National Information Framework
+  (NIF), a strategic infrastructure. <cite>The framework would leverage the value of Open Data, generate social and economic benefits and help transform data use to
   improve personal, government and corporate decision-making and support growth. The NIF approach includes Open Data
   policies, standards, metadata and more, and would potentially include information derived from the private sector and
   entire public sector.</cite>
@@ -120,7 +120,7 @@ These links provide more information on the benefits of Open Data.
   To understand the barriers that governments, organizations and institutions face when opening data, the Sunlight
   Foundation used crowdsourcing to collect 50+ commonly cited reasons for not releasing data, from sources both inside
   and outside of government. <cite>The responses illuminated a variety of concerns, including the potential for other people
-  altering the released data and the negative PR that could result from the data. Crowdsourcing was used again to learn how
+  altering the released data and negative public relations that could result from the data. Crowdsourcing was used again to learn how
   others responded to those concerns, and the answers were published in a 10-part blog series, #WhyOpenData.</cite>   
 
 * [Statistics and Open Data: Harvesting unused knowledge, empowering citizens and improving public services](http://www.publications.parliament.uk/pa/cm201314/cmselect/cmpubadm/564/564.pdf) (House of Commons Public Administration Select Committee).
@@ -130,10 +130,10 @@ These links provide more information on the benefits of Open Data.
   properly are also discussed, as well as areas that have shown improvement.</cite>
 
 * [Open Financial Data](http://issuu.com/world.bank.publications/docs/open_financial_data).
-  This report, from the World Bank, evaluates the potential for using open financial data to increase citizen engagement in the delivery of public goods and services.
+  This report from the World Bank evaluates the potential for using open financial data to increase citizen engagement in the delivery of public goods and services.
 
 * [Open Data as a tool to fight corruption](http://ofti.org/wp-content/uploads/2014/05/221171136-Open-Data-as-a-Tool-to-Fight-Corruption.pdf) (European Public Sector Information Platform).
-  This report cites three potential solutions in which the release and reuse of Open Data could help curb government
+  This report cites three potential solutions in which the release and re-use of Open Data could help curb government
   corruption and bureaucracy: By identifying the different types of corruption in various sectors; by suggesting
   relevant data that should be released in a particular context; and by demonstrating best practices of information and
-  data reuse to provide transparency in these sectors.
+  data re-use to provide transparency in these sectors.

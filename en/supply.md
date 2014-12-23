@@ -31,7 +31,7 @@ A similar set of dimensions, published in the [Project Open Data document](http:
 **Described** | How fully Open Data are described so that consumers of the data have sufficient information to understand their strengths, weaknesses, analytical limitations and security requirements and how to process them
 **Reusable** | Whether Open Data are made available under an open license that places no restrictions on their use
 **Complete** | Whether Open Data are published in primary forms (i.e., as collected at the source), with the finest possible level of granularity that is practicable and permitted by law and other requirements
-**Timely** | how soon Open Data are made available so as to preserve their value.
+**Timely** | How soon Open Data are made available so as to preserve their value
 **Managed Post-Release** | Whether a point of contact is designated to assist with data use and respond to complaints about adherence to these Open Data requirements
 {: .w30 :}
 
@@ -57,7 +57,7 @@ Statistics are replete with standards that determine how to classify and organiz
 
 * [Quality of Statistical Output Checklist](http://www.cbs.nl/NR/rdonlyres/4119715F-7437-4379-9A70-90A0893F949E/0/2009ChecklistQualityofStatisticalOutput.pdf). This is a framework for assessing statistical quality along 19 characteristics, with the goal of creating a statistical quality checklist.
 
-* The **International Monetary Fund** has two related frameworks that provide guidance for national statistics: the [General Data Dissemination System](http://dsbb.imf.org/Pages/GDDS/Home.aspx) (GDDS) and the [Special Data Dissemination System](http://dsbb.imf.org/Pages/SDDS/Home.aspx) (SDDS). Both the GDDS and SDDS are designed to enhance the availability of timely and comprehensive statistics and therefore contribute to the pursuit of sound macroeconomic policies. <cite>The SDDS provides targeted guidance to members seeking access to international capital markets, and is expected to contribute to the improved functioning of financial markets as well.</cite>
+* The **International Monetary Fund** has two related frameworks that provide guidance for national statistics: The [General Data Dissemination System](http://dsbb.imf.org/Pages/GDDS/Home.aspx) (GDDS) and the [Special Data Dissemination System](http://dsbb.imf.org/Pages/SDDS/Home.aspx) (SDDS). Both the GDDS and SDDS are designed to enhance the availability of timely and comprehensive statistics and therefore contribute to the pursuit of sound macroeconomic policies. <cite>The SDDS provides targeted guidance to members seeking access to international capital markets, and is expected to contribute to the improved functioning of financial markets as well.</cite>
 
 * [Data Quality Assessment Framework](http://dsbb.imf.org/Pages/DQRS/DQAF.aspx) (DQAF). Another tool from the IMF, the DQAF is used for comprehensive assessments of countries' data quality. It addresses institutional environments, statistical processes and characteristics of the statistical products. <cite>The DQAF consists of a generic framework, plus additional modules for national account statistics, consumer and producer price indices, government finance statistics and public sector debt, monetary statistics, balance of payments and external debt.</cite> 
 
@@ -77,7 +77,7 @@ To encourage best practices in disclosure in the public contracting sector, the 
 ### Budget Data
 
 
-Budget data refer to public sector spending, disaggregated by level of government, functional or programmatic category, fiscal year and source of finance. There are two initiatives that provide good examples for how to produce budget data consistent with Open Data best practices:
+Budget data refer to public sector spending, disaggregated by level of government, functional or programmatic category, fiscal year and source of finance. BOOST and OpenSpending are two initiatives that provide good examples for how to produce budget data consistent with Open Data best practices:
 
 * [BOOST](http://wbi.worldbank.org/boost/boost-initiative): The BOOST initiative is a Bank-wide collaborative effort to facilitate access to budget data and improve decision-making processes and transparency. BOOST is a comprehensive public spending database established in 57 countries that uses government data and a 26-digit template to make highly granular fiscal data understandable and accessible to key users such as legislatures and civil society. <cite>Expenditure data are distributed on core fiscal dimensions, such as function, economic and fund sources, and can be linked with additional datasets to support broader efficiency and equity analyses. BOOST is also used for building open budgets and enhancing accountability by making budget data accessible to users in a consistent and readily understood framework.</cite>
 
@@ -156,7 +156,7 @@ Data governance is often addressed within the context of [Open Data policies](es
   These resources provide an overview of governance arrangements both at a high (inter-agency) level as well as the local level (i.e., a single data catalog), and describe the different roles in managing datasets.
 
 * [Project Open Data Implementation Guide](https://project-open-data.cio.gov/implementation-guide/).
-  This document is part of the U.S. Government's [Project Open Data](https://project-open-data.cio.gov/), and provides guidance to agencies implementing the [Executive Order on Open Data](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-). Among other topics, it provides guidance for:
+  This document is part of the U.S. Government's [Project Open Data](https://project-open-data.cio.gov/) and provides guidance to agencies implementing the [Executive Order on Open Data](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-). Among other topics, it provides guidance for:
   * Creating and maintaining an enterprise data inventory of all datasets in an agency's possession
   * Creating a public data listing (a subset of the inventory)
   * Engaging users to facilitate and prioritize the release of data
@@ -165,7 +165,7 @@ Data governance is often addressed within the context of [Open Data policies](es
 
 ### Anonymization
 
-Anonymization is the process of obscuring or removing information from a dataset that could be used to identify individuals, households or businesses, so that their anonymity is preserved and protected. Anonymization, and the imperative to protect confidentiality, is especially important for governments releasing public data. Equally important is the need for organizations to clearly articulate their privacy policies concerning data management, both to individuals that provide data and individuals that use that data.  That said, many, many types of government data do not entail confidential information, and thus have little or no need for anonymization techniques.
+Anonymization is the process of obscuring or removing information from a dataset that could be used to identify individuals, households or businesses, so that their anonymity is preserved and protected. Anonymization and the imperative to protect confidentiality are especially important for governments releasing public data. Equally important is the need for organizations to clearly articulate their privacy policies concerning data management, both to individuals that provide data and individuals that use that data.  That said, many, many types of government data do not entail confidential information, and thus have little or no need for anonymization techniques.
 
 Proper anonymization is highly specific to the type of data and the individual dataset. A few resources are listed here:
 
@@ -196,9 +196,6 @@ schema](https://project-open-data.cio.gov/v1.1/schema/) propagated by data.gov.
 Other metadata standards are in use for a [wide variety of data
 types](http://en.wikipedia.org/wiki/Metadata_standards#Available_metadata_standards). For government data, some of the
 most relevant include:
-
-[Issue: include SDMX here?](https://github.com/tgherzog/wbg-ogdtoolkit/issues/17)
-{: .issue :}
 
 Metadata standard | Application
 ----------------- | -----------
