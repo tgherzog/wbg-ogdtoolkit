@@ -235,9 +235,8 @@ support Open Data:
   company
 * [Open Data Institute](http://theodi.org/). U.K.-based organization that promotes Open
   Data through shared learning, research and training
-* [Open Data Innovations
-* Network](http://www.linkedin.com/groups?home=&gid=4077335&trk=anet_ug_hm&goback=.anp_4077335_1340203412845_1).
-* LinkedIn user group, supported by
+* [Open Data Innovations Network](http://www.linkedin.com/groups?home=&gid=4077335&trk=anet_ug_hm&goback=.anp_4077335_1340203412845_1).
+  LinkedIn user group, supported by
   a World Bank-initiated knowledge partnership, that catalyzes and
   supports open government data initiatives and open innovation
   ecosystems in developing countries and helps facilitate adoption of
