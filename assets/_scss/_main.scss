@@ -217,6 +217,7 @@
 	  padding: 1em;
 
 	  p { margin: 0 }
+	  p + p { margin-top: 1em }
 	}
 
 	/* bold first link in lists with paragraph styling, for emphasis */
@@ -252,6 +253,24 @@
 	  color: blue;
 	  text-decoration: none;
 	}
+  }
+
+  /* for the style guide */
+  .body.guide {
+	blockquote {
+	  margin: 0 0 $gutter;
+	  font-style: normal;
+	  color: #009;
+
+	  ul {
+	    padding: 0;
+		margin: 0;
+	  }
+
+	  li {
+	    list-style-type: none;
+	  }
+    }
   }
 }
 
