@@ -1,0 +1,87 @@
+{% if page.locale == 'es' %}
+{% assign locale = site.lang.es %}
+{% else %}
+{% assign locale = site.lang.en %}
+{% endif %}
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='{{ page.locale }}' lang='{{ page.locale }}' dir='ltr'>
+<head>
+  <title>{{ page.title }} | Data</title>
+
+  <meta name='viewport' content='width=device-width, initial-scale=1'/>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+  <meta name='description' content='{{ locale.description }}'/>
+  <meta name='dcterms.description' content='{{ locale.description }}'/>
+  <meta name='abstract' content='{{ locale.abstract }}'/>
+  <meta name='dcterms.date' content='2013-10-24T00:00:00Z' />
+  
+  <link rel='canonical' href='{{ site.base }}/{{ page.url }}'/>
+  <meta name='revisit-after' content='7 days'/>
+
+  <!-- Favicons -->
+  {% include parts/favicons.html %}
+
+  <!-- CSS -->
+  <link href='/assets/styles.css' rel='stylesheet' type='text/css'/>
+  <link href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+  <header id='header' name='header'>
+    <div class='content'>
+      {% include en/parts/header.html %}
+    </div>
+  </header>
+
+  <section id='main' name='main'>
+    <div class='content'>
+{% if false %}
+    <nav class='locale'>{{ locale.localeprefix }}
+{% for lang in site.lang.locales %}
+{% if lang[0] == page.locale %}
+    <span>{{ lang[1] }}</span>
+{% else %}
+    <a href="{{ page.url | replace_first: page.locale, lang[0] }}">{{ lang[1] }}</a>
+{% endif %}
+{% endfor %}
+	</nav>
+{% endif %}
+      <header class='header'>
+        <nav class='links'>
+          {% include parts/social.html %}
+        </nav>
+
+        <h1>
+          <a href='#main' class='menu'><span>Menu</span></a>
+          {{ page.title }}
+        </h1>
+      </header>
+
+      <section class='main'>
+        <aside class='sidebar'>
+          {% include parts/sidebar.html %}
+        </aside>
+
+        <section class='body guide'>
+          {{ content }}
+        </section>
+      </section>
+    </div>
+  </section>
+
+  <footer id='footer'>
+    <div class='content'>
+      {% include en/parts/footer.html %}
+    </div>
+  </footer>
+
+  <div id='help'>
+    <h2 onclick='javascript:uvClick()'>Data/Feedback</h2>
+  </div>
+
+  <!-- JS -->
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="/assets/config-{{ page.locale }}.js"></script>
+  <script type="text/javascript" src="/assets/site.js"></script>
+</body>
+</html>
