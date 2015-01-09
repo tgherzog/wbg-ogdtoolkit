@@ -1,7 +1,17 @@
+{% comment %}
+
+   For some reason referencing page.locale in the context of replace_first generates liquid errors.
+   Same thing if you try to assign page.locale to a dummy variable and reference that instead. This
+   seems to be a bug in the liquid gem, and is the reason for the redundant-looking use of _locale.
+   Perhaps it will be resolved in a future liquid release. I have not tested with liquid 3.x
+
+{% endcomment %}
 {% if page.locale == 'es' %}
 {% assign locale = site.lang.es %}
+{% assign _locale = 'es' %}
 {% else %}
 {% assign locale = site.lang.en %}
+{% assign _locale = 'en' %}
 {% endif %}
 <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
 <html xmlns='http://www.w3.org/1999/xhtml' xml:lang='{{ page.locale }}' lang='{{ page.locale }}' dir='ltr'>
@@ -34,13 +44,13 @@
 
   <section id='main' name='main'>
     <div class='content'>
-{% if false %}
+{% if site.multilingual %}
     <nav class='locale'>{{ locale.localeprefix }}
 {% for lang in site.lang.locales %}
 {% if lang[0] == page.locale %}
     <span>{{ lang[1] }}</span>
 {% else %}
-    <a href="{{ page.url | replace_first: page.locale, lang[0] }}">{{ lang[1] }}</a>
+    <a href="{{ page.url | replace_first: _locale, lang[0] }}">{{ lang[1] }}</a>
 {% endif %}
 {% endfor %}
 	</nav>

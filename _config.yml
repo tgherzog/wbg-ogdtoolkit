@@ -13,6 +13,7 @@ exclude:
 - wiki
 
 # site configuration
+multilingual: false
 base: http://opendatatoolkit.zognet.net
 
 # default values
@@ -44,6 +45,7 @@ lang:
     - [ en, English ]
     - [ es, Espa&ntilde;ol ]
     - [ fr, Fran&ccedil;ais ]
+
   en:
     title: "Worldbank Open Government Data Toolkit"
     description: "This section of the toolkit provides a summary of the essential elements of open government data, starting with its definition and covering issues from open data portals, applications that use open data, the benefits of open data, open data policy declarations, learning resources and technical assistance resources for open data."
