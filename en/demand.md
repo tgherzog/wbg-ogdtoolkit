@@ -258,10 +258,6 @@ support Open Data:
   to improve public policies in this region; offers an interactive open
   government data platform for dialogue between governments, citizens,
   developers and academics
-* [Open Development Technology (ODTA)
-* Alliance](http://wbi.worldbank.org/wbi/content/open-development-technology-alliance). An organization
-  that enhances accountability and improves the delivery and quality of
-  public services through technology-enabled citizen engagement
 * [Open Government Partnership](http://www.opengovpartnership.org/). A multilateral initiative that
   secures concrete commitments from governments to promote transparency,
   empower citizens, fight corruption and harness new technologies to
