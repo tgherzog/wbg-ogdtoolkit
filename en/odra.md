@@ -6,15 +6,18 @@ title: Readiness Assessment Tool
 ![Citizens in Nigeria participate in a readiness assessment exercise to identify high priority datasets](../docs/images/odra.jpg)
 {: .aside :}
 
-The World Bank's Open Government Data Working Group developed an Open Data Readiness Assessment (ODRA) methodological tool that can be used to conduct an action-oriented assessment of the readiness of a government or individual agency to evaluate, design and implement an Open Data initiative. As part of the Open Government Data Toolkit, this tool is freely available for others to adapt and use.
+The World Bank's Open Government Data Working Group developed an Open Data Readiness Assessment (ODRA) methodological
+tool that can be used to conduct an action-oriented assessment of the readiness of a government or individual agency to
+evaluate, design and implement an Open Data initiative. As part of the Open Government Data Toolkit, this tool is freely
+available for others to adapt and use.
 
-The ODRA tool can be downloaded using the links below. You may also [contribute comments online](http://personal.crocodoc.com/7yQvCzX).
+**New in Version 3:** the ODRA has been re-organized and improved to make it easier to understand and use.
+The ODRA now consists of two documents: the User Guide and the Methodology.
 
 ## Download the ODRA ##
 
-* **English:** [PDF](../docs/odra/odra_v2-en.pdf) \| [MS Word](../docs/odra/odra_v2-en.doc)
-* **French:** [PDF](../docs/odra/odra_v1-fr.pdf) \| [MS Word](../docs/odra/odra_v1-en.docx) (unofficial translations)
-* **Russian:** [PDF](../docs/odra/odra_v2-ru.pdf) \| [MS Word](../docs/odra/odra_v2-ru.docx) (unofficial translations)
+* **User Guide:** [PDF](../docs/odra/odra_v3_userguide-en.pdf) \| [MS Word](../docs/odra/odra_v3_userguide-en.doc)
+* **Methodology:** [PDF](../docs/odra/odra_v3_methodology-en.pdf) \| [MS Word](../docs/odra/odra_v3_methodology-en.doc)
 
 
 ## Available Assessments ##
@@ -31,6 +34,15 @@ You can [watch a briefing](mms://wbmswebcast1.worldbank.org/DEC/2013-03-01/OD_RA
 Player](http://windows.microsoft.com/en-us/windows/windows-media-player)) delivered on March 1, 2013 by Andrew Stott and
 Jeff Kaplan, the primary authors of the ODRA methodology. Their [presentation is available
 here](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
+
+### Translations (Unofficial) ###
+
+* **French** (Version 2): [PDF](../docs/odra/odra_v1-fr.pdf) \| [MS Word](../docs/odra/odra_v1-en.docx)
+* **Russian** (Version 2): [PDF](../docs/odra/odra_v2-ru.pdf) \| [MS Word](../docs/odra/odra_v2-ru.docx)
+
+### Previous ODRA Versions ###
+
+* **English** (Version 2): [PDF](../docs/odra/odra_v2-en.pdf) \| [MS Word](../docs/odra/odra_v2-en.doc)
 
 **[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
 {: .center :}
