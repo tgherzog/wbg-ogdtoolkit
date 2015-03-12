@@ -60,13 +60,13 @@ so if you're wondering why certain files aren't on the website, check there firs
 
 When linking to documents or images that are in the toolkit, use relative links like this:
 
-  \[Essentials\](essentials.html)
-  \[ODRA report\](../docs/odra/odra-report.pdf)
+    \[Essentials\](essentials.html)
+    \[ODRA report\](../docs/odra/odra-report.pdf)
 
 not like this:
 
-  \[Essentials\](http://opendatatoolkit.org/en/essentials.html)
-  \[ODRA report\](/docs/odra/odra-report.pdf)
+    \[Essentials\](http://opendatatoolkit.org/en/essentials.html)
+    \[ODRA report\](/docs/odra/odra-report.pdf)
 
 Relative links ensure that any changes in the hosting environment won't break links, and that
 links will still work if the source files are translated to a different language.
@@ -96,7 +96,8 @@ page has several examples.
 Simply use the \<cite\> tag (which has no other use in this context) to wrap the text you want to initially
 hide:
 
-    This text will always appear to the user. \<cite\>but this text will only appear if the user requests it.\</cite\>
+    This text will always appear to the user.
+	\<cite\>but this text will only appear if the user requests it.\</cite\>
 
 ### Pull Quotes ###
 
@@ -111,7 +112,7 @@ on the page (or else it's not a quote), since pull quotes are hidden on devices 
 You can add illustrative photos and images to pages so that they float to the right of the main text, appear
 with a caption, and scale or hide on small screens. Here is how:
 
-  ![This is the photo caption](../docs/images/photo.jpg)
+  \![This is the photo caption](../docs/images/photo.jpg)
   \{: .aside :}
 
 Of course you must also add the image file (png, jpg etc) to the git repository.

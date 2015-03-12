@@ -9,6 +9,9 @@
 {% if page.locale == 'es' %}
 {% assign locale = site.lang.es %}
 {% assign _locale = 'es' %}
+{% else if page.locale == 'fr' %}
+{% assign locale = site.lang.fr %}
+{% assign _locale = 'fr' %}
 {% else %}
 {% assign locale = site.lang.en %}
 {% assign _locale = 'en' %}
