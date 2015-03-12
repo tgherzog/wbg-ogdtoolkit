@@ -112,7 +112,7 @@ on the page (or else it's not a quote), since pull quotes are hidden on devices 
 You can add illustrative photos and images to pages so that they float to the right of the main text, appear
 with a caption, and scale or hide on small screens. Here is how:
 
-    \!\[This is the photo caption](../docs/images/photo.jpg)
+    ![This is the photo caption](../docs/images/photo.jpg)
     {: .aside :}
 
 Of course you must also add the image file (png, jpg etc) to the git repository.
