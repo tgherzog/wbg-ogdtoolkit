@@ -386,6 +386,12 @@
   }
 }
 
+@media (max-width: 800px) and (min-width: 641px) {
+  #main .body {
+	.pullquote, div.aside { max-width: 175px }
+  }
+}
+
 @media (max-width: 440px) {
   #main .body {
 	.pullquote, div.aside { display: none }

@@ -5,6 +5,9 @@ title: Open Government Data Toolkit
 ## Welcome to the Open Government Data Toolkit
 {: .notoc :}
 
+![Photo: Tom Perry/World Bank](../docs/images/ict-women.jpg)
+{: .aside :}
+
 The **Open Government Data Toolkit** is designed to help governments, Bank staff and users understand the basic
 precepts of Open Data, then get “up to speed” in planning and implementing an open government data program, while
 avoiding common pitfalls.  We suggest that you [begin reading here](open-data-in-60-seconds.html).
