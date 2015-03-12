@@ -60,13 +60,13 @@ so if you're wondering why certain files aren't on the website, check there firs
 
 When linking to documents or images that are in the toolkit, use relative links like this:
 
-    \[Essentials\](essentials.html)
-    \[ODRA report\](../docs/odra/odra-report.pdf)
+    [Essentials](essentials.html)
+    [ODRA report](../docs/odra/odra-report.pdf)
 
 not like this:
 
-    \[Essentials\](http://opendatatoolkit.org/en/essentials.html)
-    \[ODRA report\](/docs/odra/odra-report.pdf)
+    [Essentials](http://opendatatoolkit.org/en/essentials.html)
+    [ODRA report](/docs/odra/odra-report.pdf)
 
 Relative links ensure that any changes in the hosting environment won't break links, and that
 links will still work if the source files are translated to a different language.
