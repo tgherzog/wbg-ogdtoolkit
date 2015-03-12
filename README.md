@@ -29,8 +29,8 @@ You will need the following software to author content in the toolkit:
 
 You should also be familiar with:
 
-* Basic git operations. The first three chapters of the [git documentation](http://git-scm.com/doc)
-  should cover it.
+* Basic git operations, such as commits, pushes and pulls.
+  The first three chapters of the [git documentation](http://git-scm.com/doc) should cover it.
 * Kramdown, which is the markup language used by Jekyll (and many other systems, including this
   README file). Here is the [quick reference](http://kramdown.gettalong.org/quickref.html) and
   [syntax guide](http://kramdown.gettalong.org/syntax.html).
