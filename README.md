@@ -79,8 +79,8 @@ The Toolkit automatically generates a table of contents for the current page by 
 If for some reason, you want to supress a header from appearing the in the sidebar, add the `notoc` class
 to the \<h1\> or \<h2\> element like this:
 
-    \## Header to be suppressed ##
-	\{: .notoc \}
+    ## Header to be suppressed ##
+	{: .notoc \}
 
 This takes advantage of a Kramdown convention that lets you add HTML classes to a preceding element. Note
 that the class name must begin with a period.
@@ -97,7 +97,7 @@ Simply use the \<cite\> tag (which has no other use in this context) to wrap the
 hide:
 
     This text will always appear to the user.
-	\<cite\>but this text will only appear if the user requests it.\</cite\>
+	<cite>but this text will only appear if the user requests it.</cite\>
 
 ### Pull Quotes ###
 
@@ -105,15 +105,15 @@ Use "pull quotes" to add visual interest to a page. The text in a pull-quote sho
 on the page (or else it's not a quote), since pull quotes are hidden on devices with small screens.
 
     This paragraph will be styled as a pull quote
-	\{: .pullquote :}
+	{: .pullquote :}
 
 ### Images ###
 
 You can add illustrative photos and images to pages so that they float to the right of the main text, appear
 with a caption, and scale or hide on small screens. Here is how:
 
-  \![This is the photo caption](../docs/images/photo.jpg)
-  \{: .aside :}
+    \!\[This is the photo caption](../docs/images/photo.jpg)
+    {: .aside :}
 
 Of course you must also add the image file (png, jpg etc) to the git repository.
 
