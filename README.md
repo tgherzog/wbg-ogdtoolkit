@@ -80,7 +80,7 @@ If for some reason, you want to supress a header from appearing the in the sideb
 to the \<h1\> or \<h2\> element like this:
 
     ## Header to be suppressed ##
-	{: .notoc \}
+	{: .notoc :}
 
 This takes advantage of a Kramdown convention that lets you add HTML classes to a preceding element. Note
 that the class name must begin with a period.
