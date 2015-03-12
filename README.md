@@ -22,7 +22,7 @@ You will need the following software to author content in the toolkit:
 * Git: to commit updates to the repository. Instructions for installing the
   command line version [are here](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
   You can also use a GUI client so long as it can access any repository server (the GitHub
-  client only works with repos host on github.com). Here is a
+  client only works with repos hosted on github.com). Here is a
   [list of GUI clients](http://git-scm.com/download/gui/linux). SourceTree has already
   been tested, has both a Mac and Windows version, and is free.
 * A text editor, such as TextEdit (Mac), Wordpad (Windows), or Sublime (either)
