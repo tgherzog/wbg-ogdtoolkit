@@ -9,7 +9,7 @@
 {% if page.locale == 'es' %}
 {% assign locale = site.lang.es %}
 {% assign _locale = 'es' %}
-{% else if page.locale == 'fr' %}
+{% elsif page.locale == 'fr' %}
 {% assign locale = site.lang.fr %}
 {% assign _locale = 'fr' %}
 {% else %}
@@ -96,7 +96,6 @@
   <script type="text/javascript" src="//code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
   <script type="text/javascript" src="/assets/config-{{ page.locale }}.js"></script>
   <script type="text/javascript" src="/assets/site.js"></script>
-
   <!-- Omniture -->
   {% include en/parts/omniture.html %}
 </body>
