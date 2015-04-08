@@ -308,6 +308,10 @@ Books, handbooks, manuals, presentations and other training materials on the top
   learned by pioneers of the Open Data movement; for public servants in
   government, non-profits and NGOs
 
+* [Open Data Guides Series](http://theodi.org/guides) (ODI). This series provides 
+  background and training on  specific topics such as licensing, data anonymizing, making the
+  business case for open data, and many more. This collection expands over time.
+
 * [Open Data Research Network](http://opendataresearch.org/). Network that
   connects researchers from across the world who are exploring the
   implementation and impact of Open Data initiatives
@@ -322,4 +326,11 @@ Books, handbooks, manuals, presentations and other training materials on the top
 * [Open Data: Challenges and Opportunities for National Statistical Offices](http://documents.worldbank.org/curated/en/2014/07/20467305/open-data-challenges-opportunities-national-statistical-offices)
   (World Bank). Provides an analysis of the opportunities and challenges that Open Data presents to NSOs and the steps and solutions needed to enable NSOs to play a valuable role in national or subnational Open Data initiatives
 
+* [Community Informatics and Open Government Data](http://ci-journal.net/index.php/ciej/issue/view/41).
+Special issue of the Journal of Community Informatics explores the connections between open government data
+and other topics such as transparency, Right to Information Laws, regulation and public planning.
+
+* [Supporting sustainable development with open data](http://theodi.org/supporting-sustainable-development-with-open-data).
+  This report sets out ways that governments, donors, NGOs, civil society and industry can apply open data to help
+  realize the [sustainable development goals](https://sustainabledevelopment.un.org/topics/sustainabledevelopmentgoals)
 
