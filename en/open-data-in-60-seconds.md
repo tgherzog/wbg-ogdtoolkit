@@ -52,9 +52,11 @@ particular interest to government agencies, civil society organizations, technol
 
 5. [Supply & Quality of Data](supply.html). How to manage datasets, locate data and ensure data quality, timeliness and accuracy; especially helpful for data producers
 
+
 6. [Readiness Assessment Tool](odra.html). How to use the World Bank's methodological tool to diagnose the actions that a
 government needs to take to launch an Open Data initiative; of particular interest to governments that
 are committed to Open Data but don't know where to start
+
 
 7. [Technical Assistance and Funding](technical-assistance.html). A list of technical assistance and funding resources from the World Bank and other organizations; most relevant to governments in developing countries
 
