@@ -12,7 +12,9 @@ evaluate, design and implement an Open Data initiative. As part of the Open Gove
 available for others to adapt and use.
 
 **New in Version 3:** the ODRA has been re-organized and improved to make it easier to understand and use.
-The ODRA now consists of two documents: the User Guide and the Methodology.
+The ODRA now consists of two documents: the User Guide and the Methodology. Version 3.1 is a minor
+update that includes additional guidance for the legal/policy section and corrects some minor errors, but does
+not include any methodological changes.
 
 ## Download the ODRA ##
 
@@ -44,7 +46,11 @@ here](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
 
 ### Previous ODRA Versions ###
 
-* **English** (Version 2): [PDF](../docs/odra/odra_v2-en.pdf) \| [MS Word](../docs/odra/odra_v2-en.doc)
+(English only)
+
+* **3.0 User Guide:** [PDF](../docs/odra/odra_v3_userguide-en.pdf) \| [MS Word](../docs/odra/odra_v3_userguide-en.doc)
+* **3.0 Methodology:** [PDF](../docs/odra/odra_v3_methodology-en.pdf) \| [MS Word](../docs/odra/odra_v3_methodology-en.doc)
+* **2.0 User Guide:** [PDF](../docs/odra/odra_v2-en.pdf) \| [MS Word](../docs/odra/odra_v2-en.doc)
 
 **[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
 {: .center :}
