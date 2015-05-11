@@ -16,8 +16,8 @@ The ODRA now consists of two documents: the User Guide and the Methodology.
 
 ## Download the ODRA ##
 
-* **User Guide:** [PDF](../docs/odra/odra_v3_userguide-en.pdf) \| [MS Word](../docs/odra/odra_v3_userguide-en.doc)
-* **Methodology:** [PDF](../docs/odra/odra_v3_methodology-en.pdf) \| [MS Word](../docs/odra/odra_v3_methodology-en.doc)
+* **User Guide:** [PDF](../docs/odra/odra_v3.1_userguide-en.pdf) \| [MS Word](../docs/odra/odra_v3.1_userguide-en.doc)
+* **Methodology:** [PDF](../docs/odra/odra_v3.1_methodology-en.pdf) \| [MS Word](../docs/odra/odra_v3.1_methodology-en.doc)
 
 
 ## Available Assessments ##
