@@ -69,9 +69,25 @@ Statistics are replete with standards that determine how to classify and organiz
 ### Contracts Data
 
 
-"Contracting" refers to the processes by which public institutions procure goods and services. Contracting data includes information on issued tenders or requests for proposals (RFPs), contracts awarded, performance evaluation and completion and more.
+"Contracting" refers to the processes by which public institutions procure goods and services.
+Contracting data includes information on issued tenders or requests for proposals (RFPs), contracts
+awarded, performance evaluation and completion and more.
 
-To encourage best practices in disclosure in the public contracting sector, the [Open Contracting Partnership](http://www.open-contracting.org) developed a [set of principles](http://www.open-contracting.org/global_principles) that can be adapted to specific sector and local contexts. These principles are designed to make contracting more competitive and fair, support global transparency and open government movements, and guide governments and stakeholders in data disclosure to enable understanding, effective monitoring, efficient performance and accountability for outcomes. The Partnership is also developing a [data standard](http://www.open-contracting.org/open_contracting_data_standards), which will offer tools and services to improve access to connected -- not disjointed -- contracting data.
+To encourage best practices in disclosure in the public contracting sector, the [Open Contracting
+Partnership](http://www.open-contracting.org) developed a [set of
+principles](http://www.open-contracting.org/global_principles) that can be adapted to specific
+sector and local contexts.  These principles are designed to make contracting more competitive and
+fair, support global transparency and open government movements, and guide governments and
+stakeholders in data disclosure to enable understanding, effective monitoring, efficient performance
+and accountability for outcomes.
+
+The [Open Contracting Data Standard](http://standard.open-contracting.org/) (OCDS)
+has been created to enable governments to publish details
+on all stages of the Contracting Process, including Planning, Tender, Award, Contract and
+Implementation. The standard provides detailed schema for representing contracting data in a range
+of formats, as well as guidance on implementation options. The [OCDS Help
+Desk](http://standard.open-contracting.org/announcing-the-ocds-help-desk) is on hand to offer
+advice on implementing OCDS.
 
 
 ### Budget Data
