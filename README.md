@@ -8,11 +8,7 @@ an increasingly popular Markdown variant. Kramdown makes HTML authoring
 easy by providing substitutes for the most common markup tags and structures
 (paragraphs, headers, lists, bullets, links, tables, footnotes, etc).
 
-The toolkit is designed to run on [Github Pages](https://pages.github.com)
-but can easily run on just about any server running Apache (or another web
-server), Jekyll (which requires [Ruby](https://www.ruby-lang.org)
-and [Ruby Gems](https://rubygems.org/)), and git.
-
+Jump to [technical information](#technical-information).
 
 
 ## Authoring Requirements ##
@@ -23,14 +19,27 @@ You will need the following software to author content in the toolkit:
   command line version [are here](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
   You can also use a GUI client so long as it can access any repository server (the GitHub
   client only works with repos hosted on github.com). Here is a
-  [list of GUI clients](http://git-scm.com/download/gui/linux). SourceTree has already
+  [list of GUI clients](http://git-scm.com/downloads/guis). SourceTree has already
   been tested, has both a Mac and Windows version, and is free.
 * A text editor, such as TextEdit (Mac), Wordpad (Windows), or Sublime (either)
 
 You should also be familiar with:
 
 * Basic git operations, such as commits, pushes and pulls.
-  The first three chapters of the [git documentation](http://git-scm.com/doc) should cover it.
+  The first three chapters of the [git documentation](http://git-scm.com/book/en/v1) should cover it.
+  Here are the operations you will use nearly all the time, so look for these as you read the documentation.
+  Your git software may implement more intuitive ways of accomplishing these tasks, but it's good
+  to be familiar with the underlying concepts.
+  * **git add:** queues new or modified files for committing to the local repository (on your computer)
+  * **git commit:** commits a set of changes to the repository
+  * **git diff:** shows changes between two versions, sort of like "track changes"
+  * **git log:** shows history of changes over time
+  * **git status:** shows the current state of the repository, and which files have been changed since
+    the last commit
+  * **git branch:** create a new revision branch
+  * **git checkout:** switch to a different branch
+  * **git fetch:** retrieve changes from a remote repository (on the server)
+  * **git push:**  push changes to a remote repository
 * Kramdown, which is the markup language used by Jekyll (and many other systems, including this
   README file). Here is the [quick reference](http://kramdown.gettalong.org/quickref.html) and
   [syntax guide](http://kramdown.gettalong.org/syntax.html).
@@ -42,7 +51,7 @@ You should also be familiar with:
 All files needed for content authoring are in one of two project directories: `docs` and `en`:
 
 * `docs` contains downloadable documents such as PDF and Word files, along with some images
-* `en` contains Kramdown files, which produce HTML files on the toolkit server. There is one
+* `en` contains Kramdown files (the English versions), which produce HTML files on the toolkit server. There is one
   file per HTML page, each one ends with a **.md** suffix.
 
 There is also an `es` directory which is currently empty except for a placeholder README file.
@@ -51,6 +60,21 @@ This is reserved for multi-lingual implementation (Spanish).
 Note that the `_config.yml` file instructs Jekyll to ignore certain files (including this README),
 so if you're wondering why certain files aren't on the website, check there first.
 
+## Repository Branches ##
+
+Git supports revision branching, allowing a team to create discrete revision tracks and merge them
+later on (see [chapter 3](http://git-scm.com/book/en/v1/Git-Branching) in the git documentation).
+This means that you can create one or more branches
+for significant revisions to the toolkit, and not affect the "master" branch (the public website) until
+you are ready to do so.
+
+There are two branches that carry special importance in the repository:
+
+* The `master` branch is the branch used for the public site. Commits and merges to the `master` branch result
+  in the public site being regenerated.
+* The `qa` branch is a site used for testing. Commits and merges to the `qa` branch will regenerate a "mirror"
+  site that is intended for temporary testing. Once testing is completed, the `qa` branch can be merged with
+  the `master` branch, or it can be discarded.
 
 
 
@@ -144,6 +168,19 @@ English version as a guide). You should also set the "multilingual" variable to 
 
 Finally, edit `_layouts/default.html` if necessary so that the new language is accommodated in the setup code
 at the top of the file.
+
+
+## Technical Information ##
+
+The toolkit is designed to run on [Github Pages](https://pages.github.com)
+but can easily run on just about any server running Apache (or another web
+server), Jekyll (which requires [Ruby](https://www.ruby-lang.org)
+and [Ruby Gems](https://rubygems.org/)), and git.
+
+The Bank currently uses a dedicated Linux instance for hosting both the toolbox web site and the repository.
+Git access is provided via SSH, and a post-update script simulates Github pages by looking for commits
+on the master branch (or a QA branch) and regeneratig the site.
+
 
 
 [guide]: http://opendatatoolkit.worldbank.org/style-guide.html
