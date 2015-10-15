@@ -202,7 +202,7 @@ geographic and/or temporal coverage, license, when it was last updated and how i
 often include additional metadata as appropriate; for instance, digital photographs may include a time stamp,
 information about the equipment used, aperture settings and possibly the GPS location.
 
-The [Dublin Core Metadata Initiative] (http://dublincore.org) (DCMI) provides a framework and core vocabulary of
+The [Dublin Core Metadata Initiative](http://dublincore.org) (DCMI) provides a framework and core vocabulary of
 metadata terms that can be applied to most electronic resources. Dublin Core is used heavily in
 [DCAT](http://www.w3.org/TR/vocab-dcat/), a standard designed to facilitate interoperability between web-based data
 catalogs. Governments may develop their own metadata models (preferably based on established standards such as DCAT) to
