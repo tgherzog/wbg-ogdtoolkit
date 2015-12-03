@@ -14,7 +14,7 @@ exclude:
 - en/od-faq.md
 
 # site configuration
-multilingual: false
+multilingual: true
 base: http://opendatatoolkit.zognet.net
 
 # default values
@@ -45,7 +45,7 @@ lang:
   locales:
     - [ en, English ]
     - [ es, Espa&ntilde;ol ]
-    - [ fr, Fran&ccedil;ais ]
+    # - [ fr, Fran&ccedil;ais ]
 
   en:
     title: "Worldbank Open Government Data Toolkit"
@@ -62,3 +62,19 @@ lang:
       - {hdr: h3, link: /en/supply.html, title: Supply and Quality of Data }
       - {hdr: h3, link: /en/odra.html, title: Readiness Assessment Tool }
       - {hdr: h3, link: /en/technical-assistance.html, title: Technical Assistance and Funding }
+
+  es:
+    title: "es: Worldbank Open Government Data Toolkit"
+    description: "es: This section of the toolkit provides a summary of the essential elements of open government data, starting with its definition and covering issues from open data portals, applications that use open data, the benefits of open data, open data policy declarations, learning resources and technical assistance resources for open data."
+    abstract: "es: Free and open access to the world’s most comprehensive collection of economic and development data. Browse, map, graph, or download data by country, topic on over 4,000 indicators.  Available in English, Spanish, French, Chinese and Arabic."
+    localeprefix: "Esta página en"
+    sidebar:
+      - {hdr: h2, link: /es/index.html, title: Conjunto de herramientas sobre datos gubernamentales de libre acceso }
+      - {hdr: h3, link: /es/open-data-in-60-seconds.html, title: Datos de libre acceso en 60 segundos }
+      - {hdr: h3, link: /es/essentials.html, title: Aspectos fundamentales de los datos de libre acceso }
+      - {hdr: h3, link: /es/starting.html, title: Cómo empezar una iniciativa de datos de libre acceso }
+      - {hdr: h3, link: /es/technology.html, title: Opciones tecnológicas }
+      - {hdr: h3, link: /es/demand.html, title: Demanda y participación }
+      - {hdr: h3, link: /es/supply.html, title: Oferta y calidad de los datos }
+      - {hdr: h3, link: /es/odra.html, title: Herramienta de evaluación del grado de preparación }
+      - {hdr: h3, link: /es/technical-assistance.html, title: Asistencia técnica y financiamiento }
