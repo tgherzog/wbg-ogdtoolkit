@@ -64,9 +64,9 @@ lang:
       - {hdr: h3, link: /en/technical-assistance.html, title: Technical Assistance and Funding }
 
   es:
-    title: "es: Worldbank Open Government Data Toolkit"
-    description: "es: This section of the toolkit provides a summary of the essential elements of open government data, starting with its definition and covering issues from open data portals, applications that use open data, the benefits of open data, open data policy declarations, learning resources and technical assistance resources for open data."
-    abstract: "es: Free and open access to the world’s most comprehensive collection of economic and development data. Browse, map, graph, or download data by country, topic on over 4,000 indicators.  Available in English, Spanish, French, Chinese and Arabic."
+    title: "Conjunto de herramientas sobre datos gubernamentales de libre acceso"
+    description: "El conjunto de herramientas sobre datos gubernamentales de libre acceso está diseñado para ayudar a los Gobiernos, el personal del Banco y los usuarios a entender los preceptos básicos de los datos de libre acceso, de modo de agilizar la planificación y la implementación de un programa de este tipo y evitar las dificultades más comunes."
+    abstract:    "El conjunto de herramientas sobre datos gubernamentales de libre acceso está diseñado para ayudar a los Gobiernos, el personal del Banco y los usuarios a entender los preceptos básicos de los datos de libre acceso, de modo de agilizar la planificación y la implementación de un programa de este tipo y evitar las dificultades más comunes."
     localeprefix: "Esta página en"
     sidebar:
       - {hdr: h2, link: /es/index.html, title: Conjunto de herramientas sobre datos gubernamentales de libre acceso }
