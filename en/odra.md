@@ -52,5 +52,20 @@ here](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
 * **3.0 Methodology:** [PDF](../docs/odra/odra_v3_methodology-en.pdf) \| [MS Word](../docs/odra/odra_v3_methodology-en.doc)
 * **2.0 User Guide:** [PDF](../docs/odra/odra_v2-en.pdf) \| [MS Word](../docs/odra/odra_v2-en.doc)
 
+
+### Sector Specific Assessment Tools ### {#sector-tools}
+
+#### Open Energy Data Assessment ####
+
+This tool assists energy stakeholders and related authorities in
+assessing and planning what actions to consider in order to strengthen the use of open data in the 
+energy sector at a national or local level.
+
+* **Methodology:** [MS Word](../docs/odra/odra_energy_v1_methodology-en.docx) 
+* **Completed Assessments**
+  * **Nairobi, Kenya** (November, 2015): [Full Report](../docs/odra/odra_energy-nairobi.pdf)
+  * **Accra, Ghana** (November, 2015): [Full Report](../docs/odra/odra_energy-accra.pdf)
+
+
 **[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
-{: .center :}
+{: .center .space-before :}
