@@ -48,9 +48,9 @@ lang:
     - [ fr, Fran&ccedil;ais ]
 
   en:
-    title: "Worldbank Open Government Data Toolkit"
-    description: "This section of the toolkit provides a summary of the essential elements of open government data, starting with its definition and covering issues from open data portals, applications that use open data, the benefits of open data, open data policy declarations, learning resources and technical assistance resources for open data."
-    abstract: "Free and open access to the world’s most comprehensive collection of economic and development data. Browse, map, graph, or download data by country, topic on over 4,000 indicators.  Available in English, Spanish, French, Chinese and Arabic."
+    title: "World Bank Open Government Data Toolkit"
+    description: "The Open Government Data Toolkit is designed to help governments, Bank staff and users understand the basic precepts of Open Data, then get \"up to speed\" in planning and implementing an open government data program, while avoiding common pitfalls."
+    abstract:    "The Open Government Data Toolkit is designed to help governments, Bank staff and users understand the basic precepts of Open Data, then get \"up to speed\" in planning and implementing an open government data program, while avoiding common pitfalls."
     localeprefix: "This page in"
     sidebar:
       - {hdr: h2, link: /en/index.html, title: Open Government Data Toolkit }
