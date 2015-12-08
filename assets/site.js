@@ -58,9 +58,14 @@ $(function() {
 
   // sticky sidebar
   var top = $('#main .sidebar').offset().top;
-  var footer = $('#footer').offset().top;
   var height = $('#main .sidebar').height();
   var sticky = function(){
+	var bodyHeight = $('#main .body').height();
+	var footer = $('#footer').offset().top;
+	if( bodyHeight <= height ) {
+	  return;
+	}
+
 	var scroll = $(window).scrollTop();
 	if ((scroll + 20) > top) {
 	  if ((scroll + 20 + height) > (footer - 20)) {
