@@ -30,7 +30,7 @@ not include any methodological changes.
 * **Mexico** (September/October, 2013): [Full Report](../docs/odra/odra_mexico_complete.pdf) - Spanish \| [Executive Summary](./docs/odra/odra_mexico_execsummary.pdf) - English
 * **Dominican Republic** (April/May, 2014): [Full Report](../docs/odra/odra_republica_dominicana.pdf) - Spanish only
 * **Burkina Faso** (June, 2014): [Full Report](../docs/odra/odra-burkina-faso-final-fr.pdf) - French (Executive Summary & Action Plan also in English)
-* **Serbia** (December, 2015): [Full Report)(http://www.rs.undp.org/content/serbia/en/home/library/democratic_governance/open-data-readiness-assesment-)
+* **Serbia** (December, 2015): [Full Report](http://www.rs.undp.org/content/serbia/en/home/library/democratic_governance/open-data-readiness-assesment-)
 
 
 ## Other Resources ##
