@@ -122,6 +122,7 @@ $(function() {
 	  options.addClass('show');
 	  $(this).addClass('active');
 	}
+	return false;
   });
 });
 
