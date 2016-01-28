@@ -43,6 +43,11 @@ body {
   font-size: $normal;
   line-height: 140%;
   text-align: center;
+
+  /* without a specific height we get some bizarre glitches during scrolling when the tabs appear towards the top of the page */
+  .ui-tabs-nav {
+    height: 31px;
+  }
 }
 
 @media (max-width: 960px) {
