@@ -254,10 +254,12 @@ decide to migrate away from the SaaS model.
 
 **Examples**
 
-* [Chicago (U.S.)](https://data.cityofchicago.org)
-* [San Francisco (U.S.)](https://data.sfgov.org)
+* [World Bank Energy & Extractives Data Portal](https://databox.worldbank.org)
 * [Kenya](https://opendata.go.ke)
-* [UNDP](https://data.undp.org)
+* [U.S. Medicare](https://data.medicare.gov)
+* [City of Los Angeles](https://data.lacity.org)
+* [Global Island Partnership](https://impact.glispa.org)
+* [Carbon Disclosure Project](https://data.cdp.net)
 
 
 ### Swirrl
