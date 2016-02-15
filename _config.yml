@@ -45,7 +45,7 @@ lang:
   locales:
     - [ en, English ]
     - [ es, Espa&ntilde;ol ]
-    # - [ fr, Fran&ccedil;ais ]
+    - [ fr, Fran&ccedil;ais ]
 
   en:
     title: "World Bank Open Government Data Toolkit"
@@ -78,3 +78,20 @@ lang:
       - {hdr: h3, link: /es/supply.html, title: Oferta y calidad de los datos }
       - {hdr: h3, link: /es/odra.html, title: Herramienta de evaluación del grado de preparación }
       - {hdr: h3, link: /es/technical-assistance.html, title: Asistencia técnica y financiamiento }
+
+  fr:
+    title: "World Bank Open Government Data Toolkit"
+    description: "Le Guide pratique de l’Open Data a pour but d’aider les pouvoirs publics, le personnel de la Banque mondiale et les utilisateurs à comprendre les principes fondamentaux de l'ouverture des données publiques, et à planifier et mettre en œuvre un programme de ce type en évitant les écueils les plus courants."
+    abstract:    "Le Guide pratique de l’Open Data a pour but d’aider les pouvoirs publics, le personnel de la Banque mondiale et les utilisateurs à comprendre les principes fondamentaux de l'ouverture des données publiques, et à planifier et mettre en œuvre un programme de ce type en évitant les écueils les plus courants."
+    localeprefix: "Cette page en"
+    sidebar:
+      - {hdr: h2, link: /fr/index.html, title: Guide pratique de l'Open Data }
+      - {hdr: h3, link: /fr/open-data-in-60-seconds.html, title: L'Open Data en 60 secondes }
+      - {hdr: h3, link: /fr/essentials.html, title: Ce qu'il faut savoir }
+      - {hdr: h3, link: /fr/starting.html, title: Premiers jalons }
+      - {hdr: h3, link: /fr/technology.html, title: Options technologiques }
+      - {hdr: h3, link: /fr/demand.html, title: Demande et mobilisation du public }
+      - {hdr: h3, link: /fr/supply.html, title: Offre et qualité des données }
+      - {hdr: h3, link: /fr/odra.html, title: Outil d'évaluation de la maturité }
+      - {hdr: h3, link: /fr/technical-assistance.html, title: Assistance technique et financement }
+

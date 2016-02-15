@@ -170,6 +170,34 @@ Finally, edit `_layouts/default.html` if necessary so that the new language is a
 at the top of the file.
 
 
+## Text Encoding Errors ##
+
+GSD translation services do not like dealing with Markdown/Kramdown files, they prefer HTML.
+Therefore any time we use GSD for translations we send them the finished HTML files and then run their translations
+back through `kramdown -i html -o kramdown` to get files consistent with the rest of the toolkit.
+
+Unfortunately kramdown will often report text encoding errors, e.g., 
+"The encoding of the source text is not valid! (RuntimeError)". You can check the file encoding from the command line with:
+
+`file -bi <input_file>`
+
+It should be utf-8 but most likely the file from GSD will be iso-8859-1.
+
+You can fix it in vim:
+
+````
+set encoding=utf-8
+set fileencoding=utf-8
+````
+
+then write the file.
+
+Or to convert the file directly:
+
+`iconv -f ISO-8859-14 -t UTF-8  2016001463SPAspa003_index.html | kramdown -i html -o kramdown > ../es/index.md`
+
+
+
 ## Technical Information ##
 
 The toolkit is designed to run on [Github Pages](https://pages.github.com)

@@ -7,3 +7,10 @@ the defaults and lang variables as necessary in _config.yml.
 "This page in" links are disabled by default but can easily be enabled in _layouts/default.html
 
 Note there is currently no rtl implementation for Arabic
+
+
+## Multilingual TO-DO ##
+
+* Translate the platform diagrams (PNGs) on technology pages
+
+* Most "more..." links were removed in translations
