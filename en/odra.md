@@ -34,7 +34,7 @@ not include any methodological changes.
 * **Serbia** (December, 2015): [Full Report](http://www.rs.undp.org/content/serbia/en/home/library/democratic_governance/open-data-readiness-assesment-)
 
 **[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
-{: .center .space-before :}
+{: .center .space-before .space-after :}
 
 
 ## Other Resources ##
