@@ -33,6 +33,9 @@ not include any methodological changes.
 * **Kazakhstan** (2014, self assessment): [Russian](../docs/odra/odra_kazakhstan-ru.docx) \| [English](../docs/odra/odra_kazakhstan-en.docx)
 * **Serbia** (December, 2015): [Full Report](http://www.rs.undp.org/content/serbia/en/home/library/democratic_governance/open-data-readiness-assesment-)
 
+**[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
+{: .center .space-before :}
+
 
 ## Other Resources ##
 
@@ -69,5 +72,10 @@ energy sector at a national or local level.
   * **Accra, Ghana** (November, 2015): [Full Report](../docs/odra/odra_energy-accra.pdf)
 
 
-**[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
-{: .center .space-before :}
+#### Open Data For Business (OD4B) Tool #### {#OD4B}
+
+
+The Open Data for Business (OD4B) Tool provides a methodology to assess the private sector's current and potential use of government data in various countries.
+
+* **Methodology:** [PDF](../docs/odra/od4b_v2.8-en.pdf)
+* **Supplements:** [Annex 7](../docs/odra/od4b_v2.8_annex7.xlsx) \| [Annex 8](../docs/odra/od4b_v2.8_annex8.xlsx)
