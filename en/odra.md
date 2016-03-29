@@ -31,7 +31,7 @@ not include any methodological changes.
 * **Dominican Republic** (April/May, 2014): [Full Report](../docs/odra/odra_republica_dominicana.pdf) - Spanish only
 * **Burkina Faso** (June, 2014): [Full Report](../docs/odra/odra-burkina-faso-final-fr.pdf) - French (Executive Summary & Action Plan also in English)
 * **Kazakhstan** (2014, self assessment): [Russian](../docs/odra/odra_kazakhstan-ru.docx) \| [English](../docs/odra/odra_kazakhstan-en.docx)
-* **Uganda** (June, 2015): [Full Report](../docs/odra/odra_uganda.docx) | [Report Annexes](../docs/odra/odra_uganda_annexes.docx)
+* **Uganda** (June, 2015): [Full Report](../docs/odra/odra_uganda.docx) \| [Report Annexes](../docs/odra/odra_uganda_annexes.docx)
 * **Serbia** (December, 2015): [Full Report](http://www.rs.undp.org/content/serbia/en/home/library/democratic_governance/open-data-readiness-assesment-)
 * **Kyrgyzstan** (February, 2016): [Full Report](http://www.kg.undp.org/content/kyrgyzstan/en/home/library/democratic_governance/odra) - English & Russian
 
