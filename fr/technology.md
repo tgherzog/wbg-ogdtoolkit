@@ -4,26 +4,26 @@ title: Options technologiques
 
 Cette rubrique fournit des recommandations concernant la sélection et la
 mise en place des différentes technologies utilisées pour développer une
-plateforme d'Open Data. Elle traite plus particulièrement des
+plateforme Open Data. Elle traite plus particulièrement des
 catalogues de données ouvertes, ce terme désignant les systèmes en ligne
 qui servent à mettre les données à la disposition des utilisateurs
 finaux. Elle s'adresse aux informaticiens chargés de diriger ou de
 coordonner la gestion de l'infrastructure technique associée à une
-initiative de libre accès aux données.
+initiative de données ouvertes.
 
 Les termes « catalogue », « plateforme » et « portail » sont souvent
 ambigus et peuvent porter à confusion. Ce guide pratique définit ces
 termes de la manière suivante :
 
 * Un **catalogue de données** désigne la liste des jeux de données
-  disponibles dans le cadre d'une initiative d'Open Data. Les
+  disponibles dans le cadre d'une initiative de Données Ouvertes. Les
   principaux éléments d'un outil de catalogage de données sont les
   capacités de recherche, les métadonnées, les informations relatives à
   la licence et, bien sûr, l'accès aux jeux de données eux-mêmes. Il
   s'agit en général de la clé de voûte d'une initiative d'Open Data.
 * Une **plateforme** fournit aux utilisateurs une « porte d'entrée » qui
   leur permet d'accéder à toutes les ressources disponibles dans le
-  cadre d'une initiative de libre accès aux données. Outre le catalogue
+  cadre d'une initiative de données ouvertes. Outre le catalogue
   de données, elle comprend aussi d'autres informations et services qui
   font partie de l'écosystème de l'Open Data. Il s'agit généralement
   d'un forum dédié aux questions, à l'assistance technique et aux
@@ -224,7 +224,7 @@ simple export of) open datasets in open, machine-readable formats.
 
 {% if false %} END INTERACTIVE MODEL CHART {% endif %}
 
-## Plateformes d'Open Data couramment utilisées   {#platforms}
+## Plateformes de Données Ouvertes couramment utilisées   {#platforms}
 
 ### CKAN   {#ckan}
 
@@ -283,7 +283,7 @@ envoyées dans un catalogue utilisateur séparé via une API.
 [OpenDataSoft][18] est une plateforme de type SaaS hébergée dans le
 Cloud qui offre une suite complète d'outils Open Data et de
 visualisation. Cette plate-forme prend en charge les formats de données
-en libre accès les plus courants comme CSV, JSON et XML, ainsi qu'un
+ouvertes les plus courants comme CSV, JSON et XML, ainsi qu'un
 grand nombre de formats de données géospatiales tels que KML, OSM et
 SHP. Ses fonctionnalités de recherche sont à la fois simples et faciles
 d'utilisation.
@@ -361,13 +361,13 @@ ouvertes.
   les informations aux citoyens dans le cadre d'une initiative de libre
   accès aux données.
 * [*Open Data Checklist*][1] : cet aide-mémoire qui récapitule les
-  bonnes pratiques en matière d'Open Data constitue une référence utile
+  bonnes pratiques en matière de Données Ouvertes constitue une référence utile
   pour garder à l'esprit les grandes exigences que doit généralement
-  respecter toute plateforme de libre accès aux données.
+  respecter toute plateforme de données ouvertes.
 * [<em> ODI : How to choose the right Open Data platform for
   you</em>][32] (Open Data Institute, 2014) : ce diaporama offre une
   présentation complète des principaux aspects à prendre en
-  considération pour choisir une plateforme d'Open Data et offre un
+  considération pour choisir une plateforme de Données Ouvertes et offre un
   bref aperçu de certains des produits les plus utilisés.
 
 
