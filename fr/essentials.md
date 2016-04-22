@@ -2,19 +2,19 @@
 title: Ce qu'il faut savoir
 ---
 
-Cette rubrique résume les aspects clés du libre accès aux données
-publiques, à commencer par une définition de ce que ce concept recouvre.
-Enfin, elle montre comment ce concept est mis en pratique en s'appuyant
+Cette rubrique résume les aspects clés des données
+publiques ouvertes, à commencer par une définition de ce que ce concept recouvre.
+Elle montre également comment ce concept est mis en pratique en s'appuyant
 sur de nombreux exemples.
 
-# L'Open Data, qu'est-ce que c'est?   {#definition}
+# Les Données Ouvertes, qu'est-ce que c'est?   {#definition}
 
-Le terme <<Open Data>> a un [sens très précis][1]. Les données ou les
+Le terme <<Données Ouvertes>> (Open Data) a un [sens très précis][1]. Les données ou les
 contenus sont <<ouverts>> si chacun peut librement en user, les
 réutiliser ou les redistribuer, en étant soumis, tout au plus, à des
 mesures qui protègent l'origine et l'ouverture.
 
-Le libre accès aux données revêt deux dimensions:
+Les données ouvertes revêtent deux dimensions:
 
 1.  Les données doivent être **légalement ouvertes;** en d'autres
     termes, elles doivent relever du domaine public ou n'être
@@ -23,13 +23,13 @@ Le libre accès aux données revêt deux dimensions:
 
 2.  Les données doivent être **techniquement ouvertes**, c'est-à-dire
     publiées dans des formats électroniques [exploitables par une
-    machine et de préférence non propriétaires][2], afin que chacun
+    machine, et de préférence non propriétaires][2], afin que chacun
     puisse accéder à ces données et les utiliser au moyen d'outils
     logiciels standard et libres. Celles-ci doivent être également
     disponibles et accessibles sur un serveur public, sans mot de passe
     ou restrictions engendrées par des pare-feu. Pour que les données
     soient plus faciles à trouver, la plupart des organisations créent
-    et gèrent des [catalogues des données en libre accès](essentials.html#examples).
+    et gèrent des [catalogues des données ouvertes](essentials.html#examples).
 
 ## Licences ouvertes   {#licenses}
 
@@ -57,19 +57,19 @@ aux licences sur mesure : plus grande reconnaissance parmi les
 utilisateurs, interopérabilité accrue et mise en conformité simplifiée.
 
 Consultez les documents ci-dessous pour en savoir plus sur la définition
-de l'Open Data et les licences utilisées.
+des Données Ouvertes et les licences utilisées.
 
 * [*Licensing Open Data: A Practical Guide*][10]
 * *[A Primer on Machine Readability for Online Documents and Data][11]*
 
 # Exemples    {#examples}
 
-Les initiatives de libre accès aux données peuvent être menées à
+Les initiatives de données ouvertes peuvent être menées à
 différents niveaux et elles relèvent souvent de plusieurs échelons
 administratifs. Les initiatives menées à l'échelle d'un pays
-fournissent des données nationales et infranationales qui sont souvent
+fournissent des données nationales et locales qui sont souvent
 combinées, ce qui suppose de rassembler diverses sources de données en
-un seul lieu. Les initiatives menées à l'échelle infranationale ou
+un seul lieu. Les initiatives menées à l'échelle locale ou
 communale sont d'ambition plus modeste, mais de conception semblable.
 Les agences ou divisions sectorielles autonomes disposeront, elles, de
 leurs propres jeux de données sur un thème particulier. Enfin, d'autres
@@ -80,7 +80,7 @@ ménages).
 
 Vous trouverez ci-dessous des exemples de projets menés par des États ou
 des collectivités territoriales, par des agences autonomes ou encore sur
-des thématiques spécifiques. Ces listes ne visent pas l'exhaustivité:
+des thématiques spécifiques. Cette liste ne vise pas l'exhaustivité:
 les initiatives d'Open Data officielles se comptent en effet par
 centaines. Vous trouverez d'autres exemples sur les sites
 [data.gov][12] et [Open Data Census][13].
@@ -102,7 +102,7 @@ centaines. Vous trouverez d'autres exemples sur les sites
 * [Royaume-Uni][26]
 * [États-Unis][27]
 
-## Au niveau infranational ou communal   {#city---subnational-level-open-data}
+## Au niveau local   {#city---subnational-level-open-data}
 
 * [Buenos Aires][28] (Argentine)
 * [Chicago][29] (États-Unis)
@@ -117,9 +117,9 @@ centaines. Vous trouverez d'autres exemples sur les sites
 
 ## Par secteur ou thème   {#open-data-by-sectortopic}
 
-Les exemples suivants d'Open Data sont classés par secteur et par
+Les exemples suivants de Données Ouvertes sont classés par secteur et par
 thème. Pour consulter des exemples d'applications qui utilisent ces
-sources de données, voir [utilisations de l'Open Data - #uses].
+sources de données, voir [utilisations des Données Ouvertes - #uses].
 
 | Secteur | Site web |
 |----------
@@ -154,17 +154,17 @@ sources de données, voir [utilisations de l'Open Data - #uses].
 Pour que l'ouverture des données ait un impact et une valeur réels, il
 faut pouvoir exploiter ces données. Voilà pourquoi il est indispensable
 que celles-ci soient utilisables ; c'est un facteur déterminant pour la
-réussite d'une initiative d'Open Data. Parmi ces critères
+réussite d'une initiative de Données Ouvertes. Parmi ces critères
 d'utilisabilité, il y a notamment le fait d'associer à une donnée des
 [métadonnées](supply.html) (c'est-à-dire des << données sur les
 données >>).
 
-Deux indicateurs témoignent de la réussite d'un projet de libre accès
-aux données : l'exploitation par les développeurs de ces données dans
+Deux indicateurs témoignent de la réussite d'un projet de données ouvertes :
+l'exploitation par les développeurs de ces données dans
 le but de créer de nouveaux produits et services utiles ou leur
 intégration à des produits ou services déjà disponibles. Idéalement,
 cette dynamique enclenchera un cercle vertueux : les nouveaux produits
-accélèrent la [demande de données en libre accès](demand.html), ce qui
+accélèrent la [demande de données ouvertes](demand.html), ce qui
 entraîne la publication de jeux de données supplémentaires, puis le
 développement de nouvelles applications, et ainsi de suite. On observe
 le même type de dynamique vertueuse en ce qui concerne la qualité des
