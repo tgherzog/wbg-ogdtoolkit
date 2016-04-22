@@ -8,17 +8,17 @@ La Banque mondiale fournit une assistance technique à ses pays clients
 dans les domaines suivants :
 
 | **Mobilisation, sensibilisation et formation** | Elle organise des séances d'information à l'intention de ses clients et de ses antennes dans les pays sur l'ouverture des données publiques et ses avantages. |
-| **Évaluation du degré de maturité** | En collaboration avec les représentants publics clés et les utilisateurs des données, elle réalise des évaluations sommaires destinées à [déterminer les capacités existantes dans un pays et élaborer un plan d'action](odra.html). |
+| **Évaluation du degré de maturité** | En collaboration avec les représentants publics clés et les utilisateurs des données, elle réalise des évaluations destinées à [déterminer les capacités existantes dans un pays et élaborer un plan d'action](odra.html). |
 | **Conseil, assistance technique et financement** | Elle fournit des services de conseil et de formation sur les meilleures pratiques relatives aux stratégies, technologies et politiques d'Open Data afin d'appuyer les programmes des pays dans ce domaine. |
 | **Plateforme d'innovation** | Elle réunit experts internationaux et talents locaux en les encourageant à collaborer ainsi qu'à se motiver et à s'aider mutuellement pour apprendre de nouvelles manières de tirer parti des données. |
-| **Développement des capacités de la société civile** | Elle organise des stages pratiques de formation au journalisme de données, forme au traitement et à l'utilisation des données budgétaires, et contribue à cartographier l'aide extérieure pour promouvoir une utilisation efface et responsable des données en libre accès. |
+| **Développement des capacités de la société civile** | Elle organise des stages pratiques de formation au journalisme de données, forme au traitement et à l'utilisation des données budgétaires, et contribue à cartographier l'aide extérieure pour promouvoir une utilisation efficace et responsable des données en libre accès. |
 {: .w30}
 
 La Banque mondiale a également mis en place plusieurs initiatives et
 programmes qui tirent parti de l'ouverture des données publiques pour
 résoudre des problèmes spécifiques :
 
-* [Initiative pour le libre accès aux données et la résilience
+* [Initiative pour les données ouvertes et la résilience
   (OpenDRI)][1] : cette initiative met en pratique les concepts de
   l'Open Data pour réduire la vulnérabilité aux catastrophes naturelles
   et aux effets du changement climatique. Elle appuie les équipes
