@@ -8,8 +8,7 @@ priorité.](../docs/images/odra.jpg)
 
 À la Banque mondiale, le groupe de travail pour l'ouverture des données
 publiques a développé un outil méthodologique permettant d'évaluer le
-niveau de préparation pour la mise en place de programmes de libre accés
-aux données. Cet instrument, baptisé en anglais *Open Data Readiness
+niveau de préparation pour la mise en place de programmes de données ouvertes. Cet instrument, baptisé en anglais *Open Data Readiness
 Assessment* (ODRA), est axé sur l'action et conçu pour déterminer
 l'état de préparation d'un gouvernement ou d'un organisme public en
 particulier en ce qui concerne l'évaluation, la conception et la mise en
