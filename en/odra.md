@@ -81,3 +81,15 @@ The Open Data for Business (OD4B) Tool provides a methodology to assess the priv
 
 * **Methodology:** [PDF](../docs/odra/od4b_v2.8-en.pdf)
 * **Supplements:** [Annex 7](../docs/odra/od4b_v2.8_annex7.xlsx) \| [Annex 8](../docs/odra/od4b_v2.8_annex8.xlsx)
+
+
+#### Open Data Readiness Assessment 3.1 Webinar #### 
+
+
+Resources related to the updated Open Data Readiness Assesment Methodology:
+
+* **What's new in ODRA 3.1:** [PDF](../docs/odra/ODRA_31_WhatsNew.pdf)
+* **ODRA Methodology Lessons Learned:** [PDF](../docs/odra/ODRA_Methodology_Webinar.pdf)
+* **Legal Issues in ODRAs:** [PDF](../docs/odra/ODRA_Legal_Issues.pdf)
+* **Open Data for Business and Transport:** [PDF](../docs/odra/OD4B_Transport_Presentation.pdf)
+* **Open Energy Data Assessments:** [PDF](../docs/odra/Open_Energy_Data_Assessment_Presentation.pdf)
