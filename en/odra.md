@@ -86,5 +86,5 @@ The Open Data for Business (OD4B) Tool provides a methodology to assess the priv
 
 * **Methodology:** [PDF](../docs/odra/od4b_v2.8-en.pdf)
 * **Supplements:** [Annex 7](../docs/odra/od4b_v2.8_annex7.xlsx) \| [Annex 8](../docs/odra/od4b_v2.8_annex8.xlsx)
-* **OD4B-Sierra Leone:** [Jan, 2015](../docs/odra/od4b_sierra_leone.pdf)
+* **OD4B-Sierra Leone** (Jan, 2015): [PDF](../docs/odra/od4b_sierra_leone.pdf)
 
