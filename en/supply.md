@@ -187,15 +187,15 @@ Proper anonymization is highly specific to the type of data and the individual d
 
 * [Handbook on Statistical Disclosure Control](http://neon.vb.cbs.nl/casc/Handbook.htm). This resource covers issues related to anonymization, including regulatory issues, microdata, tabular data, frequency tables and issues raised by remote access.
 
-* [Statistical Disclosure Control fir Microdata Practice Guide] (http://ihsn.org/home/sites/default/files/resources/Statistical%20Disclosure%20Control%20for%20Microdata_0.pdf). This guide provides practical steps for any agency to provide safe data access, while ensuring the microdata remain fit for purpose.
-* [Microdata Anonymization](http://ihsn.org/home/anonymization). This resource presents the main principles of microdata anonymization, techniques to measure and reduce risk, and best practices provided by the International Household Survey Network (INSN).
-
 * [Anonymization Guide from the UK's Information Commissioner's
   Office](http://www.ico.gov.uk/for_organisations/data_protection/topic_guides/anonymisation.aspx). This resource provides guidance on anonymization techniques and privacy protection for a range of data types within the context of the United Kingdom's Data Protection Act.
 
 * [Rethinking Personal Data: Strengthening
   Trust](http://www3.weforum.org/docs/WEF_IT_RethinkingPersonalData_Report_2012.pdf) (World Economic Forum). This report fosters dialogue around some of the key questions that must be resolved to ensure long-term and sustainable value creation. [Several follow-up reports](http://www.weforum.org/issues/rethinking-personal-data) were released in 2013 and 2014.
 
+* [Statistical Disclosure Control for Microdata Practice Guide](http://ihsn.org/home/sites/default/files/resources/Statistical%20Disclosure%20Control%20for%20Microdata_0.pdf). This guide provides practical steps for any agency to provide safe data access, while ensuring the microdata remain fit for purpose.
+
+* [Microdata Anonymization](http://ihsn.org/home/anonymization). This resource presents the main principles of microdata anonymization, techniques to measure and reduce risk, and best practices provided by the International Household Survey Network (IHSN).
 
 ### Metadata
 
