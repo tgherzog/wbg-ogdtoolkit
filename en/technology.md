@@ -52,7 +52,7 @@ these licenses are included.
 or visualize the data using built-in graphing or mapping tools.
 
 * **Standards compliance**. Most Open Data catalogs have built-in support for various standards, such as [data
-formats](http://opendatahandbook.org/en/appendices/file-formats.html) (e.g., CSV, XML, JSON) and
+formats](http://opendatahandbook.org/en/appendices/file-formats) (e.g., CSV, XML, JSON) and
 [metadata](supply.html#metadata) (i.e., Dublin Core). Open Data catalogs typically make each dataset available as a
 unique and permanent URL, which makes it possible to cite and link to the data directly.
 

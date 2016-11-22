@@ -16,7 +16,7 @@ There are two dimensions of data openness:
 
 1. The data must be **legally open**, which means they must be placed in the public domain or under liberal terms of use with minimal restrictions.
 
-2. The data must be **technically open**, which means they must be published in electronic formats that are [machine readable and preferably non-proprietary](http://opendatahandbook.org/en/appendices/file-formats.html),
+2. The data must be **technically open**, which means they must be published in electronic formats that are [machine readable and preferably non-proprietary](http://opendatahandbook.org/en/appendices/file-formats),
 so that anyone can access and use the data using common, freely available software tools. Data must also be publicly available and accessible on a public server, without password or firewall restrictions. To make Open Data easier to find, most organizations create and manage [Open Data catalogs](essentials.html#examples).
 
 ## Open Data Licenses ## {#licenses}
