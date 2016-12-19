@@ -176,8 +176,14 @@ on any Linux server, including cloud-hosted configurations. The Open
 Knowledge Foundation also offers hosting services for a monthly
 fee. CKAN is written in the Python programming language and
 designed for publishing and managing data either through a user
-interface or an API. CKAN has a modular architecture through
-which additional or custom features may be added.
+interface or an API.
+
+CKAN has a modular architecture through
+which additional or custom features may be added. For example, the
+[DDI Importer](http://extensions.ckan.org/extension/ddi-importer)
+extension (sponsored by the World Bank) provides support for the [DDI metadata
+standard](http://www.ddialliance.org), including harvesting of metadata from
+microdata catalogs.
 
 **Examples**
 
