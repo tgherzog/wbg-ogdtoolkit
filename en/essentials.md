@@ -225,5 +225,6 @@ segments: Retirement plans and wealth management.
 data -- including exports, locations and occupations -- for the entire formal sector of the Brazilian economy and
 creates a foundation for dialog between public and private sectors.
 
+* [Machine Readability Project](http://opendataimpactmap.org/usecases.html). Includes examples of open data use in low to lower-middle income countries that use machine-readable open data. These use cases were developed as part of the Open Data Impact Map. Click the "Machine Readability Project" tab to view the complete list.
 
 
