@@ -134,7 +134,7 @@ These links provide more information on the benefits of Open Data.
   greatest benefits. Not all expected benefits of the agreement, however, had been realized when the study was
   published.</cite>
 
-* [Sunlight Foundation: Why Open Data?](http://sunlightfoundation.com/blog/tag/why-open-data/).
+* [Sunlight Foundation: Why Open Data?](https://sunlightfoundation.com/taxonomy/term/why-open-data).
   To understand the barriers that governments, organizations and institutions face when opening data, the Sunlight
   Foundation used crowdsourcing to collect 50+ commonly cited reasons for not releasing data, from sources both inside
   and outside of government. <cite>The responses illuminated a variety of concerns, including the potential for other people
