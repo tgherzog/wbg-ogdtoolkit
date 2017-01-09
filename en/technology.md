@@ -283,6 +283,36 @@ available via more conventional structures such as CSV.
 * [Hampshire City Council](linkeddata.hants.gov.uk)
 
 
+## Geospatial Data Platforms
+
+### ArcGIS Open Data 
+
+[ArcGIS Open Data](http://opendata.arcgis.com) is a cloud-based SaaS platform where users can explore both
+spatial and non-spatial data in a consistent interface, allowing extraction of
+specific features and download in multiple open formats and APIs. It is
+included for free with ArcGIS Online, leverages ArcGIS services, and integrates
+with hundreds of open-source applications for mobile, web and desktop.  ArcGIS
+Open Data uses [Koop](http://koopjs.github.io), an open-source ETL engine that automatically transforms
+web services into accessible formats.
+
+**Examples**
+
+* [City of Los Angeles](http://geohub.lacity.org)
+* [US Department of Homeland Security](https://hifld-dhs-gii.opendata.arcgis.com)
+* [Global Forest Watch](http://data.globalforestwatch.org)
+
+### GeoNode
+
+[GeoNode](http://geonode.org) is an open source platform for developing geospatial
+information systems (GIS) and for deploying spatial data infrastructures.
+It is designed to be extended and modified, and can be integrated into existing platforms.
+
+**Examples**
+
+* [UN World Food Programme](http://geonode.wfp.org)
+* [Haiti Data](http://haitidata.org)
+* [GeoSINAGER](http://geosinager.defensacivil.gob.bo) (Bolivia)
+
 
 ## Additional Reading
 
