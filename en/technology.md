@@ -283,7 +283,7 @@ available via more conventional structures such as CSV.
 * [Hampshire City Council](linkeddata.hants.gov.uk)
 
 
-## Geospatial Data Platforms {#geo}
+## Geospatial Data Platforms {#gis}
 
 ### ArcGIS Open Data 
 
