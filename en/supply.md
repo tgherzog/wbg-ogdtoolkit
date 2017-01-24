@@ -195,7 +195,13 @@ Proper anonymization is highly specific to the type of data and the individual d
 
 * [Statistical Disclosure Control for Microdata Practice Guide](http://ihsn.org/home/sites/default/files/resources/Statistical%20Disclosure%20Control%20for%20Microdata_0.pdf). This guide provides practical steps for any agency to provide safe data access, while ensuring the microdata remain fit for purpose.
 
-* [Microdata Anonymization](http://ihsn.org/home/anonymization). This resource presents the main principles of microdata anonymization, techniques to measure and reduce risk, and best practices provided by the International Household Survey Network (IHSN).
+* [Microdata Anonymization](http://ihsn.org/anonymization). This resource presents the main principles of microdata anonymization, techniques to measure and reduce risk, and best practices provided by the International Household Survey Network (IHSN).
+
+* [Managing Statistical Confidentiality & Microdata
+  Access](https://www.unece.org/fileadmin/DAM/stats/publications/Managing.statistical.confidentiality.and.microdata.access.pdf).
+  This set of principles and guidelines was prepared and adopted by the
+  Conference of European Statisticians (CES). The annex contains over twenty case
+  studies from various countries.
 
 ### Metadata
 
