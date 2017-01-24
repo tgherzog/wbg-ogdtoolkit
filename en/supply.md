@@ -188,7 +188,7 @@ Proper anonymization is highly specific to the type of data and the individual d
 * [Handbook on Statistical Disclosure Control](http://neon.vb.cbs.nl/casc/Handbook.htm). This resource covers issues related to anonymization, including regulatory issues, microdata, tabular data, frequency tables and issues raised by remote access.
 
 * [Anonymization Guide from the UK's Information Commissioner's
-  Office](http://www.ico.gov.uk/for_organisations/data_protection/topic_guides/anonymisation.aspx). This resource provides guidance on anonymization techniques and privacy protection for a range of data types within the context of the United Kingdom's Data Protection Act.
+  Office](https://ico.org.uk/for-organisations/guide-to-data-protection/anonymisation). This resource provides guidance on anonymization techniques and privacy protection for a range of data types within the context of the United Kingdom's Data Protection Act.
 
 * [Rethinking Personal Data: Strengthening
   Trust](http://www3.weforum.org/docs/WEF_IT_RethinkingPersonalData_Report_2012.pdf) (World Economic Forum). This report fosters dialogue around some of the key questions that must be resolved to ensure long-term and sustainable value creation. [Several follow-up reports](http://www.weforum.org/issues/rethinking-personal-data) were released in 2013 and 2014.
