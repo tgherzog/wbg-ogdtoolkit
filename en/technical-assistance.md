@@ -158,7 +158,7 @@ Data](https://www.facebook.com/p4opendata/info). Its coaching and mentoring serv
 and engage with Open Data.</cite>
 
 * [Open Data Roster of
-Experts](https://docs.google.com/spreadsheet/ccc?key=0Ag2jK9SJ96ppdGtoQUpjWklwN2ZRQTRpRy1GSE5qSlE&usp=sharing). A Google
+Experts](https://bit.ly/open-data-experts-roster). A Google
 spreadsheet of expert consultants, developed by circulating an information form to a list of professionals in the
 [LinkedIn group](http://www.linkedin.com/groups?home=&gid=4077335&trk=anet_ug_hm&goback=.anp_4077335_1340203412845_1)
 and elsewhere. Note that this roster is self-selected and self-reported, and does not imply endorsement by the World
