@@ -253,7 +253,7 @@ briefing provides background and considerations for the formulation of Open Data
 ### Examples of Open Data Policies
 
 
-* [U.S. Open Government Directive](http://www.whitehouse.gov/open/documents/open-government-directive) (2009)
+* [U.S. Open Government Directive](https://obamawhitehouse.archives.gov/open/documents/open-government-directive) (2009)
 * [U.S. Memorandum for the Heads of Executive Departments and
   Agencies](http://project-open-data.github.io/policy-memo/) and related [Executive
   Order](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-)
