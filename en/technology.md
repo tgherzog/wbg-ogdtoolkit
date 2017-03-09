@@ -231,7 +231,7 @@ separate user catalog.
 * [Ministry of Health (Portugal)](https://www.sns.gov.pt/transparencia/)
 * [City of Cary (USA)](https://data.townofcary.org/page/home/)
 
-World Bank partners can freely access a version of OpenDataSoft [see here}(https://hello.opendatasoft.com/open-data-portal-for-non-profits-and-ngos)
+World Bank partners can freely access a version of OpenDataSoft [see here](https://hello.opendatasoft.com/open-data-portal-for-non-profits-and-ngos)
 
 ### Semantic Media Wiki
 
