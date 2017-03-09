@@ -222,17 +222,16 @@ separate user catalog.
 
 ### OpenDataSoft
 
-[OpenDataSoft](http://www.opendatasoft.com) is a cloud-based SaaS platform that offers a comprehensive suite of Open
-Data and visualization tools. The platform supports common Open Data formats such as CSV, JSON and XML, as well as many
-geospatial formats such as KML, OSM and SHP. Search functionality is very straightforward and easy to use.
+[OpenDataSoft](http://www.opendatasoft.com) is a cloud-based SaaS platform that offers a comprehensive suite of Open Data and visualization tools. Front end is fully open source,[see Github](https://github.com/opendatasoft). The platform supports common Open Data formats such as CSV, JSON and XML, as well as many geospatial formats such as KML, OSM and SHP. Search functionality is very straightforward and easy to use and the platform is multi-languages (EN, FR, ES, PT, DE)
 
 **Examples**
 
-* [Open Data Brussels](opendata.brussels.be)
+* [Kapsarc (Saudi Arabia)](https://datasource.kapsarc.org/page/home/)
 * [Paris Data](opendata.paris.fr)
-* [SNCF](data.sncf.com)
+* [Ministry of Health (Portugal)](https://www.sns.gov.pt/transparencia/)
+* [City of Cary (USA)](https://data.townofcary.org/page/home/)
 
-
+World Bank partners can freely access a version of OpenDataSoft [see here}(https://hello.opendatasoft.com/open-data-portal-for-non-profits-and-ngos)
 
 ### Semantic Media Wiki
 
