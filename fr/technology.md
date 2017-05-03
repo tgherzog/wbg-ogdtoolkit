@@ -235,7 +235,9 @@ configuration hébergée dans le Cloud. L'Open Knowledge Foundation
 propose également des services d'hébergement sous forme d'abonnement
 mensuel payant. Le catalogue CKAN est écrit dans le langage de
 programmation Python et conçu pour publier et gérer des données au moyen
-d'une interface utilisateur ou d'une API. CKAN présente une architecture
+d'une interface utilisateur ou d'une API.
+
+CKAN présente une architecture
 modulaire qui permet d'ajouter des fonctionnalités supplémentaires ou
 personnalisées.
 

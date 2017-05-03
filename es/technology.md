@@ -228,7 +228,9 @@ servidor Linux, incluso en configuraciones de alojamiento en la nube. La
 Fundación Open Knowledge también ofrece servicios de alojamiento con
 costo mensual. CKAN está programado en el lenguaje Python y está
 diseñado para publicar y administrar datos ya sea mediante una interfaz
-de usuario o una API. CKAN presenta una arquitectura modular que permite
+de usuario o una API.
+
+CKAN presenta una arquitectura modular que permite
 agregar características adicionales o específicas.
 
 **Ejemplos**
