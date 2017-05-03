@@ -1,14 +1,14 @@
 ---
-title: Premiers jalons
+title: Premières étapes
 ---
 
 Cette rubrique fournit un certain nombre d'outils dont les pouvoirs
-publics ont besoin pour poser les premiers jalons d'une initiative de
-libre accès aux données. Elle s'adresse aux responsables et équipes du
+publics ont besoin pour débuter une initiative de
+Données Ouvertes. Elle s'adresse aux responsables et équipes du
 secteur public chargés d'organiser ou de coordonner une telle
 initiative.
 
-Une fois que l'initiative d'Open Data a pris forme et que le nombre de
+Une fois que l'initiative de Données Ouvertes a pris forme et que le nombre de
 participants augmente, d'autres rubriques de ce guide pratique seront
 utiles aux différents acteurs concernés, notamment celles consacrées à
 la [gestion des technologies](technology.html), à la [mobilisation des
@@ -18,16 +18,16 @@ technique](technical-support.html) et à l'[évaluation du niveau de
 maturité de l'environnement](odra.html) sont également pertinentes pour
 les premiers stades de la planification.
 
-# Gains associés à l'Open Data   {#benefits}
+# Gains associés à l'ouverture des données   {#benefits}
 
 Comme pour toute initiative relevant du secteur public, l'ouverture des
 données requiert des ressources et des efforts de la part de celui-ci.
 De ce fait, les responsables publics s'intéressent souvent aux gains
-qu'offre une initiaive de libre accès aux données par rapport à la
+qu'offre une initiaive de données ouvertes par rapport à la
 quantité d'efforts qu'elle nécessite.
 
-Comme les autres <<matières premières>> mondiales, les données
-publiques peuvent générer des bénéfices considérables. En fait, elles
+De manière similaire aux <<matières premières>>, les données
+publiques peuvent générer des bénéfices considérables. Elles
 ont même été [qualifiées de « nouveau pétrole »][1] car, comme ce
 dernier, elles ont une valeur intrinsèque mais doivent être
 « raffinées » ou transformées d'une manière ou d'une autre pour que
@@ -39,11 +39,11 @@ nouvelles manières d'innover et de collaborer.
 Voici, sommairement, les grands avantages qu'offre l'ouverture des
 données publiques:
 
-* **Transparence:** les données en libre accès permettent aux citoyens
+* **Transparence:** les données ouvertes permettent aux citoyens
   de surveiller l'action des responsables publics et contribuent à la
   lutte contre la corruption en renforçant la transparence. Elles
   facilitent par exemple le contrôle des activités des pouvoirs publics,
-  comme par exemple le suivi des dépenses publiques et de leurs effets.
+  comme le suivi des dépenses publiques et de leurs effets.
   Elles encouragent également les citoyens à s'impliquer dans les
   affaires publiques et constituent un puissant outil démocratique en
   fournissant par exemple des informations sur les procédures
@@ -53,21 +53,20 @@ données publiques:
 * **Amélioration des services publics:** les données ouvertes
   fournissent aux citoyens les informations brutes dont ils ont besoin
   pour interpeller les autorités et contribuer à l'amélioration des
-  services publics. Grâce à une initiative d'Open Data, les citoyens
+  services publics. Grâce à une initiative de Données Ouvertes, les citoyens
   pourront notamment prendre part aux processus de planification
-  conduits par les autorités ou informer les ministères des problèmes de
-  qualité rencontrés dans les services publics.
+  conduits par les autorités ou informer les ministères des problèmes rencontrés dans les services publics.
 
 * **Innovation et valeur économique:** les données publiques (et leur
   réutilisation) constituent des ressources clés pour l'innovation
-  sociale et la croissance économique. L'Open Data offre de toutes
+  sociale et la croissance économique. Les Données Ouvertes offrent de
   nouvelles manières de collaborer aux autorités et aux citoyens,
   notamment pour évaluer la qualité des services publics. Par ailleurs,
   les entreprises et les entrepreneurs exploitent les données ouvertes
   pour mieux identifier les marchés potentiels et développer de nouveaux
   produits reposant sur les données.
 
-* **Efficacité:** l'Open Data permet aux ministères d'accéder à leurs
+* **Efficacité:** les Données Ouvertes permettent aux ministères d'accéder à leurs
   propres données et à celles des autres ministères de manière plus
   simple et plus économique, ce qui réduit les frais d'acquisition, les
   problèmes de redondance et les efforts de traitement nécessaires. Le
@@ -76,7 +75,7 @@ données publiques:
   données disponibles et leur donner les moyens de fournir des
   informations plus précises.
 
-## Travaux de recherche essentiels    {#key-research-on-open-data-benefits}
+## Études sur les bénéfcies des Données Ouvertes    {#key-research-on-open-data-benefits}
 
 <div class="no-clear-block" markdown="1">
 
@@ -93,17 +92,17 @@ secteurs, rien qu'aux États-Unis.
 
 **[*Exploring the emerging impacts of open data in developing countries*][3]**: réalisée par la World Wide Web Foundation dans
 plusieurs pays et sur plusieurs années, cette étude analyse la manière
-dont les données en libre accès sont exploitées dans différents
+dont les données ouvertes sont exploitées dans différents
 contextes dans le monde en développement.
 
 ## Pour aller plus loin...   {#additional-reading}
 
 Les liens suivants fournissent des informations supplémentaires sur les
-gains associés à l'Open Data.
+gains associés aux Données Ouvertes.
 
 * [*Open Data and Economic Growth*][4] (Open Government Partnership) :
-  ce billet de blog explique comment le libre accés aux données
-  publiques peut constituer un puissant moteur de croissance, à travers
+  ce billet de blog explique comment les
+  publiques ouvertes peuvent constituer un puissant moteur de croissance, à travers
   notamment trois grandes courroies de transmission : l'innovation, la
   création d'entreprise et l'efficacité commerciale.
 
@@ -121,18 +120,18 @@ gains associés à l'Open Data.
   économique basée sur la transparence et d'une diffusion des données et
   analyses économiques à l'ensemble de la société et pas seulement aux
   économistes. Il vulgarise les travaux de recherche économique sur
-  l'Open Data et identifie les meilleures pratiques ainsi que les
+  les données ouvertes et identifie les meilleures pratiques ainsi que les
   normes juridiques, réglementaires et techniques associées aux données
   économiques ouvertes. Son blog met en évidence les avantages que la
-  science économique retire de l'ouverture des données et comment les
+  science économique tire de l'ouverture des données et comment les
   économistes peuvent généraliser ce concept d'ouverture.
 
 * [*OKF Live Document on Evidence &amp; Anecdotes for Open Gov Data*][7]
   (Open Knowledge Foundation) : cette présentation fournit des exemples
   qui justifient l'ouverture des données publiques, et expose les grands
-  avantages du libre accès aux données, à savoir notamment que l'Open
-  Data favorise la création d'entreprises et de services novateurs qui
-  génèrent une réelle valeur sociale et commerciale, et qu'il encourage
+  avantages des données ouvertes, à savoir notamment que les données
+  ouvertes favorisent la création d'entreprises et de services novateurs qui
+  génèrent une réelle valeur sociale et commerciale, et qu'elles encouragent
   les pouvoirs publics à être transparents et les citoyens à
   s'impliquer.
 
@@ -147,7 +146,7 @@ gains associés à l'Open Data.
   transformer l'utilisation des données pour améliorer les prises de
   décision au niveau des citoyens, des administrations et des
   entreprises, et appuyer la croissance. Cette approche porte sur les
-  politiques de libre accès aux données, les normes et les métadonnées,
+  politiques de données ouvertes, les normes et les métadonnées,
   et pourrait intégrer aussi des informations issues du secteur privé et
   de l'ensemble du secteur public.
 
@@ -241,7 +240,7 @@ gains associés à l'Open Data.
 
 * [*Open Data as a tool to fight corruption*][17] (European Public
   Sector Information Platform) : ce rapport met en évidence comment la
-  publication et la réutilisation de données en libre accès peuvent
+  publication et la réutilisation des données ouvertes peuvent
   contribuent à juguler la corruption des pouvoirs publics et la
   bureaucratie. Ces solutions consistent à identifier les différents
   types de corruption dans divers secteurs, à suggérer les données
@@ -250,9 +249,9 @@ gains associés à l'Open Data.
   réutilisation des informations et des données pour renforcer la
   transparence dans ces secteurs.
 
-# Politiques de libre accès aux données   {#policies}
+# Politiques de Données Ouvertes   {#policies}
 
-Les politiques qui régissent une initiative de libre accès aux données
+Les politiques qui régissent une initiative de Données Ouvertes
 profitent à deux groupes d'utilisateurs: d'une part, les pouvoirs
 publics et autres organisations qui fournissent des données, et, d'autre
 part, les citoyens et autres <<consommateurs>> de ces données. Chacun
@@ -260,7 +259,7 @@ de ces deux groupes en retire des bénéfices et une utilité spécifiques.
 Pour les administrations, les ministères et l'ensemble des
 organisations qui fournissent des données, ces politiques apportent des
 orientations, des recommandations, des spécifications et des outils pour
-la mise en place de l'initiative d'Open Data. Elles précisent souvent
+la mise en place d'une initiative de Données Ouvertes. Elles précisent souvent
 quels types de données **ne peuvent pas** être <<ouvertes>> et
 pourquoi, et expliquent comment protéger les informations sensibles.
 Elles peuvent également définir les modalités de gouvernance de
@@ -273,11 +272,11 @@ l'ouverture des données permettent de définir clairement quelles données
 sont publiques ou le deviendront, où et comment acquérir des données,
 quelles sont les normes à observer pour fournir des données et
 métadonnées (ce qui favorise également la responsabilisation), et
-comment contacter l'administration ou l'agence émettrice.
+comment contacter l'administration ou l'agence productrice.
 
 Ces politiques offrent un autre avantage : elles fournissent des
 informations sur les procédures internes des pouvoirs publics en ce qui
-concerne leur gestion de l'initiative de libre accès aux données, ce qui
+concerne leur gestion de l'initiative de données ouvertes, ce qui
 aide les consommateurs à mieux appréhender l'écosystème des données.
 Enfin, comme les administrations sont souvent de grandes consommatrices
 de leurs propres données, les politiques gouvernant l'ouverture des
@@ -288,15 +287,15 @@ et en tant qu'usager.
 
 * [*8 Principles of Open Government Data*][18]: ces principes ont été
   établis en 2007 par les défenseurs de l'ouverture des données
-  publiques. En résumé, ils stimulent que les données publiques seront
-  considérées comme libres d'accès si elles sont mises à disposition
+  publiques. En résumé, ils stipulent que les données publiques seront
+  considérées comme ouvertes si elles sont mises à disposition
   sous une forme complète, primaire, opportune, accessible, exploitable
   par une machine, non discriminatoire, non propriétaire et libre de
   droits.
 
 * [*UK Open Data White Paper: Unleashing the Potential*][19]: publié
   en 2012, ce livre blanc présente en détail l'approche adoptée par le
-  plan britannique visant à libérer le potentiel de l'Open Data. Ce
+  plan britannique visant à libérer le potentiel des Données Ouvertes. Ce
   plan s'articule autour de trois grandes étapes : améliorer l'accès
   aux données et simplifier leur utilisation, renforcer la confiance
   dans les données publiques, et fournir des fonctionnalités plus
@@ -430,7 +429,7 @@ thème de l'Open Data:
   de manipulation des données.
 
 * [Open Data at the World Bank][41]: cette présentation PowerPoint
-  récapitule les initiatives de libre accès aux données de la Banque
+  récapitule les initiatives de données ouvertes de la Banque
   mondiale et est généralement utilisée dans le cadre de sessions de
   formation dans les pays.
 
@@ -505,7 +504,7 @@ thème de l'Open Data:
 * [*Supporting sustainable development with open data*][54]: ce rapport
   montre comment les États, les bailleurs de fonds, les ONG, les
   organisations de la société civile et les entreprises peuvent
-  exploiter les données en libre accès pour contribuer à la réalisation
+  exploiter les données ouvertes pour contribuer à la réalisation
   des [Objectifs de développement durable][55].
 
 

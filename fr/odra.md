@@ -1,17 +1,14 @@
 ---
-title: Outil d'évaluation de la maturité
+title: Outil d'évaluation de l'état de préparation
 ---
 
-![Au Nigéria, des citoyens participent à un exercice d'évaluation de
-maturité pour l'Open Data afin d'identifier les jeux de données
-hautement prioritaires.tifier des jeux de données de haute
+![Au Nigéria, des citoyens participent à un exercice d'évaluation de l'état de préparation aux données ouvertes afin d'identifier des jeux de données de haute
 priorité.](../docs/images/odra.jpg)
 {: .aside}
 
 À la Banque mondiale, le groupe de travail pour l'ouverture des données
 publiques a développé un outil méthodologique permettant d'évaluer le
-niveau de maturité pour la mise en place de programmes de libre accés
-aux données. Cet instrument, baptisé en anglais *Open Data Readiness
+niveau de préparation pour la mise en place de programmes de données ouvertes. Cet instrument, baptisé en anglais *Open Data Readiness
 Assessment* (ODRA), est axé sur l'action et conçu pour déterminer
 l'état de préparation d'un gouvernement ou d'un organisme public en
 particulier en ce qui concerne l'évaluation, la conception et la mise en

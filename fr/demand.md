@@ -12,18 +12,18 @@ technologues, le grand public a largement été tenu à l'écart de cette
 évolution. Résultat : les débats publics portant sur les enjeux liées
 aux données (du budget à l'efficacité de l'aide octroyée par les
 donateurs en passant par la qualité des services publics) sont mal
-informés, même dans beaucoup de secteurs ayant été l'objet de cette
+informés, même dans les secteurs ayant été l'objet de cette
 ouverture.
 
-Le fait de faire davantage connaître l'Open Data et sa valeur
+Le fait de faire davantage connaître les Données Ouvertes et leur valeur
 potentielle intéresse tout particulièrement les organismes du secteur
 public, les organisations de la société civile, les spécialistes de la
 technologie et les journalistes. Cependant, la plus grande mise à
 disposition de données s'accompagne d'un défi majeur : comment
 susciter l'attention et l'imagination de tout l'éventail possible des
 utilisateurs/consommateurs de ces données ? Comment impliquer cet autre
-versant, celui de la demande, au mouvement de l'Open Data ? Comment
-multiplier les consommateurs de données ouvertes et susciter ainsi
+versant, celui de la demande, au mouvement de l'ouverture des données ? Comment
+augmenter le nombre de consommateurs de données ouvertes et susciter ainsi
 l'appropriation de ces données par les médias, les collectivités, les
 ONG, les syndicats, les associations professionnelles, les universités,
 etc. ?
@@ -32,17 +32,17 @@ Pour une exploitation optimale de l'ouverture des données, il faut
 mobiliser les « hackers citoyens », c'est-à-dire les programmeurs et
 les développeurs. Parce que les contenus, les applications et les
 produits fondés sur les données peuvent améliorer le bien-être de tous,
-le mouvement mondial porté par les développeurs, avec la volonté de se
+le mouvement mondial porté par ces développeurs, qui ont la volonté de se
 rapproprier le terme *hacker* et de mettre en lumière leur apport
 positif à la société civile, bénéficie aujourd'hui d'une plus large
 acceptation.
 
 Au moment de déterminer le contenu des activités visant à associer le
 public, il est nécessaire de prendre en considération deux facteurs
-primordiaux : le degré de maturité en faveur d'une initiative de libre
-accès aux données et le degré de « culture Open Data » chez les
+primordiaux : le degré de maturité en faveur d'une initiative de données ouvertes
+et le degré de « culture Open Data » chez les
 utilisateurs. La stratégie présentée ci-dessous intègre ces deux
-aspects : au seuil de l'élaboration d'un programme d'Open Data, elle
+aspects : au seuil de l'élaboration d'un programme de Données Ouvertes, elle
 doit permettre de mobiliser une multiplicité d'acteurs, encourager les
 citoyens à utiliser les données en libre accès et leur en donner les
 moyens, et, enfin, offrir des solutions concrètes au grand public pour
@@ -56,19 +56,19 @@ des interventions.
 À leur lancement, les stratégies participatives doivent privilégier deux
 aspects : identifier les fournisseurs et les utilisateurs de données et
 les encourager à franchir les premières étapes cruciales qui ouvriront
-la voie à une initiative d'Open Data. Pour mobiliser ceux qui
+la voie à une initiative de Données Ouvertes. Pour mobiliser ceux qui
 produisent les données, il est souhaitable d'identifier les
 gestionnaires de données au sein des principaux ministères et organismes
 du secteur public ; parfois les agents administratifs ont besoin d'aide
 pour connaitre les données en leur possession. Du côté des utilisateurs,
 il s'agira de recenser les organisations motivées qui disposent des
-moyens pour une utilisation immédiate des données en libre accès.
+moyens pour une utilisation immédiate des données ouvertes.
 Impliquer ces deux publics dès le début suppose souvent de les
-sensibiliser davantage à l'utilisation, aux avantages et aux
-opportunités que représente l'Open Data ; de déterminer les priorités
+sensibiliser davantage à l'utilisation, et aux
+opportunités que représente les données ouvertes ; de déterminer les priorités
 et les demandes selon les utilisateurs ; de renforcer les capacités ; et
 d'accompagner des communautés Open Data déjà formées. Les
-manifestations suivantes ont démontré leur efficacité stratégique à ce
+types de manifestations suivants ont démontré leur efficacité stratégique à ce
 stade.
 
 * <strong>Ateliers de sensibilisation à l'Open Data </strong> Conçus
@@ -91,7 +91,7 @@ stade.
   d'organisations de la société civile...) et couplées à des
   initiatives de soutien offertes par la Banque mondiale et ses plus
   proches partenaires, à l'instar des sessions de formation intensive à
-  la culture de l'Open Data décrites ci-dessous (Étape 2). Parmi les
+  la culture des Données Ouvertes décrites ci-dessous (Étape 2). Parmi les
   tables rondes organisées, citons celles du Ghana, du Kenya, du Népal,
   de la Tanzanie et de l'Afrique du Sud, [où des dirigeants de médias
   ont échangé sur l'ouverture des données et l'avenir de
@@ -103,10 +103,10 @@ stade.
   restructurer dans des formats électroniques exploitables (CSV, par
   exemple) avant qu'elles puissent alimenter une plateforme de données
   en accès libre temporaire ou naissante. Grâce à ce type de programme
-  (connu sous le terme anglais de *scrape-a-thon*), le processus d'Open
-  Data prend corps dès son lancement : il tire profit des données déjà
+  (connu sous le terme anglais de *scrape-a-thon*), le processus de données ouvertes
+  prend corps dès son lancement : il tire profit des données déjà
   disponibles et les exploite afin de créer une dynamique pour inciter
-  les ministères à diffuser les leurs. Un de ces événements se déroule
+  les ministères à diffuser les leurs. Un de ces événements s'est déroulé
   au [Chili][3] : les données collectées sont hébergées gratuitement
   sur des centres documentaires citoyens, gérés de manière
   participative, comme [OpenAfricaData.org][4] et
@@ -120,7 +120,7 @@ et comment les exploiter à des fins spécifiques. Les stratégies
 participatives relevant de cette deuxième étape visent à conférer aux
 utilisateurs potentiels (journalistes, organisations non lucratives,
 universitaires, concepteurs de logiciels...) une meilleure culture des
-données et et des capacités techniques accrues. Le niveau et le format
+données et des capacités techniques accrues. Le niveau et le format
 de ces formations techniques dépendent du public visé. Dans l'idéal,
 les utilisateurs devraient bénéficier de multiples possibilités de
 formation, en fonction de leurs besoins, et se rapprocher de [groupes
@@ -150,7 +150,7 @@ ateliers suivants répondent précisément à ces objectifs :
   praticiens en milieu de carrière. Ils approfondissent l'apprentissage
   par la pratique du déchiffrage des données et renforcent les
   compétences relatives à l'analyse des données.
-* **Formations en ligne sur la culture de l'Open Data** Ce type de
+* **Formations en ligne sur la culture des Données Ouvertes** Ce type de
   formation d'une durée d'une semaine sera proposé en 2015 et
   proposera un éventail encore plus large d'instruments d'analyse des
   données. Deux formats ont été retenus (apprentissage autonome ou
@@ -160,13 +160,13 @@ ateliers suivants répondent précisément à ces objectifs :
 
 ## Étape 3 : Utilisation et réutilisation des données   {#stage-3}
 
-L'objectif de cette troisième étape est d'exploiter les données en
-libre accès de manière à les appliquer à des défis et des opportunités
+L'objectif de cette troisième étape est d'exploiter les données ouvertes
+de manière à les appliquer à des défis et des opportunités
 précis, et d'utiliser l'ouverture des données pour parvenir à des
 résultats concrets et apporter une valeur tangible. On peut supposer par
 exemple qu'un État s'est déjà fixé des priorités dans un domaine
-particulier et qu'il est à la recherche de solutions ressortant
-notamment de l'Open Data. La stratégie de mobilisation, à ce stade,
+particulier et qu'il est à la recherche de solutions relevant notammen des données ouvertes.
+La stratégie de mobilisation, à ce stade,
 peut être envisagée comme un moyen d'apporter un début de réponse à
 cette recherche. Dans d'autres cas, le secteur privé aura peut-être
 développé ses propres axes de réflexion. Il s'agira alors de favoriser
@@ -210,7 +210,7 @@ difficultés spécifiques et tentent d'apporter des solutions adaptées :
 
 ## Étape 4 : Pérennisation   {#stage-4}
 
-Une fois les bases d'une initiative d'Open Data bien établies, les
+Une fois les bases d'une initiative de Données Ouvertes bien établies, les
 stratégies participatives veillent à garantir sa pérennité. Cela passe
 parfois par le renforcement des efforts déployés aux étapes précédentes,
 par la diffusion de l'initiative à d'autres échelons de

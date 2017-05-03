@@ -4,7 +4,7 @@ title: Offre et qualité des données
 
 Cette rubrique fournit des recommandations sur les opérations de gestion
 et de << curation >> des données qui sont nécessaires pour s’assurer
-qu’elles sont conformes aux bonnes pratiques de l'Open Data et aux
+qu’elles sont conformes aux bonnes pratiques des Données Ouvertes et aux
 normes établies au sein de la communauté des professionnels des données.
 Bien qu’elle s’adresse aux personnes et aux organismes chargés de
 produire des données, tels que les ministères et les instituts de
@@ -21,7 +21,7 @@ dimensions qui définissaient initialement les données statistiques mais
 qui peuvent également s’appliquer à d’autres types de données :
 
 | **Pertinence** | Les données répondent-elles aux besoins actuels et potentiels des utilisateurs |
-| **Exactitude et fiabilité** | Les données sont-elles exemptes d’erreurs Dans le cas de statistiques, l’exactitude désigne la proximité entre la valeur estimée et la valeur réelle (inconnue) au sein de la population. |
+| **Exactitude et fiabilité** | Les données sont-elles exemptes d’erreurs. Dans le cas de statistiques, l’exactitude désigne la proximité entre la valeur estimée et la valeur réelle (inconnue) au sein de la population. |
 | **Actualité et ponctualité** | Quel est le délai entre la publication des données et le phénomène qu’elles mesurent et la fréquence des mises à jour correspond-elle au calendrier prévu |
 | **Accessibilité et clarté** | Les utilisateurs peuvent-ils accéder facilement aux données et les métadonnées permettent-elles de bien les comprendre |
 | **Comparabilité** | Les données peuvent-elles être comparées dans le temps ou géographiquement |
@@ -141,7 +141,7 @@ différents formats, ainsi que des conseils sur les options de diffusion.
 Un [centre d’assistance][15] est disponible pour fournir des conseils
 concernant l'application de la norme OCDS.
 
-### Budget   {#budget-data}
+### Données budgétaires   {#budget-data}
 
 Les données budgétaires désignent les dépenses du secteur public,
 ventilées par échelon administratif, catégorie fonctionnelle ou
