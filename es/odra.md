@@ -33,20 +33,25 @@ metodológico.
 
 ## Evaluaciones disponibles   {#available-assessments}
 
-* **Ulyanovsk, Federación de Rusia** (enero de 2013): [Informe
-  completo](../docs/odra/odra_ulyanovsk_web_final.doc)
-* **Antigua y Barbuda** (junio de 2013): [Informe completo][1] \|
-  [Comunicado de prensa][2]
-* **Perú** (junio/julio de 2013): [Informe
-  completo](../docs/odra/odra-peru-final.pdf) solo en español
-* **México** (septiembre/octubre de 2013): [Informe
-  completo](../docs/odra/odra_mexico_complete.pdf) en español \|
+* **Ulyanovsk, Federación de Rusia** (enero de 2013): [Informe completo](../docs/odra/odra_ulyanovsk_web_final.doc)
+* **Antigua y Barbuda** (junio de 2013): [Informe completo][1]
+* **Perú** (junio/julio de 2013): [Informe completo](../docs/odra/odra-peru-final.pdf) solo en español
+* **México** (septiembre/octubre de 2013): [Informe completo](../docs/odra/odra_mexico_complete.pdf) en español \|
   [Resumen](./docs/odra/odra_mexico_execsummary.pdf) en inglés
-* **República Dominicana** (abril/mayo de 2014): [Informe
-  completo](../docs/odra/odra_republica_dominicana.pdf) solo en español
-* **Burkina Faso** (junio de 2014): [Informe
-  completo](../docs/odra/odra-burkina-faso-final-fr.pdf) en francés
+* **República Dominicana** (abril/mayo de 2014): [Informe completo](../docs/odra/odra_republica_dominicana.pdf) solo en español
+* **Burkina Faso** (junio de 2014): [Informe completo](../docs/odra/odra-burkina-faso-final-fr.pdf) en francés
   (resumen y plan de acción, también disponibles en inglés)
+* **Kazajstán** (2014, auto evaluación): [Ruso](../docs/odra/odra_kazakhstan-ru.docx) \| [Inglés](../docs/odra/odra_kazakhstan-en.docx)
+* **Uganda** (2015 de junio): [Informe completo](../docs/odra/odra_uganda.pdf) \| [Apéndices](../docs/odra/odra_uganda_annexes.pdf)
+* **Tayikistán** (2015 de junio): [Informe completo](http://cipi.tj/wp-content/uploads/2015/09/En_ODRATajikistan_2015.pdf)
+* **Sierra Leona** (2015 de noviembre): [Informe completo](../docs/odra/odra_sierra_leone.pdf)
+* **Serbia** (2015 de diciembre): [Informe completo](http://www.rs.undp.org/content/serbia/en/home/library/democratic_governance/open-data-readiness-assesment-)
+* **Kirguistán** (2016 de febrero): [Informe completo](http://www.kg.undp.org/content/kyrgyzstan/en/home/library/democratic_governance/odra) - inglés y ruso
+* **Mauritania** (2016 de agosto): [Informe completo](../docs/odra/odra_mauritania.pdf) - francés y inglés
+
+**[Solicitar al Banco Mundial que realice una evaluación del grado de
+preparación](&#109;&#097;&#105;&#108;&#116;&#111;:&#111;&#112;&#101;&#110;&#103;&#111;&#118;&#100;&#097;&#116;&#097;&#064;&#119;&#111;&#114;&#108;&#100;&#098;&#097;&#110;&#107;&#046;&#111;&#114;&#103;)**
+{: .center}
 
 ## Otros recursos   {#other-resources}
 
@@ -75,12 +80,7 @@ aquí](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
 * **Guía de uso 2.0:** [PDF](../docs/odra/odra_v2-en.pdf) \| [MS
   Word](../docs/odra/odra_v2-en.doc)
 
-**[Solicitar al Banco Mundial que realice una evaluación del grado de
-preparación](&#109;&#097;&#105;&#108;&#116;&#111;:&#111;&#112;&#101;&#110;&#103;&#111;&#118;&#100;&#097;&#116;&#097;&#064;&#119;&#111;&#114;&#108;&#100;&#098;&#097;&#110;&#107;&#046;&#111;&#114;&#103;)**
-{: .center}
 
 
-
-[1]: http://www.ab.gov.ag/article_details.php?id=4222&amp;category=114
-[2]: http://www.ab.gov.ag/article_details.php?id=4223&amp;category=38
+[1]: http://documents.worldbank.org/curated/en/2013/06/19584052/open-data-readiness-assessment-prepared-government-antigua-barbuda
 [3]: http://windows.microsoft.com/en-us/windows/windows-media-player

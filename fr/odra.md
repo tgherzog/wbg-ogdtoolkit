@@ -32,11 +32,21 @@ apporter de changement méthodologique.
 ## Évaluations disponibles   {#available-assessments}
 
 * **Ulyanovsk, Fédération de Russie** (janvier 2013): [Rapport complet](../docs/odra/odra_ulyanovsk_web_final.doc)
-* **Antigua-et-Barbuda** (juin 2013): [Rapport complet][1] \| [Communiqué de presse][2]
+* **Antigua-et-Barbuda** (juin 2013): [Rapport complet][1]
 * **Pérou** (juin/juillet 2013): [Rapport complet](../docs/odra/odra-peru-final.pdf) - uniquement en espagnol
 * **Mexique** (septembre/octobre 2013): [Rapport complet](../docs/odra/odra_mexico_complete.pdf) - espagnol \| [Résumé analytique](./docs/odra/odra_mexico_execsummary.pdf) - anglais
 * **République dominicaine** (avril/mai 2014): [Rapport complet](../docs/odra/odra_republica_dominicana.pdf) - uniquement en espagnol
 * **Burkina Faso** (juin 2014): [Rapport complet](../docs/odra/odra-burkina-faso-final-fr.pdf) - français (résumé analytique et plan d'action également disponibles en anglais)
+* **Kazakhstan** (2014, auto-évaluation): [Russe](../docs/odra/odra_kazakhstan-ru.docx) \| [Anglais](../docs/odra/odra_kazakhstan-en.docx)
+* **Uganda** (juin 2015): [Rapport complet](../docs/odra/odra_uganda.pdf) \| [Annexes](../docs/odra/odra_uganda_annexes.pdf)
+* **Tajikistan** (juin 2015): [Rapport complet](http://cipi.tj/wp-content/uploads/2015/09/En_ODRATajikistan_2015.pdf)
+* **Sierra Leone** (novembre 2015): [Rapport complet](../docs/odra/odra_sierra_leone.pdf)
+* **Serbia** (décembre 2015): [Rapport complet](http://www.rs.undp.org/content/serbia/en/home/library/democratic_governance/open-data-readiness-assesment-)
+* **Kyrgyzstan** (février 2016): [Rapport complet](http://www.kg.undp.org/content/kyrgyzstan/en/home/library/democratic_governance/odra) - anglais et russe
+* **Mauritania** (août 2016): [Rapport complet](../docs/odra/odra_mauritania.pdf) - français et anglais
+
+**[Demander à la Banque mondiale de procéder à une évaluation de maturité][contact]**
+{: .center }
 
 ## Autres ressources   {#other-resources}
 
@@ -60,13 +70,9 @@ anglaise](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
 * **Guide méthodologique 3.0:** [PDF](../docs/odra/odra_v3_methodology-en.pdf) \| [MS Word](../docs/odra/odra_v3_methodology-en.doc)
 * **Guide d'utilisation 2.0:** [PDF](../docs/odra/odra_v2-en.pdf) \| [MS Word](../docs/odra/odra_v2-en.doc)
 
-**[Demander à la Banque mondiale de procéder à une évaluation de maturité][contact]**
-{: .center}
 
 
-
-[1]: http://www.ab.gov.ag/article_details.php?id=4222&amp;category=114
-[2]: http://www.ab.gov.ag/article_details.php?id=4223&amp;category=38
+[1]: http://documents.worldbank.org/curated/en/2013/06/19584052/open-data-readiness-assessment-prepared-government-antigua-barbuda
 [3]: http://windows.microsoft.com/en-us/windows/windows-media-player
 
 [contact]: mailto:opengovdata@worldbank.org
