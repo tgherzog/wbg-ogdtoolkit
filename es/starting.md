@@ -537,7 +537,7 @@ sobre el tema de los datos de libre acceso:
 [11]: http://vimeo.com/29259763
 [12]: http://www.rooter.es/userfiles/Rooter_innovacion_en_servicios.pdf
 [13]: http://rooter.es/documents/PAPER_REUTILIZACION_INFORMACION_PUBLICA_PRIVADA_OPENDATA.pdf
-[14]: http://sunlightfoundation.com/blog/tag/why-open-data/
+[14]: https://sunlightfoundation.com/taxonomy/term/why-open-data
 [15]: http://www.publications.parliament.uk/pa/cm201314/cmselect/cmpubadm/564/564.pdf
 [16]: http://issuu.com/world.bank.publications/docs/open_financial_data
 [17]: http://ofti.org/wp-content/uploads/2014/05/221171136-Open-Data-as-a-Tool-to-Fight-Corruption.pdf
@@ -552,7 +552,7 @@ sobre el tema de los datos de libre acceso:
 [26]: http://www.opengovpartnership.org/
 [27]: http://www.oecd-ilibrary.org/governance/open-government-data_5k46bj4f03s7-en
 [28]: http://sunlightfoundation.com/policy/opendata/
-[29]: http://www.whitehouse.gov/open/documents/open-government-directive
+[29]: https://obamawhitehouse.archives.gov/open/documents/open-government-directive
 [30]: http://project-open-data.github.io/policy-memo/
 [31]: http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-
 [32]: http://project-open-data.github.io/

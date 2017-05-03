@@ -375,7 +375,7 @@ ouvertes.
 [1]: https://checklists.opquast.com/en/opendata
 [2]: https://fr.wikipedia.org/wiki/Recherche_plein_texte
 [3]: https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche
-[4]: http://opendatahandbook.org/en/appendices/file-formats.html
+[4]: http://opendatahandbook.org/guide/en/appendices/file-formats
 [5]: https://www.data.gov/developers/harvesting
 [6]: http://ckan.org/
 [7]: http://okfn.org

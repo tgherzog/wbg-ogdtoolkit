@@ -309,7 +309,7 @@ promouvoir l'utilisation de ces données à des fins spécifiques.
 
 
 [1]: http://opendefinition.org/od/1.1/fr/
-[2]: http://opendatahandbook.org/en/appendices/file-formats.html
+[2]: http://opendatahandbook.org/guide/en/appendices/file-formats
 [3]: http://creativecommons.fr/
 [4]: http://creativecommons.fr/licences/
 [5]: http://creativecommons.fr/cc0-et-mdp/

@@ -310,7 +310,7 @@ datos de libre acceso para fines específicos.
 
 
 [1]: http://opendefinition.org
-[2]: http://opendatahandbook.org/en/appendices/file-formats.html
+[2]: http://opendatahandbook.org/guide/en/appendices/file-formats
 [3]: http://creativecommons.org
 [4]: http://creativecommons.org/licenses/by/4.0
 [5]: http://creativecommons.org/publicdomain/zero/1.0/

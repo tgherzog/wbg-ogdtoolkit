@@ -391,7 +391,7 @@ résoudre des problèmes spécifiques :
 [20]: http://opendatahandbook.org/
 [21]: http://theodi.org/
 [22]: https://www.facebook.com/p4opendata/info
-[23]: https://docs.google.com/spreadsheet/ccc?key=0Ag2jK9SJ96ppdGtoQUpjWklwN2ZRQTRpRy1GSE5qSlE&amp;usp=sharing
+[23]: https://bit.ly/open-data-experts-roster
 [24]: http://www.linkedin.com/groups?home=&amp;gid=4077335&amp;trk=anet_ug_hm&amp;goback=.anp_4077335_1340203412845_1
 [25]: http://www.banquemondiale.org/
 [26]: http://www.fordfoundation.org/

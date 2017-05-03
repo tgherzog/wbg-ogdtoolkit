@@ -363,7 +363,7 @@ opciones tecnológicas.
 [1]: https://checklists.opquast.com/en/opendata
 [2]: http://en.wikipedia.org/wiki/Full_text_search
 [3]: http://en.wikipedia.org/wiki/Search_engine_optimization
-[4]: http://opendatahandbook.org/en/appendices/file-formats.html
+[4]: http://opendatahandbook.org/guide/en/appendices/file-formats
 [5]: https://www.data.gov/developers/harvesting
 [6]: http://ckan.org/
 [7]: http://okfn.org

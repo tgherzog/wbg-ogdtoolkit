@@ -388,7 +388,7 @@ más pertinentes son los siguientes:
 [6]: http://dsbb.imf.org/Pages/GDDS/Home.aspx
 [7]: http://dsbb.imf.org/Pages/SDDS/Home.aspx
 [8]: http://dsbb.imf.org/Pages/DQRS/DQAF.aspx
-[9]: http://go.worldbank.org/UI0WGV6KW0
+[9]: http://www.worldbank.org/en/data/statistical-capacity-building/
 [10]: http://www.imf.org/external/NP/rosc/rosc.aspx
 [11]: http://www.imf.org/external/NP/rosc/rosc.aspx?sortBy=Topic&amp;sortVal=Data%20Dissemination
 [12]: http://www.open-contracting.org
@@ -416,7 +416,7 @@ más pertinentes son los siguientes:
 [34]: https://project-open-data.cio.gov/
 [35]: http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-
 [36]: http://neon.vb.cbs.nl/casc/Handbook.htm
-[37]: http://www.ico.gov.uk/for_organisations/data_protection/topic_guides/anonymisation.aspx
+[37]: https://ico.org.uk/for-organisations/guide-to-data-protection/anonymisation
 [38]: http://www3.weforum.org/docs/WEF_IT_RethinkingPersonalData_Report_2012.pdf
 [39]: http://www.weforum.org/issues/rethinking-personal-data
 [40]: http://dublincore.org
