@@ -92,7 +92,7 @@ Census](http://national.census.okfn.org/).
 ## Open Data by Sector/Topic
 
 The following are examples of Open Data for specific sectors and topics. For examples of applications that
-use some of these data sources, see [Uses of Open Data(#uses).
+use some of these data sources, see [Uses of Open Data](#uses).
 
 Sector | Website
 ------ | -------
