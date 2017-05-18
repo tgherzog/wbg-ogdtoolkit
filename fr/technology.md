@@ -354,7 +354,7 @@ que le format CSV.
 
 ### ArcGIS Open Data
 
-[ArcGIS Open Data] (http://opendata.arcgis.com/) est une plateforme cloud de type SaaS où les utilisateurs peuvent explorer à la fois les données géospatiales et non géospatiales à travers une interface cohérente, qui permet notamment l'extraction de d'éléments spécifiques ainsi que le téléchargement dans de multipes formats et APIs. La plateforme est disponible gratuitement avec ArGIS Online, s'appuie sur les services ArcGIS, et s'intègre avec des centaines d'applications open source pour les téléphones mobibles, le web et les environnements desktop. ArcGIS Open Data utilise [Koop](http://koopjs.github.io/), un moteur ETL open source qui transforme automatiquement les web services dans des formats accessibles.
+[ArcGIS Open Data](http://opendata.arcgis.com/) est une plateforme cloud de type SaaS où les utilisateurs peuvent explorer à la fois les données géospatiales et non géospatiales à travers une interface cohérente, qui permet notamment l'extraction de d'éléments spécifiques ainsi que le téléchargement dans de multipes formats et APIs. La plateforme est disponible gratuitement avec ArGIS Online, s'appuie sur les services ArcGIS, et s'intègre avec des centaines d'applications open source pour les téléphones mobibles, le web et les environnements desktop. ArcGIS Open Data utilise [Koop](http://koopjs.github.io/), un moteur ETL open source qui transforme automatiquement les web services dans des formats accessibles.
 
 Exemples
 
