@@ -42,7 +42,7 @@ Comme le décrivent les paragraphes suivants, les catalogues de données
 peuvent être relativement simples et autonomes, ou très sophistiqués et
 intégrés à d'autres systèmes. Toutefois, la plupart d'entre eux ont un
 certain nombre de caractéristiques communes (des listes plus complètes
-sont [également disponibles][1]):
+sont [également disponibles](https://checklists.opquast.com/en/opendata)):
 
 * **Facilité d'accès**: les catalogues permettent aux utilisateurs
   d'accéder aux données de manière facile, rapide, intuitive et
@@ -53,8 +53,8 @@ sont [également disponibles][1]):
 * **Recherche**: les catalogues permettent de trouver facilement des
   données. La plupart d'entre eux classent les données par sujet,
   organisme ou type, et prennent en charge la [recherche en texte
-  intégral][2]. Bon nombre de catalogues intègrent aussi l'[optimisation
-  du référencement auprès des moteurs de recherche][3] afin que ceux-ci
+  intégral](https://fr.wikipedia.org/wiki/Recherche_plein_texte). Bon nombre de catalogues intègrent aussi l'[optimisation
+  du référencement auprès des moteurs de recherche](https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche) afin que ceux-ci
   puissent accéder aux données.
 
 * **Accès aux données exploitables par une machine**: les données sont
@@ -83,7 +83,7 @@ sont [également disponibles][1]):
 
 * **Respect des normes**: la plupart des catalogues offrent une prise
   en charge intégrée de différentes normes, notamment en matière de
-  [formats de données][4] (par exemple CSV, XML et JSON) et de
+  [formats de données](http://opendatahandbook.org/guide/en/appendices/file-formats) (par exemple CSV, XML et JSON) et de
   [métadonnées](supply.html#metadata) (Dublin Core). Généralement, les
   catalogues publient chaque jeu de données sous la forme d'une URL
   permanente unique, ce qui permet de citer les données et de créer des
@@ -93,7 +93,7 @@ sont [également disponibles][1]):
   permettent aux développeurs de logiciels d'accéder de manière
   automatisée aux catalogues, et même souvent aux données elles-mêmes.
   Elles facilitent la découverte des données, l'analyse, l'intégration
-  des catalogues, [la collecte des métadonnées][5] depuis des sites
+  des catalogues, [la collecte des métadonnées](https://www.data.gov/developers/harvesting) depuis des sites
   externes et le développement d'une multitude d'applications.
 
 * **Sécurité**: les catalogues mettent en place des mesures de
@@ -228,8 +228,8 @@ simple export of) open datasets in open, machine-readable formats.
 
 ### CKAN   {#ckan}
 
-[CKAN][6] est un catalogue de données open source qui bénéficie du
-soutien officiel de l'[Open Knowledge Foundation][7] et peut être
+[CKAN](http://ckan.org/) est un catalogue de données open source qui bénéficie du
+soutien officiel de l'[Open Knowledge Foundation](http://okfn.org) et peut être
 installé sur n'importe quel serveur Linux, y compris dans une
 configuration hébergée dans le Cloud. L'Open Knowledge Foundation
 propose également des services d'hébergement sous forme d'abonnement
@@ -237,20 +237,18 @@ mensuel payant. Le catalogue CKAN est écrit dans le langage de
 programmation Python et conçu pour publier et gérer des données au moyen
 d'une interface utilisateur ou d'une API.
 
-CKAN présente une architecture
-modulaire qui permet d'ajouter des fonctionnalités supplémentaires ou
-personnalisées.
+CKAN présente une architecture modulaire qui permet d'ajouter des fonctionnalités supplémentaires ou personnalisées. Par exemple, l'extension DII Importer(http://extensions.ckan.org/extension/ddi-importer) (sponsorisée par la Banque Mondiale) fournit un support pour le standard de [métadonnées DDI](http://www.ddialliance.org/), notamment le moissonnage de métadonnées depuis les catalogues de microdonnées.
 
 **Exemples**
 
-* [Edo (Nigéria)][8]
-* [Brésil][9]
-* [États-Unis][10]
-* [openAFRICA][11]
+* [Edo (Nigéria)](http://data.edostate.gov.ng/)
+* [Brésil](http://dados.gov.br/)
+* [États-Unis](http://catalog.data.gov/)
+* [openAFRICA](http://africaopendata.org/)
 
 ### DKAN   {#dkan}
 
-[DKAN][12] est conçu pour être compatible avec CKAN. Cela signifie que
+[DKAN](http://nucivic.com/dkan) est conçu pour être compatible avec CKAN. Cela signifie que
 son API sous-jacente est identique, de sorte que les systèmes conçus
 pour être compatibles avec l'API CKAN sont censés fonctionner tout aussi
 bien avec DKAN. DKAN est aussi open source, mais repose sur Drupal, un
@@ -264,11 +262,11 @@ développeurs.
 
 **Exemples**
 
-* [Cologne (Allemagne)][13]
+* [Cologne (Allemagne)](http://www.offenedaten-koeln.de/)
 
 ### Junar   {#junar}
 
-[Junar][14] est une plateforme Open Data de type SaaS hébergée dans le
+[Junar](http://www.junar.com) est une plateforme Open Data de type SaaS hébergée dans le
 Cloud, ce qui signifie que les données sont généralement gérées au sein
 de l'infrastructure Junar (modèle tout-en-un). Junar peut fournir soit
 un catalogue de données complet, soit des données spécifiques qui sont
@@ -276,37 +274,40 @@ envoyées dans un catalogue utilisateur séparé via une API.
 
 **Exemples**
 
-* [Lima (Pérou) ][15]
-* [Chili ][16]
-* [Costa Rica ][17]
+* [Lima (Pérou) ](http://lima.datosabiertos.pe)
+* [Chili ](http://recursos.datos.gob.cl)
+* [Costa Rica ](http://datosabiertos.gob.go.cr)
 
 ### OpenDataSoft   {#opendatasoft}
 
-[OpenDataSoft][18] est une plateforme de type SaaS hébergée dans le
+[OpenDataSoft](http://www.opendatasoft.com/) est une plateforme de type SaaS hébergée dans le
 Cloud qui offre une suite complète d'outils Open Data et de
-visualisation. Cette plate-forme prend en charge les formats de données
+visualisation. L'interface (front-end) est disponible en open source. Cette plate-forme prend en charge les formats de données
 ouvertes les plus courants comme CSV, JSON et XML, ainsi qu'un
 grand nombre de formats de données géospatiales tels que KML, OSM et
 SHP. Ses fonctionnalités de recherche sont à la fois simples et faciles
 d'utilisation.
 
+Les partenaires de la Banque Mondiale peuvent accéder librement à [une version de OpenDataSoft ici](https://hello.opendatasoft.com/open-data-portal-for-non-profits-and-ngos).
+
 **Exemples**
 
-* [Open Data Bruxelles ](opendata.brussels.be)
-* [ParisData](opendata.paris.fr)
-* [Open Data SNCF](data.sncf.com)
+* [Kapsarc (Saudi Arabia)](https://datasource.kapsarc.org/page/home/)
+* [Paris Data](https://github.com/tgherzog/wbg-ogdtoolkit/issues/opendata.paris.fr)
+* [Ministry of Health (Portugal)](https://www.sns.gov.pt/transparencia/)
+* [City of Cary (USA)](https://data.townofcary.org/page/home/)
 
 ### Semantic MediaWiki   {#semantic-media-wiki}
 
-[Semantic MediaWiki][19] est une extension de [MediaWiki][20],
+[Semantic MediaWiki](http://semantic-mediawiki.org) est une extension de [MediaWiki](https://fr.wikipedia.org/wiki/MediaWiki),
 l'application qui est connue pour être celle sur laquelle repose
-[Wikipédia][21]. Alors que les wikis classiques ne contiennent que du
+[Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal). Alors que les wikis classiques ne contiennent que du
 texte, Semantic MediaWiki ajoute des annotations sémantiques qui
 permettent à un wiki de se comporter comme une base de données
 collaborative et un catalogue de données. Semantic MediaWiki est une
-implémentation de [RDF][22], ce qui signifie que les données et les
+implémentation de [RDF](http://www.w3.org/RDF), ce qui signifie que les données et les
 métadonnées sont stockées sous la forme de données liées et accessibles
-par le biais d'interfaces de données liées telles que [SPARQL][23].
+par le biais d'interfaces de données liées telles que [SPARQL](https://fr.wikipedia.org/wiki/SPARQL).
 
 **Exemples**
 
@@ -314,7 +315,7 @@ par le biais d'interfaces de données liées telles que [SPARQL][23].
 
 ### Socrata   {#socrata}
 
-[Socrata][24] est une plateforme de catalogue Open Data de type SaaS
+[Socrata](http://www.socrata.com) est une plateforme de catalogue Open Data de type SaaS
 hébergée dans le Cloud qui fournit une API, un catalogue et des outils
 de manipulation des données. L'une des particularités de Socrata est
 qu'il permet aux utilisateurs de créer des vues et des visualisations
@@ -325,17 +326,21 @@ transition pour les clients qui souhaitent abandonner le modèle SaaS.
 
 **Exemples**
 
-* [Chicago (États-Unis) ][25]
-* [San Francisco (États-Unis) ][26]
-* [Kenya ][27]
-* [PNUD ][28]
+
+* [World Bank Energy & Extractives Data Portal](https://databox.worldbank.org/)
+* [Kenya](https://opendata.go.ke/)
+* [U.S. Medicare](https://data.medicare.gov/)
+* [City of Los Angeles](https://data.lacity.org/)
+* [Global Island Partnership](https://impact.glispa.org/)
+* [Carbon Disclosure Project](https://data.cdp.net/)
+
 
 ### Swirrl   {#swirrl}
 
-[Swirrl][29] est une plateforme Open Data de type SaaS hébergée dans le
+[Swirrl](http://www.swirrl.com) est une plateforme Open Data de type SaaS hébergée dans le
 Cloud qui est basée sur les technologies de données liées (comme
-[RDF][22] [a] et [SPARQL][23]) et conçue pour offrir une conformité
-totale avec le [modèle Open Data 5 étoiles][30]. Swirrl met également
+[RDF](http://www.w3.org/RDF) [a] et [SPARQL](https://fr.wikipedia.org/wiki/SPARQL)) et conçue pour offrir une conformité
+totale avec le [modèle Open Data 5 étoiles](http://5stardata.info). Swirrl met également
 les données à disposition sous des formes plus traditionnelles telles
 que le format CSV.
 
@@ -344,6 +349,29 @@ que le format CSV.
 * [OpenDataCommunities ](opendatacommunities.org)
 * [Open Data Scotland ](opendatascotland.org)
 * [Hampshire City Council](linkeddata.hants.gov.uk)
+
+## Plateforme de données géospatiales {#gis}
+
+### ArcGIS Open Data
+
+[ArcGIS Open Data] (http://opendata.arcgis.com/) est une plateforme cloud de type SaaS où les utilisateurs peuvent explorer à la fois les données géospatiales et non géospatiales à travers une interface cohérente, qui permet notamment l'extraction de d'éléments spécifiques ainsi que le téléchargement dans de multipes formats et APIs. La plateforme est disponible gratuitement avec ArGIS Online, s'appuie sur les services ArcGIS, et s'intègre avec des centaines d'applications open source pour les téléphones mobibles, le web et les environnements desktop. ArcGIS Open Data utilise [Koop](http://koopjs.github.io/), un moteur ETL open source qui transforme automatiquement les web services dans des formats accessibles.
+
+Exemples
+
+* [City of Los Angeles](http://geohub.lacity.org/)
+* [US Department of Homeland Security](https://hifld-dhs-gii.opendata.arcgis.com/)
+* [Global Forest Watch](http://data.globalforestwatch.org/)
+
+### GeoNode
+
+GeoNode est une plateforme open source pour développer des systèmes d'informations géospatiales (GIS) et pour déployer des infrastructures de données géospatiales. Geonode a été designé pour être facilement étendu et modifiable, et peut être intégré dans une plateforme existante.
+
+Exemples
+
+* [UN World Food Programme](http://geonode.wfp.org/)
+* [Haiti Data](http://haitidata.org/)
+* [GeoSINAGER](http://geosinager.defensacivil.gob.bo/) (Bolivia)
+
 
 ## Pour aller plus loin...   {#additional-reading}
 
@@ -356,53 +384,19 @@ ouvertes.
   janvier 2014) : ce livre blanc passe en revue les caractéristiques de
   plusieurs produits et services proposés par différentes organisations.
 * [*Technical Assessment of Open Data Platforms for National Statistical
-  Organisations*][31] (Banque mondiale, octobre 2014) : ce rapport de
+  Organisations*](http://documents.worldbank.org/curated/en/2014/10/20451797/technical-assessment-open-data-platforms-national-statistical-organisations) (Banque mondiale, octobre 2014) : ce rapport de
   recherche vise à améliorer la compréhension et l'évaluation des
   problèmes techniques liés aux outils de diffusion de données
   qu'utilisent les instituts de statistique nationaux pour communiquer
   les informations aux citoyens dans le cadre d'une initiative de libre
   accès aux données.
-* [*Open Data Checklist*][1] : cet aide-mémoire qui récapitule les
+* [*Open Data Checklist*](https://checklists.opquast.com/en/opendata) : cet aide-mémoire qui récapitule les
   bonnes pratiques en matière de Données Ouvertes constitue une référence utile
   pour garder à l'esprit les grandes exigences que doit généralement
   respecter toute plateforme de données ouvertes.
 * [<em> ODI : How to choose the right Open Data platform for
-  you</em>][32] (Open Data Institute, 2014) : ce diaporama offre une
+  you</em>](http://www.scribd.com/doc/246134303/How-to-choose-the-right-open-data-platform-for-you) (Open Data Institute, 2014) : ce diaporama offre une
   présentation complète des principaux aspects à prendre en
   considération pour choisir une plateforme de Données Ouvertes et offre un
   bref aperçu de certains des produits les plus utilisés.
-
-
-
-[1]: https://checklists.opquast.com/en/opendata
-[2]: https://fr.wikipedia.org/wiki/Recherche_plein_texte
-[3]: https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche
-[4]: http://opendatahandbook.org/guide/en/appendices/file-formats
-[5]: https://www.data.gov/developers/harvesting
-[6]: http://ckan.org/
-[7]: http://okfn.org
-[8]: http://data.edostate.gov.ng/
-[9]: http://dados.gov.br/
-[10]: http://catalog.data.gov/
-[11]: http://africaopendata.org/
-[12]: http://nucivic.com/dkan
-[13]: http://www.offenedaten-koeln.de/
-[14]: http://www.junar.com
-[15]: http://lima.datosabiertos.pe
-[16]: http://recursos.datos.gob.cl
-[17]: http://datosabiertos.gob.go.cr
-[18]: http://www.opendatasoft.com
-[19]: http://semantic-mediawiki.org
-[20]: https://fr.wikipedia.org/wiki/MediaWiki
-[21]: https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal
-[22]: http://www.w3.org/RDF
-[23]: https://fr.wikipedia.org/wiki/SPARQL
-[24]: http://www.socrata.com
-[25]: https://data.cityofchicago.org
-[26]: https://data.sfgov.org
-[27]: https://opendata.go.ke
-[28]: https://data.undp.org
-[29]: http://www.swirrl.com
-[30]: http://5stardata.info
-[31]: http://documents.worldbank.org/curated/en/2014/10/20451797/technical-assessment-open-data-platforms-national-statistical-organisations
-[32]: http://www.scribd.com/doc/246134303/How-to-choose-the-right-open-data-platform-for-you
+* [Open Data Portal Requirements](http://labs.centerforgov.org/open-data/portal-requirements) (Center for Government Excellence). Ce docuemnt contient un ensemble de conseils pour aider les gouvernements à évaluer,développer (ou acheter), déployer, et lancer un site web open data (portail).
