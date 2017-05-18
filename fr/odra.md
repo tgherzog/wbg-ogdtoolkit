@@ -32,7 +32,7 @@ apporter de changement méthodologique.
 ## Évaluations disponibles   {#available-assessments}
 
 * **Ulyanovsk, Fédération de Russie** (janvier 2013): [Rapport complet](../docs/odra/odra_ulyanovsk_web_final.doc)
-* **Antigua-et-Barbuda** (juin 2013): [Rapport complet][1]
+* **Antigua-et-Barbuda** (juin 2013): [Rapport complet](http://documents.worldbank.org/curated/en/2013/06/19584052/open-data-readiness-assessment-prepared-government-antigua-barbuda)
 * **Pérou** (juin/juillet 2013): [Rapport complet](../docs/odra/odra-peru-final.pdf) - uniquement en espagnol
 * **Mexique** (septembre/octobre 2013): [Rapport complet](../docs/odra/odra_mexico_complete.pdf) - espagnol \| [Résumé analytique](./docs/odra/odra_mexico_execsummary.pdf) - anglais
 * **République dominicaine** (avril/mai 2014): [Rapport complet](../docs/odra/odra_republica_dominicana.pdf) - uniquement en espagnol
@@ -45,14 +45,14 @@ apporter de changement méthodologique.
 * **Kyrgyzstan** (février 2016): [Rapport complet](http://www.kg.undp.org/content/kyrgyzstan/en/home/library/democratic_governance/odra) - anglais et russe
 * **Mauritania** (août 2016): [Rapport complet](../docs/odra/odra_mauritania.pdf) - français et anglais
 
-**[Demander à la Banque mondiale de procéder à une évaluation de maturité][contact]**
+**[Demander à la Banque mondiale de procéder à une évaluation de l'état de préparation aux données ouvertes](mailto:opengovdata@worldbank.org)**
 {: .center }
 
 ## Autres ressources   {#other-resources}
 
 Vous pouvez [visionner les
 recommandations](mms://wbmswebcast1.worldbank.org/DEC/2013-03-01/OD_RA_Briefing.wmv)
-(avec [Windows Media Player][3]) présentées le 1er mars 2013 par Andrew
+(avec [Windows Media Player](http://windows.microsoft.com/en-us/windows/windows-media-player)) présentées le 1er mars 2013 par Andrew
 Stott et Jeff Kaplan, principaux auteurs du guide méthodologique de
 l'ODRA. Leur [présentation est disponible ici, en langue
 anglaise](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
@@ -70,9 +70,21 @@ anglaise](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
 * **Guide méthodologique 3.0:** [PDF](../docs/odra/odra_v3_methodology-en.pdf) \| [MS Word](../docs/odra/odra_v3_methodology-en.doc)
 * **Guide d'utilisation 2.0:** [PDF](../docs/odra/odra_v2-en.pdf) \| [MS Word](../docs/odra/odra_v2-en.doc)
 
+## Outils d'évaluation spécifique par secteur
 
+### Outil d'évaluation à l'état de préparation dans le secteur de l'énergie
 
-[1]: http://documents.worldbank.org/curated/en/2013/06/19584052/open-data-readiness-assessment-prepared-government-antigua-barbuda
-[3]: http://windows.microsoft.com/en-us/windows/windows-media-player
+Cet outil accompagne les acteurs de l'énergie et les administrations concernées pour évaluer et plannifier les actions à mettre en oeuvre pour renforcer les données ouvertes dans le secteur de l'énergie au niveau national, voire local.
 
-[contact]: mailto:opengovdata@worldbank.org
+    Méthodologie : [MS Word](https://github.com/tgherzog/wbg-ogdtoolkit/docs/odra/odra_energy_v1_methodology-en.docx)
+    Évaluations :
+        Nairobi, Kenya (Novembre 2015) : [Rapport complet](https://github.com/tgherzog/wbg-ogdtoolkit/docs/odra/odra_energy-nairobi.pdf)
+        Accra, Ghana (Novembre 2015) : [Rapport complet](https://github.com/tgherzog/wbg-ogdtoolkit/docs/odra/odra_energy-accra.pdf)
+
+### Outil d'évaluation à l'état de préparation pour le commerce (business) (OD4B)
+
+L'outil d'évaluation à l'état de préparation pour le commerce (business) (OD4B) fournit une méthodologie pour évaluer l'utilisation des données ouvertes par le secteur privé dans différents pays.
+
+    Méthodologie : [PDF](https://github.com/tgherzog/wbg-ogdtoolkit/docs/odra/od4b_v2.8-en.pdf)
+    Annexes : [Annexe 7](https://github.com/tgherzog/wbg-ogdtoolkit/docs/odra/od4b_v2.8_annex7.xlsx) | [Annex 8](https://github.com/tgherzog/wbg-ogdtoolkit/docs/odra/od4b_v2.8_annex8.xlsx)
+    OD4B-Sierra Leone (Janvier 2015): [PDF](https://github.com/tgherzog/wbg-ogdtoolkit/docs/odra/od4b_sierra_leone.pdf)
