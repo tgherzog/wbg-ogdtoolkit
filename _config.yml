@@ -14,7 +14,7 @@ exclude:
 - en/od-faq.md
 
 # site configuration
-multilingual: false
+multilingual: true
 base: http://opendatatoolkit.zognet.net
 
 # default values
@@ -31,11 +31,6 @@ defaults:
     locale: en
 -
   scope:
-    path: "es"
-  values:
-    locale: es
--
-  scope:
     path: "fr"
   values:
     locale: fr
@@ -44,7 +39,6 @@ defaults:
 lang:
   locales:
     - [ en, English ]
-    - [ es, Espa&ntilde;ol ]
     - [ fr, Fran&ccedil;ais ]
 
   en:
@@ -62,3 +56,36 @@ lang:
       - {hdr: h3, link: /en/supply.html, title: Supply and Quality of Data }
       - {hdr: h3, link: /en/odra.html, title: Readiness Assessment Tool }
       - {hdr: h3, link: /en/technical-assistance.html, title: Technical Assistance and Funding }
+
+  es:
+    title: "Conjunto de herramientas sobre datos gubernamentales de libre acceso"
+    description: "El conjunto de herramientas sobre datos gubernamentales de libre acceso está diseñado para ayudar a los Gobiernos, el personal del Banco y los usuarios a entender los preceptos básicos de los datos de libre acceso, de modo de agilizar la planificación y la implementación de un programa de este tipo y evitar las dificultades más comunes."
+    abstract:    "El conjunto de herramientas sobre datos gubernamentales de libre acceso está diseñado para ayudar a los Gobiernos, el personal del Banco y los usuarios a entender los preceptos básicos de los datos de libre acceso, de modo de agilizar la planificación y la implementación de un programa de este tipo y evitar las dificultades más comunes."
+    localeprefix: "Esta página en"
+    sidebar:
+      - {hdr: h2, link: /es/index.html, title: Conjunto de herramientas sobre datos gubernamentales de libre acceso }
+      - {hdr: h3, link: /es/open-data-in-60-seconds.html, title: Datos de libre acceso en 60 segundos }
+      - {hdr: h3, link: /es/essentials.html, title: Aspectos fundamentales de los datos de libre acceso }
+      - {hdr: h3, link: /es/starting.html, title: Cómo empezar una iniciativa de datos de libre acceso }
+      - {hdr: h3, link: /es/technology.html, title: Opciones tecnológicas }
+      - {hdr: h3, link: /es/demand.html, title: Demanda y participación }
+      - {hdr: h3, link: /es/supply.html, title: Oferta y calidad de los datos }
+      - {hdr: h3, link: /es/odra.html, title: Herramienta de evaluación del grado de preparación }
+      - {hdr: h3, link: /es/technical-assistance.html, title: Asistencia técnica y financiamiento }
+
+  fr:
+    title: "World Bank Open Government Data Toolkit"
+    description: "Le Guide pratique de l’Open Data a pour but d’aider les pouvoirs publics, le personnel de la Banque mondiale et les utilisateurs à comprendre les principes fondamentaux de l'ouverture des données publiques, et à planifier et mettre en œuvre un programme de ce type en évitant les écueils les plus courants."
+    abstract:    "Le Guide pratique de l’Open Data a pour but d’aider les pouvoirs publics, le personnel de la Banque mondiale et les utilisateurs à comprendre les principes fondamentaux de l'ouverture des données publiques, et à planifier et mettre en œuvre un programme de ce type en évitant les écueils les plus courants."
+    localeprefix: "Cette page en"
+    sidebar:
+      - {hdr: h2, link: /fr/index.html, title: Guide pratique de l'Open Data }
+      - {hdr: h3, link: /fr/open-data-in-60-seconds.html, title: L'Open Data en 60 secondes }
+      - {hdr: h3, link: /fr/essentials.html, title: Ce qu'il faut savoir }
+      - {hdr: h3, link: /fr/starting.html, title: Premiers jalons }
+      - {hdr: h3, link: /fr/technology.html, title: Options technologiques }
+      - {hdr: h3, link: /fr/demand.html, title: Demande et mobilisation du public }
+      - {hdr: h3, link: /fr/supply.html, title: Offre et qualité des données }
+      - {hdr: h3, link: /fr/odra.html, title: Outil d'évaluation de la maturité }
+      - {hdr: h3, link: /fr/technical-assistance.html, title: Assistance technique et financement }
+
