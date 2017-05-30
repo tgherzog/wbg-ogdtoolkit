@@ -343,6 +343,21 @@ dans ce domaine:
   rapports de suivi][39] ont été publiés en 2013 et 2014.
 
 
+* [Statistical Disclosure Control for Microdata Practice Guide][48]. Ce guide
+  pratique présente les principales étapes pour qu'une organisation fournisse un
+  accès sécurisé aux données, tout en assurant que les microdonnées restent
+  utiles.
+
+* [Microdata Anonymization][49]. Cette ressource présente les principaux
+  principes de l'anonymisation des microdonnées, des techniques pour mesurer et
+  réduire les risques, et des meilleurs pratiques fournies par l'International
+  Household Survey Network (IHSN).
+
+* [Managing Statistical Confidentiality & Microdata Access][50]. Cette liste de
+  principes et directives a été préparée par la Conférence Européenne des
+  Statisticiens (CES). L'annexe contient plus de 20 cas d'études de différents
+  pays.
+
 ### Métadonnées   {#metadata}
 
 On définit généralement les métadonnées comme des << données sur les
@@ -427,3 +442,7 @@ Norme de métadonnées | Application
 [45]: http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53798
 [46]: http://www.tei-c.org/index.xml
 [47]: http://gcmd.gsfc.nasa.gov/add/difguide/index.html
+[48]: http://ihsn.org/home/sites/default/files/resources/Statistical%20Disclosure%20Control%20for%20Microdata_0.pdf
+[49]: http://ihsn.org/anonymization
+[50]: https://www.unece.org/fileadmin/DAM/stats/publications/Managing.statistical.confidentiality.and.microdata.access.pdf
+

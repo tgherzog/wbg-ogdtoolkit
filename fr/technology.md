@@ -240,6 +240,10 @@ d'une interface utilisateur ou d'une API.
 CKAN présente une architecture
 modulaire qui permet d'ajouter des fonctionnalités supplémentaires ou
 personnalisées.
+Par exemple, l'extension [DII Importer][33] (sponsorisée par la
+Banque Mondiale) fournit un support pour le standard de [métadonnées
+DDI][34], notamment le moissonnage de métadonnées
+depuis les catalogues de microdonnées.
 
 **Exemples**
 
@@ -282,19 +286,25 @@ envoyées dans un catalogue utilisateur séparé via une API.
 
 ### OpenDataSoft   {#opendatasoft}
 
-[OpenDataSoft][18] est une plateforme de type SaaS hébergée dans le
-Cloud qui offre une suite complète d'outils Open Data et de
-visualisation. Cette plate-forme prend en charge les formats de données
-ouvertes les plus courants comme CSV, JSON et XML, ainsi qu'un
-grand nombre de formats de données géospatiales tels que KML, OSM et
-SHP. Ses fonctionnalités de recherche sont à la fois simples et faciles
-d'utilisation.
+[OpenDataSoft](http://www.opendatasoft.com/) est une plateforme de type SaaS
+hébergée dans le Cloud qui offre une suite complète d'outils Open Data et de
+visualisation. L'interface (front-end) est disponible en open source. Cette
+plate-forme prend en charge les formats de données ouvertes les plus courants
+comme CSV, JSON et XML, ainsi qu'un grand nombre de formats de données
+géospatiales tels que KML, OSM et SHP. Ses fonctionnalités de recherche sont à
+la fois simples et faciles d'utilisation.
+
+Les partenaires de la Banque Mondiale peuvent accéder librement à
+[une version de OpenDataSoft ici](https://hello.opendatasoft.com/open-data-portal-for-non-profits-and-ngos).
 
 **Exemples**
 
-* [Open Data Bruxelles ](opendata.brussels.be)
-* [ParisData](opendata.paris.fr)
-* [Open Data SNCF](data.sncf.com)
+* [Kapsarc (Saudi Arabia)](https://datasource.kapsarc.org/page/home/)
+* [Paris Data](https://github.com/tgherzog/wbg-ogdtoolkit/issues/opendata.paris.fr)
+* [Ministry of Health (Portugal)](https://www.sns.gov.pt/transparencia/)
+* [City of Cary (USA)](https://data.townofcary.org/page/home/)
+
+
 
 ### Semantic MediaWiki   {#semantic-media-wiki}
 
@@ -325,10 +335,11 @@ transition pour les clients qui souhaitent abandonner le modèle SaaS.
 
 **Exemples**
 
-* [Chicago (États-Unis) ][25]
-* [San Francisco (États-Unis) ][26]
-* [Kenya ][27]
-* [PNUD ][28]
+* [Kenya](https://opendata.go.ke)
+* [U.S. Medicare](https://data.medicare.gov)
+* [City of Los Angeles](https://data.lacity.org)
+* [Global Island Partnership](https://impact.glispa.org)
+* [Carbon Disclosure Project](https://data.cdp.net)
 
 ### Swirrl   {#swirrl}
 
@@ -344,6 +355,42 @@ que le format CSV.
 * [OpenDataCommunities ](opendatacommunities.org)
 * [Open Data Scotland ](opendatascotland.org)
 * [Hampshire City Council](linkeddata.hants.gov.uk)
+
+
+## Plateforme de données géospatiales {#gis}
+
+### ArcGIS Open Data
+
+[ArcGIS Open Data](http://opendata.arcgis.com/) est une plateforme cloud de type
+SaaS où les utilisateurs peuvent explorer à la fois les données géospatiales et
+non géospatiales à travers une interface cohérente, qui permet notamment
+l'extraction de d'éléments spécifiques ainsi que le téléchargement dans de
+multipes formats et APIs. La plateforme est disponible gratuitement avec ArGIS
+Online, s'appuie sur les services ArcGIS, et s'intègre avec des centaines
+d'applications open source pour les téléphones mobibles, le web et les
+environnements desktop. ArcGIS Open Data utilise
+[Koop](http://koopjs.github.io/), un moteur ETL open source qui transforme
+automatiquement les web services dans des formats accessibles.
+
+**Exemples**
+
+* [City of Los Angeles](http://geohub.lacity.org/)
+* [US Department of Homeland Security](https://hifld-dhs-gii.opendata.arcgis.com/)
+* [Global Forest Watch](http://data.globalforestwatch.org/)
+
+### GeoNode
+
+GeoNode est une plateforme open source pour développer des systèmes
+d'informations géospatiales (GIS) et pour déployer des infrastructures de
+données géospatiales. Geonode a été designé pour être facilement étendu et
+modifiable, et peut être intégré dans une plateforme existante.
+
+**Exemples**
+
+* [UN World Food Programme](http://geonode.wfp.org/)
+* [Haiti Data](http://haitidata.org/)
+* [GeoSINAGER](http://geosinager.defensacivil.gob.bo/) (Bolivia)
+
 
 ## Pour aller plus loin...   {#additional-reading}
 
@@ -366,6 +413,10 @@ ouvertes.
   bonnes pratiques en matière de Données Ouvertes constitue une référence utile
   pour garder à l'esprit les grandes exigences que doit généralement
   respecter toute plateforme de données ouvertes.
+* [Open Data Portal Requirements](http://labs.centerforgov.org/open-data/portal-requirements)
+  (Center for Government Excellence) : Ce docuemnt contient un ensemble de conseils
+  pour aider les gouvernements à évaluer,développer (ou acheter), déployer, et
+  lancer un site web open data (portail).
 * [<em> ODI : How to choose the right Open Data platform for
   you</em>][32] (Open Data Institute, 2014) : ce diaporama offre une
   présentation complète des principaux aspects à prendre en
@@ -398,11 +449,10 @@ ouvertes.
 [22]: http://www.w3.org/RDF
 [23]: https://fr.wikipedia.org/wiki/SPARQL
 [24]: http://www.socrata.com
-[25]: https://data.cityofchicago.org
-[26]: https://data.sfgov.org
-[27]: https://opendata.go.ke
-[28]: https://data.undp.org
+
 [29]: http://www.swirrl.com
 [30]: http://5stardata.info
 [31]: http://documents.worldbank.org/curated/en/2014/10/20451797/technical-assessment-open-data-platforms-national-statistical-organisations
 [32]: http://www.scribd.com/doc/246134303/How-to-choose-the-right-open-data-platform-for-you
+[33]: http://extensions.ckan.org/extension/ddi-importer
+[34]: http://www.ddialliance.org

@@ -71,6 +71,30 @@ anglaise](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
 * **Guide d'utilisation 2.0:** [PDF](../docs/odra/odra_v2-en.pdf) \| [MS Word](../docs/odra/odra_v2-en.doc)
 
 
+### Outils d'évaluation spécifique par secteur ### {#sector-tools}
+
+#### Outil d'évaluation à l'état de préparation dans le secteur de l'énergie ####
+
+Cet outil accompagne les acteurs de l'énergie et les administrations concernées
+pour évaluer et plannifier les actions à mettre en oeuvre pour renforcer les
+données ouvertes dans le secteur de l'énergie au niveau national, voire local.
+
+* **Méthodologie :** [MS Word](../docs/odra/odra_energy_v1_methodology-en.docx)
+* **Évaluations :**
+  * **Nairobi, Kenya** (Novembre 2015) : [Rapport complet](../docs/odra/odra_energy-nairobi.pdf)
+  * **Accra, Ghana** (Novembre 2015) : [Rapport complet](../docs/odra/odra_energy-accra.pdf)
+
+#### Outil d'évaluation à l'état de préparation pour le commerce (business) (OD4B) #### {#OD4B}
+
+L'outil d'évaluation à l'état de préparation pour le commerce (business) (OD4B)
+fournit une méthodologie pour évaluer l'utilisation des données ouvertes par le
+secteur privé dans différents pays.
+
+* **Méthodologie :** [PDF](../docs/odra/od4b_v2.8-en.pdf)
+* **Annexes :** [Annexe 7](../docs/odra/od4b_v2.8_annex7.xlsx) | [Annex 8](../docs/odra/od4b_v2.8_annex8.xlsx)
+* **OD4B-Sierra Leone** (Janvier 2015): [PDF](../docs/odra/od4b_sierra_leone.pdf)
+
+
 
 [1]: http://documents.worldbank.org/curated/en/2013/06/19584052/open-data-readiness-assessment-prepared-government-antigua-barbuda
 [3]: http://windows.microsoft.com/en-us/windows/windows-media-player

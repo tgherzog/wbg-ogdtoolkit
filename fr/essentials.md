@@ -306,6 +306,11 @@ promouvoir l'utilisation de ces données à des fins spécifiques.
   (exportations, bassins géographiques, secteurs d'emploi, etc.) et
   sert de plateforme de dialogue entre les secteurs public et privé.
 
+* [Machine Readability Project][77].
+  Ce projet inclut des exemples d'open data dans les pays à faible revenu ou
+  revenu moyen qui utilise des données lisibles par un ordinateur. Ces cas
+  d'études ont été développés dans le cadre de l'Open Data Impact Map.
+
 
 
 [1]: http://opendefinition.org/od/1.1/fr/
@@ -384,3 +389,4 @@ promouvoir l'utilisation de ces données à des fins spécifiques.
 [74]: http://gottovote.co.ke/
 [75]: http://www.brightscope.com/about/plan-management-dashboard/
 [76]: http://dataviva.info/
+[77]: http://opendataimpactmap.org/usecases.html#MachineReadabilityProject
