@@ -259,7 +259,6 @@ decide to migrate away from the SaaS model.
 
 **Examples**
 
-* [World Bank Energy & Extractives Data Portal](https://databox.worldbank.org)
 * [Kenya](https://opendata.go.ke)
 * [U.S. Medicare](https://data.medicare.gov)
 * [City of Los Angeles](https://data.lacity.org)
