@@ -16,7 +16,7 @@ produites.
 
 Si la qualité peut être un concept ambigu, sa définition dans le cadre
 des données est depuis longtemps clairement établie. Dans sa [définition
-de la qualité en statistique][1], Eurostat présente un ensemble de six
+de la qualité en statistique](http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/ess%20quality%20definition.pdf), Eurostat présente un ensemble de six
 dimensions qui définissaient initialement les données statistiques mais
 qui peuvent également s’appliquer à d’autres types de données :
 
@@ -28,7 +28,7 @@ qui peuvent également s’appliquer à d’autres types de données :
 | **Cohérence** | Les données sont-elles conformes aux définitions et méthodologies reconnues |
 
 On peut aussi recourir à un autre système d'évaluation similaire fourni
-par le [Project Open Data][2], qui permet de mieux comprendre le concept
+par le [Project Open Data](http://project-open-data.github.io/principles), qui permet de mieux comprendre le concept
 de qualité dans le contexte spécifique des données en libre accès. Une
 donnée ouverte doit être :
 
@@ -62,31 +62,31 @@ classer et de les organiser ainsi que la façon d’évaluer leur qualité.
 Celles présentées ci-dessous sont généralement les plus utiles pour les
 instituts nationaux de statistique.
 
-* [**Liste des normes statistiques des Nations Unies**][3]: ce
+* [**Liste des normes statistiques des Nations Unies**](http://unstats.un.org/unsd/iiss/List-of-Statistical-Standards.ashx): ce
   catalogue de classifications, définitions, concepts, méthodologies et
   procédures statistiques offre des recommandations concernant
   l’utilisation des produits statistiques.
 
 * [**Recommandations du gouvernement britannique sur l’évaluation de la
-  qualité des statistiques**][4]: ces recommandations utilisent les
+  qualité des statistiques**](http://www.ons.gov.uk/ons/guide-method/method-quality/quality/guidelines-for-measuring-statistical-quality/index.html): ces recommandations utilisent les
   mêmes dimensions générales que celles d’Eurostat (indiquées ci-dessus
   dans les normes de qualité générales).
 
-* [**Aide-mémoire pour la qualité de la production statistique**][5]:
+* [**Aide-mémoire pour la qualité de la production statistique**](http://www.cbs.nl/NR/rdonlyres/4119715F-7437-4379-9A70-90A0893F949E/0/2009ChecklistQualityofStatisticalOutput.pdf):
   cette check-list permet d'évaluer la qualité des statistiques selon
   19 critères.
 
 * Le **Fonds monétaire international** possède deux cadres connexes qui
   fournissent des recommandations sur les statistiques nationales : le
-  [Système général de diffusion des données][6] et la [Norme spéciale de
-  diffusion des données][7]. Ces dispositifs sont tous deux conçus pour
+  [Système général de diffusion des données](http://dsbb.imf.org/Pages/GDDS/Home.aspx) et la [Norme spéciale de
+  diffusion des données](http://dsbb.imf.org/Pages/GDDS/Home.aspx). Ces dispositifs sont tous deux conçus pour
   améliorer la disponibilité de statistiques exhaustives et pertinentes,
   contribuant ainsi à la mise en place de politiques macroéconomiques
   saines. La norme fournit des recommandations ciblées aux membres qui
   cherchent à accéder aux marchés internationaux des capitaux, et vise
   également à améliorer le fonctionnement des marchés financiers.
 
-* [**Cadre d’évaluation de la qualité des données**][8]: cet autre
+* [**Cadre d’évaluation de la qualité des données**](http://dsbb.imf.org/Pages/GDDS/Home.aspx): cet autre
   outil du FMI est utilisé pour évaluer en profondeur la qualité des
   données des pays. Il tient compte des contextes institutionnels, des
   processus statistiques et des caractéristiques des produits
@@ -97,18 +97,18 @@ instituts nationaux de statistique.
   statistiques monétaires, la balance des paiements et la dette
   extérieure.
 
-* [**Indicateur de capacité statistique de la Banque mondiale**][9]:
+* [**Indicateur de capacité statistique de la Banque mondiale**](http://go.worldbank.org/UI0WGV6KW0):
   cet outil offre une vue d’ensemble de la capacité statistique des pays
   en développement, selon un cadre diagnostique qui évalue la capacité
   des systèmes statistiques. Le site web connexe permet aux utilisateurs
   de visualiser l’évolution de la capacité statistique d’un pays au fil
   du temps.
 
-* [**Rapports sur l’observation des normes et codes**][10]: cette série
+* [**Rapports sur l’observation des normes et codes**](http://www.imf.org/external/NP/rosc/rosc.aspx): cette série
   de rapports nationaux, qui rend compte du degré de respect de normes
   et de codes internationalement reconnus dans un pays, s’articulent
   autour de dix thèmes, parmi lesquels figure la [diffusion des
-  données][11].
+  données](http://www.imf.org/external/NP/rosc/rosc.aspx?sortBy=Topic&amp;sortVal=Data%20Dissemination).
 
 ### Passation des marchés   {#contracts-data}
 
@@ -120,8 +120,8 @@ rapports d’évaluation des performances et d’achèvement, etc.
 
 Pour encourager le respect de bonnes pratiques en matière de divulgation
 de l'information dans le domaine de la passation des marchés publics,
-l’[Open Contracting Partnership][12] a développé un [ensemble de
-principes][13] qu’il est possible d’adapter à des secteurs spécifiques
+l’[Open Contracting Partnership](http://www.open-contracting.org) a développé un [ensemble de
+principes](http://www.open-contracting.org/global_principles) qu’il est possible d’adapter à des secteurs spécifiques
 et à des contextes locaux. Ces principes sont conçus pour rendre les
 passations de marchés plus concurrentielles et équitables, appuyer les
 démarches internationales en faveur de la transparence et de l’ouverture
@@ -132,13 +132,13 @@ performances et promouvoir la responsabilisation vis à vis des
 résultats.
 
 La [norme OCDS régissant l’ouverture des données sur la passation des
-marchés][14] a été créée pour permettre aux administrations publiques de
+marchés](http://standard.open-contracting.org/) a été créée pour permettre aux administrations publiques de
 publier des informations sur chaque étape du processus de passation des
 marchés, à savoir la planification, l’appel d’offres, l’attribution, la
 conclusion du contrat et l'exécution. Elle fournit un schéma détaillé
 pour la représentation des données sur les passations de marchés dans
 différents formats, ainsi que des conseils sur les options de diffusion.
-Un [centre d’assistance][15] est disponible pour fournir des conseils
+Un [centre d’assistance](http://standard.open-contracting.org/announcing-the-ocds-help-desk) est disponible pour fournir des conseils
 concernant l'application de la norme OCDS.
 
 ### Données budgétaires   {#budget-data}
@@ -150,7 +150,7 @@ OpenSpending sont deux initiatives qui illustrent parfaitement la
 manière de produire des données budgétaires conformes aux bonnes
 pratiques de l'Open Data :
 
-* [BOOST][16]: l’initiative BOOST est un projet collaboratif à
+* [BOOST](http://wbi.worldbank.org/boost/boost-initiative): l’initiative BOOST est un projet collaboratif à
   l’échelle de l’ensemble de la Banque mondiale qui vise à faciliter
   l’accès aux données budgétaires et à améliorer les processus de prise
   de décision et la transparence. Il s'agit d'une base de données
@@ -167,7 +167,7 @@ pratiques de l'Open Data :
   mettant les données budgétaires à la disposition des utilisateurs dans
   un cadre cohérent et facile à appréhender.
 
-* [OpenSpending][17]: cette base de données centralisée, ouverte et de
+* [OpenSpending](http://community.openspending.org): cette base de données centralisée, ouverte et de
   grande qualité comprend des informations sur les finances publiques
   (notamment les budgets, les dépenses et les bilans), une communauté
   d’utilisateurs et de contributeurs, et un ensemble de ressources
@@ -188,10 +188,10 @@ consommation de carburant). Ces données concernent l'offre de
 transports en commun (trains, bus, etc.).
 
 Les producteurs de données sur les transports devraient bien connaître
-la [spécification GTFS][18]. Il s'agit d'une norme de format de
+la [spécification GTFS](https://developers.google.com/transit/gtfs). Il s'agit d'une norme de format de
 données pour les informations relatives aux transports (notamment les
 horaires et les données géographiques connexes) conçue pour encourager
-leur réutilisation. [TransitApp][19] est un exemple d’application tirant
+leur réutilisation. [TransitApp](http://thetransitapp.com) est un exemple d’application tirant
 parti des données au format GTFS publiées par plusieurs villes.
 
 ### Données géospatiales   {#geospatial-data}
@@ -205,21 +205,21 @@ exemples.
 Dans les initiatives d'Open Data, les données géospatiales sont
 généralement diffusées dans au moins l’un des formats suivants :
 
-* [GeoJSON][20]: comme ce format est dérivé de JSON (le format de
+* [GeoJSON](http://geojson.org): comme ce format est dérivé de JSON (le format de
   données très populaire basé sur Javascript), les données GeoJSON sont
   faciles à intégrer aux applications web.
-* [TopoJSON][21]: extension de GeoJSON, ce format adopte une approche
+* [TopoJSON](https://github.com/mbostock/topojson): extension de GeoJSON, ce format adopte une approche
   différente de la description des caractéristiques géographiques qui
   fait que les fichiers TopoJSON ont généralement une taille inférieure
   de 80 % à leurs équivalents GeoJSON.
-* [Keyhole Markup Language][22] (KML) : ce format de données basé sur
+* [Keyhole Markup Language](https://developers.google.com/kml) (KML) : ce format de données basé sur
   XML a été introduit par Google dans Google Maps et Google Earth.
-* [Shapefile][23]: il s’agit du format natif de la [suite logicielle
-  ArcGIS][24] d’ESRI, mais son universalité garantit une compatibilité
+* [Shapefile](http://en.wikipedia.org/wiki/Shapefile): il s’agit du format natif de la [suite logicielle
+  ArcGIS](http://www.esri.com/software/arcgis) d’ESRI, mais son universalité garantit une compatibilité
   totale avec la majorité des systèmes d’information géographique (SIG)
   les plus utilisés.
 
-L’[Open Geospatial Consortium][25] (OGC) est une organisation
+L’[Open Geospatial Consortium](http://www.opengeospatial.org) (OGC) est une organisation
 internationale à but non lucratif réunissant près de 500 entreprises,
 organismes publics et universités qui collaborent pour normaliser les
 données géospatiales. À ce jour, l’OGC a développé plus de 30 normes
@@ -240,13 +240,13 @@ Les références suivantes fournissent des recommandations aux organismes
 qui gèrent des microdonnées :
 
 * [Méthodes et outils de la Banque mondiale en matière de
-  microdonnées][26]<strong>:</strong> cette ressource documente les
+  microdonnées](http://microdata.worldbank.org/index.php/practices-and-tools)<strong>:</strong> cette ressource documente les
   principes et pratiques utilisées dans le [catalogue de
-  microdonnées][27] de la Banque mondiale, et couvre les aspects liés à
+  microdonnées](http://microdata.worldbank.org) de la Banque mondiale, et couvre les aspects liés à
   l'acquisition, la divulgation, le catalogage et le maintien des
   données ainsi qu'aux métadonnées.
 * [Recommandations du Réseau international d’enquêtes auprès des ménages
-  (IHSN)][28]**:** l’IHSN fournit des recommandations détaillées sur
+  (IHSN)](http://www.ihsn.org/home/node/115)**:** l’IHSN fournit des recommandations détaillées sur
   l’archivage et la diffusion des données, notamment en matière de
   métadonnées et de catalogage. Les recommandations de la Banque
   mondiale en matière de métadonnées reposent largement sur cette
@@ -262,12 +262,12 @@ qui gèrent des microdonnées :
 
 Ces données concernent les ressources et activités par lesquelles les
 institutions financent le développement international. L’[Initiative
-internationale pour la transparence de l’aide][29] (IATI) est la
-principale initiative dans ce domaine. La [norme IATI][30] est une norme
+internationale pour la transparence de l’aide](http://www.ihsn.org/home/node/115) (IATI) est la
+principale initiative dans ce domaine. La [norme IATI](http://iatistandard.org) est une norme
 de publication qui permet de comparer les données sur l’aide au
 développement octroyée par les différents donateurs aux différents
 bénéficiaires. À ce jour, plus de 280 organismes ont publié des données
-dans le [registre de l’IATI][31].
+dans le [registre de l’IATI](http://www.iatiregistry.org/publisher).
 
 ## Recommandations supplémentaires   {#guidance}
 
@@ -287,17 +287,17 @@ données](essentials.html#policies). Voici deux ressources utiles dans ce
 domaine:
 
 * [Guides de configuration rapide d’un portail de données
-  (data.gov.uk)][32]: ces ressources fournissent une vue d’ensemble des
+  (data.gov.uk)](http://data.gov.uk/category/tags/open-data-portal): ces ressources fournissent une vue d’ensemble des
   dispositifs de gouvernance au niveau global (interinstitutionnel) et
   local (c’est-à-dire au niveau d’un catalogue de données unique), et
   décrivent les différents rôles qui interviennent dans la gestion des
   jeux de données.
 
-* [Guide de mise en œuvre de l'Open Data Project][33]: ce document
-  créé dans le cadre de [Open Data Project][34] initié par
+* [Guide de mise en œuvre de l'Open Data Project](https://project-open-data.cio.gov/implementation-guide/): ce document
+  créé dans le cadre de [Open Data Project](https://project-open-data.cio.gov/) initié par
   l'administration américaine fournit des recommandations aux
   organismes qui exécutent le [décret-loi relatif à l’ouverture des
-  données publiques][35]. Entre autres, il contient des conseils pour
+  données publiques](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-). Entre autres, il contient des conseils pour
   réaliser les tâches suivantes:
   * Dresser l’inventaire de tous les jeux de données détenus par un organisme et le maintenir à jour
   * Dresser la liste des données publiques (un sous-ensemble de l’inventaire)
@@ -323,25 +323,30 @@ L’anonymisation dépendra donc très fortement du type des données et du
 jeu de données spécifique concerné. Voici quelques ressources utiles
 dans ce domaine:
 
-* [Handbook on Statistical Disclosure Control][36]: ce manuel, qui
+* [Handbook on Statistical Disclosure Control](http://neon.vb.cbs.nl/casc/Handbook.htm-): ce manuel, qui
   traite des questions d’anonymisation des statistiques, porte notamment
   sur les problèmes réglementaires, les microdonnées, les données
   tabulaires, les tableaux de fréquences et les problèmes associés à
   l’accès à distance.
 
 * [Anonymization Guide from the UK's Information Commissioner's
-  Office][37]: ce guide fournit des recommandations sur les techniques
+  Office](https://ico.org.uk/for-organisations/guide-to-data-protection/anonymisation): ce guide fournit des recommandations sur les techniques
   d’anonymisation et la protection de la vie privée pour un large
   éventail de types de données dans le contexte de la loi britannique
   sur la protection des données (*Data Protection Act*).
 
-* [Rethinking Personal Data: Strengthening Trust][38] (Forum
+* [Rethinking Personal Data: Strengthening Trust](http://www3.weforum.org/docs/WEF_IT_RethinkingPersonalData_Report_2012.pdf) (Forum
   économique mondial) : ce rapport vise à encourager le dialogue autour
   d'un certain nombre de problèmes fondamentaux qui touchent aux
   données personnelles et qui doivent être résolus pour pouvoir tirer
   pleinement et durablement parti du libre accès aux données. [Plusieurs
-  rapports de suivi][39] ont été publiés en 2013 et 2014.
+  rapports de suivi](http://www.weforum.org/issues/rethinking-personal-data) ont été publiés en 2013 et 2014.
 
+* [Statistical Disclosure Control for Microdata Practice Guide](http://ihsn.org/home/sites/default/files/resources/Statistical%20Disclosure%20Control%20for%20Microdata_0.pdf). Ce guide pratique présente les principales étapes pour qu'une organisation fournisse un accès sécurisé aux données, tout en assurant que les microdonnées restent utiles.
+
+* [Microdata Anonymization](http://ihsn.org/anonymization). Cette ressource présente les principaux principes de l'anonymisation des microdonnées, des techniques pour mesurer et réduire les risques, et des meilleurs pratiques fournies par l'International Household Survey Network (IHSN).
+
+* [Managing Statistical Confidentiality & Microdata Access](https://www.unece.org/fileadmin/DAM/stats/publications/Managing.statistical.confidentiality.and.microdata.access.pdf). Cette liste de principes et directives a été préparée par la Conférence Européenne des Statisticiens (CES). L'annexe contient plus de 20 cas d'études de différents pays.
 
 ### Métadonnées   {#metadata}
 
@@ -356,74 +361,24 @@ photographies numériques comporteront par exemple des données
 d’horodatage ainsi que des informations sur l’équipement utilisé, les
 paramètres d’ouverture et, éventuellement, l’emplacement GPS.
 
-L’[initiative DCMI][40] (Dublin Core Metadata Initiative) définit un
+L’[initiative DCMI](http://dublincore.org) (Dublin Core Metadata Initiative) définit un
 cadre et une terminologie de base pour les métadonnées qu’il est
 possible d’appliquer à la plupart des ressources numériques. Le standard
-Dublin Core est largement utilisé dans la norme [DCAT][41], conçue pour
+Dublin Core est largement utilisé dans la norme [DCAT](http://www.w3.org/TR/vocab-dcat/), conçue pour
 simplifier l’interopérabilité entres les catalogues de données web. Les
 administrations publiques peuvent développer leurs propres modèles de
 métadonnées (de préférence basés sur des normes établies telles que
 DCAT) pour uniformiser davantage les initiatives d'Open Data à
-l’échelle nationale. Le [schéma de métadonnées][42] diffusé par data.gov
+l’échelle nationale. Le [schéma de métadonnées](https://project-open-data.cio.gov/v1.1/schema/) diffusé par data.gov
 constitue un exemple de cette démarche.
 
 D’autres normes de métadonnées sont utilisées pour un [large éventail de
-types de données][43]. Pour les données publiques, voici quelques
+types de données](http://en.wikipedia.org/wiki/Metadata_standards#Available_metadata_standards). Pour les données publiques, voici quelques
 exemples des normes les plus utilisées :
 
 Norme de métadonnées | Application
 -------------------- | -----------
-[Data Documentation Initiative][44] (DDI) | Très utilisée pour les données relatives aux sciences humaines et sociales, mais applicable dans un contexte plus large.
-[ISO 19115-1:2014][45] | Données géospatiales.
-[TEI (Text Encoding Initiative)][46] | Textes au format numérique, norme principalement utilisée dans les domaines des lettres, des sciences humaines et sociales et de la linguistique.
-[DIF (Directory Interchange Format)][47] | Jeux de données scientifiques.
-
-
-
-[1]: http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/ess%20quality%20definition.pdf
-[2]: http://project-open-data.github.io/principles
-[3]: http://unstats.un.org/unsd/iiss/List-of-Statistical-Standards.ashx
-[4]: http://www.ons.gov.uk/ons/guide-method/method-quality/quality/guidelines-for-measuring-statistical-quality/index.html
-[5]: http://www.cbs.nl/NR/rdonlyres/4119715F-7437-4379-9A70-90A0893F949E/0/2009ChecklistQualityofStatisticalOutput.pdf
-[6]: http://dsbb.imf.org/Pages/GDDS/Home.aspx
-[7]: http://dsbb.imf.org/Pages/SDDS/Home.aspx
-[8]: http://dsbb.imf.org/Pages/DQRS/DQAF.aspx
-[9]: http://go.worldbank.org/UI0WGV6KW0
-[10]: http://www.imf.org/external/NP/rosc/rosc.aspx
-[11]: http://www.imf.org/external/NP/rosc/rosc.aspx?sortBy=Topic&amp;sortVal=Data%20Dissemination
-[12]: http://www.open-contracting.org
-[13]: http://www.open-contracting.org/global_principles
-[14]: http://standard.open-contracting.org/
-[15]: http://standard.open-contracting.org/announcing-the-ocds-help-desk
-[16]: http://wbi.worldbank.org/boost/boost-initiative
-[17]: http://community.openspending.org
-[18]: https://developers.google.com/transit/gtfs
-[19]: http://thetransitapp.com
-[20]: http://geojson.org
-[21]: https://github.com/mbostock/topojson
-[22]: https://developers.google.com/kml
-[23]: http://en.wikipedia.org/wiki/Shapefile
-[24]: http://www.esri.com/software/arcgis
-[25]: http://www.opengeospatial.org
-[26]: http://microdata.worldbank.org/index.php/practices-and-tools
-[27]: http://microdata.worldbank.org
-[28]: http://www.ihsn.org/home/node/115
-[29]: http://www.aidtransparency.net
-[30]: http://iatistandard.org
-[31]: http://www.iatiregistry.org/publisher
-[32]: http://data.gov.uk/category/tags/open-data-portal
-[33]: https://project-open-data.cio.gov/implementation-guide/
-[34]: https://project-open-data.cio.gov/
-[35]: http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-
-[36]: http://neon.vb.cbs.nl/casc/Handbook.htm
-[37]: https://ico.org.uk/for-organisations/guide-to-data-protection/anonymisation
-[38]: http://www3.weforum.org/docs/WEF_IT_RethinkingPersonalData_Report_2012.pdf
-[39]: http://www.weforum.org/issues/rethinking-personal-data
-[40]: http://dublincore.org
-[41]: http://www.w3.org/TR/vocab-dcat/
-[42]: https://project-open-data.cio.gov/v1.1/schema/
-[43]: http://en.wikipedia.org/wiki/Metadata_standards#Available_metadata_standards
-[44]: http://www.ddialliance.org/
-[45]: http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53798
-[46]: http://www.tei-c.org/index.xml
-[47]: http://gcmd.gsfc.nasa.gov/add/difguide/index.html
+[Data Documentation Initiative](http://www.ddialliance.org/) (DDI) | Très utilisée pour les données relatives aux sciences humaines et sociales, mais applicable dans un contexte plus large.
+[ISO 19115-1:2014](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53798) | Données géospatiales.
+[TEI (Text Encoding Initiative)](http://www.tei-c.org/index.xml) | Textes au format numérique, norme principalement utilisée dans les domaines des lettres, des sciences humaines et sociales et de la linguistique.
+[DIF (Directory Interchange Format)](http://gcmd.gsfc.nasa.gov/add/difguide/index.html) | Jeux de données scientifiques.
