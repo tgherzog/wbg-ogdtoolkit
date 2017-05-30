@@ -31,11 +31,6 @@ defaults:
     locale: en
 -
   scope:
-    path: "es"
-  values:
-    locale: es
--
-  scope:
     path: "fr"
   values:
     locale: fr
@@ -44,7 +39,6 @@ defaults:
 lang:
   locales:
     - [ en, English ]
-    - [ es, Espa&ntilde;ol ]
     - [ fr, Fran&ccedil;ais ]
 
   en:

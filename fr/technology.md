@@ -414,7 +414,7 @@ ouvertes.
   pour garder à l'esprit les grandes exigences que doit généralement
   respecter toute plateforme de données ouvertes.
 * [Open Data Portal Requirements](http://labs.centerforgov.org/open-data/portal-requirements)
-  (Center for Government Excellence) : Ce docuemnt contient un ensemble de conseils
+  (Center for Government Excellence) : Ce document contient un ensemble de conseils
   pour aider les gouvernements à évaluer,développer (ou acheter), déployer, et
   lancer un site web open data (portail).
 * [<em> ODI : How to choose the right Open Data platform for
