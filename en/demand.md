@@ -269,7 +269,7 @@ support Open Data:
   organizations, journalists and citizens with the skills they need to
   use data effectively
 * **Social media channels.** Follow [#opendata](https://twitter.com/search?q=%23opendata),
-* [#opengov](https://twitter.com/search?q=%23opengov)
+  [#opengov](https://twitter.com/search?q=%23opengov)
   and[#gov20](https://twitter.com/search?q=%23gov20) on Twitter
 
 ## Additional Reading

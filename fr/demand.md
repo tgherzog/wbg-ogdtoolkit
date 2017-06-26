@@ -312,7 +312,7 @@ forums qui défendent et soutiennent le libre accès aux données :
 * [School of Data][54] : Organisation qui vise à doter les
   organisations de la société civile, les journalistes et les citoyens
   des compétences indispensables à une utilisation efficace des données.
-* Réseaux sociaux : Suivez les hashtags [#opendata][55], [#opengov][56]
+* **Réseaux sociaux**: Suivez les hashtags [#opendata][55], [#opengov][56]
   et[ #gov20][57] sur Twitter.
 
 ## Pour aller plus loin...
