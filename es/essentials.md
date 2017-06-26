@@ -41,6 +41,8 @@ justificación legal.  Estos son algunos ejemplos:
 En estos enlaces se puede encontrar más información sobre la definición y las licencias de uso de los datos de libre
 acceso.
 
+## Lectura adicional
+
 * [Licencias de datos abiertos: Una guía práctica][10]
 * [Guía sobre lectura con máquinas de documentos y datos en línea][11]
 
@@ -67,7 +69,7 @@ de datos de libre acceso. Se pueden encontrar más ejemplos en [data.gov][12] y 
 
 
 
-## Datos abiertos de nivel nacional   {#country-level-open-data}
+## Datos abiertos de nivel nacional
 
 * [Australia][14]
 * [Brasil][15]
@@ -84,7 +86,7 @@ de datos de libre acceso. Se pueden encontrar más ejemplos en [data.gov][12] y 
 * [Reino Unido][26]
 * [Estados Unidos de América][27]
 
-## Datos abiertos de ciudades y nivel subnacional   {#city---subnational-level-open-data}
+## Datos abiertos de ciudades y nivel subnacional
 
 * [Buenos Aires][28], Argentina
 * [Chicago][29], Estados Unidos
@@ -97,7 +99,7 @@ de datos de libre acceso. Se pueden encontrar más ejemplos en [data.gov][12] y 
 * [Viena][36], Austria
 * [Vancouver][37], Canadá
 
-## Datos abiertos por sector/tema   {#open-data-by-sectortopic}
+## Datos abiertos por sector/tema
 
 A continuación, se presentan ejemplos de datos abiertos de sectores y temas específicos. Para ver ejemplos de
 aplicaciones que utilizan algunas de estas fuentes de datos, vea [Usos de los datos abiertos](#usos).
@@ -155,7 +157,7 @@ de ellas se desarrollaron para competencias, hackatones u otras [actividades est
 el uso de los datos de libre acceso para fines específicos.
 
 
-### Medio ambiente   {#environment}
+### Medio ambiente
 
 * [mWater][63]. Un conjunto de herramientas gratuitas que utiliza el GPS, los servicios en la nube y la tecnología móvil con
   el propósito de crear un enfoque integrado para gestionar los servicios de abastecimiento de agua y saneamiento y
@@ -170,7 +172,7 @@ el uso de los datos de libre acceso para fines específicos.
   sus efectos en el medio ambiente pueden verse influenciados por los ciudadanos y las comunidades.
 
 
-### Presupuesto y gastos   {#budget-and-spending}
+### Presupuesto y gastos
 
 * [OpenSpending][41]. Esta aplicación hace un seguimiento de las operaciones financieras de los Gobiernos de todo el mundo y
   las presenta en formatos útiles y atractivos para una variedad de usuarios, desde alumnos de escuelas primarias hasta
@@ -186,7 +188,7 @@ el uso de los datos de libre acceso para fines específicos.
   estén respondiendo a los presupuestos.
 
 
-### Salud y educación   {#health-and-education}
+### Salud y educación
 
 * [CheckMySchool][47]. En un esfuerzo por mejorar los servicios de educación pública, este programa de seguimiento combina la
   tecnología digital y la movilización comunitaria para promover la rendición de cuentas y la transparencia. Ofrece un
@@ -197,7 +199,7 @@ el uso de los datos de libre acceso para fines específicos.
   Datos de Libre Acceso de Ghana (GODI), del Organismo Nacional de Tecnología de la Información (NITA).
 
 
-### Prestación de servicios públicos   {#public-service-delivery}
+### Prestación de servicios públicos
 
 * [Spikes Cavell][69]. Una organización que ofrece a los encargados de la toma de decisiones sobre educación superior y al
   sector público las herramientas que necesitan para reducir costos, aumentar la transparencia y comparar el desempeño
@@ -214,7 +216,7 @@ el uso de los datos de libre acceso para fines específicos.
   prevenir el delito. Muestra fotos de delitos callejeros y sus resultados, por categorías, utilizando mapas y datos de
   los equipos de policía locales y de las reuniones entre la policía y la comunidad.
 
-### Gobierno abierto   {#open-government}
+### Gobierno abierto
 
 * [Civic Commons][72]. Un producto que ayuda a los Gobiernos y las instituciones a compartir conocimientos, soluciones y
   mejores prácticas para dar un mejor uso a la tecnología y promover los datos de libre acceso y el gobierno abierto.
@@ -231,7 +233,7 @@ el uso de los datos de libre acceso para fines específicos.
   sobre irregularidades.
 
 
-### Otros   {#other}
+### Otros
 
 * [BrightScope][75]. Esta herramienta aporta transparencia a los mercados opacos ya que permite que empleadores, empleados y
   otros comparen sus planes de beneficios con los de un grupo (adaptado) de personas en el mismo cargo de empresas de la

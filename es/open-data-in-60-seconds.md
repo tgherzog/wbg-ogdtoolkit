@@ -40,7 +40,7 @@ Puesto que los datos abiertos se encuentran en una etapa inicial, las mejores pr
 comienzan a aparecer.
 
 
-## Acerca de este conjunto de herramientas   {#about-this-toolkit}
+## Acerca de este conjunto de herramientas
 
 Como colección de herramientas y conocimientos en línea, esta herramienta de datos abiertos de gobierno respalda los
 esfuerzos de preparación de datos abiertos en los países clientes y en un número creciente de entidades y organizaciones

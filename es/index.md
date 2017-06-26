@@ -2,7 +2,7 @@
 title: Caja de Herramientas de Datos Abiertos de Gobierno
 ---
 
-## Bienvenido a la herramienta de Datos Abiertos de Gobierno {#welcome}
+## Bienvenido a la herramienta de Datos Abiertos de Gobierno
 {: .notoc}
 
 ![Fotografía: Tom Perry/Banco Mundial](../docs/images/ict-women.jpg)
