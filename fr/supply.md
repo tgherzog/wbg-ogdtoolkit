@@ -48,7 +48,7 @@ régissant la production et l’évaluation des données varient selon leur
 type. Les rubriques suivantes récapitulent les normes pertinentes pour
 chaque grand type de donnée.
 
-### Statistiques et comptabilité nationale   {#statistics-and-national-accounts}
+### Statistiques et comptabilité nationale
 
 La comptabilité nationale classe l'activité économique en différentes
 catégories (revenu, production, dépense) et selon différentes unités
@@ -110,7 +110,7 @@ instituts nationaux de statistique.
   autour de dix thèmes, parmi lesquels figure la [diffusion des
   données][11].
 
-### Passation des marchés   {#contracts-data}
+### Passation des marchés
 
 Une passation de marché est le processus qui régit l’acquisition de
 biens ou de services par un organisme public. Les données sur les
@@ -141,7 +141,7 @@ différents formats, ainsi que des conseils sur les options de diffusion.
 Un [centre d’assistance][15] est disponible pour fournir des conseils
 concernant l'application de la norme OCDS.
 
-### Données budgétaires   {#budget-data}
+### Données budgétaires
 
 Les données budgétaires désignent les dépenses du secteur public,
 ventilées par échelon administratif, catégorie fonctionnelle ou
@@ -179,7 +179,7 @@ pratiques de l'Open Data :
   aux militants, etc. de contrôler les informations financières
   publiques et d’en débattre.
 
-### Transport   {#transport-data}
+### Transport
 
 Les données sur les transports fournissent des informations utiles sur
 les infrastructures, les usages et les capacités (par exemple, l’étendue
@@ -194,7 +194,7 @@ horaires et les données géographiques connexes) conçue pour encourager
 leur réutilisation. [TransitApp][19] est un exemple d’application tirant
 parti des données au format GTFS publiées par plusieurs villes.
 
-### Données géospatiales   {#geospatial-data}
+### Données géospatiales
 
 Les données géospatiales permettent d'identifier les caractéristiques
 géographiques de choses très diverses, de l’emplacement de bâtiments ou
@@ -226,7 +226,7 @@ données géospatiales. À ce jour, l’OGC a développé plus de 30 normes
 pour différents types de données géospatiales, notamment le format KML
 élaboré par Google et soumis à l’OGC.
 
-### Microdonnées   {#microdata}
+### Microdonnées
 
 Les microdonnées sont constituées des réponses aux enquêtes réalisées
 auprès des individus, des ménages ou des entreprises. Elles offrent de
@@ -258,7 +258,7 @@ qui gèrent des microdonnées :
   notamment l’inscription des utilisateurs et l’application de frais, ce
   qui est contraire aux bonnes pratiques de l'Open Data.
 
-### Aide au développement   {#aid-data}
+### Aide au développement
 
 Ces données concernent les ressources et activités par lesquelles les
 institutions financent le développement international. L’[Initiative
@@ -271,7 +271,7 @@ dans le [registre de l’IATI][31].
 
 ## Recommandations supplémentaires   {#guidance}
 
-### Gouvernance des données   {#data-governance}
+### Gouvernance des données
 
 On entend par << gouvernance des données >> la manière dont les données
 ouvertes sont gérées à la fois au moment de leur diffusion initiale et
@@ -304,7 +304,7 @@ domaine:
   * Impliquer les utilisateurs pour simplifier et hiérarchiser la publication des données
   * Répertorier les données qui ne peuvent pas être publiées
 
-### Anonymisation   {#anonymization}
+### Anonymisation
 
 L’anonymisation désigne le processus consistant à masquer ou supprimer
 d’un jeu de données les informations susceptibles d’être utilisées pour
@@ -343,6 +343,7 @@ dans ce domaine:
   rapports de suivi][39] ont été publiés en 2013 et 2014.
 
 
+<<<<<<< Updated upstream
 * [Statistical Disclosure Control for Microdata Practice Guide][48]. Ce guide
   pratique présente les principales étapes pour qu'une organisation fournisse un
   accès sécurisé aux données, tout en assurant que les microdonnées restent
@@ -358,7 +359,7 @@ dans ce domaine:
   Statisticiens (CES). L'annexe contient plus de 20 cas d'études de différents
   pays.
 
-### Métadonnées   {#metadata}
+### Métadonnées
 
 On définit généralement les métadonnées comme des << données sur les
 données >>. Elles fournissent les informations nécessaires pour utiliser

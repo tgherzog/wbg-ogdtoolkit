@@ -138,7 +138,7 @@ Cliquez sur le graphique ci-dessous pour l'afficher en taille réelle.
 
 <div id="model1" markdown="1">
 
-### Modèle 1 : Plateforme unique   {#model-1-single-platform}
+### Modèle 1 : Plateforme unique
 
 <a href="it1.png" target="_blank"><img src="it1.png" height="320" alt="Modèle 1 : Plateforme unique"/></a>
 
@@ -167,7 +167,7 @@ gestion de l'infrastructure informatique.
 
 <div id="model2" markdown="1">
 
-### Modèle 2 : Serveurs distincts   {#model-2-separate-servers}
+### Modèle 2 : Serveurs distincts
 
 <a href="it2.png" target="_blank"><img src="it2.png" height="315" alt="Modèle 2 : Serveurs distincts"/></a>
 
@@ -185,7 +185,7 @@ très limitée.
 
 <div id="model3" markdown="1">
 
-### Modèle 3 : Catalogues fédérés   {#model-3-federated-catalogs}
+### Modèle 3 : Catalogues fédérés
 
 <a href="it3.png" target="_blank"><img src="it3.png" height="565" alt="Modèle 3 : Catalogues fédérés"/></a>
 
@@ -226,7 +226,7 @@ simple export of) open datasets in open, machine-readable formats.
 
 ## Plateformes de Données Ouvertes couramment utilisées   {#platforms}
 
-### CKAN   {#ckan}
+### CKAN
 
 [CKAN][6] est un catalogue de données open source qui bénéficie du
 soutien officiel de l'[Open Knowledge Foundation][7] et peut être
@@ -252,7 +252,7 @@ depuis les catalogues de microdonnées.
 * [États-Unis][10]
 * [openAFRICA][11]
 
-### DKAN   {#dkan}
+### DKAN
 
 [DKAN][12] est conçu pour être compatible avec CKAN. Cela signifie que
 son API sous-jacente est identique, de sorte que les systèmes conçus
@@ -270,7 +270,7 @@ développeurs.
 
 * [Cologne (Allemagne)][13]
 
-### Junar   {#junar}
+### Junar
 
 [Junar][14] est une plateforme Open Data de type SaaS hébergée dans le
 Cloud, ce qui signifie que les données sont généralement gérées au sein
@@ -284,7 +284,7 @@ envoyées dans un catalogue utilisateur séparé via une API.
 * [Chili ][16]
 * [Costa Rica ][17]
 
-### OpenDataSoft   {#opendatasoft}
+### OpenDataSoft
 
 [OpenDataSoft](http://www.opendatasoft.com/) est une plateforme de type SaaS
 hébergée dans le Cloud qui offre une suite complète d'outils Open Data et de
@@ -304,9 +304,7 @@ Les partenaires de la Banque Mondiale peuvent accéder librement à
 * [Ministry of Health (Portugal)](https://www.sns.gov.pt/transparencia/)
 * [City of Cary (USA)](https://data.townofcary.org/page/home/)
 
-
-
-### Semantic MediaWiki   {#semantic-media-wiki}
+### Semantic MediaWiki
 
 [Semantic MediaWiki][19] est une extension de [MediaWiki][20],
 l'application qui est connue pour être celle sur laquelle repose
@@ -322,7 +320,7 @@ par le biais d'interfaces de données liées telles que [SPARQL][23].
 
 * [OpenEI ](openei.org)
 
-### Socrata   {#socrata}
+### Socrata
 
 [Socrata][24] est une plateforme de catalogue Open Data de type SaaS
 hébergée dans le Cloud qui fournit une API, un catalogue et des outils
@@ -341,7 +339,7 @@ transition pour les clients qui souhaitent abandonner le modèle SaaS.
 * [Global Island Partnership](https://impact.glispa.org)
 * [Carbon Disclosure Project](https://data.cdp.net)
 
-### Swirrl   {#swirrl}
+### Swirrl
 
 [Swirrl][29] est une plateforme Open Data de type SaaS hébergée dans le
 Cloud qui est basée sur les technologies de données liées (comme
@@ -352,10 +350,11 @@ que le format CSV.
 
 **Exemples**
 
-* [OpenDataCommunities ](opendatacommunities.org)
-* [Open Data Scotland ](opendatascotland.org)
-* [Hampshire City Council](linkeddata.hants.gov.uk)
+* [OpenDataCommunities ](http://opendatacommunities.org)
+* [Open Data Scotland ](http://opendatascotland.org)
+* [Hampshire City Council](http://linkeddata.hants.gov.uk)
 
+<<<<<<< Updated upstream
 
 ## Plateforme de données géospatiales {#gis}
 
@@ -392,7 +391,7 @@ modifiable, et peut être intégré dans une plateforme existante.
 * [GeoSINAGER](http://geosinager.defensacivil.gob.bo/) (Bolivia)
 
 
-## Pour aller plus loin...   {#additional-reading}
+## Pour aller plus loin...
 
 Les liens suivants fournissent des informations supplémentaires et plus
 de documentation sur les options technologiques en matière de données

@@ -85,7 +85,7 @@ les initiatives d'Open Data officielles se comptent en effet par
 centaines. Vous trouverez d'autres exemples sur les sites
 [data.gov][12] et [Open Data Census][13].
 
-## Au niveau national   {#country-level-open-data}
+## Au niveau national
 
 * [Australie][14]
 * [Brésil][15]
@@ -102,7 +102,7 @@ centaines. Vous trouverez d'autres exemples sur les sites
 * [Royaume-Uni][26]
 * [États-Unis][27]
 
-## Au niveau local   {#city---subnational-level-open-data}
+## Au niveau local
 
 * [Buenos Aires][28] (Argentine)
 * [Chicago][29] (États-Unis)
@@ -115,7 +115,7 @@ centaines. Vous trouverez d'autres exemples sur les sites
 * [Vienne][36] (Autriche)
 * [Vancouver][37] (Canada)
 
-## Par secteur ou thème   {#open-data-by-sectortopic}
+## Par secteur ou thème
 
 Les exemples suivants de Données Ouvertes sont classés par secteur et par
 thème. Pour consulter des exemples d'applications qui utilisent ces
@@ -179,7 +179,7 @@ développées dans le cadre de concours, de hackathons ou d'autres
 [activités jouant sur la demande](demand.html), dans le but de
 promouvoir l'utilisation de ces données à des fins spécifiques.
 
-### Environnement   {#environment}
+### Environnement
 
 * [mWater][63] Une suite d'outils gratuits qui recourent à la
   technologie GPS, au cloud et aux technologies mobiles afin de proposer
@@ -199,7 +199,7 @@ promouvoir l'utilisation de ces données à des fins spécifiques.
   quoi les citoyens et les collectivités peuvent moduler l'impact de
   ces deux facteurs sur l'environnement.
 
-### Budget et dépenses publiques   {#budget-and-spending}
+### Budget et dépenses publiques
 
 * [OpenSpending][41] Cette application recense les transactions
   effectuées par plus de 70 pays du monde et les présente sous forme de
@@ -221,7 +221,7 @@ promouvoir l'utilisation de ces données à des fins spécifiques.
   électorales et faire entendre l'opinion des utilisateurs, afin de
   veiller à ce que les prestations soient conformes aux budgets.
 
-### Santé et éducation   {#health-and-education}
+### Santé et éducation
 
 * [CheckMySchool][47] Ce programme de surveillance, qui vise à améliorer
   les services de l'enseignement public aux Philippines, s'appuie à la
@@ -238,7 +238,7 @@ promouvoir l'utilisation de ces données à des fins spécifiques.
   l'égide de l'Agence nationale des technologies de l'information
   (NITA).
 
-### Services publics   {#public-service-delivery}
+### Services publics
 
 * [Spikes Cavell][69] Cette organisation dote les responsables de
   l'enseignement supérieur et du secteur public des outils nécessaires
@@ -266,7 +266,7 @@ promouvoir l'utilisation de ces données à des fins spécifiques.
   données fournies par les patrouilles locales et lors des réunions de
   secteur.
 
-### Gouvernement ouvert   {#open-government}
+### Gouvernement ouvert
 
 * [Civic Commons][72] Ce site d'information aide les pouvoirs publics
   et les institutions à mettre en commun leurs connaissances, les
@@ -290,7 +290,7 @@ promouvoir l'utilisation de ces données à des fins spécifiques.
   en contexte grâce à des informations sur les tendances observées dans
   les collectivités et sur les irrégularités constatées.
 
-### Autres   {#other}
+### Autres
 
 * [BrightScope][75] Cet outil apporte de la transparence à des marchés
   opaques en offrant la possibilité à des employeurs, des employés et

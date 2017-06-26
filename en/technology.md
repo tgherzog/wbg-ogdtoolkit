@@ -276,9 +276,9 @@ available via more conventional structures such as CSV.
 
 **Examples**
 
-* [OpenDataCommunities](opendatacommunities.org)
-* [Open Data Scotland](opendatascotland.org)
-* [Hampshire City Council](linkeddata.hants.gov.uk)
+* [OpenDataCommunities](http://opendatacommunities.org)
+* [Open Data Scotland](http://opendatascotland.org)
+* [Hampshire City Council](http://linkeddata.hants.gov.uk)
 
 
 ## Geospatial Data Platforms {#gis}

@@ -50,7 +50,7 @@ indissociable de l'environnement des licences libres. Mais l'Open Data
 n'en est encore qu'à ses balbutiements, et les meilleures pratiques et
 communautés commencent à peine à émerger.
 
-## À propos de ce Guide pratique   {#about-this-toolkit}
+## À propos de ce Guide pratique
 
 Alors que les pays en développement, ainsi qu'un nombre grandissant
 d'autres entités et organisations, adhèrent à la révolution

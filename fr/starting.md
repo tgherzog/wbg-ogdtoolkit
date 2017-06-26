@@ -75,7 +75,7 @@ données publiques:
   données disponibles et leur donner les moyens de fournir des
   informations plus précises.
 
-## Études sur les bénéfcies des Données Ouvertes    {#key-research-on-open-data-benefits}
+## Études sur les bénéfcies des Données Ouvertes
 
 <div class="no-clear-block" markdown="1">
 
@@ -95,7 +95,7 @@ plusieurs pays et sur plusieurs années, cette étude analyse la manière
 dont les données ouvertes sont exploitées dans différents
 contextes dans le monde en développement.
 
-## Pour aller plus loin...   {#additional-reading}
+## Pour aller plus loin...
 
 Les liens suivants fournissent des informations supplémentaires sur les
 gains associés aux Données Ouvertes.
@@ -283,7 +283,7 @@ de leurs propres données, les politiques gouvernant l'ouverture des
 données peuvent doublement les aider : à la fois en tant que producteur
 et en tant qu'usager.
 
-## Recommandations    {#guidance-on-open-data-policies}
+## Recommandations
 
 * [*8 Principles of Open Government Data*][18]: ces principes ont été
   établis en 2007 par les défenseurs de l'ouverture des données
@@ -402,7 +402,7 @@ et en tant qu'usager.
   contexte et des considérations générales concernant ce type de
   document.
 
-### Exemples    {#examples-of-open-data-policies}
+### Exemples
 
 * [*U.S. Open Government Directive*][29] (2009)
 * [*U.S. Memorandum for the Heads of Executive Departments and Agencies*][30] and related [*Executive Order*][31] (2013)

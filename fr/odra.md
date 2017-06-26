@@ -29,7 +29,7 @@ apporter de changement méthodologique.
 * **Guide d'utilisation :** [PDF (a)](../docs/odra/odra_v3.1_userguide-en.pdf) \| [MS Word (a)](../docs/odra/odra_v3.1_userguide-en.doc)
 * **Guide méthodologique :** [PDF (a)](../docs/odra/odra_v3.1_methodology-en.pdf) \| [MS Word (a)](../docs/odra/odra_v3.1_methodology-en.doc)
 
-## Évaluations disponibles   {#available-assessments}
+## Évaluations disponibles
 
 * **Ulyanovsk, Fédération de Russie** (janvier 2013): [Rapport complet](../docs/odra/odra_ulyanovsk_web_final.doc)
 * **Antigua-et-Barbuda** (juin 2013): [Rapport complet][1]
@@ -48,7 +48,7 @@ apporter de changement méthodologique.
 **[Demander à la Banque mondiale de procéder à une évaluation de maturité][contact]**
 {: .center }
 
-## Autres ressources   {#other-resources}
+## Autres ressources
 
 Vous pouvez [visionner les
 recommandations](mms://wbmswebcast1.worldbank.org/DEC/2013-03-01/OD_RA_Briefing.wmv)
@@ -57,12 +57,12 @@ Stott et Jeff Kaplan, principaux auteurs du guide méthodologique de
 l'ODRA. Leur [présentation est disponible ici, en langue
 anglaise](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
 
-### Traductions (non officielles)   {#translations-unofficial}
+### Traductions (non officielles)
 
 * **Français** (version 2): [PDF](../docs/odra/odra_v1-fr.pdf) \| [MS Word](../docs/odra/odra_v1-en.docx)
 * **Russe** (version 2): [PDF](../docs/odra/odra_v2-ru.pdf) \| [MS Word](../docs/odra/odra_v2-ru.docx)
 
-### Versions antérieures de l'ODRA   {#previous-odra-versions}
+### Versions antérieures de l'ODRA
 
 (uniquement en anglais)
 
