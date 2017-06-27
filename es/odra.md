@@ -7,22 +7,17 @@ grado de preparación para identificar conjuntos de datos de alta
 prioridad.](../docs/images/odra.jpg)
 {: .aside}
 
-El Grupo de Trabajo sobre Datos Gubernamentales de Libre Acceso del
-Banco Mundial preparó una herramienta metodológica para la evaluación
-del grado de preparación de los datos de libre acceso (ODRA); con ella
-pueden realizarse exámenes dinámicos de la preparación de un Gobierno o
-un organismo en particular para evaluar, diseñar e implementar un
-iniciativa de datos de libre acceso. Como parte del conjunto de
-herramientas sobre datos gubernamentales de libre acceso, esta
-herramienta está disponible sin cargo para que otros puedan adaptarla y
-utilizarla.
+El Grupo de Trabajo sobre Datos Abiertos de Gobierno del Banco Mundial preparó una herramienta
+metodológica para la evaluación del grado de preparación de los datos abiertos (ODRA); con ella
+pueden realizarse exámenes dinámicos de la preparación de un Gobierno o un organismo en particular
+para evaluar, diseñar e implementar una iniciativa de datos abiertos. Como parte del conjunto de
+herramientas sobre datos abiertos de gobierno, esta herramienta está disponible sin cargo para que
+otros puedan adaptarla y utilizarla.
 
-**Nueva característica en la versión 3:** La ODRA se ha reorganizado y
-mejorado para facilitar su comprensión y manejo. Actualmente consta de
-dos documentos: la guía de uso y la metodología. La versión 3.1 es una
-actualización menor que incluye orientación adicional sobre la sección
-legal/de políticas y corrige errores, pero no incorpora ningún cambio
-metodológico.
+**Nueva característica en la versión 3**: La ODRA se ha reorganizado y mejorado para facilitar su
+comprensión y manejo. Actualmente consta de dos documentos: la guía de uso y la metodología. La
+versión 3.1 es una actualización menor que incluye orientación adicional sobre la sección legal/de
+políticas y corrección de algunos errores menores, pero no incorpora ningún cambio metodológico.
 
 ## Descargar la ODRA   {#download}
 
@@ -31,7 +26,7 @@ metodológico.
 * **Metodología:** [PDF](../docs/odra/odra_v3.1_methodology-en.pdf) \|
   [MS Word](../docs/odra/odra_v3.1_methodology-en.doc)
 
-## Evaluaciones disponibles   {#available-assessments}
+## Evaluaciones disponibles
 
 * **Ulyanovsk, Federación de Rusia** (enero de 2013): [Informe completo](../docs/odra/odra_ulyanovsk_web_final.doc)
 * **Antigua y Barbuda** (junio de 2013): [Informe completo][1]
@@ -49,27 +44,23 @@ metodológico.
 * **Kirguistán** (2016 de febrero): [Informe completo](http://www.kg.undp.org/content/kyrgyzstan/en/home/library/democratic_governance/odra) - inglés y ruso
 * **Mauritania** (2016 de agosto): [Informe completo](../docs/odra/odra_mauritania.pdf) - francés y inglés
 
-**[Solicitar al Banco Mundial que realice una evaluación del grado de
-preparación](&#109;&#097;&#105;&#108;&#116;&#111;:&#111;&#112;&#101;&#110;&#103;&#111;&#118;&#100;&#097;&#116;&#097;&#064;&#119;&#111;&#114;&#108;&#100;&#098;&#097;&#110;&#107;&#046;&#111;&#114;&#103;)**
+**[Solicitar al Banco Mundial que realice una evaluación del grado de preparación][contact]**
 {: .center}
 
-## Otros recursos   {#other-resources}
+## Otros recursos
 
-Puede [mirar una presentación
-informativa](mms://wbmswebcast1.worldbank.org/DEC/2013-03-01/OD_RA_Briefing.wmv)
-(requiere [Windows Media Player][3]) ofrecida el 1 de marzo de 2013 por
-Andrew Stott y Jeff Kaplan, autores principales de la metodología ODRA.
-La [presentación está disponible
-aquí](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
+Puede [mirar una presentación informativa][od-presentation] (requiere [Windows Media Player][wmp]) ofrecida el 1 de marzo de
+2013 por Andrew Stott y Jeff Kaplan, autores principales de la metodología ODRA. La [presentación
+está disponible aquí][od-briefing].
 
-### Traducciones (no oficiales)   {#translations-unofficial}
+### Traducciones (no oficiales)
 
 * **Francés** (versión 2): [PDF](../docs/odra/odra_v1-fr.pdf) \| [MS
   Word](../docs/odra/odra_v1-en.docx)
 * **Ruso** (versión 2): [PDF](../docs/odra/odra_v2-ru.pdf) \| [MS
   Word](../docs/odra/odra_v2-ru.docx)
 
-### Versiones anteriores de la ODRA   {#previous-odra-versions}
+### Versiones posteriores de la ODRA
 
 (solo en inglés)
 
@@ -83,4 +74,9 @@ aquí](../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf).
 
 
 [1]: http://documents.worldbank.org/curated/en/2013/06/19584052/open-data-readiness-assessment-prepared-government-antigua-barbuda
-[3]: http://windows.microsoft.com/en-us/windows/windows-media-player
+
+[od-presentation]: mms://wbmswebcast1.worldbank.org/DEC/2013-03-01/OD_RA_Briefing.wmv
+[od-briefing]: ../docs/odra/2013-03-01_0900_open_data-odra_briefing.pdf
+
+[wmp]: http://windows.microsoft.com/en-us/windows/windows-media-player
+[contact]: mailto:opengovdata@worldbank.org

@@ -20,7 +20,7 @@ Los datos abiertos tienen dos dimensiones:
     con máquinas y que preferentemente no sean exclusivos][2], de modo que cualquier persona puede acceder a ellos y usarlos
     mediante herramientas de software comunes y gratuitas. Los datos también deben de estar disponibles en un servidor
     público sin contraseñas ni restricciones de *firewalls*. Para que los datos abiertos sean más fáciles de encontrar, la
-    mayoría de las organizaciones crea y administra [catálogos de datos abiertos][#examples].
+    mayoría de las organizaciones crea y administra [catálogos de datos abiertos](#examples).
 
 
 ## Licencias de datos abiertos   {#licenses}
