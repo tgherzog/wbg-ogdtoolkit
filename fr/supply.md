@@ -304,7 +304,7 @@ domaine:
   * Impliquer les utilisateurs pour simplifier et hiérarchiser la publication des données
   * Répertorier les données qui ne peuvent pas être publiées
 
-### Anonymisation
+### Anonymisation {#anonymization}
 
 L’anonymisation désigne le processus consistant à masquer ou supprimer
 d’un jeu de données les informations susceptibles d’être utilisées pour
@@ -342,8 +342,6 @@ dans ce domaine:
   pleinement et durablement parti du libre accès aux données. [Plusieurs
   rapports de suivi][39] ont été publiés en 2013 et 2014.
 
-
-<<<<<<< Updated upstream
 * [Statistical Disclosure Control for Microdata Practice Guide][48]. Ce guide
   pratique présente les principales étapes pour qu'une organisation fournisse un
   accès sécurisé aux données, tout en assurant que les microdonnées restent
