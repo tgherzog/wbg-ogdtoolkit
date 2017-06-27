@@ -37,7 +37,7 @@ abiertos para abordar desafíos específicos.
   comunicar el riesgo con mayor eficacia a los encargados de la toma de
   decisiones sobre planificación, preparación y respuesta.</cite>
 
-* [Finanzas de Grupo Banco Mundial][2] (WBGF). El programa WBGF utiliza datos financieros de libre acceso
+* [Finanzas de Grupo Banco Mundial][2] (WBGF). El programa WBGF utiliza datos financieros abiertos
   a través de la Web y dispositivos móviles para promover la transparencia, ampliar el uso de
   análisis de datos, respaldar la innovación y la creación de nuevas empresas, y abordar los
   desafíos de desarrollo.
@@ -46,7 +46,7 @@ abiertos para abordar desafíos específicos.
   las partes interesas en el uso de los datos para la formulación de
   políticas, incluido el [análisis de la demanda][4]; preparación de
   herramientas impulsadas por datos para ayudar a los organismos a usar
-  los datos de libre acceso para prestar servicios con más eficacia, y
+  los datos abiertos para prestar servicios con más eficacia, y
   respaldo al sector privado para promover el crecimiento económico y el
   impacto social. El WBGF también ofrece servicios de consultoría sobre
   estrategias móviles para ayudar a los clientes a conectarse con
@@ -55,7 +55,7 @@ abiertos para abordar desafíos específicos.
 
 * **Transporte abierto**. Transporte abierto, la próxima generación de herramientas para gestionar
   y planificar los sistemas de transporte en entornos de recursos limitados, adhiere a tres
-  principios: normas de datos de libre acceso; *software* de código abierto, y respaldo para la
+  principios: normas de datos abiertos; *software* de código abierto, y respaldo para la
   preparación de una aplicación de tránsito para lograr un uso mucho mayor de los datos disponibles.
   <cite>Ofrece tres servicios clave para
   la planificación y la gestión del transporte basado en datos:
@@ -104,7 +104,7 @@ abiertos para abordar desafíos específicos.
   para implementar reformas similares. Para más información, póngase en
   contacto con <opengovdata@worldbank.org>.</cite>
 
-* **Datos de libre acceso sobre salud**. En muchos países, la salud pública es uno de los sectores
+* **Datos abiertos sobre salud**. En muchos países, la salud pública es uno de los sectores
   en los que es más fácil dar a conocer datos y utilizarlos para mejorar las políticas y la toma de
   decisiones. El servicio de datos abiertos en el ámbito de la salud proporciona evaluaciones de la
   preparación para ayudar a las partes interesadas y a los encargados de la formulación de políticas
@@ -112,9 +112,9 @@ abiertos para abordar desafíos específicos.
   utilizarlos para mejorar la política de servicios de salud.
   <cite>Debido a que los periodistas y los medios de
   comunicación tienen una importante función a la hora explicar el
-  funcionamiento de los datos de libre acceso a los ciudadanos y motivar
+  funcionamiento de los datos abiertos a los ciudadanos y motivar
   a los Gobiernos y propietarios de los datos para que los divulguen, el
-  servicio de datos de libre acceso sobre salud ofrece programas de
+  servicio de datos abiertos sobre salud ofrece programas de
   aprendizaje para explicar las cuestiones pertinentes del sector,
   enseñar a interpretar los datos de salud y mostrar cómo pueden
   utilizarlos los medios de comunicación en su trabajo diario y en la
@@ -189,7 +189,7 @@ abiertos para abordar desafíos específicos.
   y otros elementos que se mantienen en archivos y museos de parques,
   zonas protegidas y sitios históricos de los Estados Unidos. La
   Iniciativa y la Universidad Clemson están construyendo una plataforma
-  de datos de libre acceso para respaldar los esfuerzos de Naciones
+  de datos abiertos para respaldar los esfuerzos de Naciones
   donde Habita el Tigre para duplicar la población mundial de esta
   especie.</cite>
 
@@ -202,7 +202,7 @@ abiertos para abordar desafíos específicos.
   así como el principal punto de contacto para que el público en general consuma y analice datos.
   <cite>Su metodología de
   aprendizaje sobre datos aborda las profundas deficiencias de capacidad
-  de los usuarios y beneficiarios de los datos de libre acceso generando
+  de los usuarios y beneficiarios de los datos abiertos generando
   "canales" para el fortalecimiento de la capacidad entre las fuentes de
   datos y las plataformas públicas de medios. También integra a los
   especialistas en medios de comunicación en comunidades de práctica con
@@ -212,11 +212,11 @@ abiertos para abordar desafíos específicos.
   como la toma de decisiones impulsada por los datos en todos los
   niveles.</cite>
 
-* **Datos de libre acceso para la responsabilidad social y la participación ciudadana**.
+* **Datos abiertos para la responsabilidad social y la participación ciudadana**.
   Este programa respalda oportunidades de utilizar iniciativas de datos abiertos para ir más allá de
   la transparencia, de modo que los ciudadanos las usen en enfoques de responsabilidad social y
   participación ciudadana.
-  <cite>El programa de datos de libre acceso para la responsabilidad social y la
+  <cite>El programa de datos abiertos para la responsabilidad social y la
   participación ciudadana trabaja en colaboración con otras unidades del
   Banco para ofrecer un respaldo amplio a las iniciativas de datos
   abiertos a nivel de países y proyectos. Algunos ejemplos notables son
@@ -250,9 +250,9 @@ abiertos para abordar desafíos específicos.
   <cite>La fundación supervisa los niveles de
   divulgación en todo el mundo y ofrece servicios técnicos comerciales y
   capacitación en manejo de datos. También amplía la cultura de los
-  datos de libre acceso en relación con productos y servicios, incluida
+  datos abiertos en relación con productos y servicios, incluida
   [CKAN][19], una plataforma de datos de origen abierto, y el [Manual de
-  datos de libre acceso][20].</cite>
+  datos abiertos][20].</cite>
 
 * [Instituto de Datos Abiertos][21] (ODI).
   Promueve la cultura de los datos abiertos para generar valor económico, ambiental y social. El ODI
@@ -261,9 +261,9 @@ abiertos para abordar desafíos específicos.
   <cite>También agrupa a grandes
   expertos del mundo para que colaboren entre sí a fin de generar nuevas
   ideas y promover la innovación con proyectos tales como la [Alianza
-  para los Datos de Libre Acceso][22]. Sus servicios de tutoría y
+  para los Datos Abiertos][22]. Sus servicios de tutoría y
   asesoramiento y su respaldo permiten que cualquiera pueda entender y
-  utilizar los datos de libre acceso.</cite>
+  utilizar los datos abiertos.</cite>
 
 * [Lista de expertos sobre datos abiertos][23].
   Una planilla de Google de consultores expertos, preparada a partir de la distribución de un
@@ -295,7 +295,7 @@ abiertos para abordar desafíos específicos.
   estrategias, resultados (incluidos los conjuntos de datos), datos
   financieros, base de datos de donaciones y herramientas de análisis y
   visualización de datos, y apoyando la estandarización de la
-  información y los esfuerzos relativos a los datos de libre acceso, y
+  información y los esfuerzos relativos a los datos abiertos, y
   participando en todas las iniciativas conexas.</cite>
 
 * [Fundaciones para una Sociedad Abierta][31]. Trabaja para crear sociedades en las que los Gobiernos
@@ -315,7 +315,7 @@ abiertos para abordar desafíos específicos.
   <cite>La Fundación Knight
   fomenta los sistemas de información abierta que empoderan a las
   comunidades; establecen normas para el libre flujo de la información,
-  y transforman los datos de libre acceso en productos útiles. También
+  y transforman los datos abiertos en productos útiles. También
   respalda esfuerzos tales como la [Fundación Sunlight][35] y [Wikipedia
   Zero][36], y ofrece capital de riesgo para emprendimientos en etapas
   iniciales dedicados a la [innovación en los medios][37].</cite>

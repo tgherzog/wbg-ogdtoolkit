@@ -1,5 +1,5 @@
 ---
-title: Datos Abiertos en 60 segundos
+title: Datos abiertos en 60 segundos
 ---
 
 Si alguna vez consultó el pronóstico del clima en línea, usó el GPS de su Smartphone para encontrar una farmacia abierta
@@ -7,7 +7,7 @@ en la madrugada o calculó cuanto paga su ciudad por reparaciones de caminos, en
 embargo, durante mucho tiempo acceder a esta clase de información fue muy difícil, incluso imposible pues muchas veces
 los datos no estaban disponibles.
 
-Los datos se consideran de libre acceso si alguien puede utilizarlos, re-utilizarlos y redistribuirlos gratuitamente
+Los datos se consideran abiertos si alguien puede utilizarlos, re-utilizarlos y redistribuirlos gratuitamente
 para cualquier fin, sin restricciones.
 {: .pullquote}
 
@@ -21,7 +21,7 @@ Hoy, más de 250 Gobiernos a nivel nacional, sub-nacional y municipal; casi 50 p
 desarrollados y entidades como el Banco Mundial y las Naciones Unidas han puesto en marcha iniciativas y políticas
 públicas de datos de datos abiertos, y cada año se suman nuevas intervenciones.
 
-Los datos se consideran de libre acceso si alguien puede utilizarlos, re-utilizarlos y redistribuirlos gratuitamente
+Los datos se consideran abiertos si alguien puede utilizarlos, re-utilizarlos y redistribuirlos gratuitamente
 para cualquier fin, sin restricciones.
 Si bien, una gran cantidad de información es publicada en los sitios web de los
 gobiernos, gran parte está destinada a ser leída como documentos individuales y no a re-utilizarse con otros fines. Para
@@ -33,7 +33,7 @@ simplificar y hacer más eficientes los servicios gubernamentales, multiplicar l
 innovación, mejorar la seguridad pública y reducir la pobreza. A medida que los beneficios de tener datos abiertos
 llegan a poblaciones más amplias y se descubren otras opciones más útiles, los Gobiernos e Instituciones, a escala
 global, se muestran cada vez más a favor de poner en marcha o ampliar programas de este tipo. Llevará tiempo comprender
-totalmente la complejidad y el amplio potencial que tienen los datos de libre acceso, que deriva del entorno abierto de
+totalmente la complejidad y el amplio potencial que tienen los datos abiertos, que deriva del entorno abierto de
 las licencias y condiciones de uso.
 
 Puesto que los datos abiertos se encuentran en una etapa inicial, las mejores prácticas y comunidades de uso, recién
@@ -63,7 +63,7 @@ La caja de herramientas de datos abiertos de gobierno está compuesta de esta in
    necesitan para tomar los primeros pasos en una Iniciativa de Datos Abiertos; de particular interés para administradores
    de datos, coordinadores y personal dentro del gobierno.
 
-3. [Opciones Tecnológicas][tech].  Resumen de aspectos técnicos de la preparación del catálogo de datos de libre acceso;
+3. [Opciones Tecnológicas][tech].  Resumen de aspectos técnicos de la preparación del catálogo de datos abiertos;
    particularmente útil para especialistas en tecnología de la información.
 
 4. [Demanda y Participación][demand]. Cómo establecer comunidades de usuarios y promover el aprendizaje sobre datos abiertos entre
@@ -75,7 +75,7 @@ La caja de herramientas de datos abiertos de gobierno está compuesta de esta in
    precisión; de interés y gran ayuda para los productores de datos.
 
 6. [Guía de evaluación del grado de preparación][odra]. Cómo utilizar la guía metodológica del Banco Mundial para diagnosticar
-   las medidas que un Gobierno debe tomar a fin de poner en marcha la iniciativa de datos de libre acceso; resulta de
+   las medidas que un Gobierno debe tomar a fin de poner en marcha la iniciativa de datos abiertos; resulta de
    interés para los Gobiernos que están comprometidos con los datos abiertos pero que no les es muy claro por dónde
    empezar. 
 

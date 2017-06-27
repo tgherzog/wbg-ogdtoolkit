@@ -112,7 +112,7 @@ abierto, y orienten a los Gobiernos y partes interesadas en lo que hace a la dif
 modo de permitir la comprensión, el seguimiento eficaz, el desempeño eficiente y la rendición de
 cuentas por los resultados.
 
-La [norma de datos de contratación de libre acceso][14] (OCDS) se creó para permitir que los Gobiernos
+La [norma de datos de contratación abiertos][14] (OCDS) se creó para permitir que los Gobiernos
 publiquen los detalles de todas las etapas del proceso de contratación, incluida la planificación,
 la licitación, la adjudicación, la contratación y la implementación. En la norma se ofrece un plan
 detallado para representar los datos de contratación en una variedad de formatos, así como

@@ -51,13 +51,13 @@ de los catálogos de datos tienen algunas características comunes (también se 
   descargar como un solo archivo.
 
 * **Metadatos**. Los metadatos clave, como ser la fecha de la publicación y la autoría, se muestran
-  claramente en cada conjunto de datos. En muchos catálogos de datos de libre acceso se implementa
+  claramente en cada conjunto de datos. En muchos catálogos de datos abiertos se implementa
   la [norma Dublin Core](supply.html#metadata) y los metadatos se ponen a disposición del público en
   formatos digitales que se puedan leer con un Software común.
 
 * **Licencias claras de uso de datos**. Las [licencias legales de uso de datos](essentials.html#licenses)
   se muestran claramente y en letras grandes en cada conjunto de datos. Si los datos se ofrecen en
-  virtud de una licencia Creative Commons, la licencia de datos de libre acceso u otras normas, se
+  virtud de una licencia Creative Commons, la licencia de datos abiertos u otras normas, se
   incluyen enlaces explícitos a estas licencias.
 
 * **Vista previa/visualización de datos**. Muchos catálogos de datos abiertos incluyen algún mecanismo
@@ -93,7 +93,7 @@ pueden proporcionar ciertas medidas de adaptación de productos.
 ## Tres modelos de catálogos de datos abiertos   {#models}
 
 Los tres modelos que se describen a continuación presentan formas de concebir un sistema de catálogo
-de datos de libre acceso. La intención es mostrar cómo se relacionan entre sí los distintos
+de datos abiertos. La intención es mostrar cómo se relacionan entre sí los distintos
 elementos y cómo cambia el sistema en diferentes escalas.
 
 Haga clic en los gráficos para verlos en tamaño completo.
@@ -223,7 +223,7 @@ opción de personalizar los módulos y cuenta con una extensa comunidad de desar
 
 ### Junar
 
-[Junar][14] es una plataforma de datos de libre acceso SaaS que se aloja en la nube, por lo que
+[Junar][14] es una plataforma de datos abiertos SaaS que se aloja en la nube, por lo que
 habitualmente los datos se gestionan dentro de la infraestructura de la propia plataforma (el modelo
 “todo en uno”). Junar puede ofrecer un catálogo de datos completo o datos a través de una API para
 un catálogo de otro usuario.
@@ -237,16 +237,15 @@ un catálogo de otro usuario.
 ### OpenDataSoft
 
 [OpenDataSoft][18] es una plataforma de SaaS alojada en la nube que ofrece un conjunto extenso de
-herramientas de datos de libre acceso y visualización. La plataforma acepta formatos comunes de
+herramientas de datos abiertos y visualización. La plataforma acepta formatos comunes de
 datos abiertos, como CSV, JSON y XML, así como varios formatos geoespaciales, como KML, OSM y SHP.
 La función de búsqueda es muy sencilla y fácil de usar.
 
 [OpenDataSoft][18] es una plataforma de SaaS alojada en la nube que
-ofrece un conjunto extenso de herramientas de datos de libre acceso y
-visualización. La plataforma acepta formatos comunes de datos de libre
-acceso, como CSV, JSON y XML, así como varios formatos geoespaciales,
-como KML, OSM y SHP. La función de búsqueda es muy sencilla y fácil de
-usar.
+ofrece un conjunto extenso de herramientas de datos abiertos y
+visualización. La plataforma acepta formatos comunes de datos abiertos, como CSV, JSON y XML, así
+como varios formatos geoespaciales, como KML, OSM y SHP. La función de búsqueda es muy sencilla y
+fácil de usar.
 
 **Ejemplos**
 

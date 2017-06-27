@@ -1,5 +1,5 @@
 ---
-title: Aspectos Fundamentales de los Datos Abiertos
+title: Aspectos fundamentales de los datos abiertos
 ---
 
 Esta sección resume los aspectos fundamentales de los datos abiertos de gobierno, empezando por una definición y
@@ -38,8 +38,7 @@ justificación legal.  Estos son algunos ejemplos:
   abiertos de gobierno del Reino Unido][7], los [términos de uso del Banco Mundial][8] y la [licencia abierta del Gobierno de
   Francia][9].
 
-En estos enlaces se puede encontrar más información sobre la definición y las licencias de uso de los datos de libre
-acceso.
+En estos enlaces se puede encontrar más información sobre la definición y las licencias de uso de los datos abiertos.
 
 ## Lectura adicional
 
@@ -64,7 +63,7 @@ y los datos de organismos se centran habitualmente en un solo tema.
 
 A continuación, se presentan ejemplos de datos de abiertos a nivel nacional, estatal/provincial o de organismos
 individuales, y de temas específicos. Estas listas no son exhaustivas, ya que existen cientos de iniciativas oficiales
-de datos de libre acceso. Se pueden encontrar más ejemplos en [data.gov][12] y el [censo de datos de libre acceso][13].
+de datos abiertos. Se pueden encontrar más ejemplos en [data.gov][12] y el [censo de datos abiertos][13].
 
 
 
@@ -119,10 +118,10 @@ aplicaciones que utilizan algunas de estas fuentes de datos, vea [Usos de los da
 | Educación | [CheckMySchool][47] |
 | Energía e industrias extractivas | [Iniciativa para la Transparencia de las Industrias Extractivas][48] |
 | Energía e industrias extractivas | [Departamento de Energía de los Estados Unidos][49] |
-| Energía e industrias extractivas | [Datos de libre acceso de Enel][50], principal empresa de electricidad de Italia |
-| Medio ambiente | [Datos climáticos de libre acceso][51] |
+| Energía e industrias extractivas | [Datos abiertos de Enel][50], principal empresa de electricidad de Italia |
+| Medio ambiente | [Datos climáticos abiertos][51] |
 | Medio ambiente | [Datos sobre ahorro de combustible][52], Agencia de Protección Ambiental de los Estados Unidos |
-| Medio ambiente | [Datos de libre acceso sobre medio ambiente de la Ciudad de Nueva York][53] |
+| Medio ambiente | [Datos abiertos sobre medio ambiente de la Ciudad de Nueva York][53] |
 | Información geoespacial | [OpenStreetMap][54] |
 | Información geoespacial | [Información geoespacial Haiti Data][55] |
 | Salud | [Departamento de Salud y Servicios Sociales de los Estados Unidos][56] |
@@ -154,7 +153,7 @@ proveedores tienen la oportunidad de mejorar los metadatos y otra información s
 
 En la siguiente lista se incluyen ejemplos de aplicaciones que utilizan los datos abiertos, agrupadas por tema. Muchas
 de ellas se desarrollaron para competencias, hackatones u otras [actividades estimulantes de la demanda](demand.html), para promover
-el uso de los datos de libre acceso para fines específicos.
+el uso de los datos abiertos para fines específicos.
 
 
 ### Medio ambiente
@@ -196,7 +195,7 @@ el uso de los datos de libre acceso para fines específicos.
   del Gobierno a trabajar en colaboración para resolver problemas de educación.
 
 * [Merge of HealthFacility][68]. Una aplicación que indica la ubicación de centros de salud, perteneciente a la Iniciativa de
-  Datos de Libre Acceso de Ghana (GODI), del Organismo Nacional de Tecnología de la Información (NITA).
+  Datos Abiertos de Ghana (GODI), del Organismo Nacional de Tecnología de la Información (NITA).
 
 
 ### Prestación de servicios públicos
@@ -219,11 +218,11 @@ el uso de los datos de libre acceso para fines específicos.
 ### Gobierno abierto
 
 * [Civic Commons][72]. Un producto que ayuda a los Gobiernos y las instituciones a compartir conocimientos, soluciones y
-  mejores prácticas para dar un mejor uso a la tecnología y promover los datos de libre acceso y el gobierno abierto.
+  mejores prácticas para dar un mejor uso a la tecnología y promover los datos abiertos y el gobierno abierto.
   Ofrece servicios a una comunidad de tecnólogos cívicos compartiendo no solo un repositorio de aplicaciones e información
   de gobierno y cuestiones cívicas, sino también su código abierto.
 
-* [Socrata: Aplicaciones de datos de libre acceso][73]. Un repositorio de ejemplos que muestran cómo los datos de libre acceso
+* [Socrata: Aplicaciones de datos abiertos][73]. Un repositorio de ejemplos que muestran cómo los datos abiertos
   permiten la creación de aplicaciones de tecnología cívica.
 
 * [GotToVote!][74] Una herramienta basada en datos que ayuda a los ciudadanos a comprender cuestiones mencionadas en las
@@ -241,7 +240,7 @@ el uso de los datos de libre acceso para fines específicos.
   principalmente en dos grandes segmentos: planes de jubilación y gestión del patrimonio.
 
 * [DataViva][76]. Esta herramienta, que ofrece más de 100 millones de visualizaciones interactivas, publica datos
-  gubernamentales de libre acceso —incluida información sobre exportaciones, ubicaciones y ocupaciones— sobre todo el
+  abiertos de gobierno —incluida información sobre exportaciones, ubicaciones y ocupaciones— sobre todo el
   sector formal de la economía brasileña, y crea una base para el diálogo entre los sectores público y privado.
 
 

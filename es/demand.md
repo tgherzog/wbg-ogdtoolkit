@@ -199,9 +199,9 @@ abiertos:
   los datos abiertos a través de actividades conjuntas de aprendizaje, investigación y capacitación.
 * [Red de Innovaciones sobre Datos Abiertos][47]. Grupo de usuarios de LinkedIn, respaldado por una
   alianza para los conocimientos iniciada por el Banco Mundial, que aprovecha y respalda las
-  iniciativas de datos gubernamentales de libre acceso y los ecosistemas de innovación abierta en los
+  iniciativas de datos abiertos de gobierno y los ecosistemas de innovación abierta en los
   países en desarrollo, además de facilitar la adopción de las herramientas, los métodos y los
-  principios de los datos de libre acceso.
+  principios de los datos abiertos.
 * [Civic Commons][48]. Recurso de información impulsado por la comunidad y centrado en las
   cuestiones cívicas que fomenta el crecimiento de una comunidad de tecnólogos que comparten
   información sobre sus aplicaciones y el código de esas aplicaciones para alentar a los Gobiernos a
@@ -213,7 +213,7 @@ abiertos:
 * [Asociación Internacional sobre Infraestructura de Datos Espaciales (GSDI)][50]. Una asociación
   que promueve la cooperación y colaboración internacional sobre datos espaciales para resolver mejor
   las cuestiones sociales, económicas y ambientales.
-* [Datos de libre acceso para el desarrollo en América Latina y el Caribe][51]. Un proyecto para
+* [Datos abiertos para el desarrollo en América Latina y el Caribe][51]. Un proyecto para
   producir y ampliar conocimientos sobre datos abiertos y su potencial para mejorar políticas públicas
   en esta región; ofrece una plataforma interactiva de datos abiertos de gobierno para el diálogo
   entre los Gobiernos, los ciudadanos, los desarrolladores y los círculos académicos.
@@ -223,7 +223,7 @@ abiertos:
   gobierno.
 * [Alianza para los datos abiertos][53]. Alianza mundial creada para ayudar a los encargados de
   formular políticas y los ciudadanos de países en desarrollo a comprender y aprovechar los beneficios
-  de los datos de libre acceso.
+  de los datos abiertos.
 * [Escuela de datos][54]. Entidad que trabaja para empoderar a las organizaciones de la sociedad
   civil, los periodistas y los ciudadanos con las aptitudes que necesitan para usar eficazmente los
   datos.

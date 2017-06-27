@@ -31,6 +31,11 @@ defaults:
     locale: en
 -
   scope:
+    path: "es"
+  values:
+    locale: es
+-
+  scope:
     path: "fr"
   values:
     locale: fr
@@ -39,6 +44,7 @@ defaults:
 lang:
   locales:
     - [ en, English ]
+    - [ es, Espa&ntilde;ol ]
     - [ fr, Fran&ccedil;ais ]
 
   en:
@@ -58,15 +64,15 @@ lang:
       - {hdr: h3, link: /en/technical-assistance.html, title: Technical Assistance and Funding }
 
   es:
-    title: "Conjunto de herramientas sobre datos gubernamentales de libre acceso"
-    description: "El conjunto de herramientas sobre datos gubernamentales de libre acceso está diseñado para ayudar a los Gobiernos, el personal del Banco y los usuarios a entender los preceptos básicos de los datos de libre acceso, de modo de agilizar la planificación y la implementación de un programa de este tipo y evitar las dificultades más comunes."
-    abstract:    "El conjunto de herramientas sobre datos gubernamentales de libre acceso está diseñado para ayudar a los Gobiernos, el personal del Banco y los usuarios a entender los preceptos básicos de los datos de libre acceso, de modo de agilizar la planificación y la implementación de un programa de este tipo y evitar las dificultades más comunes."
+    title: "Conjunto de Herramientas de Datos Abiertos de Gobierno"
+    description: "El conjunto de herramientas sobre datos abiertos de gobierno está diseñado para ayudar a los Gobiernos, el personal del Banco y los usuarios a entender los preceptos básicos de los datos abiertos, de modo de agilizar la planificación y la implementación de un programa de este tipo y evitar las dificultades más comunes."
+    abstract:    "El conjunto de herramientas sobre datos abiertos de gobierno está diseñado para ayudar a los Gobiernos, el personal del Banco y los usuarios a entender los preceptos básicos de los datos abiertos, de modo de agilizar la planificación y la implementación de un programa de este tipo y evitar las dificultades más comunes."
     localeprefix: "Esta página en"
     sidebar:
-      - {hdr: h2, link: /es/index.html, title: Conjunto de herramientas sobre datos gubernamentales de libre acceso }
-      - {hdr: h3, link: /es/open-data-in-60-seconds.html, title: Datos de libre acceso en 60 segundos }
-      - {hdr: h3, link: /es/essentials.html, title: Aspectos fundamentales de los datos de libre acceso }
-      - {hdr: h3, link: /es/starting.html, title: Cómo empezar una iniciativa de datos de libre acceso }
+      - {hdr: h2, link: /es/index.html, title: Caja de Herramientas de Datos Abiertos de Gobierno }
+      - {hdr: h3, link: /es/open-data-in-60-seconds.html, title: Datos abiertos en 60 segundos }
+      - {hdr: h3, link: /es/essentials.html, title: Aspectos fundamentales de los datos abiertos }
+      - {hdr: h3, link: /es/starting.html, title: Cómo empezar una iniciativa de datos abiertos de gobierno }
       - {hdr: h3, link: /es/technology.html, title: Opciones tecnológicas }
       - {hdr: h3, link: /es/demand.html, title: Demanda y participación }
       - {hdr: h3, link: /es/supply.html, title: Oferta y calidad de los datos }

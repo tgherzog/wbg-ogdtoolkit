@@ -27,7 +27,7 @@ alguna manera para alcanzar su máximo potencial. Cuando los datos gubernamental
 y re-utilizar, permiten que las personas, las organizaciones e incluso los propios Gobiernos puedan
 innovar y colaborar de formas nuevas.
 
-Los datos de libre acceso ---que aceleran el crecimiento económico,
+Los datos abiertos ---que aceleran el crecimiento económico,
 garantizan la rendición de cuentas públicas y reportan varias mejoras
 más--- pueden beneficiar a los ciudadanos, a las organizaciones y a los
 propios Gobiernos.
@@ -48,7 +48,7 @@ ejemplo, la ciudadanía puede usar estos datos para contribuir a la planificaci�
 proporcionar comentarios a los ministerios sobre la calidad de los servicios
 
 * **Innovación y valor económico.** Los datos públicos y su reutilización son recursos clave para la
-innovación social y el crecimiento económico. Los datos de libre acceso ofrecen nuevas oportunidades
+innovación social y el crecimiento económico. Los datos abiertos ofrecen nuevas oportunidades
 para que los Gobiernos colaboren con los ciudadanos y evalúen los servicios públicos, ya que otorgan
 a las personas acceso a datos sobre dichos servicios. Las empresas y los emprendedores están usando
 los datos abiertos para entender mejor los mercados potenciales y preparar nuevos productos a partir
@@ -69,7 +69,7 @@ Institute.](../docs/images/mckinsey.svg) ][2]
 {: .aside}
 
 **[Datos Abiertos: Una puerta a la innovación y a un mejor desempeño con información al alcance de la
-mano][2].** (McKinsey Global Institute). Según este informe inicial, los datos de libre acceso pueden
+mano][2].** (McKinsey Global Institute). Según este informe inicial, los datos abiertos pueden
 ayudar a liberar entre USD 3 billones y USD 5 billones en valor económico por año de siete sectores
 de los Estados Unidos únicamente.
 
@@ -77,7 +77,7 @@ de los Estados Unidos únicamente.
 
 **[Explorar los nuevos impactos de los datos abiertos países en desarrollo][3]**. Este es un estudio
 plurianual de varios países encabezado por la Fundación World Wide Web y dirigido a entender cómo se
-aplican los datos de libre acceso en distintos países y contextos del mundo en desarrollo.
+aplican los datos abiertos en distintos países y contextos del mundo en desarrollo.
 
 ## Lectura adicional
 
@@ -99,9 +99,9 @@ En estos enlaces se puede encontrar más información sobre los beneficios de lo
   Este grupo aboga por que la economía tenga fundamentos transparentes y por qué los datos y
   análisis económicos estén a disposición de toda la sociedad, no solo de los economistas.
   <cite>Interpreta la
-  investigación económica sobre los datos de libre acceso e identifica
+  investigación económica sobre los datos abiertos e identifica
   las mejores prácticas y las normas jurídicas, regulatorias y técnicas
-  de los datos económicos de libre acceso. En su blog se pueden ver los
+  de los datos económicos abiertos. En su blog se pueden ver los
   efectos positivos que ha tenido en la economía el hecho de poner los
   datos a disposición del público y se muestra qué pueden hacer los
   economistas para incorporar el concepto de datos de libre
@@ -118,12 +118,12 @@ En estos enlaces se puede encontrar más información sobre los beneficios de lo
   Además de ratificar las iniciativas del Gobierno sobre apertura de las bases de datos públicas, en
   este documento se impulsa la implementación del marco nacional de información, un elemento de
   infraestructura estratégico.
-  <cite>El marco multiplicará el valor aportado por los datos de libre acceso,
+  <cite>El marco multiplicará el valor aportado por los datos abiertos,
   generará beneficios sociales y económicos y ayudará a transformar el
   uso de los datos para mejorar la toma de decisiones a nivel personal,
   de Gobierno y de empresas, y respaldar el crecimiento. El enfoque del
   marco nacional de información incluye las políticas, las normas, los
-  metadados y otros elementos de los datos de libre acceso, y podría
+  metadados y otros elementos de los datos abiertos, y podría
   incluir información derivada del sector privado y todo el sector
   público.</cite>
 
@@ -195,12 +195,12 @@ En estos enlaces se puede encontrar más información sobre los beneficios de lo
   conocimientos no utilizados (en forma de datos), cuando esos conocimientos podrían usarse en
   beneficio de la economía y la sociedad en su conjunto.
   <cite>También se analizan las preocupaciones sobre la aclaración de
-  las políticas de datos de libre acceso, el derecho a la privacidad y
+  las políticas de datos abiertos, el derecho a la privacidad y
   el hecho de que algunos funcionarios públicos no tienen suficiente
   capacidad para interpretar los datos adecuadamente, además de las
   esferas que han mostrado progresos.</cite>
 
-* [Datos financieros de libre acceso][16].
+* [Datos financieros abiertos][16].
   En este informe del Banco Mundial, se evalúa el potencial de utilizar datos financieros de libre
   acceso para aumentar la participación ciudadana en la prestación de bienes y servicios públicos.
 
@@ -250,7 +250,7 @@ tanto desde el punto de vista del consumidor como desde la perspectiva del produ
   Estos principios se establecieron en 2007, como resultado del trabajo de promotores de los datos
   abiertos de gobierno.
   <cite>Sucintamente, establecen que los datos de los Gobiernos pueden
-  considerarse de libre acceso si se comparten de una forma que sea
+  considerarse abiertos si se comparten de una forma que sea
   completa, primaria, oportuna, accesible, procesable por máquinas, no
   discriminatoria, no exclusiva y gratuita (sin licencias).</cite>
 
@@ -297,7 +297,7 @@ tanto desde el punto de vista del consumidor como desde la perspectiva del produ
   <cite>En 2011, se indicó a los departamentos de servicios
   públicos que cumplieran la orden de dar a conocer datos públicos de
   alto valor para su reutilización, de conformidad con los principios de
-  los datos de libre acceso. Los datos de alto valor son aquellos que
+  los datos abiertos. Los datos de alto valor son aquellos que
   tienen resultados económicos y sociales, de transparencia y
   democracia, o de eficiencia.</cite>
 
@@ -314,7 +314,7 @@ tanto desde el punto de vista del consumidor como desde la perspectiva del produ
 
 * [El mundo cerrado de los datos de una empresa][24].
   En este informe, publicado por [OpenCorporates][25] en 2012, se analiza el grado de apertura de las
-  empresas de países que conforman la [Alianza de Datos Gubernamentales de Libre Acceso][26].
+  empresas de países que conforman la [Alianza de Datos Gubernamentales Abiertos][26].
   <cite>OpenCorporates asegura
   que, cada vez más, el mundo estará dominado por empresas
   internacionales interconectadas y que el acceso a información clave,
@@ -364,14 +364,14 @@ tanto desde el punto de vista del consumidor como desde la perspectiva del produ
 * [Directiva sobre datos abiertos de Estados Unidos][29] (2009)
 * [Memorando para los jefes de los departamentos y agencias ejecutivos][30]
   y [órdenes ejecutivas][31] conexas de los Estados Unidos (2013)
-* [Política de datos de libre acceso de Estados Unidos: Gestionar la información como un activo][32]
+* [Política de datos abiertos de Estados Unidos: Gestionar la información como un activo][32]
 * [Carta a los departamentos del Gobierno del Reino Unido sobre publicación de datos][33] (2010)
 * [Declaración de Nueva Zelandia sobre Gobierno abierto y transparente][34] (2011)
-* [Declaración sobre datos gubernamentales de libre acceso de Australia][35] (2010)
-* [Carta de datos de libre acceso del Grupo de los Ocho][36] (2013)
-* [Directiva sobre datos de libre acceso del Primer Ministro de Moldova][37]
+* [Declaración sobre datos abiertos de gobierno de Australia][35] (2010)
+* [Carta de datos abiertos del Grupo de los Ocho][36] (2013)
+* [Directiva sobre datos abiertos del Primer Ministro de Moldova][37]
 * [Estrategia de Gobierno abierto para la ciudad de Boston][38]
-* [Ley de la ciudad de Nueva York sobre publicación de datos de libre acceso][39]
+* [Ley de la ciudad de Nueva York sobre publicación de datos abiertos][39]
 
 
 # Recursos de aprendizaje sobre datos abiertos   {#learning}
@@ -385,7 +385,7 @@ Libros, manuales, presentaciones y otros materiales de capacitación sobre datos
   capacitación, actividades de difusión, seminarios y contenidos multimedia y herramientas de datos.
 
 * [Datos abiertos de gobierno en el Banco Mundial][od-wbg].
-  Presentación de PowerPoint en la que se resume la iniciativa de datos de libre acceso del Banco
+  Presentación de PowerPoint en la que se resume la iniciativa de datos abiertos del Banco
   Mundial; habitualmente se la utiliza como parte de las sesiones de capacitación en los países.
 
 * [Directrices sobre datos abiertos para la participación ciudadana][41] (Naciones Unidas).
@@ -425,7 +425,7 @@ Libros, manuales, presentaciones y otros materiales de capacitación sobre datos
 
 * [Más allá de la transparencia: Datos abiertos y el futuro de la innovación cívica][49].
   Libro en el que se analizan los datos abiertos centrando la atención en las aplicaciones cívicas;
-  los especialistas analizan sus logros en materia de datos cívicos de libre acceso.
+  los especialistas analizan sus logros en materia de datos cívicos abiertos.
 
 * [Guía práctica sobre datos abiertos para la iniciativa de resiliencia (DRI)][50] (Banco Mundial).
   Se discute cómo establecer una visión estratégica y un presupuesto acorde, y cómo contratar

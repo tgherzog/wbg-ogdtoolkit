@@ -18,7 +18,7 @@ recomendamos que [comience leyendo esto](open-data-in-60-seconds.html).
 
 Empezar una iniciativa de datos abiertos puede que sea más fácil de lo que comúnmente se cree. Si es que se tiene datos
 en [formato electrónico re-utilizable](essentials.html#definition), un [sitio web de acceso público](technology.html)
-para cargarlos y una [licencia de libre acceso](essentials.html#licenses), entonces está bien encaminado. 
+para cargarlos y una [licencia de datos abiertos](essentials.html#licenses), entonces está bien encaminado. 
 
 Está herramienta de Datos Abiertos Gubernamentales es actualizada regularmente con nueva información. Si es que tiene
 alguna sugerencia o corrección por favor [envíenos sus comentarios][1]. 
