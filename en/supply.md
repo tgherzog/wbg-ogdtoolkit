@@ -179,7 +179,7 @@ Data governance is often addressed within the context of [Open Data policies](es
   * Documenting data that cannot be released
 
 
-### Anonymization
+### Anonymization {#anonymization}
 
 Anonymization is the process of obscuring or removing information from a dataset that could be used to identify individuals, households or businesses, so that their anonymity is preserved and protected. Anonymization and the imperative to protect confidentiality are especially important for governments releasing public data. Equally important is the need for organizations to clearly articulate their privacy policies concerning data management, both to individuals that provide data and individuals that use that data.  That said, many, many types of government data do not entail confidential information, and thus have little or no need for anonymization techniques.
 
