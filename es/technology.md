@@ -197,8 +197,10 @@ La Open Knowledge Foundation también ofrece servicios de alojamiento de datos e
 mensual. CKAN está programado en el lenguaje Python y está diseñado para publicar y administrar
 datos ya sea mediante una interfaz de usuario o una API.
 
-CKAN presenta una arquitectura modular que
-permite agregar características adicionales o específicas.
+CKAN tiene una arquitectura modular a través de la cual se pueden añadir funcionalidades a la medida
+de los usuarios. Por ejemplo, el [DDI Importer][ddi-ckan] (financiado por el Banco Mundial) es una extensión que
+permite añadir metadatos en el formato [DDI metadata standard][ddi-std], incluyendo la posibilidad de capturar
+metadatos directamente desde los catálogos de microdatos.
 
 **Ejemplos**
 
@@ -236,22 +238,23 @@ un catálogo de otro usuario.
 
 ### OpenDataSoft
 
-[OpenDataSoft][18] es una plataforma de SaaS alojada en la nube que ofrece un conjunto extenso de
-herramientas de datos abiertos y visualización. La plataforma acepta formatos comunes de
-datos abiertos, como CSV, JSON y XML, así como varios formatos geoespaciales, como KML, OSM y SHP.
-La función de búsqueda es muy sencilla y fácil de usar.
+[OpenDataSoft][18] es una plataforma de Software como Servicio (SaaS) basada en la nube, que ofrece un
+conjunto complete de herramientas de Open Data y de visualización de datos. La capa frontal es
+[totalmente de libre acceso](https://github.com/opendatasoft). La plataforma soporta muchos de los
+formatos más comunes de datos Abiertos, como CSV, JSON y XML, así como formatos de datos
+geo-espaciales como KML, OSM y SHP. La función de búsqueda es fácil de utilizar y la plataforma está
+disponible en varios idiomas. 
 
-[OpenDataSoft][18] es una plataforma de SaaS alojada en la nube que
-ofrece un conjunto extenso de herramientas de datos abiertos y
-visualización. La plataforma acepta formatos comunes de datos abiertos, como CSV, JSON y XML, así
-como varios formatos geoespaciales, como KML, OSM y SHP. La función de búsqueda es muy sencilla y
-fácil de usar.
+Los socios del Banco Mundial pueden acceder libremente a una
+[versión libre de OpenDataSoft](https://hello.opendatasoft.com/open-data-portal-for-non-profits-and-ngos).
+
 
 **Ejemplos**
 
-* [Open Data Brussels](http://opendata.brussels.be)
+* [Kapsarc (Arabia Saudita)](https://datasource.kapsarc.org/page/home/)
 * [Paris Data](http://opendata.paris.fr)
-* [SNCF](http://data.sncf.com)
+* [Ministerio de Salud (Portugal)](https://www.sns.gov.pt/transparencia/)
+* [Ciudad de Cary (USA)](https://data.townofcary.org/page/home/)
 
 ### Semantic MediaWiki
 
@@ -282,6 +285,13 @@ de su API, destinada a facilitar la transición a clientes que deciden migrar de
 * [Kenya][27]
 * [Programa de las Naciones Unidas para el Desarrollo][28]
 
+* [Kenya][27]
+* [U.S. Medicare](https://data.medicare.gov/)
+* [Ciudad de Los Angeles](https://data.lacity.org/)
+* [Global Island Partnership](https://impact.glispa.org/)
+* [Carbon Disclosure Project](https://data.cdp.net/)
+
+
 ### Swirrl
 
 [Swirrl][29] es una plataforma de datos abiertos SaaS alojada en la nube que se construyó con
@@ -294,6 +304,37 @@ través de estructuras más convencionales, como CSV.
 * [OpenDataCommunities](http://opendatacommunities.org)
 * [Open Data Scotland](http://opendatascotland.org)
 * [Municipio de Hampshire](http://linkeddata.hants.gov.uk)
+
+
+## Plataformas de Datos Geo-espaciales {#gis}
+
+### ArcGIS Open Data
+
+[ArcGIS Open Data](http://opendata.arcgis.com) es una plataforma de Software como Servicio (SaaS)
+basada en la nube en la cual los usuarios pueden explorar datos espaciales y no espaciales en una
+interface consistente, lo cual permite utilizar funcionalidades específicas y bajar los datos en
+varios formatos abiertos o por medio de interfaces a los aplicativos (APIs). El software está
+incluido sin costo adicional a los suscriptores de ArcGIS Online. Utiliza los servicios de ArcGIS e
+incluye centenas de aplicaciones en código fuente abierto para computadores, teléfonos móviles o
+web. ArcGIS Open Data utiliza [Koop](http://koopjs.github.io), un motor cuyo código es de libre
+acceso, que transforma automáticamente los servicios web en formatos accesibles.
+
+**Ejemplos**
+
+* [Ciudad de Los Angeles](http://geohub.lacity.org/)
+* [US Departamento de Seguridad Nacional](https://hifld-dhs-gii.opendata.arcgis.com/)
+* [Global Forest Watch](http://data.globalforestwatch.org/)
+
+[GeoNode](http://geonode.org) en una plataforma en código Fuente abierto para desarrollar sistemas de información
+geo-espacial y para desplegar infraestructuras de datos espaciales. Esta diseñado para poder ser
+extendido y modificado con facilidad y puede ser integrado con otras plataformas.
+
+**Ejemplos**
+
+* [Programa Mundial de Alimentos de las NNUU](http://geonode.wfp.org/)
+* [Haiti Data](http://haitidata.org/)
+* [GeoSINAGER (Bolivia)](http://geosinager.defensacivil.gob.bo/)
+
 
 ## Lectura adicional
 
@@ -313,6 +354,10 @@ opciones tecnológicas.
 * [Lista de comprobación sobre datos abiertos][1].
   Esta lista de mejores prácticas relacionadas con los datos abiertos es una buena referencia para
   comprobar los requisitos habituales de una plataforma de datos.
+* [Requerimientos para Portales de Datos Abiertos](http://labs.centerforgov.org/open-data/portal-requirements)
+  (Centro de Excelencia en el Gobierno).
+  Este documento contiene un conjunto de requerimientos tipo para ayudar a los gobiernos a evaluar,
+  desarrollar, licitar, implementar y lanzar un sitio web (portal) de datos abiertos.
 * [Presentación de ODI: Cómo seleccionar la plataforma de datos abiertos adecuada][32]
   (Open Data Institute, 2014).
   Esta presentación de diapositivas ofrece una reseña exhaustiva de las principales consideraciones
@@ -354,3 +399,6 @@ opciones tecnológicas.
 [rdf]: http://www.w3.org/RDF
 [sparql]: http://en.wikipedia.org/wiki/SPARQL
 [od-tech-platforms]: ../docs/OGDPlatforms-White-Paper.docx
+
+[ddi-ckan]: http://extensions.ckan.org/extension/ddi-importer
+[ddi-std]:  http://www.ddialliance.org

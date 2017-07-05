@@ -72,6 +72,30 @@ está disponible aquí][od-briefing].
   Word](../docs/odra/odra_v2-en.doc)
 
 
+### Herramientas de Evaluación Sectoriales ### {#sector-tools}
+
+#### Diagnóstico para Datos Abiertos de Energía
+
+Esta herramienta ayuda a las autoridades y los actores del sector energético a evaluar y planificar
+acciones para fortalecer el uso de los datos abierto de energía a nivel nacional o local.
+
+* **Metodología:** [MS Word](../docs/odra/odra_energy_v1_methodology-en.docx)
+* **Diagnósticos completados:**
+  * **Nairobi, Kenia** (noviembre 2015): [Reporte](../docs/odra/odra_energy-nairobi.pdf)
+  * **Accra, Ghana** (noviembre 2015): [Reporte](../docs/odra/odra_energy-accra.pdf)
+
+#### Herramienta de Datos Abiertos para Negocios (OD4B) #### {#OD4B}
+
+La herramienta OD4B es una metodología para evaluar el uso actual y potencial de los datos abiertos
+de gobierno por empresas privadas. 
+
+* **Metodología:** [PDF](../docs/odra/od4b_v2.8-en.pdf)
+* **Suplementos:** [Anexo 7](../docs/odra/od4b_v2.8_annex7.xlsx) \| [Anexo 8](../docs/odra/od4b_v2.8_annex8.xlsx)
+* **Diagnostico completado:**
+  * OD4B-Sierra Leone (enero 2015): [PDF](../docs/odra/od4b_sierra_leone.pdf)
+
+
+
 
 [1]: http://documents.worldbank.org/curated/en/2013/06/19584052/open-data-readiness-assessment-prepared-government-antigua-barbuda
 

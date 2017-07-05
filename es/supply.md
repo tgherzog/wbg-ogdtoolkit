@@ -280,6 +280,20 @@ particular. A continuación se enumeran algunos recursos:
   responderse para garantizar una creación de valor a largo plazo y sostenible. [Varios informes
   complementarios][39] se dieron a conocer en 2013 y 2014.
 
+* [Guía Practica de Control de Diseminación de Microdatos Estadísticos][anony-ihsn].
+  Esta guía ofrece pasos prácticos que puede tomar una agencia para diseminar datos en forma segura,
+  sin restarles utilidad para los propósitos que necesitan los usuarios.
+
+* [Anonimización de Microdatos][anony-ihsn2].
+  Esta herramienta presenta los principios fundamentales de anonimización de datos, técnicas para
+  medir y reducir el riesgo y mejores prácticas aconsejadas por la Red Internacional de Encuestas de
+  Hogares (IHSN).
+
+* [Manejando la Confidencialidad Estadística y el Acceso a Microdatos][anony-unece].
+  Este conjunto de principios y guías fue preparado y adoptado por la Conferencia Europea de
+  Estadísticos. El anexo contiene 20 casos de usos de varios países.
+
+
 
 ### Metadatos
 
@@ -358,3 +372,7 @@ datos del Gobierno, algunos de los más pertinentes son los siguientes:
 [45]: http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53798
 [46]: http://www.tei-c.org/index.xml
 [47]: http://gcmd.gsfc.nasa.gov/add/difguide/index.html
+
+[anony-ihsn]:  http://ihsn.org/home/sites/default/files/resources/Statistical%20Disclosure%20Control%20for%20Microdata_0.pdf
+[anony-ihsn2]: http://ihsn.org/anonymization
+[anony-unece]: https://www.unece.org/fileadmin/DAM/stats/publications/Managing.statistical.confidentiality.and.microdata.access.pdf

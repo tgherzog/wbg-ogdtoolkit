@@ -243,6 +243,10 @@ el uso de los datos abiertos para fines específicos.
   abiertos de gobierno —incluida información sobre exportaciones, ubicaciones y ocupaciones— sobre todo el
   sector formal de la economía brasileña, y crea una base para el diálogo entre los sectores público y privado.
 
+* [Proyecto de Legibilidad por Maquinas][mr-project] (Machine Readability). Incluye ejemplos de usos de datos abiertos
+  legibles por maquinas en países de ingresos medios y bajos. Estos casos se recopilaron como parte
+  del proyecto Mapa de Impacto de Datos Abiertos. 
+
 
 [1]: http://opendefinition.org
 [2]: http://opendatahandbook.org/guide/en/appendices/file-formats
@@ -320,3 +324,5 @@ el uso de los datos abiertos para fines específicos.
 [74]: http://gottovote.co.ke/
 [75]: http://www.brightscope.com/about/plan-management-dashboard/
 [76]: http://dataviva.info/
+
+[mr-project]: http://opendataimpactmap.org/usecases.html#MachineReadabilityProject
