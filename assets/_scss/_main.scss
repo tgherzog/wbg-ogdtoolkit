@@ -364,9 +364,13 @@
       }
       h2,
       h3 {
+		/*
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
+		*/
+		text-indent: -24px;
+		padding-left: 24px;
       }
     }
   }
