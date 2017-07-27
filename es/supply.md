@@ -3,7 +3,7 @@ title: Oferta y calidad de los datos
 ---
 
 En esta sección se brinda orientación sobre la gestión y conservación de los datos para garantizar
-que cumplan las mejores prácticas de manejo de datos abiertos y los estándares establecidos por las
+que cumplan las mejores prácticas de manejo de Datos Abiertos y los estándares establecidos por las
 comunidades profesionales de tratamiento de datos. Los contenidos están dirigidos a personas y
 organizaciones que participan en la producción de datos, como los ministerios del Gobierno y los
 organismos de estadística, pero los consumidores que desean comprender cómo se producen los datos
@@ -24,16 +24,16 @@ que también pueden aplicarse a muchos otros tipos de datos:
 | **Coherencia** | El grado en que los datos se ajustan a las definiciones y metodologías reconocidas. |
 {: .w30 }
 
-Un conjunto de dimensiones similar, publicado en el [documento de datos abiertos en los proyectos][2],
-puede usarse para entender la calidad, especialmente en el contexto de los datos abiertos:
+Un conjunto de dimensiones similar, publicado en el [documento de Datos Abiertos en los proyectos][2],
+puede usarse para entender la calidad, especialmente en el contexto de los Datos Abiertos:
 
 | **Carácter público** | El grado en que los datos gubernamentales se tratan, favoreciendo la apertura, en la medida permitida por la ley y con sujeción a restricciones de privacidad, confidencialidad, seguridad y otras. |
-| **Accesibilidad** | La medida en que los datos abiertos se ponen a disposición del público en formatos convenientes, modificables y abiertos, de manera que se puedan obtener, descargar, indexar y someter a búsquedas. |
-| **Descripción** | El grado de detalle de las descripciones de datos abiertos, de modo que los consumidores tengan suficiente información para entender sus puntos fuertes, sus puntos débiles, sus limitaciones analíticas y sus requisitos de seguridad, además de saber cómo procesarlos. |
-| **Reutilización** | Si los datos abiertos se ofrecen en virtud de una licencia abierta que no establece restricciones de uso. |
-| **Exhaustividad** | Si los datos abiertos se publican en formas primarias (es decir, como se recolectaron de la fuente), con el mayor nivel de granularidad posible que permitan las leyes y otros requisitos. |
-| **Oportunidad** | La velocidad con que los datos abiertos se ponen a disposición del público, de modo de preservar su valor. |
-| **Gestión posterior a la publicación** | Si se designa un punto de contacto para ayudar con el uso de los datos y responder a reclamaciones sobre cumplimiento de estos requisitos de datos abiertos |
+| **Accesibilidad** | La medida en que los Datos Abiertos se ponen a disposición del público en formatos convenientes, modificables y abiertos, de manera que se puedan obtener, descargar, indexar y someter a búsquedas. |
+| **Descripción** | El grado de detalle de las descripciones de Datos Abiertos, de modo que los consumidores tengan suficiente información para entender sus puntos fuertes, sus puntos débiles, sus limitaciones analíticas y sus requisitos de seguridad, además de saber cómo procesarlos. |
+| **Reutilización** | Si los Datos Abiertos se ofrecen en virtud de una licencia abierta que no establece restricciones de uso. |
+| **Exhaustividad** | Si los Datos Abiertos se publican en formas primarias (es decir, como se recolectaron de la fuente), con el mayor nivel de granularidad posible que permitan las leyes y otros requisitos. |
+| **Oportunidad** | La velocidad con que los Datos Abiertos se ponen a disposición del público, de modo de preservar su valor. |
+| **Gestión posterior a la publicación** | Si se designa un punto de contacto para ayudar con el uso de los datos y responder a reclamaciones sobre cumplimiento de estos requisitos de Datos Abiertos |
 {: .w30 }
 
 ## Estándar de los Datos   {#standards}
@@ -79,12 +79,9 @@ los datos y cómo evaluar la calidad. Estas suelen ser muy útiles para las ONE.
   se usa para las evaluaciones integrales de la calidad de los datos de los países. Aborda los
   entornos institucionales, los procesos estadísticos y las características de los productos
   estadísticos.
-  <cite>El MECAD consta de un marco genérico
-  y módulos adicionales para las estadísticas de las cuentas nacionales,
-  los índices de precios para el consumidor y el productor, las
-  estadísticas financieras del Gobierno y deuda del sector público, las
-  estadísticas monetarias, la balanza de pagos y la deuda
-  externa.</cite>
+  <cite>El MECAD consta de un marco genérico y módulos adicionales para estadísticas de cuentas
+  nacionales, índices de precios para el consumidor y el productor, estadísticas de finanzas pública
+  y deuda pública, estadísticas monetarias, de balanza de pagos y de deuda externa.</cite>
 
 * [Indicador de la capacidad estadística del Banco Mundial][9]. Esta herramienta ofrece un panorama
   general de la capacidad estadística de los países en desarrollo, basada en un marco de diagnóstico
@@ -124,7 +121,7 @@ para ofrecer asesoría sobre la implementación de la OCDS.
 Los datos de presupuesto hacen referencia a los gastos del sector público, desglosados por nivel de
 Gobierno, categoría funcional o programática, ejercicio económico y fuente de financiamiento. BOOST
 y OpenSpending son dos iniciativas que ofrecen buenos ejemplos de cómo producir datos de presupuesto
-que estén en consonancia con las mejores prácticas de datos abiertos de gobierno:
+que estén en consonancia con las mejores prácticas de Datos Abiertos de gobierno:
 
 * [BOOST][16]. La iniciativa BOOST es un esfuerzo de colaboración de todo el Banco para facilitar el
   acceso a datos de presupuesto y mejorar los procesos de toma de decisiones y la transparencia.
@@ -133,19 +130,18 @@ que estén en consonancia con las mejores prácticas de datos abiertos de gobier
   granularidad sean entendibles y accesibles para los principales usuarios, como las legislaturas y
   la sociedad civil.
   <cite>Los datos de gastos se distribuyen siguiendo dimensiones fiscales básicas, como función,
-  fuentes económicas y de fondos, y pueden vincularse con conjuntos adicionales para respaldar una
-  mayor eficiencia y realizar análisis de equidad. BOOST también se utiliza para establecer
-  presupuestos abiertos y mejorar la rendición de cuentas porque permite que los datos
-  presupuestarios estén al alcance de los usuarios en un marco coherente y fácilmente
-  comprensible.</cite>
+  áreas económicas y fuentes de fondos, y pueden vincularse con otros datos para respaldar una mayor
+  eficiencia y realizar análisis de equidad. BOOST también se utiliza para establecer presupuestos
+  abiertos y mejorar la rendición de cuentas porque permite que los datos presupuestarios estén al
+  alcance de los usuarios en un marco coherente y fácilmente comprensible.</cite>
 
 * [OpenSpending][17]. Esta es una base de datos abierta, central y de alta calidad, compuesta por información
   financiera pública, incluidos presupuestos, gastos y balances; una comunidad de usuarios y
   contribuyentes, y un conjunto de recursos abiertos que proporcionan la comprensión técnica, fiscal
   y política necesaria para trabajar con los datos financieros.
-  <cite>OpenSpending monitorea y analiza la información de las finanzas públicas de todo el mundo, y
-  su base de datos es un recurso para que periodistas, estudiosos, jefes de campañas y otros puedan
-  analizar e investigar este tipo de información.</cite>
+  <cite>OpenSpending hace seguimiento y analiza la información de las finanzas públicas de todo el
+  mundo, y su base de datos es un recurso para que periodistas, estudiosos, jefes de campañas y
+  otros puedan analizar e investigar este tipo de información.</cite>
 
 
 ### Datos de transporte
@@ -166,7 +162,7 @@ Los datos geoespaciales identifican los aspectos geográficos de una extensa var
 la ubicación de edificios o centros de votación, los límites de vecindarios y ciudades, o la
 ubicación de concesiones forestales.
 
-En las iniciativas de datos abiertos, los datos geoespaciales se suelen distribuir en al menos uno
+En las iniciativas de Datos Abiertos, los datos geoespaciales se suelen distribuir en al menos uno
 de los siguientes formatos:
 
 * [GeoJSON][20] es una derivación de JSON, el popular formato de datos basado en Javascript, y esta
@@ -205,10 +201,10 @@ Estas referencias ofrecen orientación a las organizaciones que administran micr
   sobre archivo y divulgación de datos, incluida la creación de metadatos y la catalogación. La
   orientación sobre microdatos del Banco Mundial se basa en gran medida en esta fuente. Sin embargo,
   se debe tener en cuenta que las directrices IHSN hacen hincapié en las mejores prácticas de
-  divulgación de microdatos, pero no necesariamente los consideran como datos abiertos.
-  <cite>Por ejemplo, en ellas se analiza una variedad de opciones para emitir licencias y acceso a
-  los datos---incluidas las opciones de registrar a los usuarios y cobrar tarifas,---que no
-  condicen con las mejores prácticas de datos abiertos.</cite>
+  divulgación de microdatos, pero no necesariamente los consideran como Datos Abiertos.
+  <cite>Por ejemplo, en ellas se analiza una variedad de opciones para emitir licencias y dar acceso
+  a los datos--—incluidas las opciones de registrar a los usuarios y cobrar tarifas--—que no condicen
+  con las mejores prácticas de Datos Abiertos.</cite>
 
 ### Datos de ayuda
 
@@ -221,30 +217,30 @@ la IATI][31].
 
 ## Más orientación sobre calidad y técnicas   {#guidance}
 
-Las normas sobre gestión y datos anónimos ayudan a aclarar la gestión de
-datos y los procesos de seguridad, y los metadatos ofrecen detalles
-valiosos sobre la composición y las fuentes de datos.
+Las normas sobre gestión y anonimización de datos ayudan a aclarar los procesos de gestión y
+seguridad de datos, y los metadatos ofrecen detalles valiosos sobre la composición y las fuentes de
+datos.
 {: .pullquote }
 
 ### Gestión de datos
 
 
-La gestión de datos explica cómo se gestionan los datos abiertos durante su puesta en marcha y
+La gestión de datos explica cómo se gestionan los Datos Abiertos durante su puesta en marcha y
 después, en forma constante. En las políticas de gestión se establecen las líneas de autoridad
 dentro del Gobierno y los ministerios para gestionar los datos, se describen el proceso y los
 requisitos para publicar o actualizar datos, y se ofrece un medio para que los usuarios se
 comuniquen con los proveedores en relación con problemas o pedidos que se produzcan. 
 
-La gestión de los datos se suele abordar en el contexto de las [políticas de datos abiertos](essentials.html#policies).
+La gestión de los datos se suele abordar en el contexto de las [políticas de Datos Abiertos](essentials.html#policies).
 Estos son otros recursos:
 
 * [Guías para la puesta en marcha rápida de un portal de datos, de data.gov.uk][32]. Estos recursos proporcionan
   un panorama general de los mecanismos de gestión tanto a alto nivel (entre organismos) como a
   nivel local (es decir, un catálogo de datos únicos), y describen las diferentes funciones de la
   gestión de conjuntos de datos.
-* [Guía sobre la implementación de datos en los proyectos][33]. Este documento forma parte de los [datos abiertos
+* [Guía sobre la implementación de datos en los proyectos][33]. Este documento forma parte de los [Datos Abiertos
   en los proyectos][34] del Gobierno de los Estados Unidos y ofrece información a los organismos que
-  implementan la [orden ejecutiva sobre datos abiertos][35]. Entre otros temas, ofrece orientación sobre
+  implementan la [orden ejecutiva sobre Datos Abiertos][35]. Entre otros temas, ofrece orientación sobre
   lo siguiente:
 
   * Creación y mantenimiento del inventario institucional de todos los conjuntos de datos que posee un organismo.
@@ -310,7 +306,7 @@ relacionados con los metadatos que pueden aplicarse a la mayoría de los recurso
 Dublin Core se utiliza ampliamente en [DCAT][41], un estándar diseñado para facilitar la interoperabilidad
 entre catálogos de datos basados en la Web. Los Gobiernos pueden desarrollar sus propios modelos de
 metadatos (preferentemente basados en estándares establecidos, como el DCAT) para proporcionar mayor
-uniformidad a iniciativas de datos abiertos de todo el Gobierno. Un ejemplo es el [plan de metadatos][42]
+uniformidad a iniciativas de Datos Abiertos de todo el Gobierno. Un ejemplo es el [plan de metadatos][42]
 dado a conocer por data.gov.
 
 Otros estándares de metadatos se utilizan para una [amplia variedad de tipos de datos][43]. En el caso de
