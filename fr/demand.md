@@ -315,7 +315,7 @@ forums qui défendent et soutiennent le libre accès aux données :
 * Réseaux sociaux : Suivez les hashtags [#opendata][55], [#opengov][56]
   et[ #gov20][57] sur Twitter.
 
-## Pour aller plus loin...   {#additional-reading}
+## Pour aller plus loin...
 
 En cliquant sur ces liens, vous trouverez de plus amples informations
 sur la demande et les stratégies participatives liées à l'Open Data :

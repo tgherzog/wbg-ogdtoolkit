@@ -1,4 +1,4 @@
----
+﻿---
 title: Technology Options
 ---
 
@@ -276,9 +276,9 @@ available via more conventional structures such as CSV.
 
 **Examples**
 
-* [OpenDataCommunities](opendatacommunities.org)
-* [Open Data Scotland](opendatascotland.org)
-* [Hampshire City Council](linkeddata.hants.gov.uk)
+* [OpenDataCommunities](http://opendatacommunities.org)
+* [Open Data Scotland](http://opendatascotland.org)
+* [Hampshire City Council](http://linkeddata.hants.gov.uk)
 
 
 ## Geospatial Data Platforms {#gis}
@@ -329,3 +329,6 @@ reference for the typical requirements of an Open Data platform.
 (Open Data Institute, 2014). This slide deck presentation gives a thorough overview of the key considerations in choosing an Open Data platform, and includes
 a brief overview of several of the most prominent products.
 
+* [Recommendations for Open Data Portals: from setup to sustainability](https://www.europeandataportal.eu/sites/default/files/edp_s3wp4_sustainability_recommendations.pdf).
+  This report sets out how portals can move from setup to sustainability in governance,
+  financing, architecture, operations, and metrics. 
