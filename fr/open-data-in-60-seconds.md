@@ -11,8 +11,9 @@ Pendant longtemps, il était difficile d'accéder à ces informations
 relevant des pouvoirs publics, lorsqu'elles n'étaient pas tout
 simplement indisponibles.
 
-C'était avant la naissance, très récente, de l'<<Open Data>> (que
-l'on traduit en français par données ouvertes).
+Les données sont considérées comme «ouvertes» si toute personne peut accéder,
+utiliser, réutiliser et distribuer librement, à toutes fins utiles, sans
+restrictions.
 {: .pullquote}
 
 Ce concept est né de la conviction que l'énorme quantité d'information systématiquement

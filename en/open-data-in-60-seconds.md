@@ -5,7 +5,7 @@ title: Open Data in 60 Seconds
 If you've ever checked an online weather forecast, used your smartphone's GPS to find an all-night drugstore or calculated how much your city paid for road repairs, you’ve used Open Data. For a long time, however,
 accessing these government data were very difficult, if they were available at all.
 
-Data are considered to be "open" if anyone can freely use, re-use and redistribute them, for any purpose, without
+Data are considered to be "open" if anyone can freely access, use, re-use and redistribute them, for any purpose, without
 restrictions.
 {: .pullquote :}
 
