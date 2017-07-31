@@ -1,17 +1,17 @@
 ---
-title: Aspectos fundamentales de los datos abiertos
+title: Aspectos fundamentales de los Datos Abiertos
 ---
 
-Esta sección resume los aspectos fundamentales de los datos abiertos de gobierno, empezando por una definición y
+Esta sección resume los aspectos fundamentales de los Datos Abiertos de gobierno, empezando por una definición y
 ofreciendo ejemplos de la vida real sobre cómo se publican los datos y cómo se han llevado a la práctica estos sistemas.
 
-# Definición de datos abiertos   {#definition}
+# Definición de Datos Abiertos   {#definition}
 
-El término “Datos abiertos” tiene un [significado muy preciso][1]. Los datos o el contenido son abiertos cuando cualquier
+El término “Datos Abiertos” tiene un [significado muy preciso][1]. Los datos o el contenido son abiertos cuando cualquier
 persona los puede utilizar, re-utilizar o redistribuir, tomando a lo sumo medidas para preservar el origen y la
-condición de datos abiertos.
+condición de Datos Abiertos.
 
-Los datos abiertos tienen dos dimensiones:
+Los Datos Abiertos tienen dos dimensiones:
 
 1.	Deben de ser **abiertos en términos jurídicos**, lo que significa que deben ponerse en un sitio de acceso público u
     ofrecerse en condiciones liberales de uso y con mínimas restricciones.
@@ -19,13 +19,13 @@ Los datos abiertos tienen dos dimensiones:
 2.	Deben ser **técnicamente abiertos**, lo que significa que deben publicarse en formatos electrónicos [que puedan leerse
     con máquinas y que preferentemente no sean exclusivos][2], de modo que cualquier persona puede acceder a ellos y usarlos
     mediante herramientas de software comunes y gratuitas. Los datos también deben de estar disponibles en un servidor
-    público sin contraseñas ni restricciones de *firewalls*. Para que los datos abiertos sean más fáciles de encontrar, la
-    mayoría de las organizaciones crea y administra [catálogos de datos abiertos](#examples).
+    público sin contraseñas ni restricciones de *firewalls*. Para que los Datos Abiertos sean más fáciles de encontrar, la
+    mayoría de las organizaciones crea y administra [catálogos de Datos Abiertos](#examples).
 
 
-## Licencias de datos abiertos   {#licenses}
+## Licencias de Datos Abiertos   {#licenses}
 
-Las organizaciones y los Gobiernos utilizan las licencias de datos abiertos para explicar claramente las condiciones en
+Las organizaciones y los Gobiernos utilizan las licencias de Datos Abiertos para explicar claramente las condiciones en
 que estos pueden utilizarse. Muchas licencias de uso incluyen tanto una versión resumida, en la que se intenta
 transmitir los conceptos más importantes a todos los usuarios, y una versión detallada que proporciona toda la
 justificación legal.  Estos son algunos ejemplos:
@@ -38,37 +38,37 @@ justificación legal.  Estos son algunos ejemplos:
   abiertos de gobierno del Reino Unido][7], los [términos de uso del Banco Mundial][8] y la [licencia abierta del Gobierno de
   Francia][9].
 
-En estos enlaces se puede encontrar más información sobre la definición y las licencias de uso de los datos abiertos.
+En estos enlaces se puede encontrar más información sobre la definición y las licencias de uso de los Datos Abiertos.
 
 ## Lectura adicional
 
-* [Licencias de datos abiertos: Una guía práctica][10]
+* [Licencias de Datos Abiertos: Una guía práctica][10]
 * [Guía sobre lectura con máquinas de documentos y datos en línea][11]
 
 
 
-# Ejemplos de datos abiertos   {#examples}
+# Ejemplos de Datos Abiertos   {#examples}
 
-Las iniciativas de datos abiertos se pueden organizar en diferentes niveles y a menudo abarcan varias jurisdicciones.
+Las iniciativas de Datos Abiertos se pueden organizar en diferentes niveles y a menudo abarcan varias jurisdicciones.
 Las iniciativas de países presentan datos de orden nacional y segmentos inferiores; a menudo están federadas, lo que
 significa que reúnen varias fuentes de datos en una misma ubicación. Las iniciativas municipales y sub-nacionales tienen
 un diseño similar pero un alcance menor. Cada organismo o sector puede tener sus propios datos con una orientación
 temática específica. Otras fuentes pueden contener tipos de datos específicos, como indicadores estadísticos, datos
 geoespaciales o micro-datos, como encuestas hechas a empresas y hogares.
 
-Las iniciativas de países suelen estar organizadas a nivel nacional o a
-un nivel inferior; las iniciativas municipales tienen un alcance menor,
-y los datos de organismos se centran habitualmente en un solo tema.
+Las iniciativas de países suelen estar organizadas a nivel nacional o sub-nacional, las iniciativas
+municipales tienen un alcance menor, y los datos de agencias de gobierno se centran habitualmente en
+un solo tema.
 {: .pullquote}
 
 A continuación, se presentan ejemplos de datos de abiertos a nivel nacional, estatal/provincial o de organismos
 individuales, y de temas específicos. Estas listas no son exhaustivas, ya que existen cientos de iniciativas oficiales
-de datos abiertos. Se pueden encontrar más ejemplos en [data.gov][12] y el [censo de datos abiertos][13].
+de Datos Abiertos. Se pueden encontrar más ejemplos en [data.gov][12] y el [censo de Datos Abiertos][13].
 
 
 
 
-## Datos abiertos de nivel nacional
+## Datos Abiertos de nivel nacional
 
 * [Australia][14]
 * [Brasil][15]
@@ -85,7 +85,7 @@ de datos abiertos. Se pueden encontrar más ejemplos en [data.gov][12] y el [cen
 * [Reino Unido][26]
 * [Estados Unidos de América][27]
 
-## Datos abiertos de ciudades y nivel subnacional
+## Datos Abiertos de ciudades y nivel subnacional
 
 * [Buenos Aires][28], Argentina
 * [Chicago][29], Estados Unidos
@@ -98,10 +98,10 @@ de datos abiertos. Se pueden encontrar más ejemplos en [data.gov][12] y el [cen
 * [Viena][36], Austria
 * [Vancouver][37], Canadá
 
-## Datos abiertos por sector/tema
+## Datos Abiertos por sector/tema
 
-A continuación, se presentan ejemplos de datos abiertos de sectores y temas específicos. Para ver ejemplos de
-aplicaciones que utilizan algunas de estas fuentes de datos, vea [Usos de los datos abiertos](#usos).
+A continuación, se presentan ejemplos de Datos Abiertos de sectores y temas específicos. Para ver ejemplos de
+aplicaciones que utilizan algunas de estas fuentes de datos, vea [Usos de los Datos Abiertos](#usos).
 
 
 | Sector | Sitio web |
@@ -118,42 +118,41 @@ aplicaciones que utilizan algunas de estas fuentes de datos, vea [Usos de los da
 | Educación | [CheckMySchool][47] |
 | Energía e industrias extractivas | [Iniciativa para la Transparencia de las Industrias Extractivas][48] |
 | Energía e industrias extractivas | [Departamento de Energía de los Estados Unidos][49] |
-| Energía e industrias extractivas | [Datos abiertos de Enel][50], principal empresa de electricidad de Italia |
+| Energía e industrias extractivas | [Datos Abiertos de Enel][50], principal empresa de electricidad de Italia |
 | Medio ambiente | [Datos climáticos abiertos][51] |
 | Medio ambiente | [Datos sobre ahorro de combustible][52], Agencia de Protección Ambiental de los Estados Unidos |
-| Medio ambiente | [Datos abiertos sobre medio ambiente de la Ciudad de Nueva York][53] |
+| Medio ambiente | [Datos Abiertos sobre medio ambiente de la Ciudad de Nueva York][53] |
 | Información geoespacial | [OpenStreetMap][54] |
 | Información geoespacial | [Información geoespacial Haiti Data][55] |
 | Salud | [Departamento de Salud y Servicios Sociales de los Estados Unidos][56] |
 | Salud | [Bases de datos sobre costos y utilización de los servicios de salud en los Estados Unidos, de la Agencia para la Investigación y la Calidad de los Servicios de Salud (AHRQ)][57] |
 | Salud | [Datos de salud del Banco Mundial][58] |
-| Tecnologías de la información y las comunicaciones (TIC) | [Conjuntos de datos abiertos de TIC de Australia][59] |
+| Tecnologías de la información y las comunicaciones (TIC) | [Conjuntos de Datos Abiertos de TIC de Australia][59] |
 | Transporte | [OpenPlans][60] |
 | Transporte | [Plataforma informativa del sector público europeo: Transporte][61] |
 | Agua | [Base de datos mundial sobre el agua][62] |
 
-# Usos de los datos abiertos   {#uses}
+# Usos de los Datos Abiertos   {#uses}
 
-Para que los datos abiertos de gobierno tengan impacto y valor, deben poder utilizarse. Por lo tanto, lograr que los
-datos sean útiles es el componente central de una buena iniciativa de datos abiertos. Con frecuencia, una característica
+Para que los Datos Abiertos de gobierno tengan impacto y valor, deben poder utilizarse. Por lo tanto, lograr que los
+datos sean útiles es el componente central de una buena iniciativa de Datos Abiertos. Con frecuencia, una característica
 de los datos utilizables, es que presentan [metadatos completos](supply.html).
 
-Cuando los datos abiertos se utilizan para nuevos productos o
-servicios, pueden aumentar la demanda de datos, además de impulsar la
-publicación de otros conjuntos de datos y mejoras de la calidad.
+Cuando los Datos Abiertos se utilizan para nuevos productos o servicios, pueden aumentar la demanda
+de datos, además de impulsar la publicación de otros datos y mejoras en la calidad de los datos.
 {: .pullquote}
 
-Como indicadores de una iniciativa exitosa de datos abiertos se pueden mencionar dos casos: cuando los desarrolladores
+Como indicadores de una iniciativa exitosa de Datos Abiertos se pueden mencionar dos casos: cuando los desarrolladores
 aprovechan estos datos para crear productos y servicios nuevos y valiosos o cuando integran los datos en productos o
 servicios existentes. En una situación ideal, esto genera un “círculo virtuoso” en el que los nuevos productos aumentan
-la [demanda de datos abiertos](demand.html), lo que conduce a la publicación de otros conjuntos de datos, el desarrollo de nuevas
+la [demanda de Datos Abiertos](demand.html), lo que conduce a la publicación de otros conjuntos de datos, el desarrollo de nuevas
 aplicaciones, etc. Un ciclo estructurado de manera similar puede generar mejoras en la calidad de los datos; es decir, a
 medida que los usuarios hacen preguntas y formulan comentarios sobre los datos que están tratando de usar, los
 proveedores tienen la oportunidad de mejorar los metadatos y otra información secundaria.
 
-En la siguiente lista se incluyen ejemplos de aplicaciones que utilizan los datos abiertos, agrupadas por tema. Muchas
+En la siguiente lista se incluyen ejemplos de aplicaciones que utilizan los Datos Abiertos, agrupadas por tema. Muchas
 de ellas se desarrollaron para competencias, hackatones u otras [actividades estimulantes de la demanda](demand.html), para promover
-el uso de los datos abiertos para fines específicos.
+el uso de los Datos Abiertos para fines específicos.
 
 
 ### Medio ambiente
@@ -218,11 +217,11 @@ el uso de los datos abiertos para fines específicos.
 ### Gobierno abierto
 
 * [Civic Commons][72]. Un producto que ayuda a los Gobiernos y las instituciones a compartir conocimientos, soluciones y
-  mejores prácticas para dar un mejor uso a la tecnología y promover los datos abiertos y el gobierno abierto.
+  mejores prácticas para dar un mejor uso a la tecnología y promover los Datos Abiertos y el gobierno abierto.
   Ofrece servicios a una comunidad de tecnólogos cívicos compartiendo no solo un repositorio de aplicaciones e información
   de gobierno y cuestiones cívicas, sino también su código abierto.
 
-* [Socrata: Aplicaciones de datos abiertos][73]. Un repositorio de ejemplos que muestran cómo los datos abiertos
+* [Socrata: Aplicaciones de Datos Abiertos][73]. Un repositorio de ejemplos que muestran cómo los Datos Abiertos
   permiten la creación de aplicaciones de tecnología cívica.
 
 * [GotToVote!][74] Una herramienta basada en datos que ayuda a los ciudadanos a comprender cuestiones mencionadas en las
@@ -243,7 +242,7 @@ el uso de los datos abiertos para fines específicos.
   abiertos de gobierno —incluida información sobre exportaciones, ubicaciones y ocupaciones— sobre todo el
   sector formal de la economía brasileña, y crea una base para el diálogo entre los sectores público y privado.
 
-* [Proyecto de Legibilidad por Maquinas][mr-project] (Machine Readability). Incluye ejemplos de usos de datos abiertos
+* [Proyecto de Legibilidad por Maquinas][mr-project] (Machine Readability). Incluye ejemplos de usos de Datos Abiertos
   legibles por maquinas en países de ingresos medios y bajos. Estos casos se recopilaron como parte
   del proyecto Mapa de Impacto de Datos Abiertos. 
 

@@ -7,123 +7,106 @@ title: Asistencia técnica y financiamiento
 El Banco Mundial ofrece asistencia técnica a los Gobiernos de los países clientes en las siguientes
 esferas:
 
-| **Participación, difusión y capacitación** | Lleva a cabo sesiones informativas para clientes y oficinas en los países sobre datos abiertos de gobierno y la justificación del proceso de divulgación de datos. |
+| **Participación, difusión y capacitación** | Lleva a cabo sesiones informativas para clientes y oficinas en los países sobre Datos Abiertos de gobierno y la justificación del proceso de divulgación de datos. |
 | **Evaluaciones del grado de preparación** | Realiza exámenes breves con representantes clave del Gobierno de un país y usuarios de datos para [evaluar sus capacidades actuales y formular un plan de acción](odra.html). |
-| **Asesoría, asistencia técnica y financiamiento** | Ofrece asesoría y capacitación sobre estrategias de datos abiertos, tecnología y mejores prácticas en materia de políticas para respaldar los programas de datos abiertos de los países clientes. |
+| **Asesoría, asistencia técnica y financiamiento** | Ofrece asesoría y capacitación sobre estrategias de Datos Abiertos, tecnología y mejores prácticas en materia de políticas para respaldar los programas de Datos Abiertos de los países clientes. |
 | **Plataformas de innovación** | Reúne a expertos internacionales y talentos locales para que trabajen en colaboración, se motiven y se ayuden mutuamente, de modo de aprender nuevas formas valiosas de usar los datos. |
-| **Desarrollo de capacidades para la sociedad civil** | Organiza centros de entrenamiento sobre periodismo de datos, ofrece capacitación sobre tratamiento y uso de los datos presupuestarios y ayuda a producir mapas de ayuda extranjera para promover el uso eficaz y responsable de los datos abiertos. |
+| **Desarrollo de capacidades para la sociedad civil** | Organiza centros de entrenamiento sobre periodismo de datos, ofrece capacitación sobre tratamiento y uso de los datos presupuestarios y ayuda a producir mapas de ayuda extranjera para promover el uso eficaz y responsable de los Datos Abiertos. |
 {: .w30 }
 
-El Banco Mundial también cuenta con numerosas iniciativas y programas que utilizan los datos
-abiertos para abordar desafíos específicos.
+El Banco Mundial también cuenta con numerosas iniciativas y programas que utilizan los Datos
+Abiertos para abordar desafíos específicos.
 
 
 
-* [Iniciativa de datos abiertos para la resiliencia][1] (OpenDRI). OpenDRI aplica los conceptos de datos
+* [Iniciativa de Datos Abiertos para la resiliencia][1] (OpenDRI). OpenDRI aplica los conceptos de datos
   abiertos de gobierno para reducir la vulnerabilidad a los peligros naturales y los impactos del
   cambio climático. Además, respalda a los equipos regionales del Banco Mundial dedicados a la
   gestión del riesgo de desastres para fortalecer la capacidad y la posibilidad de identificación a
-  largo plazo de los proyectos de datos abiertos con los países clientes y los asociados, de modo de
+  largo plazo de los proyectos de Datos Abiertos con los países clientes y los asociados, de modo de
   satisfacer las necesidades de las partes interesadas.
-  <cite>Sus programas complementarios incluyen el
-  intercambio de datos a través de GeoNode, una plataforma libre de
-  código abierto que ofrece soluciones técnicas y asistencia; el mapeo
-  comunitario, que utiliza herramientas de mapeo de *crowdsourcing* como
-  OpenStreetMap para lograr la participación de las comunidades en la
-  creación de datos precisos y oportunos sobre entornos urbanos y
-  rurales, y la comunicación de riesgos, que utiliza el *software*
-  InaSAFE para evaluar los posibles efectos de desastres futuros
-  combinando datos de científicos, Gobiernos y comunidades y para
-  comunicar el riesgo con mayor eficacia a los encargados de la toma de
-  decisiones sobre planificación, preparación y respuesta.</cite>
+  <cite>Sus programas complementarios incluyen el intercambio de datos a través de GeoNode, una
+  plataforma de código abierto que ofrece soluciones técnicas y asistencia; el mapeo comunitario,
+  que utiliza herramientas de mapeo por *crowdsourcing*, como OpenStreetMap, para involucrar a las
+  comunidades en la creación de datos precisos y oportunos sobre entornos urbanos y rurales; y la
+  comunicación de riesgos, que utiliza el *software* InaSAFE para evaluar los posibles efectos de
+  desastres futuros combinando datos de científicos, de gobiernos y de comunidades, y para comunicar
+  los riesgos con mayor eficacia a los encargados de la toma de decisiones sobre planificación,
+  preparación y respuesta.</cite>
 
 * [Finanzas de Grupo Banco Mundial][2] (WBGF). El programa WBGF utiliza datos financieros abiertos
   a través de la Web y dispositivos móviles para promover la transparencia, ampliar el uso de
   análisis de datos, respaldar la innovación y la creación de nuevas empresas, y abordar los
   desafíos de desarrollo.
-  <cite>El programa ofrece tres servicios principales: orientación sobre
-  divulgación de datos financieros y participación de las comunidades y
-  las partes interesas en el uso de los datos para la formulación de
-  políticas, incluido el [análisis de la demanda][4]; preparación de
-  herramientas impulsadas por datos para ayudar a los organismos a usar
-  los datos abiertos para prestar servicios con más eficacia, y
-  respaldo al sector privado para promover el crecimiento económico y el
-  impacto social. El WBGF también ofrece servicios de consultoría sobre
-  estrategias móviles para ayudar a los clientes a conectarse con
-  usuarios a través de aplicaciones móviles. Para obtener más
+  <cite>El programa ofrece tres servicios principales: orientación sobre divulgación de datos
+  financieros y participación de las comunidades y las partes interesas en el uso de los datos para
+  la formulación de políticas, incluido [el análisis de la demanda][4]; desarrollo de herramientas de
+  datos para ayudar a los organismos a usar los Datos Abiertos para prestar servicios más
+  eficazmente; y respaldo al sector privado para promover el crecimiento económico y el impacto
+  social. El WBGF también ofrece servicios de consultoría sobre estrategias móviles para ayudar a
+  los clientes a conectarse con usuarios a través de aplicaciones móviles. Para obtener más
   información, escriba a <finances@worldbank.org> o a <ogdtoolkit@worldbank.org>.</cite>
 
 * **Transporte abierto**. Transporte abierto, la próxima generación de herramientas para gestionar
   y planificar los sistemas de transporte en entornos de recursos limitados, adhiere a tres
-  principios: normas de datos abiertos; *software* de código abierto, y respaldo para la
+  principios: normas de Datos Abiertos; *software* de código abierto, y respaldo para la
   preparación de una aplicación de tránsito para lograr un uso mucho mayor de los datos disponibles.
   <cite>Ofrece tres servicios clave para
   la planificación y la gestión del transporte basado en datos:
   recolección de datos; almacenamiento, gestión y uso compartido de
-  datos, y análisis y visualización de datos.</cite>
+  datos: y análisis y visualización de datos.</cite>
 
 * [BOOST][5]. La iniciativa BOOST, una base datos integral del gasto público establecida en 57 países,
   es un esfuerzo de colaboración de todo el Banco para facilitar el acceso a datos de presupuesto,
   ayudar crear presupuestos abiertos y mejorar los procesos de toma de decisiones, la transparencia
   y la rendición de cuentas.
-  <cite>Utiliza los datos gubernamentales y una plantilla de 26 dígitos para lograr
-  que los datos fiscales de alta granularidad sean entendibles y
-  accesibles para los principales usuarios, como las legislaturas y la
-  sociedad civil. Los datos de gastos se distribuyen siguiendo
-  dimensiones fiscales básicas (por ejemplo, administrativa, de
-  funciones, económica, de fuentes de financiamiento, de tipo económico)
-  y pueden vincularse con conjuntos de datos adicionales para lograr
-  mayor eficiencia y realizar análisis de equidad. Para obtener más
-  información, póngase en contacto con Leif Jensen, <ljensen2@worldbank.org>.</cite>
+  <cite>Utiliza los datos gubernamentales y una plantilla de 26 dígitos para lograr que los datos
+  fiscales de alta granularidad sean entendibles y accesibles para los principales usuarios, los
+  legisladores y la sociedad civil. Los datos de gastos se distribuyen siguiendo dimensiones
+  fiscales básicas (por ejemplo, administrativa, de funciones, económica, de fuentes de
+  financiamiento, de tipo económico) y pueden vincularse con conjuntos de datos adicionales para
+  lograr mayor eficiencia y realizar análisis de equidad. Para obtener más información, póngase en
+  contacto con Leif Jensen, <ljensen2@worldbank.org>.</cite>
 
 * [La Alianza para la Ayuda Abierta][6] (OAP). La OAP es una iniciativa de varias partes interesadas que
   tiene su sede en los Laboratorios de Innovación del Grupo Banco Mundial. Reúne a Gobiernos,
   asociados en la tarea del desarrollo, la sociedad civil y grupos de medios de comunicación para
   mejorar colectivamente la transparencia y la eficacia de la ayuda.
-  <cite>Los principales objetivos de la OAP son
-  fortalecer la capacidad de los asociados en los países para
-  recolectar, conservar y publicar datos sobre recursos de desarrollo en
-  un formato abierto y accesible, y utilizar los datos para hacer
-  participar a los ciudadanos y otras partes interesadas en
-  conversaciones sobre desarrollo basadas en las pruebas existentes.
-  Para obtener más información, visite <http://openaidmap.org> o
-  póngase en contacto con <openaid@worldbank.org>.</cite>
+  <cite>Los principales objetivos de la OAP son fortalecer la capacidad de los asociados en los
+  países para recolectar, conservar y publicar datos sobre recursos de desarrollo en un formato
+  abierto y accesible, y utilizar los datos para incorporar a los ciudadanos y otras partes
+  interesadas en conversaciones sobre desarrollo basadas en evidencia. Para obtener más información,
+  visite <http://openaidmap.org> o póngase en contacto <conopenaid@worldbank.org>.</cite>
 
 * [Datos sobre registros de las empresas][8] (OCR). Como parte de una alianza a largo plazo,
   la Corporación Financiera Internacional (IFC) del Grupo Banco Mundial y la Oficina del Registro de
   Empresas (OCR) de Nepal implementaron un nuevo sistema de servicios electrónicos que facilita el
   registro de emprendedores y empresas.
-  <cite>El sistema de
-  base de datos automatizada y archivo digital informatiza el proceso de
-  iniciar una actividad comercial y proporciona beneficios tales como la
-  presentación simplificada de informes anuales; la integración de los
-  registros administrativo e impositivo de una empresa, y la publicación
-  de una guía del usuario sobre registro de empresas. El éxito de este
-  proyecto ha generado pedidos de otros dos organismos de Nepal ---los
-  Departamentos de Industria y Comercio y de Gestión de la Oferta---
-  para implementar reformas similares. Para más información, póngase en
+  <cite>El sistema de base de datos automatizada y archivo digital informatiza el proceso de iniciar
+  una actividad comercial y proporciona beneficios tales como la presentación simplificada de
+  informes anuales, la integración de los registros administrativo e impositivo de una empresa y la
+  publicación de una guía del usuario sobre registro de empresas. El éxito de este proyecto ha
+  generado pedidos de otros dos organismos de Nepal--—los Departamentos de Industria y Comercio y de
+  Gestión de la Oferta—--para implementar reformas similares. Para más información, póngase en
   contacto con <opengovdata@worldbank.org>.</cite>
 
-* **Datos abiertos sobre salud**. En muchos países, la salud pública es uno de los sectores
+* **Datos Abiertos sobre salud**. En muchos países, la salud pública es uno de los sectores
   en los que es más fácil dar a conocer datos y utilizarlos para mejorar las políticas y la toma de
-  decisiones. El servicio de datos abiertos en el ámbito de la salud proporciona evaluaciones de la
+  decisiones. El servicio de Datos Abiertos en el ámbito de la salud proporciona evaluaciones de la
   preparación para ayudar a las partes interesadas y a los encargados de la formulación de políticas
   a comprender el valor de los datos gubernamentales sobre la salud, ampliar el acceso a ellos y
   utilizarlos para mejorar la política de servicios de salud.
-  <cite>Debido a que los periodistas y los medios de
-  comunicación tienen una importante función a la hora explicar el
-  funcionamiento de los datos abiertos a los ciudadanos y motivar
-  a los Gobiernos y propietarios de los datos para que los divulguen, el
-  servicio de datos abiertos sobre salud ofrece programas de
-  aprendizaje para explicar las cuestiones pertinentes del sector,
-  enseñar a interpretar los datos de salud y mostrar cómo pueden
-  utilizarlos los medios de comunicación en su trabajo diario y en la
-  identificación de las fuentes de datos. Para más información, póngase
-  en contacto con <ogdtoolkit@worldbank.org>.</cite>
+  <cite>Debido a que los periodistas y los medios de comunicación tienen una importante función a la
+  hora explicar el funcionamiento de los Datos Abiertos a los ciudadanos y motivar a los gobiernos y
+  propietarios de datos para que los divulguen, el servicio de Datos Abiertos sobre salud ofrece
+  programas de aprendizaje para explicar las cuestiones pertinentes del sector, enseñar a
+  interpretar los datos de salud y mostrar cómo pueden ser utilizados por los medios de comunicación
+  en su trabajo diario y en la identificación de las fuentes de datos. Para más información,
+  contacte <ogdtoolkit@worldbank.org>.</cite>
 
 * [Mapa del Programa Mundial para la Agricultura y la Seguridad Alimentaria][9] (GAFSP).
   La Unidad de Coordinación del GAFSP y los Laboratorios de Innovación formularon una plataforma de
-  mapeo de datos abiertos para resolver la escasez de financiamiento para asistencia agrícola y
+  mapeo de Datos Abiertos para resolver la escasez de financiamiento para asistencia agrícola y
   seguridad alimentaria mediante ayuda para que los países amplíen sus planes estratégicos de
   inversión.
   <cite>La plataforma ofrece vistas geográficas fáciles de comprender, incluidos
@@ -137,42 +120,35 @@ abiertos para abordar desafíos específicos.
   zonas seleccionadas para intervenciones y se presentan indicadores
   generales, como pobreza o malnutrición, e indicadores específicos de
   proyectos, como las zonas de riego. La iniciativa también ofrece
-  estudios de casos basados en características geográficas sobre los
-  proyectos y sus impactos locales.</cite>
+  estudios de caso sober los proyectos y sus impactos locales, basados en sus características
+  geográficas.</cite>
 
 * [Iniciativa para la Transparencia de las Industrias Extractivas][10] (EITI).
   La EITI, una coalición de Gobiernos, empresas y la sociedad civil, aboga por la apertura y la
   divulgación de la forma en que los países gestionan los recursos naturales, como el petróleo, el
   gas y los metales. Los países que implementan la norma de la EITI se comprometen a divulgar
   completamente los ingresos percibidos por recursos naturales.
-  <cite>El equipo de la EITI del Banco Mundial ayuda
-  a los países miembros de la Iniciativa a traducir la divulgación de
-  datos en mayor eficacia y rendición de cuentas en relación con la
-  explotación de recursos. El equipo se encarga de la provisión de datos
-  y los problemas de calidad en todos los ministerios, así como del uso
-  por el lado de la demanda, el trabajo con los órganos de supervisión y
-  la sociedad civil sobre fortalecimiento de la capacidad, hackatones,
-  visualizaciones y creación de ciclos de comentarios sobre los
-  problemas que plantean los datos. El esfuerzo contribuirá a la
-  interoperabilidad entre distintas partes del Gobierno, entre las
-  partes contratantes y la sociedad civil y entre el sector privado y
-  sus contrapartes del Gobierno. Para más información, póngase en
-  contacto con <opengovdata@worldbank.org>.</cite>
+  <cite>El equipo de la EITI del Banco Mundial ayuda a los países miembros de la Iniciativa a
+  traducir la divulgación de datos en mayor eficacia y rendición de cuentas en relación con la
+  explotación de recursos naturales. El equipo apoya la oferta de datos de calidad en todos los
+  ministerios, así como de su uso por el lado de la demanda, trabajando con los órganos de
+  supervisión y la sociedad civil en el fortalecimiento de la capacidad, hackatones, visualizaciones
+  y la creación de sistemas de retroalimentación de comentarios sobre los problemas que plantean los
+  datos. El esfuerzo contribuye a la interoperabilidad entre distintas partes del Gobierno, entre
+  las partes contratantes y la sociedad civil y entre el sector privado y sus contrapartes del
+  Gobierno. Para más información, póngase en contacto con <opengovdata@worldbank.org>.</cite>
 
 * [La Plataforma Abierta de Alianza para el Paisaje][11] (OLPP).
   La OLPP es una plataforma de mapeo de contribución colectiva (*crowd-mapping*) de alta resolución
   que respalda colaboraciones intersectoriales coherentes a nivel mundial, y pertinentes a nivel
   local para el diseño, el seguimiento y la evaluación de proyectos que impacten en paisajes
   vulnerables, hábitats de importancia crítica y puntos ambientales clave.
-  <cite>Inicialmente formulada en asociación con la [Iniciativa
-  Mundial sobre el Tigre del Banco Mundial][12], esta es una iniciativa
-  conjunta de proveedores de datos satelitales, distribuidores,
-  procesadores de valor agregado y usuarios finales que están creando
-  una comunidad de práctica para ampliar la demanda de acceso abierto a
-  datos satelitales con una gran resolución espacial y temporal. Estos
-  datos son adecuados para una gran variedad de usos sin fines de lucro
-  que favorecerán la rendición de cuentas públicas, la transparencia y
-  la sostenibilidad de las prácticas de gestión y conservación de los
+  <cite>Inicialmente desarrollada junto con la [Iniciativa Mundial sobre el Tigre del Banco Mundial][12],
+  esta es una iniciativa conjunta de proveedores de datos satelitales, distribuidores, procesadores
+  de valor agregado y usuarios finales que están creando una comunidad para aumentar la demanda por
+  el acceso abierto a datos satelitales de gran resolución espacial y temporal. Estos datos son
+  adecuados para una gran variedad de usos sin fines de lucro que favorecen la rendición de cuentas
+  públicas, la transparencia y la sostenibilidad de las prácticas de gestión y conservación de
   recursos naturales.</cite>
 
 * [Red Abierta de Parques][13] (OPN) OPN brinda servicio a la comunidad mundial de parques
@@ -189,9 +165,8 @@ abiertos para abordar desafíos específicos.
   y otros elementos que se mantienen en archivos y museos de parques,
   zonas protegidas y sitios históricos de los Estados Unidos. La
   Iniciativa y la Universidad Clemson están construyendo una plataforma
-  de datos abiertos para respaldar los esfuerzos de Naciones
-  donde Habita el Tigre para duplicar la población mundial de esta
-  especie.</cite>
+  de Datos Abiertos para respaldar los esfuerzos de paises donde habitan los tigres para duplicar la
+  población mundial de esta especie.</cite>
 
 * **Programa Global de Desarrollo de Medios de Comunicación del Banco Mundial**.
   Este programa impulsado por asociaciones ofrece una variedad de servicios para respaldar los
@@ -200,23 +175,19 @@ abiertos para abordar desafíos específicos.
   periodistas, editores, dueños de medios, codificadores cívicos, escritores de blogs, líderes de
   medios sociales y tecnólogos como usuarios y re-utilizadores clave de los datos de los Gobiernos,
   así como el principal punto de contacto para que el público en general consuma y analice datos.
-  <cite>Su metodología de
-  aprendizaje sobre datos aborda las profundas deficiencias de capacidad
-  de los usuarios y beneficiarios de los datos abiertos generando
-  "canales" para el fortalecimiento de la capacidad entre las fuentes de
-  datos y las plataformas públicas de medios. También integra a los
-  especialistas en medios de comunicación en comunidades de práctica con
-  partes interesadas del Gobierno u otros niveles, que trabajan para
-  mejorar el entorno para una información gratuita y abierta, lo que
-  ampliará la transparencia y la rendición de cuentas del Gobierno, así
-  como la toma de decisiones impulsada por los datos en todos los
-  niveles.</cite>
+  <cite>Su metodología de aprendizaje sobre datos aborda las profundas deficiencias de capacidad de
+  los usuarios y beneficiarios de los Datos Abiertos generando “canales” entre las fuentes de datos
+  y las plataformas públicas de medios para el fortalecimiento de la capacidad. También integra a
+  los especialistas en medios de comunicación en grupos temáticos con partes interesadas del
+  gobierno u involucrados en el trabajo para mejorar el entorno para una información gratuita y
+  abierta, lo que amplia la transparencia y la rendición de cuentas del Gobierno, así como la toma
+  de decisiones impulsada por los datos en todos los niveles.</cite>
 
 * **Datos abiertos para la responsabilidad social y la participación ciudadana**.
-  Este programa respalda oportunidades de utilizar iniciativas de datos abiertos para ir más allá de
+  Este programa respalda oportunidades de utilizar iniciativas de Datos Abiertos para ir más allá de
   la transparencia, de modo que los ciudadanos las usen en enfoques de responsabilidad social y
   participación ciudadana.
-  <cite>El programa de datos abiertos para la responsabilidad social y la
+  <cite>El programa de Datos Abiertos para la responsabilidad social y la
   participación ciudadana trabaja en colaboración con otras unidades del
   Banco para ofrecer un respaldo amplio a las iniciativas de datos
   abiertos a nivel de países y proyectos. Algunos ejemplos notables son
@@ -238,8 +209,8 @@ abiertos para abordar desafíos específicos.
   <cite>UNDESA facilita el acceso a información,
   metodologías, evaluaciones y propuestas de políticas, y la divulgación
   de las mejores prácticas. Entre sus [servicios][16] se incluye el
-  respaldo a los procesos intergubernamentales; investigaciones y
-  análisis comparativos de políticas; intercambio de información, y
+  respaldo a los procesos intergubernamentales, investigaciones y
+  análisis comparativos de políticas, intercambio de información y
   servicios de asesoría.</cite>
 
 * [Fundación Open Knowledge][17] (OKFN).
@@ -247,15 +218,13 @@ abiertos para abordar desafíos específicos.
   clave y permitir que las personas compartan conocimientos. OKFN coordina una red internacional de
   personas que participan en la [promoción de la apertura de datos][18] y ayudan a que alcance su máximo
   potencial.
-  <cite>La fundación supervisa los niveles de
-  divulgación en todo el mundo y ofrece servicios técnicos comerciales y
-  capacitación en manejo de datos. También amplía la cultura de los
-  datos abiertos en relación con productos y servicios, incluida
-  [CKAN][19], una plataforma de datos de origen abierto, y el [Manual de
-  datos abiertos][20].</cite>
+  <cite>La fundación evalúa los niveles de divulgación en todo el mundo y ofrece servicios técnicos
+  comerciales y capacitación en manejo de datos. También amplía la cultura de los Datos Abiertos en
+  relación con productos y servicios, incluida CKAN, una plataforma de datos de origen abierto, y el
+  [Manual de Datos Abiertos][20].</cite>
 
 * [Instituto de Datos Abiertos][21] (ODI).
-  Promueve la cultura de los datos abiertos para generar valor económico, ambiental y social. El ODI
+  Promueve la cultura de los Datos Abiertos para generar valor económico, ambiental y social. El ODI
   ayuda a liberar la oferta y generar demanda de información y conocimiento, y crea y difunde
   conocimientos para abordar problemas locales y mundiales.
   <cite>También agrupa a grandes
@@ -263,9 +232,9 @@ abiertos para abordar desafíos específicos.
   ideas y promover la innovación con proyectos tales como la [Alianza
   para los Datos Abiertos][22]. Sus servicios de tutoría y
   asesoramiento y su respaldo permiten que cualquiera pueda entender y
-  utilizar los datos abiertos.</cite>
+  utilizar los Datos Abiertos.</cite>
 
-* [Lista de expertos sobre datos abiertos][23].
+* [Lista de expertos sobre Datos Abiertos][23].
   Una planilla de Google de consultores expertos, preparada a partir de la distribución de un
   formulario de información a una lista de profesionales del [grupo LinkedIn][24] y otros foros. Se debe
   tener en cuenta que esta lista fue confeccionada y presentada por sus propios integrantes y no
@@ -279,7 +248,7 @@ abiertos para abordar desafíos específicos.
 * [Fundación Ford][25]. Financia el fortalecimiento de la capacidad y los esfuerzos de asistencia técnica
   que aumentan la participación de las comunidades marginadas para [crear y mantener un Gobierno
   democrático que rinda cuenta de sus actos][26].
-  <cite>La Fundación Ford refuerza las redes que establecen y alientan esfuerzos
+  <cite>La Fundación Ford apoya a las redes que establecen y alientan esfuerzos
   comunitarios orientados al cambio social. Algunas de las iniciativas
   que financia son la [Fundación World Wide Web][27] y la [Alianza
   Mundial para una Mayor Responsabilidad Social][28].</cite>
@@ -295,30 +264,26 @@ abiertos para abordar desafíos específicos.
   estrategias, resultados (incluidos los conjuntos de datos), datos
   financieros, base de datos de donaciones y herramientas de análisis y
   visualización de datos, y apoyando la estandarización de la
-  información y los esfuerzos relativos a los datos abiertos, y
+  información y los esfuerzos relativos a los Datos Abiertos, y
   participando en todas las iniciativas conexas.</cite>
 
-* [Fundaciones para una Sociedad Abierta][31]. Trabaja para crear sociedades en las que los Gobiernos
+* [Fundación para una Sociedad Abierta][31]. Trabaja para crear sociedades en las que los Gobiernos
   sean responsables por sus medidas y acepten la participación de todas las personas. Respalda los
   esfuerzos que [amplían y protegen la libertad de prensa][32], aumentan el acceso público a los
   conocimientos y la información, e incluyen a las voces minoritarias en los medios de comunicación.
-  <cite>Las Fundaciones para una Sociedad Abierta defienden el uso de nuevas
-  tecnologías para lograr oportunidades de creación y divulgación de
-  conocimientos, y respaldan la labor que promueve el [acceso al
-  conocimiento][33], especialmente entre los grupos
-  desfavorecidos.</cite>
+  <cite>La Fundación para una Sociedad Abierta defiende el uso de nuevas tecnologías para lograr
+  oportunidades de creación y divulgación de conocimientos y respalda las acciones que promueven el
+  [acceso al conocimiento][33], especialmente entre los grupos desfavorecidos.</cite>
 
 * [Fundación Knight][34]. Respalda ideas transformadoras que promueven el periodismo de calidad,
   propugnan la innovación en los medios, logran la participación de las comunidades y fomentan las
   artes, especialmente dentro de las 26 comunidades de Estados Unidos en que los hermanos Knight
   tenían periódicos.
-  <cite>La Fundación Knight
-  fomenta los sistemas de información abierta que empoderan a las
-  comunidades; establecen normas para el libre flujo de la información,
-  y transforman los datos abiertos en productos útiles. También
-  respalda esfuerzos tales como la [Fundación Sunlight][35] y [Wikipedia
-  Zero][36], y ofrece capital de riesgo para emprendimientos en etapas
-  iniciales dedicados a la [innovación en los medios][37].</cite>
+  <cite>La Fundación Knight fomenta los sistemas de información abierta que empoderan a las
+  comunidades, establece normas para el libre flujo de la información, y apoya la transformación de
+  los Datos Abiertos en productos útiles. También respalda esfuerzos tales como la [Fundación
+  Sunlight][35] y [Wikipedia Zero][36], y ofrece capital de riesgo para emprendimientos en etapas iniciales
+  dedicados a la [innovación en los medios][37].</cite>
 
 * [Fundación Hewlett][38]. Mejora la respuesta de los Gobiernos a las necesidades de los ciudadanos
   alentando a los organismos y oficiales públicos a ofrecer mayor transparencia y mayor acceso a
@@ -329,8 +294,7 @@ abiertos para abordar desafíos específicos.
   la sociedad civil para formular planes a favor de la rendición de
   cuentas y la participación ciudadana. La fundación es uno de los
   signatarios de la Iniciativa Internacional para la Transparencia de la
-  Ayuda, que promueve la [transparencia en los flujos de ayuda
-  internacionales][40].</cite>
+  Ayuda, que promueve la [transparencia en los flujos de ayuda internacionales][40].</cite>
 
 
 

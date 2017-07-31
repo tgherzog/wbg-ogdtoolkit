@@ -70,9 +70,9 @@ lang:
     localeprefix: "Esta página en"
     sidebar:
       - {hdr: h2, link: /es/index.html, title: Caja de Herramientas de Datos Abiertos de Gobierno }
-      - {hdr: h3, link: /es/open-data-in-60-seconds.html, title: Datos abiertos en 60 segundos }
-      - {hdr: h3, link: /es/essentials.html, title: Aspectos fundamentales de los datos abiertos }
-      - {hdr: h3, link: /es/starting.html, title: Cómo empezar una iniciativa de datos abiertos de gobierno }
+      - {hdr: h3, link: /es/open-data-in-60-seconds.html, title: Datos Abiertos en 60 segundos }
+      - {hdr: h3, link: /es/essentials.html, title: Aspectos fundamentales de los Datos Abiertos }
+      - {hdr: h3, link: /es/starting.html, title: Cómo empezar una iniciativa de Datos Abiertos de gobierno }
       - {hdr: h3, link: /es/technology.html, title: Opciones tecnológicas }
       - {hdr: h3, link: /es/demand.html, title: Demanda y participación }
       - {hdr: h3, link: /es/supply.html, title: Oferta y calidad de los datos }
