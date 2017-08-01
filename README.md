@@ -25,11 +25,13 @@ You will need the following software to author content in the toolkit:
 
 You should also be familiar with:
 
-* Kramdown, which is the markup language used by Jekyll (and many other systems, including this
-  README file). Here is the [quick reference](http://kramdown.gettalong.org/quickref.html) and
-  [syntax guide](http://kramdown.gettalong.org/syntax.html).
+* Markdown is a markup language used by the toolkit (and many other websites). Here is a
+  [quick reference][quickref] and a [nice interactive tutorial][tutorial].
+* Okay, strictly speaking, the toolkit uses Kramdown, which is an extension of Markdown with
+  a [few extra features](#extra_formatting) you'll encounter on several pages. So here is the authoritative
+  [syntax guide for Kramdown](http://kramdown.gettalong.org/syntax.html).
 * Basic git operations, such as commits, pushes and pulls.
-  The first three chapters of the [git documentation](http://git-scm.com/book/en/v1) should cover it.
+  The first three chapters of the [git documentation](http://git-scm.com/book/en/v1) are a bit technical, but should cover it.
   Here are the operations you will use nearly all the time, so look for these as you read the documentation.
   Your git software may implement more intuitive ways of accomplishing these tasks, but it's good
   to be familiar with the underlying concepts.
@@ -54,8 +56,7 @@ All files needed for content authoring are in one of two project directories: `d
 * `en` contains Kramdown files (the English versions), which produce HTML files on the toolkit server. There is one
   file per HTML page, each one ends with a **.md** suffix.
 
-There is also an `es` directory which is currently empty except for a placeholder README file.
-This is reserved for multi-lingual implementation (Spanish).
+The `es` and `fr` directories contain Spanish and French translations of their English pages in `en`.
 
 Note that the `_config.yml` file instructs Jekyll to ignore certain files (including this README),
 so if you're wondering why certain files aren't on the website, check there first.
@@ -151,6 +152,18 @@ consistency and quality (grammar, punctuation, etc). The style guide is title st
 git repository and **style-guide.html** on the toolkit server.
 
 
+## Use of Kramdown extensions ## {#extra-formatting}
+
+Here is a list of Kramdown extensions used throughout the toolkit that may not be immediately familiar
+if you only took the [tutorial][tutorial] and read the quick reference guide][quickref].
+
+* **[Formatted tables](https://kramdown.gettalong.org/quickref.html#tables)**
+* **Header Identifiers**. Kramdown automatically adds identifiers to headers so you can reference a
+  specific section of a page [like this](http://opendatatoolkit.worldbank.org/en/odra.html#download)
+  (the toolkit's sidebar navigation depends on this). It's not required, but it's open helpful to control
+  these identifiers manually, particularly for multi-lingual pages. Here is how:
+
+  `\#\# Download the ODRA {#download}`
 
 
 ## Multi-lingual Support ##
@@ -165,6 +178,9 @@ header, footer, and Omniture tracking code.
 
 Third, edit the "lang" object in `_config.yml` to make sure the required text strings are available (use the
 English version as a guide). You should also set the "multilingual" variable to **true**.
+
+Fourth, add an `assets/config-xx.js` file (or copy and modify `config-en.js`) for translation settings
+that run client-side.
 
 Finally, edit `_layouts/default.html` if necessary so that the new language is accommodated in the setup code
 at the top of the file.
@@ -212,3 +228,5 @@ on the master branch (or a QA branch) and regeneratig the site.
 
 
 [guide]: http://opendatatoolkit.worldbank.org/style-guide.html
+[tutorial]: http://commonmark.org/help/tutorial
+[quickref]: http://commonmark.org/help
