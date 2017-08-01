@@ -117,7 +117,7 @@ specific section of a page [like this](http://opendatatoolkit.worldbank.org/en/o
 (the toolkit's sidebar navigation depends on this). It's not required, but it's open helpful to control
 these identifiers manually, particularly for multi-lingual pages. Here is how:
 
-  ## Download the ODRA ## {#download}
+    ## Download the ODRA ## {#download}
 
 
 ### Formatted Tables ###
