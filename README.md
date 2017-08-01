@@ -4,7 +4,7 @@ This is the project for the World Bank's Open Government Data Toolkit.
 
 The site was designed using [Jekyll](http://jekyllrb.com)
 and is primarily written in [Kramdown](http://kramdown.gettalong.org/),
-an increasingly popular Markdown variant. Kramdown makes HTML authoring
+an increasingly popular Markdown variant. Markdown/Kramdown makes HTML authoring
 easy by providing substitutes for the most common markup tags and structures
 (paragraphs, headers, lists, bullets, links, tables, footnotes, etc).
 
@@ -26,10 +26,10 @@ You will need the following software to author content in the toolkit:
 You should also be familiar with:
 
 * Markdown is a markup language used by the toolkit (and many other websites). Here is a
-  [quick reference][quickref] and a [nice interactive tutorial][tutorial].
-* Okay, strictly speaking, the toolkit uses Kramdown, which is an extension of Markdown with
-  a [few extra features](#extra_formatting) you'll encounter on several pages. So here is the authoritative
-  [syntax guide for Kramdown](http://kramdown.gettalong.org/syntax.html).
+  [quick reference][quickref] and a [nice interactive tutorial][tutorial]. Kramdown is an extension
+  of Markdown, and is the actual formatting tool used by the toolkit. The most common extensions
+  are explained under [Authoring Tips](#authoring-tips), but for everything else here is the
+  authoritative [syntax guide for Kramdown](http://kramdown.gettalong.org/syntax.html).
 * Basic git operations, such as commits, pushes and pulls.
   The first three chapters of the [git documentation](http://git-scm.com/book/en/v1) are a bit technical, but should cover it.
   Here are the operations you will use nearly all the time, so look for these as you read the documentation.
@@ -105,10 +105,26 @@ If for some reason, you want to supress a header from appearing the in the sideb
 to the \<h1\> or \<h2\> element like this:
 
     ## Header to be suppressed ##
-	{: .notoc :}
+    {: .notoc :}
 
 This takes advantage of a Kramdown convention that lets you add HTML classes to a preceding element. Note
 that the class name must begin with a period.
+
+### Header Identifiers ###
+
+Kramdown automatically adds identifiers to headers so you can reference a
+specific section of a page [like this](http://opendatatoolkit.worldbank.org/en/odra.html#download)
+(the toolkit's sidebar navigation depends on this). It's not required, but it's open helpful to control
+these identifiers manually, particularly for multi-lingual pages. Here is how:
+
+  ## Download the ODRA ## {#download}
+
+
+### Formatted Tables ###
+
+The toolkit makes extensive use of Kramdown's support for
+[formatted tables](https://kramdown.gettalong.org/quickref.html#tables).
+
 
 ### "More" links ###
 
@@ -122,7 +138,7 @@ Simply use the \<cite\> tag (which has no other use in this context) to wrap the
 hide:
 
     This text will always appear to the user.
-	<cite>but this text will only appear if the user requests it.</cite\>
+    <cite>but this text will only appear if the user requests it.</cite>
 
 ### Pull Quotes ###
 
@@ -130,7 +146,7 @@ Use "pull quotes" to add visual interest to a page. The text in a pull-quote sho
 on the page (or else it's not a quote), since pull quotes are hidden on devices with small screens.
 
     This paragraph will be styled as a pull quote
-	{: .pullquote :}
+    {: .pullquote :}
 
 ### Images ###
 
@@ -150,20 +166,6 @@ Of course you must also add the image file (png, jpg etc) to the git repository.
 The [style guide][guide] gives editorial instructions for making changes to the toolkit to ensure
 consistency and quality (grammar, punctuation, etc). The style guide is title style-guide.md in the
 git repository and **style-guide.html** on the toolkit server.
-
-
-## Use of Kramdown extensions ## {#extra-formatting}
-
-Here is a list of Kramdown extensions used throughout the toolkit that may not be immediately familiar
-if you only took the [tutorial][tutorial] and read the quick reference guide][quickref].
-
-* **[Formatted tables](https://kramdown.gettalong.org/quickref.html#tables)**
-* **Header Identifiers**. Kramdown automatically adds identifiers to headers so you can reference a
-  specific section of a page [like this](http://opendatatoolkit.worldbank.org/en/odra.html#download)
-  (the toolkit's sidebar navigation depends on this). It's not required, but it's open helpful to control
-  these identifiers manually, particularly for multi-lingual pages. Here is how:
-
-  `\#\# Download the ODRA {#download}`
 
 
 ## Multi-lingual Support ##
