@@ -164,7 +164,7 @@ Of course you must also add the image file (png, jpg etc) to the git repository.
 ## Style Guide ##
 
 The [style guide][guide] gives editorial instructions for making changes to the toolkit to ensure
-consistency and quality (grammar, punctuation, etc). The style guide is title style-guide.md in the
+consistency and quality (grammar, punctuation, etc). The style guide is titled style-guide.md in the
 git repository and **style-guide.html** on the toolkit server.
 
 
