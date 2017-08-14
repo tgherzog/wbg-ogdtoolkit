@@ -1,4 +1,4 @@
-﻿---
+---
 title: Starting an Open Data Initiative
 ---
 
