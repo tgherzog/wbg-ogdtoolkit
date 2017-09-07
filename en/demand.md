@@ -282,7 +282,4 @@ These links provide more information on Open Data demand and engagement:
 * [How-To Notes: Towards Open Government Data for Enhanced Social
   Accountability](http://www.opendta.org/Documents/How%20To%20-%20Open%20Government%20DRAFT.pdf)
 * [World Bank Water Hackathon](http://water.worldbank.org/node/84165)
-* [Re-using Open Data: A study on companies transforming Open Data into economic & societal value][edp1].
-  This report seeks to understand how organizations, within the private and public sector, use Open Data.
- 
-[edp1]: https://www.europeandataportal.eu/sites/default/files/re-using_open_data.pdf 
+* [Re-using Open Data: A study on companies transforming Open Data into economic & societal value](https://www.europeandataportal.eu/sites/default/files/re-using_open_data.pdf). This report seeks to understand how organizations, within the private and public sector, use Open Data
