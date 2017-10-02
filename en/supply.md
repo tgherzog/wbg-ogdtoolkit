@@ -88,6 +88,7 @@ Implementation. The standard provides detailed schema for representing contracti
 of formats, as well as guidance on implementation options. The [OCDS Help
 Desk](http://standard.open-contracting.org/announcing-the-ocds-help-desk) is on hand to offer
 advice on implementing OCDS.
+There is also an [OCDS validator program][jocds] to check if data complies with the OCD standard.
 
 
 ### Budget Data
@@ -228,3 +229,5 @@ Metadata standard | Application
 [ISO 19115-1:2014](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53798) | Geospatial data
 [Text Encoding Initiative](http://www.tei-c.org/index.xml) | Texts in digital form, chiefly in the humanities, social sciences and linguistics
 [Directory Interchange Format](http://gcmd.gsfc.nasa.gov/add/difguide/index.html) (DIF) | Scientific datasets
+
+[jocds]: http://www.developmentgateway.org/blog/your-data-ocds-compliant-introducing-jocds-validator
