@@ -323,14 +323,13 @@ These links provide more information and background on technology options.
 to data dissemination tools that NSOs use to distribute data to the public under an Open Data initiative.
 * [Open Data Checklist](https://checklists.opquast.com/en/opendata). This checklist of Open Data best practices provides a good
 reference for the typical requirements of an Open Data platform.
-* [Open Data Portal Requirements](http://labs.centerforgov.org/open-data/portal-requirements) (Center for Government Excellence).
+* [Open Data portal requirements](http://labs.centerforgov.org/open-data/portal-requirements) (Center for Government Excellence).
   This document contains a set of sample requirements to help governments evaluate, develop (or procure), deploy, and launch an open data web site (portal).
 * [ODI Presentation: How to choose the right Open Data platform for you](http://www.scribd.com/doc/246134303/How-to-choose-the-right-open-data-platform-for-you)
 (Open Data Institute, 2014). This slide deck presentation gives a thorough overview of the key considerations in choosing an Open Data platform, and includes
 a brief overview of several of the most prominent products.
-
-* [Recommendations for Open Data Portals: from setup to sustainability][edp1].
-  This report sets out how portals can move from setup to sustainability in governance,
-  financing, architecture, operations, and metrics. 
+* [Recommendations for Open Data portals: from setup to sustainability][edp1].
+  This report sets out how portals can move from setup to sustainability, with recommendations
+  in the areas of governance, financing, architecture, operations, and metrics. 
 
 [edp1]: https://www.europeandataportal.eu/sites/default/files/edp_s3wp4_sustainability_recommendations.pdf 

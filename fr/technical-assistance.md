@@ -14,6 +14,11 @@ dans les domaines suivants :
 | **Développement des capacités de la société civile** | Elle organise des stages pratiques de formation au journalisme de données, forme au traitement et à l'utilisation des données budgétaires, et contribue à cartographier l'aide extérieure pour promouvoir une utilisation efficace et responsable des données en libre accès. |
 {: .w30}
 
+* **[Soutien de la Banque mondiale pour les Données Ouvertes](../docs/world-bank-open-data-support.pdf)** (Banque mondiale).
+  Ce rapport résume les activités de la Banque mondiale pour soutenir les efforts
+  en matière de données ouvertes des pays en développement au cours de la période
+  2012-2017.
+
 La Banque mondiale a également mis en place plusieurs initiatives et
 programmes qui tirent parti de l'ouverture des données publiques pour
 résoudre des problèmes spécifiques :

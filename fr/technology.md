@@ -397,18 +397,20 @@ Les liens suivants fournissent des informations supplémentaires et plus
 de documentation sur les options technologiques en matière de données
 ouvertes.
 
-* [*Technology Options for Open Government Data
-  Platforms*](../docs/OGDPlatforms-White-Paper.docx) (Banque mondiale,
-  janvier 2014) : ce livre blanc passe en revue les caractéristiques de
+* [Technology Options for Open Government Data Platforms](../docs/OGDPlatforms-White-Paper.docx)
+  (Banque mondiale, janvier 2014) :
+  ce livre blanc passe en revue les caractéristiques de
   plusieurs produits et services proposés par différentes organisations.
-* [*Technical Assessment of Open Data Platforms for National Statistical
-  Organisations*][31] (Banque mondiale, octobre 2014) : ce rapport de
+* [Technical Assessment of Open Data Platforms for National Statistical Organisations][31]
+  (Banque mondiale, octobre 2014) :
+  ce rapport de
   recherche vise à améliorer la compréhension et l'évaluation des
   problèmes techniques liés aux outils de diffusion de données
   qu'utilisent les instituts de statistique nationaux pour communiquer
   les informations aux citoyens dans le cadre d'une initiative de libre
   accès aux données.
-* [*Open Data Checklist*][1] : cet aide-mémoire qui récapitule les
+* [Open Data Checklist][1] :
+  cet aide-mémoire qui récapitule les
   bonnes pratiques en matière de Données Ouvertes constitue une référence utile
   pour garder à l'esprit les grandes exigences que doit généralement
   respecter toute plateforme de données ouvertes.
@@ -416,12 +418,16 @@ ouvertes.
   (Center for Government Excellence) : Ce document contient un ensemble de conseils
   pour aider les gouvernements à évaluer,développer (ou acheter), déployer, et
   lancer un site web open data (portail).
-* [<em> ODI : How to choose the right Open Data platform for
-  you</em>][32] (Open Data Institute, 2014) : ce diaporama offre une
+* [ODI : How to choose the right Open Data platform for you][32]
+  (Open Data Institute, 2014) :
+  ce diaporama offre une
   présentation complète des principaux aspects à prendre en
   considération pour choisir une plateforme de Données Ouvertes et offre un
   bref aperçu de certains des produits les plus utilisés.
-
+* [Recomendaciones para portales de Datos Abiertos: del inicio a la
+  sostenibilidad][edp1]. Este reporte describe como los portales pueden
+  evolucionar desde su inicio a un estado sostenible en su gobernancia,
+  financiamiento, arquitectura, operaciones y métricas.
 
 
 [1]: https://checklists.opquast.com/en/opendata
@@ -455,3 +461,5 @@ ouvertes.
 [32]: http://www.scribd.com/doc/246134303/How-to-choose-the-right-open-data-platform-for-you
 [33]: http://extensions.ckan.org/extension/ddi-importer
 [34]: http://www.ddialliance.org
+
+[edp1]: https://www.europeandataportal.eu/sites/default/files/edp_s3wp4_sustainability_recommendations.pdf 

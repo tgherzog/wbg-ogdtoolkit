@@ -326,6 +326,8 @@ sur la demande et les stratégies participatives liées à l'Open Data :
 * [How-To Notes: Towards Open Government Data for Enhanced Social
   Accountability][60]
 * [World Bank Water Hackathon][61]
+* [Réutilisation des Données Ouvertes: étude sur les entreprises qui transforment les Données Ouvertes en valeur économique ou  en valeur sociale][edp1].
+  Le rapport vise à comprendre la mise en valeur des données ouvertes par les organisations des secteurs public et privé.
 
  
 
@@ -392,3 +394,5 @@ sur la demande et les stratégies participatives liées à l'Open Data :
 [59]: http://goo.gl/W2sr2
 [60]: http://www.opendta.org/Documents/How%20To%20-%20Open%20Government%20DRAFT.pdf
 [61]: http://water.worldbank.org/node/84165
+
+[edp1]: https://www.europeandataportal.eu/sites/default/files/re-using_open_data.pdf

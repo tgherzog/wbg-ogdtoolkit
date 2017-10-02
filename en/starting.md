@@ -336,6 +336,6 @@ and other topics such as transparency, Right to Information Laws, regulation and
 
 * [Analytical Report 6: Open Data in Cities 2][edp1].
   This report investigates the Open Data initiatives in eight medium-sized European cities: Dublin, Florence, Gdansk, Ghent,
-  Helsinki, Libson, Thessaloniki, and Vilnius.
+  Helsinki, Lisbon, Thessaloniki, and Vilnius.
 
 [edp1]: https://www.europeandataportal.eu/sites/default/files/edp_analytical_report_n6_-_open_data_in_cities_2_-_final-clean.pdf

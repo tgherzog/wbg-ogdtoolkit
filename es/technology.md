@@ -363,6 +363,10 @@ opciones tecnológicas.
   Esta presentación de diapositivas ofrece una reseña exhaustiva de las principales consideraciones
   a la hora de elegir una plataforma de datos abiertos e incluye un resumen de varios de los
   productos principales.
+* [Recomendaciones para portales de Datos Abiertos: del inicio a la
+  sostenibilidad][edp1]. Este reporte describe como los portales pueden
+  evolucionar desde su inicio a un estado sostenible en su gobernancia,
+  financiamiento, arquitectura, operaciones y métricas.
 
 
 [1]: https://checklists.opquast.com/en/opendata
@@ -402,3 +406,5 @@ opciones tecnológicas.
 
 [ddi-ckan]: http://extensions.ckan.org/extension/ddi-importer
 [ddi-std]:  http://www.ddialliance.org
+
+[edp1]: https://www.europeandataportal.eu/sites/default/files/edp_s3wp4_sustainability_recommendations.pdf 

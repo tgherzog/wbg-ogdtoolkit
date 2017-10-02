@@ -423,6 +423,10 @@ Libros, manuales, presentaciones y otros materiales de capacitación sobre Datos
   gubernamentales, la sociedad civil y la industria pueden aplicar los Datos Abiertos para
   contribuir a los [Objetivos de Desarrollo Sostenible][54].
 
+* [Reporte Analítico 6: Datos Abiertos en Ciudades, parte 2][edp1]: Este reporte
+  investiga iniciativas de Datos Abiertos en ocho ciudades medianas de Europa:
+  Dublin, Florencia, Gdansk, Ghent, Helsinki, Lisboa, Thessaloniki y Vilnius.
+
 
 [1]: http://www.forbes.com/sites/perryrotella/2012/04/02/is-data-the-new-oil
 [2]: http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information?cid=other-eml-alt-mgi-mck-oth-2910
@@ -483,3 +487,4 @@ Libros, manuales, presentaciones y otros materiales de capacitación sobre Datos
 [deca2]: ../docs/denmark-address-epsiplatform2012-mortenlindmbbl-dkepsi2012effectofloweringpsichargesv02a1-120330052641-phpapp01.pptx
 [od-declarations]: ../docs/briefing-on-open-data-declarations-generic.doc
 [od-wbg]: ../docs/opendatatechnicaltrainingeap.pdf
+[edp1]: https://www.europeandataportal.eu/sites/default/files/edp_analytical_report_n6_-_open_data_in_cities_2_-_final-clean.pdf

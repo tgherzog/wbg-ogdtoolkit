@@ -239,6 +239,8 @@ con los datos abiertos:
 * [Guía práctica: Hackatón de datos abiertos][59]
 * [Notas prácticas: En busca de los datos abiertos de gobierno para mejorar la responsabilidad social][60]
 * [Hackatón sobre agua del Banco Mundial.][61]
+* [Re-usando Datos Abiertos: Estudio sobre las empresas que transforman Datos Abiertos en dinero o valor social][edp1].
+  El informe apunta a entender como las organizaciones en el sector público y en el sector privado usan Datos Abiertos.
 
 
 [1]: http://commtech.gov.ng/index.php/videos/news-and-event/128-fg-kicksoff-opendata-initiative
@@ -302,3 +304,5 @@ con los datos abiertos:
 [59]: http://goo.gl/W2sr2
 [60]: http://www.opendta.org/Documents/How%20To%20-%20Open%20Government%20DRAFT.pdf
 [61]: http://water.worldbank.org/node/84165
+
+[edp1]: https://www.europeandataportal.eu/sites/default/files/re-using_open_data.pdf

@@ -13,7 +13,9 @@ The World Bank provides technical assistance to client country governments in th
 **Capabilities development for civil society** | Organizes data journalism boot camps, provides training in the treatment and use of budget data and helps to produce foreign aid maps to promote effective, responsible use of Open Data
 {: .w30 :}
 
-* **[World Bank Support for Open Data](../docs/world-bank-open-data-support.pdf)** (World Bank). This report summarizes the World Bank's activities to support the Open Data efforts of developing countries during the period 2012-2017.
+* **[World Bank Support for Open Data](../docs/world-bank-open-data-support.pdf)** (World Bank).
+  This report summarizes the World Bank's activities to support the Open Data
+  efforts of developing countries during the period 2012-2017.
 
 The World Bank also has several initiatives and programs that use Open Data to address specific challenges:
 

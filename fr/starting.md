@@ -507,6 +507,10 @@ thème de l'Open Data:
   exploiter les données ouvertes pour contribuer à la réalisation
   des [Objectifs de développement durable][55].
 
+* [Rapport analytique 6: Données Ouvertes dans les villes, Partie 2][edp1]: Ce
+  rapport étudie les initiatives de Données Ouvertes dans huit villes européennes
+  de taille moyenne: Dublin, Florence, Gdansk, Gand, Helsinki, Lisbonne,
+  Thessalonique et Vilnius.
 
 
 [1]: http://www.forbes.com/sites/perryrotella/2012/04/02/is-data-the-new-oil
@@ -564,3 +568,5 @@ thème de l'Open Data:
 [53]: http://ci-journal.net/index.php/ciej/issue/view/41
 [54]: http://theodi.org/supporting-sustainable-development-with-open-data
 [55]: http://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable/
+
+[edp1]: https://www.europeandataportal.eu/sites/default/files/edp_analytical_report_n6_-_open_data_in_cities_2_-_final-clean.pdf
