@@ -13,7 +13,7 @@ The World Bank provides technical assistance to client country governments in th
 **Capabilities development for civil society** | Organizes data journalism boot camps, provides training in the treatment and use of budget data and helps to produce foreign aid maps to promote effective, responsible use of Open Data
 {: .w30 :}
 
-* **[World Bank Support for Open Data](../docs/world-bank-open-data-support.pdf)** (World Bank).
+* **[World Bank Support for Open Data][od-support]** (World Bank).
   This report summarizes the World Bank's activities to support the Open Data
   efforts of developing countries during the period 2012-2017.
 
@@ -211,4 +211,6 @@ public agencies and officials to provide greater transparency and broader access
 foundation supports institutions that advocate for standards for greater openness, and funds programs such as the [Open
 Government Partnership](http://www.opengovpartnership.org/), which brings governments and civil society together to
 develop plans that further accountability and citizen involvement. The foundation is a signatory to the International
-Aid Transparency Initiative, which promotes [transparency in international aid flows](http://iatiregistry.org).</cite> 
+Aid Transparency Initiative, which promotes [transparency in international aid flows](http://iatiregistry.org).</cite>
+
+[od-support]: https://openknowledge.worldbank.org/handle/10986/28616

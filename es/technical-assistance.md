@@ -14,7 +14,7 @@ esferas:
 | **Desarrollo de capacidades para la sociedad civil** | Organiza centros de entrenamiento sobre periodismo de datos, ofrece capacitación sobre tratamiento y uso de los datos presupuestarios y ayuda a producir mapas de ayuda extranjera para promover el uso eficaz y responsable de los Datos Abiertos. |
 {: .w30 }
 
-* **[Apoyo del Banco Mundial en Datos Abiertos](../docs/world-bank-open-data-support.pdf)** (Banco Mundial).
+* **[Apoyo del Banco Mundial en Datos Abiertos][od-support]** (Banco Mundial).
   Este informe resume las actividades del Banco Mundial en apoyar las iniciativas
   de Datos Abiertos de los países en desarrollo durante el período 2012-2017.
 
@@ -301,6 +301,7 @@ Abiertos para abordar desafíos específicos.
   Ayuda, que promueve la [transparencia en los flujos de ayuda internacionales][40].</cite>
 
 
+[od-support]: https://openknowledge.worldbank.org/handle/10986/28616
 
 [1]: https://www.gfdrr.org/opendri
 [2]: https://finances.worldbank.org
