@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=11,chrome=1" />
+<style>
+body {font-family: Arial;width: 650px; height: 1024px;
+
+margin: calc(0.5 * (46.5px)) auto;
+background-position-x: center;
+background-repeat: no-repeat;
+}
+
+@font-face {
+   font-family: HelvFont;
+   src: url(img/HelveticaNeueLTStd-Cn.otf);
+}
+
+#tab-6 {
+
+    /* padding: 5px;*/
+
+}
+
+#i-text {
+    top: 117px;
+    margin-top: 165px;
+    margin-left: -115px;
+	color: #00a8ff;
+}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    /*border: 2px solid #ccc;
+    background-color: #f1f1f1;*/
+		width: 1014px;
+		
+		margin-left: -148px;
+		margin-top: 30px;
+		
+}
+#tab-1, #tab-4, #tab-7{
+background-color: #00A997;
+
+}
+#tab-1.active, #tab-2.active, #tab-3.active, #tab-4.active, #tab-5.active, #tab-6.active, #tab-7.active {
+    background-color: #D9D9D9;
+	color: #000000;
+}
+#tab-2, #tab-5{
+background-color: #009CA8;
+}
+#tab-3, #tab-6{
+background-color: #006168;
+}
+/* Style the buttons inside the tab */
+.tab button {
+    /*background-color: inherit;*/
+   
+    border: 0.5px solid #D9D9D9;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 12px;
+    transition: 0.3s;
+    font-size: 16px;
+	/*font-family: HelvFont;
+	font-family:HelveticaNeueLT Std Extended;*/
+	font-family: Arial Narrow;
+	color: #ffffff;
+		width: 134px;
+		width: 136px;
+height: 173px;
+margin-left: -4px;
+		
+	
+		
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    /*border: 1px solid #ccc;*/
+    border-top: none;
+	
+		width: 926px;
+		margin-left: -148px;
+		background-color: #D9D9D9;
+		height: 635px;
+		overflow-y: Auto;
+}
+
+/* Style the close button */
+.topright {
+    float: right;
+    cursor: pointer;
+    font-size: 28px;
+}
+
+.topright:hover {color: red;}
+
+ul {
+    list-style: square inside url("img/Arrow01.png");
+	font-size:15px;
+}
+
+ol {
+    list-style: square inside url("img/Arrow02.png");
+	margin-left:30px;
+	font-size:15px;
+}
+
+
+</style>
+</head>
+<body background="img/RESOURCES_course02_BG.jpg">
+
+<div id="i-text">Select each tab for more information.</div>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Tab1')" id="tab-1"><font size="5">LESSON 1:</font><br><br> INTRODUCTION TO OPEN DATA <br><br></button>
+  <button class="tablinks" onclick="openCity(event, 'Tab2')" id="tab-2"><font size="5">LESSON 2:</font><br><br> UNDERSTANDING DATA<br><br></button>
+  <button class="tablinks" onclick="openCity(event, 'Tab3')" id="tab-3"><font size="5">LESSON 3:</font><br><br> DATA ACQUISITION AND CLEANING</button>
+  <button class="tablinks" onclick="openCity(event, 'Tab4')" id="tab-4"><font size="5">LESSON 4:</font><br><br> ANALYTICAL CONCEPTS AND TOOLS</button>
+  <button class="tablinks" onclick="openCity(event, 'Tab5')" id="tab-5"><font size="5">LESSON 5:</font><br><br> SHARING <br>YOUR OWN DATA</button>
+  <button class="tablinks" onclick="openCity(event, 'Tab6')" id="tab-6"><font size="5">LESSON 6:</font><br><br> TELLING <br>STORIES WITH DATA</button>
+  <button class="tablinks" onclick="openCity(event, 'Tab7')" id="tab-7"><font size="5">LESSON 7:</font><br><br> THE BUSINESS CASE FOR OPEN DATA</button>
+</div>
+
+<div id="Tab1" class="tabcontent">
+ <!-- <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  <p><ul><li><a href="http://opendefinition.org/" target="_blank">Open Definition</a> (Open Knowledge)</li></ul> </p>
+  <p><ul><li><a href="http://opendatatoolkit.worldbank.org/en/essentials.html#examples" target="_blank">Examples and Uses of Open Data</a> (Open Data Toolkit, World Bank)</li></ul> </p>
+  <p><ul><li><a href="url"></a>Examples of Open Data</li></ul> </p>
+  <p><ol><li><a href="http://educationdashboard.org/" target="_blank">Tanzania Education Dashboard</a></li></ol> </p>
+  <p><ol><li><a href="https://data.code4sa.org/Government/Municipal-Election-Results-2016-voting-district-le/3gpr-t5gg" target="_blank">Code for South Africa</a> (election results)</li></ol> </p>
+  <p><ol><li><a href="http://www.opendata.go.ke/datasets?t=expenditures" target="_blank">Kenya Open Data Portal</a> (government spending)</li></ol> </p>
+  <p><ul><li><a href="http://alaveteli.org/deployments/" target="_blank">Alaveteli website</a> (Right to information platforms)</li></ul> </p></p>
+ 
+		    
+</div>
+
+<div id="Tab2" class="tabcontent">
+  <!--<span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  <p><ul><li><a href="http://www.w3.org/TR/vocab-dcat/" target="_blank">Dublin Core Metadata Standard</a> (W3C)</li></ul> </p>
+  <p><ul><li><a href="https://creativecommons.org/" target="_blank">Creative Commons</a>, including <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY</a> and <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a></li></ul> </p>
+  <p><ul><li><a href="https://opendatacommons.org/licenses/odbl" target="_blank">Open Database License
+</a> (Open Data Commons)</li></ul> </p>
+  
+</div>
+
+<div id="Tab3" class="tabcontent">
+  <!--<span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  
+  <p><ul><li><a href="http://opendatahandbook.org/guide/en/appendices/file-formats/" target="_blank">File Formats for Open Data</a> (Open Data Handbook)</li></ul></p>
+  <p><ul><li><a href="url"></a>Commonly used data software</li></ul> </p>
+	  <p><ol><li><a href="https://accounts.google.com/signin/v2/identifier?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F%3Fusp%3Ddirect_url&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F%3Fusp%3Ddirect_url&ltmpl=sheets&flowName=GlifWebSignIn&flowEntry=ServiceLogin" target="_blank">Google Sheets</a></li></ol> </p>
+	  <p><ol><li><a href="https://qgis.org/en/site/" target="_blank">QGIS</a> (geospatial data)</li></ol> </p>
+	  <p><ol><li><a href="https://www.r-project.org/" target="_blank">R</a> </li></ol> </p>
+	  <p><ol><li><a href="https://products.office.com/en-IN/excel?legRedir=true&CorrelationId=515c498b-4437-4e60-8cf4-b5526ca8cbda" target="_blank">Microsoft Excel</a></li></ol> </p>
+  
+  <p><ul><li><a href="https://zapier.com/learn/apis/" target="_blank">An Introduction to APIs</a> (Brian Cooksey)</li></ul></p>
+  <p><ul><li><a href="url"></a>HTML Scraping Tools</li></ul> </p>
+	  <p><ol><li>Services: <a href="https://www.import.io/" target="_blank">import.io,</a> <a href="https://scrapy.org/" target="_blank">Scrapy</a></li></ol> </p>
+	  <p><ol><li>Browser extensions: <a href="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd" target="_blank">Scraper
+</a></li></ol> </p>
+	  <p><ol><li>Python libraries: <a href="http://lxml.de/" target="_blank">lxml</a>, <a href="https://pypi.python.org/pypi/mechanize/" target="_blank">Mechanize
+</a>, <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">BeautifulSoup</a></li></ol> </p>
+	  <p><ol><li>R packages: <a href="https://www.rdocumentation.org/packages/rvest/versions/0.3.2" target="_blank">rvest</a> </li></ol> </p>
+  
+  <p><ul><li><a href="url"></a>PDF Scraping Tools</li></ul> </p>
+	  <p><ol><li>Services: <a href="https://www.pdftables.com/" target="_blank">pdftables.com</a>, <a href="https://www.cometdocs.com/" target="_blank">cometdocs.com</a></li></ol> </p>
+	  <p><ol><li>Downloadable software: <a href="http://tabula.technology/" target="_blank">Tabula</a> </li></ol> </p>
+	  <p><ol><li>Python libaries: <a href="http://euske.github.io/pdfminer/index.html" target="_blank">PDFminer</a></li></ol> </p>
+	  <p><ol><li>R packages: <a href="https://www.rdocumentation.org/packages/tabulizer/versions/0.1.24" target="_blank">Tabulizer</a> (a Tabula wrapper)</li></ol> </p>
+  
+  <p><ul><li><a href="http://openrefine.org/" target="_blank">Open Refine</a> (data cleaning software)</li></ul></p>
+</div>
+
+<div id="Tab4" class="tabcontent">
+ <!-- <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  <p><ul><li><a href="http://www.hhmi.org/biointeractive/spreadsheet-data-analysis-tutorials" target="_blank">Spreadsheet Data Analysis Tutorials</a> (HHMI BioInteractive)</li></ul> </p>
+  <p><ul><li><a href="https://www.kaggle.com/" target="_blank">Kaggle</a> (lots of data science learning resources)</li></ul> </p>
+</div>
+
+<div id="Tab5" class="tabcontent">
+  <!--<span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  <p><ul><li><a href="https://libguides.lib.msu.edu/c.php?g=96245&p=626236" target="_blank">How to Cite Data</a> (Michigan State University)</li></ul> </p>
+  <p><ul><li><a href="http://www.dcc.ac.uk/sites/default/files/documents/publications/reports/guides/How_to_Cite_Link.pdf" target="_blank">How to Cite Datasets and Link to Publications</a>  (Digital Curation Centre)</li></ul> </p>
+  <p><ul><li><a href="http://www.citethisforme.com/" target="_blank">Cite This For Me</a> (data citation generator)</li></ul> </p>
+  <p><ul><li><a href="https://creativecommons.org/" target="_blank">Creative Commons Licenses</a>, including <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY
+</a> and <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a></li></ul> </p>
+  <p><ul><li><a href="url"></a>Data publishing (and file sharing) tools</li></ul> </p>
+  
+	  <p><ol><li><a href="http://datahub.io/" target="_blank">Datahub.io</a></li></ol> </p>
+	  <p><ol><li><a href="https://dropbox.com/" target="_blank">Dropbox</a> and <a href="https://www.box.com/" target="_blank">Box</a> </li></ol> </p>
+	  <p><ol><li><a href="https://accounts.google.com/signin/v2/identifier?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F%3Fusp%3Ddirect_url&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F%3Fusp%3Ddirect_url&ltmpl=sheets&flowName=GlifWebSignIn&flowEntry=ServiceLogin" target="_blank">Google Sheets</a></li></ol> </p>
+	  <p><ol><li><a href="https://github.com/" target="_blank">Github</a></li></ol> </p>
+	  
+  <p><ul><li><a href="url"></a>Data visualization tools</li></ul> </p>
+	  <p><ol><li><a href="https://accounts.google.com/signin/v2/identifier?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F%3Fusp%3Ddirect_url&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F%3Fusp%3Ddirect_url&ltmpl=sheets&flowName=GlifWebSignIn&flowEntry=ServiceLogin" target="_blank">Google Sheets</a></li></ol> </p>
+	  <p><ol><li><a href="https://developers.google.com/chart/" target="_blank">Google Charts API</a> </li></ol> </p>
+	  <p><ol><li><a href="https://www.datawrapper.de/" target="_blank">Datawrapper</a></li></ol> </p>
+	  <p><ol><li><a href="https://public.tableau.com/s/" target="_blank">Tableau Public</a></li></ol> </p>
+	  <p><ol><li>Software tools: <a href="http://www.chartjs.org/" target="_blank">ChartJS</a>, <a href="https://d3js.org/" target="_blank">D3</a>, <a href="http://leafletjs.com/" target="_blank">Leaflet</a> (maps), and <a href="http://selection.datavisualization.ch/" target="_blank">many more</a></li></ol> </p>
+</div>
+
+<div id="Tab6" class="tabcontent">
+  <!--<span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  <p><ul><li><a href="https://www.tableau.com/asset/data-storytelling-using-visualization-share-human-impact-numbers?utm_campaign_id=2017049&utm_campaign=Prospecting-VISANLYT-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=data%20storytelling&adgroup=CTX-Data+Visualization-Data+Storytelling-E&adused=229112698725&matchtype=e&placement=&gclid=CjwKCAiA24PVBRBvEiwAyBxf-aYel2lemZ5KE7CWxz2R9Gpuwtcfv9xQ_EYSZbIeJ35oNC8gQMGt2RoCQwkQAvD_BwE&gclsrc=aw.ds&dclid=CNbTy4KV3dkCFeSjswodgkgCaQ" target="_blank">Storytelling with Data</a> (Tableau)</li></ul> </p>
+  <p><ul><li><a href="https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/&refURL=&referrer=#57ce515652ad" target="_blank">Data Storytelling: the Essential Data Science Skill Everyone Needs</a> (Forbes)</li></ul> </p>
+  <p><ul><li><a href="https://datavizcatalogue.com/" target="_blank">Data Visualization Catalogue</a></li></ul> </p>
+  <p><ul><li><a href="https://www.youtube.com/watch?v=jbkSRLYSojo" target="_blank">200 Countries, 200 Years, 4 Minutes</a> (Hans Rosling video, BBC)</li></ul> </p>
+  <p><ul><li><a href="" target="_blank"></a>Data Journalism resources</li></ul> </p>
+  
+  <p><ol><li><a href="https://datajournalismhandbook.org/" target="_blank">Data Journalism Handbook</a></li></ol> </p>
+  <p><ol><li><a href="http://www.odecanet.org/data-journalism-manual/" target="_blank">Data Journalism Manual</a> (ODECA)</li></ol> </p>
+  <p><ol><li><a href="https://ksj.mit.edu/data-journalism-tools/" target="_blank">Data Journalism Tools</a> (Knight Science Journalism, MIT)</li></ol> </p>
+  <p><ol><li><a href="https://learno.net/courses/doing-journalism-with-data-first-steps-skills-and-tools" target="_blank">Doing Journalism With Data: First Steps, Skills and Tools</a></li></ol> </p>
+  <p><ol><li><a href="https://hackshackers.com/" target="_blank">Hacks/Hackers</a></li></ol> </p>
+  
+</div>
+
+<div id="Tab7" class="tabcontent">
+ <!-- <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  <p><ul><li><a href="http://opendatatoolkit.worldbank.org/en/odra.html#other-resources" target="_blank">Open Data for Business Tool</a> (Open Data Toolkit, World Bank)</li></ul> </p>
+  <p><ul><li><a href="http://opendatahandbook.org/solutions/en/Open-Data-Business-Models/" target="_blank">Open Data Business Models and Value Disciplines</a> (Open Data Handbook)</li></ul> </p>
+  <p><ul><li><a href="http://opendataimpactmap.org/" target="_blank">Open Data Impact Map</a> (Center for Open Data Enterprise)</li></ul> </p>
+  <p><ul><li><a href="http://www.opendata500.com/" target="_blank">Open Data 500 Global Network</a> (GovLab)</li></ul> </p>
+  		    
+</div>
+
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+//document.getElementById("defaultOpen").click();
+</script>
+     
+</body>
+</html> 
