@@ -250,7 +250,7 @@ Three courses are currently available online:
    test to obtain a completion certificate from the online platform.
 
 2. [Open Data for Data Users][elearning-users] provides a broad
-   overview of Open Data from a user standpoint, and empower anyone to take full
+   overview of Open Data from a user standpoint, and empowers anyone to take full
    advantage of Open Data.  It is intended for anyone who wants to make better use
    of Open Data, including ordinary citizens, and assumes no prior knowledge of
    Open Data or technical skills.
