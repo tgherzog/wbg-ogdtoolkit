@@ -228,3 +228,47 @@ creates a foundation for dialog between public and private sectors.
 * [Machine Readability Project](http://opendataimpactmap.org/usecases.html#MachineReadabilityProject). Includes examples of open data use in low to lower-middle income countries that use machine-readable open data. These use cases were developed as part of the Open Data Impact Map.
 
 
+Open Data Online Learning {#elearning}
+=========================
+
+The World Bank has developed a series of e-learning courses to provide knowledge
+and skills to practitioners and users of open data. Each course in the series is
+designed for a distinct user segment, and provides deep technical skills, extensive
+examples and case studies, with an emphasis on open data in developing countries.
+
+Three courses are currently available online:
+
+1. [Open Data for Data Producers][elearning-producers] provides
+   a broad overview of Open Data principles and best practices from the
+   standpoint of a data producer, and empowers data managers and technical
+   staff with the background and skills to contribute to the Open Data
+   community. This course is primarily intended for managers and technical
+   staff involved in the production, management, and curation of data,
+   particularly within government ministries. It assumes no prior knowledge of
+   Open Data or specific technical skills.
+   Upon completion, users may take an online assessment
+   test to obtain a completion certificate from the online platform.
+
+2. [Open Data for Data Users][elearning-users] provides a broad
+   overview of Open Data from a user standpoint, and empower anyone to take full
+   advantage of Open Data.  It is intended for anyone who wants to make better use
+   of Open Data, including ordinary citizens, and assumes no prior knowledge of
+   Open Data or technical skills.
+   Upon completion, users may take an online assessment
+   test to obtain a completion certificate from the online platform.
+
+3. [Open Data for Policymakers][elearning-policymakers] provides a general
+   overview of Open Data principles and best practices for public policymakers,
+   with focus on the development and implementation of an Open Data program.
+   It primarily intended for public policymakers in governments that are considering
+   the establishment or expansion of an Open Data program, and assumes no prior knowledge
+   of Open Data or technical skills. This course is much shorter than the other two, and
+   provides no certificate option.
+
+Courses are also available in standalone versions for running in low-bandwidth settings (final
+assessments must still be taken online).
+
+[elearning-producers]:    https://olc.worldbank.org/content/open-data-data-producers-self-paced
+[elearning-users]:        https://olc.worldbank.org/content/open-data-data-users-self-paced
+[elearning-policymakers]: https://olc.worldbank.org/content/open-data-policymakers-self-paced
+
