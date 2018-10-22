@@ -38,6 +38,7 @@ not include any methodological changes.
 * **Serbia** (December, 2015): [Full Report](http://www.rs.undp.org/content/serbia/en/home/library/democratic_governance/open-data-readiness-assesment-)
 * **Kyrgyzstan** (February, 2016): [Full Report](http://www.kg.undp.org/content/kyrgyzstan/en/home/library/democratic_governance/odra) - English & Russian
 * **Mauritania** (August, 2016): [Full Report](../docs/odra/odra_mauritania.pdf) - French & English
+* **Paraguay** (September, 2017): [Full Report](http://documents.worldbank.org/curated/en/711141530859805700) - Spanish
 
 
 **[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
