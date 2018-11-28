@@ -27,9 +27,9 @@
   <meta name='description' content='{{ locale.description }}'/>
   <meta name='dcterms.description' content='{{ locale.description }}'/>
   <meta name='abstract' content='{{ locale.abstract }}'/>
-  <meta name='dcterms.date' content='2013-10-24T00:00:00Z' />
+  <meta name='dcterms.date' content='{{ site.time | date_to_xmlschema }}' />
   
-  <link rel='canonical' href='{{ site.base }}/{{ page.url }}'/>
+  <link rel='canonical' href='{{ site.base }}{{ page.url }}'/>
   <meta name='revisit-after' content='7 days'/>
 
   <!-- Favicons -->
@@ -38,6 +38,10 @@
   <!-- CSS -->
   <link href='/assets/styles.css' rel='stylesheet' type='text/css'/>
   <link href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css"/>
+
+  <!-- early Javascript -->
+  <script type="text/javascript" src="//assets.adobedtm.com/572ee9d70241b5c796ae15c773eaaee4365408ec/satelliteLib-efd6120a6f6ed94da49cf49e2ba626ac110c7e3c-staging.js"></script>
+  {% include en/parts/adobe-analytics.html %}
 </head>
 <body>
   <header id='header' name='header'>
@@ -99,5 +103,11 @@
   <script type="text/javascript" src="/assets/site.js"></script>
   <!-- Omniture -->
   {% include en/parts/omniture.html %}
+
+  <script type="text/javascript">
+  <!--
+  _satellite.pageBottom();
+  -->
+  </script>
 </body>
 </html>

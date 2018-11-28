@@ -1,5 +1,7 @@
 ---
 title: Caja de Herramientas de Datos Abiertos de Gobierno
+pageCategory: home
+contentType: Homepage
 ---
 
 ## Bienvenido a la herramienta de Datos Abiertos de Gobierno

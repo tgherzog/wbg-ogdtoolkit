@@ -1,5 +1,7 @@
 ---
 title: Guide pratique des données ouvertes
+pageCategory: home
+contentType: Homepage
 ---
 
 ## Bienvenue dans le Guide Pratique des Données Ouvertes ##

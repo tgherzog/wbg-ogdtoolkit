@@ -15,7 +15,7 @@ exclude:
 
 # site configuration
 multilingual: true
-base: http://opendatatoolkit.zognet.net
+base: http://opendatatoolkit.worldbank.org
 
 # default values
 defaults:
@@ -24,6 +24,8 @@ defaults:
     path: ""
   values:
     layout: default
+    pageCategory: "content page"
+    contentType: "Learning"
 -
   scope:
     path: "en"

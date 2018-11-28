@@ -1,0 +1,32 @@
+<script type="text/javascript">
+<!--
+  var wbgData = wbgData || {};
+
+  wbgData.page = {
+    pageInfo: {
+      pageName: '{{ page.locale }}:wb:ogdtoolkit:{{ page.url }}',
+      pageCategory: '{{ page.pageCategory }}',
+      contentType: '{{ page.contentType }}',
+      channel: 'DEC Open Government Data Toolkit EXT',
+      topicTag: 'data:opendata:statistics',
+      pageLastMod: '{{ site.time | date: "%m-%d-%Y" }}',
+    }
+  };
+
+  wbgData.site = {
+    siteInfo: {
+      siteLanguage: '{{ page.locale }}',
+      siteType: 'data',
+      siteEnv: 'prod',
+    },
+
+    techInfo: {
+      cmsType: 'jekyll',
+      bussVPUnit: 'dec',
+      bussUnit: 'decdg',
+      bussUserGroup: 'external',
+      bussAgency: 'ibrd',
+    }
+  };
+-->
+</script>

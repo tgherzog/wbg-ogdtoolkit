@@ -1,5 +1,7 @@
 ---
 title: Open Government Data Toolkit
+pageCategory: home
+contentType: Homepage
 ---
 
 ## Welcome to the Open Government Data Toolkit
