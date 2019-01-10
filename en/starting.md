@@ -274,10 +274,11 @@ Open Data Learning Resources {#learning}
 
 Books, handbooks, manuals, presentations and other training materials on the topic of Open Data:
 
-* [Open Data Learning Modules](http://data.worldbank.org/about/learning-modules/training-resources) (World Bank). Tutorials, exercises
-  and other materials that explore Open Data initiatives,
-  data.worldbank.org and microdata.worldbank.org; module topics include
-  resources for training, outreach, seminars, multimedia and data tools
+* [Open Data Online Learning](essentials.html#elearning) (World Bank).
+  The World Bank has developed a 3-course e-learning series to provide knowledge
+  and skills to practitioners and users of open data. Each course in the series is
+  designed for a distinct user segment, and provides deep technical skills, extensive
+  examples and case studies, with an emphasis on open data in developing countries
 
 * [Open Data at the World Bank](../docs/opendatatechnicaltrainingeap.pdf). PowerPoint presentation
   summarizing the World Bank's Open Data initiative; typically used as
