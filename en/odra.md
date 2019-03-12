@@ -39,7 +39,9 @@ not include any methodological changes.
 * **Kyrgyzstan** (February, 2016): [Full Report](http://www.kg.undp.org/content/kyrgyzstan/en/home/library/democratic_governance/odra) - English & Russian
 * **Mauritania** (August, 2016): [Full Report](../docs/odra/odra_mauritania.pdf) - French & English
 * **Malaysia** (May, 2017): [Full Report](http://documents.worldbank.org/curated/en/529011495523087262) - English
-* **Paraguay** (September, 2017): [Full Report](http://documents.worldbank.org/curated/en/711141530859805700) - Spanish
+* **Paraguay** (September, 2017):
+  [Spanish](http://documents.worldbank.org/curated/en/380011530861206491) |
+  [English](http://documents.worldbank.org/curated/en/711141530859805700)
 
 
 **[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
