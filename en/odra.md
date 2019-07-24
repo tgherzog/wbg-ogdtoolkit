@@ -42,6 +42,7 @@ not include any methodological changes.
 * **Paraguay** (September, 2017):
   [Spanish](http://documents.worldbank.org/curated/en/380011530861206491) |
   [English](http://documents.worldbank.org/curated/en/711141530859805700)
+* **Vietnam** (January, 2019): [Full Report](http://documents.worldbank.org/curated/en/311651553511049630)
 
 
 **[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
