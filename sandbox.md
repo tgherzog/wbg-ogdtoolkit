@@ -4,9 +4,6 @@ title: Sandbox page
 
 This page is a sandbox for testing and practice.
 
-Here is a minor change, and an addition.
-
-
 ![Citizens in Nigeria participate in a readiness assessment exercise to identify high priority datasets](../docs/images/odra.jpg)
 {: .aside :}
 
