@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=11,chrome=1" />
+<style>
+body {font-family: Arial;width: 650px; height: 1024px;
+
+margin: calc(0.5 * (46.5px)) auto;
+background-position-x: center;
+background-repeat: no-repeat;
+}
+
+@font-face {
+   font-family: HelvFont;
+   src: url(./assets/HelveticaNeueLTStd-Cn.otf);
+}
+
+#tab-6 {
+
+    /* padding: 5px;*/
+
+}
+
+
+#i-text {
+    top: 117px;
+    margin-top: 165px;
+    margin-left: -115px;
+	color: #00a8ff;
+}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    /*border: 2px solid #ccc;
+    background-color: #f1f1f1;*/
+		width: 1014px;
+		
+		margin-left: -150px;
+		margin-top: 30px;
+		
+}
+#tab-1, #tab-4, #tab-7{
+background-color: #00A997;
+
+}
+#tab-1.active, #tab-2.active, #tab-3.active, #tab-4.active, #tab-5.active, #tab-6.active, #tab-7.active {
+    background-color: #D9D9D9;
+	color: #000000;
+}
+#tab-2, #tab-5{
+background-color: #009CA8;
+}
+#tab-3, #tab-6{
+background-color: #006168;
+}
+/* Style the buttons inside the tab */
+.tab button {
+    /*background-color: inherit;*/
+   
+    border: 0.5px solid #D9D9D9;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 12px;
+    transition: 0.3s;
+    font-size: 16px;
+	/*font-family: HelvFont;
+	font-family:HelveticaNeueLT Std Extended;*/
+	font-family: Arial Narrow;
+	color: #ffffff;
+		
+		width: 311px;
+height: 173px;
+margin-left: 2px;
+		
+	
+		
+}
+
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    /*border: 1px solid #ccc;*/
+    border-top: none;
+	
+		width: 921px;
+		margin-left: -148px;
+		background-color: #D9D9D9;
+		height: 420px;
+		overflow-y: Auto;
+}
+
+/* Style the close button */
+.topright {
+    float: right;
+    cursor: pointer;
+    font-size: 28px;
+}
+
+.topright:hover {color: red;}
+
+ul {
+    list-style: square inside url("./assets/Arrow01.png");
+	font-size:15px;
+}
+
+ol {
+    list-style: square inside url("./assets/Arrow02.png");
+	margin-left:30px;
+	font-size:15px;
+}
+
+
+</style>
+</head>
+<body background="./assets/RESOURCES_course03_BG.jpg">
+
+<div id="i-text">Seleccione cada pestaña para más información.</div>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Tab1')" id="tab-1"><font size="5"></font><br><br> INFORMACIÓN GENERAL SOBRE LOS DATOS ABIERTOS<br><br></button>
+  <button class="tablinks" onclick="openCity(event, 'Tab2')" id="tab-2"><font size="5">LECCIÓN 1:</font><br><br>INTRODUCCIÓN A LOS <br>DATOS ABIERTOS<br><br></button>
+  <button class="tablinks" onclick="openCity(event, 'Tab3')" id="tab-3"><font size="5">LECCIÓN 2:</font><br><br> PONIENDO LOS DATOS ABIERTOS EN PRÁCTICA<br><br></button>
+  
+</div>
+
+<div id="Tab1" class="tabcontent">
+ <!-- <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  <p><ul><li><a href="http://opendatatoolkit.worldbank.org/es/odra.html" target="_blank">Caja de Herramientas de los Datos Abiertos</a> (Banco Mundial)</li></ul> </p>
+  <p><ul><li><a href="http://opendatahandbook.org/" target="_blank">Manual de Datos Abiertos (i)</a> (Open Knowledge)</li></ul> </p>
+  <p><ul><li><a href="https://project-open-data.cio.gov/" target="_blank">Proyecto Datos Abiertos (i)</a> (Gobierno de Estados Unidos)</li></ul> </p>
+</div>
+
+<div id="Tab2" class="tabcontent">
+  <!--<span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  <p><ul><li><a href="http://opendefinition.org/od/2.1/es/" target="_blank">Definición Abierta</a> (Open Knowledge)</li></ul> </p>
+  <p><ul><li><a href="http://opendatahandbook.org/guide/es/appendices/file-formats/" target="_blank">Formato de Archivos para Datos Abiertos</a></li></ul></p>
+  <p><ul><li><a href="https://5stardata.info/es/" target="_blank">Esquema cinco estrellas de Datos Abiertos</a></li></ul> </p>
+  <p><ul><li><a href="url"></a>Evaluaciones y marcos de referencia de Datos Abiertos</li></ul> </p>
+	  <p><ol><li><a href="https://opendatabarometer.org/?_year=2017&indicator=ODB" target="_blank">Barómetro de Datos Abiertos </a> (WWW Foundation)</li></ol> </p>
+	  <p><ol><li><a href="http://global.survey.okfn.org/" target="_blank">Índice de Datos Abiertos global (i)</a> (Open Knowledge)</li></ol> </p>
+	  <p><ol><li><a href="https://opendatawatch.com/monitoring-reporting/open-data-inventory/" target="_blank">Inventario de Datos Abiertos (i)</a> (Open Data Watch)</li></ol> </p>
+  <p><ul><li><a href="http://opendatatoolkit.worldbank.org/es/essentials.html" target="_blank">Ejemplos y usos de Datos Abiertos</a> (Caja de Herramientas de Datos Abiertos, Banco Mundial)</li></ul> </p>
+  <p><ul><li><a href="https://sunlightfoundation.com/policy/opendatafaq/#terms-of-use" target="_blank">Preguntas más comunes sobre la implementación de Datos Abiertos (i)</a> (Sunlight Foundation)</li></ul> </p>
+</div>
+
+<div id="Tab3" class="tabcontent">
+  <!--<span onclick="this.parentElement.style.display='none'" class="topright">&times</span>-->
+  
+  <p><ul><li><a href="http://www.opendata500.com/" target="_blank">Open Data 500 Global Network (i)</a> (GovLab/NYU)</li></ul></p>
+  <p><ul><li><a href="http://opendataimpactmap.org/" target="_blank">Mapa de Impacto de Datos Abiertos (i)</a> (Center for Open Data Enterprise)</li></ul></p>
+  <p><ul><li><a href="http://opendatatoolkit.worldbank.org/es/odra.html" target="_blank">Herramienta de evaluación del grado de preparación, ODRA</a> (Banco Mundial)</li></ul></p>
+  <p><ul><li><a href="url"></a>Enlaces a la comunidad global de Datos Abiertos</li></ul> </p>
+	  
+	  <p><ol><li><a href="https://codeforafrica.org/" target="_blank">Code for Africa (i)</a></li></ol> </p>
+	  <p><ol><li><a href="https://www.omidyar.com/" target="_blank">Omidyar Network (i)</a></li></ol> </p>
+	  <p><ol><li><a href="https://opendatacharter.net/" target="_blank">Carta Internacional de los Datos Abiertos (i)</a></li></ol> </p>
+	  <p><ol><li><a href="https://www.od4d.net/" target="_blank">Open Data for Development Network (i)</a> (OD4D)</li></ol> </p>
+	  <p><ol><li><a href="https://theodi.org/" target="_blank">Open Data Institute (i)</a></li></ol> </p>
+	  <p><ol><li><a href="https://www.opengovpartnership.org/es/" target="_blank">Alianza para el Gobierno Abierto</a></li></ol> </p>
+	  <p><ol><li><a href="https://okfn.org/" target="_blank">Open Knowledge (i)</a></li></ol> </p>
+	  <p><ol><li><a href="https://webfoundation.org/" target="_blank">Web Foundation</a></li></ol> </p>
+</div>
+
+
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+//document.getElementById("defaultOpen").click();
+</script>
+     
+</body>
+</html> 
