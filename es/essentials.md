@@ -244,7 +244,45 @@ el uso de los Datos Abiertos para fines específicos.
 
 * [Proyecto de Legibilidad por Maquinas][mr-project] (Machine Readability). Incluye ejemplos de usos de Datos Abiertos
   legibles por maquinas en países de ingresos medios y bajos. Estos casos se recopilaron como parte
-  del proyecto Mapa de Impacto de Datos Abiertos. 
+  del proyecto Mapa de Impacto de Datos Abiertos.
+
+
+Aprendizaje en Línea de Datos Abiertos {#elearning}
+======================================
+
+El Banco Mundial ha desarrollado una serie de cursos de aprendizaje electrónico para proporcionar
+conocimientos y habilidades a los profesionales y usuarios de Datos Abiertos. Cada curso de la serie
+está diseñado para un segmento de usuarios distinto y proporciona habilidades técnicas profundas,
+ejemplos extensos y estudios de casos, con énfasis en Datos Abiertos en países en desarrollo.
+Actualmente hay tres cursos disponibles en línea en [inglés](/en/essentials.html#elearning)
+y en [español](#elearning):
+
+1. [Datos Abiertos Para Productores de Datos][elearning-producers] proporciona una amplia descripción de los principios y
+   las mejores prácticas de Datos Abiertos desde el punto de vista de un productor de datos, y capacita
+   a los administradores de datos y al personal técnico con la experiencia y las habilidades para
+   contribuir a la comunidad de Datos Abiertos. Este curso está dirigido principalmente a gerentes y
+   personal técnico involucrados en la producción, administración y conservación de datos,
+   particularmente dentro de los ministerios gubernamentales. No asume ningún conocimiento previo de
+   Datos Abiertos o habilidades técnicas específicas. Al finalizar, los usuarios pueden realizar una
+   prueba de evaluación en línea para obtener un certificado de finalización de la plataforma en línea.
+
+2. [Datos Abiertos Para Usuarios de Datos][elearning-users] proporciona una amplia descripción general de los Datos
+   Abiertos desde el punto de vista del usuario y permite a cualquier persona aprovechar al máximo los
+   Datos Abiertos. Está dirigido a cualquier persona que quiera hacer un mejor uso de los Datos
+   Abiertos, incluidos los ciudadanos comunes, y no asume ningún conocimiento previo de Datos Abiertos
+   o habilidades técnicas. Al finalizar, los usuarios pueden realizar una prueba de evaluación en línea
+   para obtener un certificado de finalización de la plataforma en línea.
+
+3. [Datos Abiertos Para Encargados de Formular Políticas][elearning-policymakers] proporciona una descripción general de los
+   principios y mejores prácticas de Datos Abiertos para los formuladores de políticas públicas, con
+   especial atención al desarrollo y la implementación de un programa de Datos Abiertos. Está destinado
+   principalmente a los responsables de la formulación de políticas públicas en los gobiernos que están
+   considerando el establecimiento o la expansión de un programa de Datos Abiertos y no asume ningún
+   conocimiento previo de Datos Abiertos o habilidades técnicas. Este curso es mucho más corto que los
+   otros dos y no ofrece ninguna opción de certificado.
+
+Los cursos también están disponibles en versiones independientes para ejecutarse en configuraciones
+de ancho de banda bajo (las evaluaciones finales aún deben tomarse en línea).
 
 
 [1]: http://opendefinition.org
@@ -325,3 +363,9 @@ el uso de los Datos Abiertos para fines específicos.
 [76]: http://dataviva.info/
 
 [mr-project]: http://opendataimpactmap.org/usecases.html#MachineReadabilityProject
+
+
+[elearning-producers]:    https://olc.worldbank.org/content/datos-abiertos-para-productores-de-datos
+[elearning-users]:        https://olc.worldbank.org/content/datos-abiertos-para-usuarios-de-datos
+[elearning-policymakers]: https://olc.worldbank.org/content/datos-abiertos-para-encargados-de-formular-pol%C3%ADticas
+

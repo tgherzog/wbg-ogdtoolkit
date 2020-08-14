@@ -236,7 +236,8 @@ and skills to practitioners and users of open data. Each course in the series is
 designed for a distinct user segment, and provides deep technical skills, extensive
 examples and case studies, with an emphasis on open data in developing countries.
 
-Three courses are currently available online:
+Three courses are currently available online in [english](/en/essentials.html#elearning) and
+[spanish](/es/essentials.html#elearning):
 
 1. [Open Data for Data Producers][elearning-producers] provides
    a broad overview of Open Data principles and best practices from the
@@ -260,7 +261,7 @@ Three courses are currently available online:
 3. [Open Data for Policymakers][elearning-policymakers] provides a general
    overview of Open Data principles and best practices for public policymakers,
    with focus on the development and implementation of an Open Data program.
-   It primarily intended for public policymakers in governments that are considering
+   It is primarily intended for public policymakers in governments that are considering
    the establishment or expansion of an Open Data program, and assumes no prior knowledge
    of Open Data or technical skills. This course is much shorter than the other two, and
    provides no certificate option.
