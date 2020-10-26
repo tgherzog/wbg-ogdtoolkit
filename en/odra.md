@@ -30,6 +30,7 @@ not include any methodological changes.
 * **Peru** (June/July, 2013): [Full Report](../docs/odra/odra-peru-final.pdf) - Spanish only
 * **Mexico** (September/October, 2013): [Full Report](../docs/odra/odra_mexico_complete.pdf) - Spanish \| [Executive Summary](./docs/odra/odra_mexico_execsummary.pdf) - English
 * **Dominican Republic** (April/May, 2014): [Full Report](../docs/odra/odra_republica_dominicana.pdf) - Spanish only
+* **Bangladesh** (April, 2020): [Full Report](https://documents.worldbank.org/curated/en/274541588741142529)
 * **Burkina Faso** (June, 2014): [Full Report](../docs/odra/odra-burkina-faso-final-fr.pdf) - French (Executive Summary & Action Plan also in English)
 * **Kazakhstan** (2014, self assessment): [Russian](../docs/odra/odra_kazakhstan-ru.docx) \| [English](../docs/odra/odra_kazakhstan-en.docx)
 * **Uganda** (June, 2015): [Full Report](../docs/odra/odra_uganda.pdf) \| [Report Annexes](../docs/odra/odra_uganda_annexes.pdf)
