@@ -30,7 +30,6 @@ not include any methodological changes.
 * **Peru** (June/July, 2013): [Full Report](../docs/odra/odra-peru-final.pdf) - Spanish only
 * **Mexico** (September/October, 2013): [Full Report](../docs/odra/odra_mexico_complete.pdf) - Spanish \| [Executive Summary](./docs/odra/odra_mexico_execsummary.pdf) - English
 * **Dominican Republic** (April/May, 2014): [Full Report](../docs/odra/odra_republica_dominicana.pdf) - Spanish only
-* **Bangladesh** (April, 2020): [Full Report](https://documents.worldbank.org/curated/en/274541588741142529)
 * **Burkina Faso** (June, 2014): [Full Report](../docs/odra/odra-burkina-faso-final-fr.pdf) - French (Executive Summary & Action Plan also in English)
 * **Kazakhstan** (2014, self assessment): [Russian](../docs/odra/odra_kazakhstan-ru.docx) \| [English](../docs/odra/odra_kazakhstan-en.docx)
 * **Uganda** (June, 2015): [Full Report](../docs/odra/odra_uganda.pdf) \| [Report Annexes](../docs/odra/odra_uganda_annexes.pdf)
@@ -43,8 +42,9 @@ not include any methodological changes.
 * **Paraguay** (September, 2017):
   [Spanish](http://documents.worldbank.org/curated/en/380011530861206491) |
   [English](http://documents.worldbank.org/curated/en/711141530859805700)
+* **Honduras** (September, 2017): [Full Report](../docs/odra/odra_honduras-es.pdf) - Spanish only
 * **Vietnam** (January, 2019): [Full Report](http://documents.worldbank.org/curated/en/311651553511049630)
-
+* **Bangladesh** (April, 2020): [Full Report](https://documents.worldbank.org/curated/en/274541588741142529)
 
 **[Request the World Bank to perform a readiness assessment](mailto:opengovdata@worldbank.org)**
 {: .center .space-before .space-after :}
